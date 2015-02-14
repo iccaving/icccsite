@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://union.ic.ac.uk/rcc/caving'
+SITEURL = 'https://union.ic.ac.uk/rcc/caving/newzealand'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'

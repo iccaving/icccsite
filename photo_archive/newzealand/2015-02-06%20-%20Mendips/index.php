@@ -1,23 +1,18 @@
 <!DOCTYPE html>
-<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}">
+<html lang="en">
 <head>
-  <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+  <title>Imperial College Caving Club</title>
   <!-- Using the latest rendering mode for IE -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  {% if FAVICON %}
-    <link href="{{ SITEURL }}/{{ FAVICON }}" rel="icon">
-  {% endif %}
 
-  {% block meta %}
-    <meta name="author" content="{{ AUTHOR }}" />
-  {% endblock %}
+    <meta name="author" content="Stores Gnomes" />
 
-  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css" type="text/css"/>
+  <link rel="stylesheet" href="https://union.ic.ac.uk/rcc/caving/newzealand/theme/css/main.css" type="text/css"/>
 
-  <script src="{{ SITEURL }}/theme/js/jquery.js"></script>
+  <script src="https://union.ic.ac.uk/rcc/caving/newzealand/theme/js/jquery.js"></script>
 
   <!-- http://detectmobilebrowsers.com/ -->
   <!-- script to detect mobile browsers and use mobile stylesheet-->
@@ -26,7 +21,7 @@
   </script>
   <script>
     if (jQuery.browser.mobile) {
-      $("link").attr("href","{{ SITEURL }}/theme/css/mobile.css");
+      $("link").attr("href","https://union.ic.ac.uk/rcc/caving/newzealand/theme/css/mobile.css");
     }
   </script>
   <script>
@@ -44,32 +39,80 @@
       });
   });
   </script>
-
-  {% block head %}
-  {% endblock %}
-
 </head>
 <body>
 
   <div class="banner">
     <div class="logo"></div>
     <div class="banner-title">
-      {% block banner %}
-      {% endblock %}
     </div>
   </div>
 
   <div style="clear: both;"></div>
 
   <div class="left-col">
-    {% include 'includes/sidebar.html' %}
-  </div>
+<div class="sidebar">
+      <hr class="hrsidebartop">
+
+      <div class="sidebar-content-box">
+        <div class="sidebar-item"><a href="https://union.ic.ac.uk/rcc/caving/newzealand/">Home</a></div>
+        <div class="sidebar-item"><a href="https://union.ic.ac.uk/rcc/caving/newzealand/pages/introduction.html">Introduction</a></div>
+        <div class="sidebar-item"><a href="https://union.ic.ac.uk/rcc/caving/newzealand/pages/team.html">Team</a></div>
+        <div class="sidebar-item"><a href="https://union.ic.ac.uk/rcc/caving/newzealand/pages/itinerary.html">Itinerary</a></div>
+      </div>
+
+      <hr class="hrsidebar">
+
+      <div class="sidebar-content-box">
+        <div class="sidebar-item" data-idouter="posts-outer" data-idinner="posts-inner"><a>Trips and Posts</a></div>
+        <div class="sidebar-outer collapsed" id="posts-outer">
+          <div class="sidebar-inner" id="posts-inner">
+                <div class="sidebar-sub-item"><a href="https://union.ic.ac.uk/rcc/caving/newzealand/articles/mendips.html">Mendips</a></div>
+          </div>
+        </div>
+      </div>
+
+      <hr class="hrsidebar">
+
+      <div class="sidebar-content-box">
+        <div class="sidebar-item"><a >Photos</a></div>
+      </div>
+
+      <script>
+      $(function() {
+        $('div.sidebar-item, div.sidebar-sub-item').click(function(){
+          var outer = $(this).data("idouter");
+          var inner = $(this).data("idinner");
+          var outerelement = $('#' + outer);
+          var innerelement = $('#' + inner);
+          if (outerelement.hasClass('collapsed')) {
+            outerelement.css({ 'max-height': innerelement.outerHeight() + 'px' });
+            var height = innerelement.outerHeight();
+          } else {
+            outerelement.css({ 'max-height': '0px' });
+          }
+          outerelement.toggleClass('collapsed');
+
+          if ($(this).data("upidouter") != null && $(this).data("upidinner")) {
+            var outer = $(this).data("upidouter");
+            var inner = $(this).data("upidinner");
+            var outerelement = $('#' + outer);
+            var innerelement = $('#' + inner);
+            if (!outerelement.hasClass('collapsed')) {
+              var newheight = parseInt(outerelement.css('max-height'), 10) + height;
+              outerelement.css({ 'max-height': newheight + 'px' });
+            }
+          }
+
+        });
+      });
+      </script>
+
+</div>  </div>
 
   <div style="clear: both;"></div>
 
     <div class="center-col">
-          {% block content %}
-          {% endblock %}
     </div>
 
     <div class="right-col">

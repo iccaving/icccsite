@@ -2,10 +2,10 @@ Title: Mendips
 Date: 2015-01-06
 Location: Mendips
 Summary: The first NZ expo specific trip! A fantastic first aid training weekend complete with in-cave simulations in Goatschurch and a tourist trip to XXXX on Sunday.
-Photoarchive: photo_archive/newzealand/2015-02-06%20-%20Mendips
+Photoarchive: ../photo_archive/newzealand/2015-02-06%20-%20Mendips
 Mainimg: RhysTyers_DSC_0738.JPG
-Thumbl: CeciliaKan_P2080715.JPG
-Thumbr: RhysTyers_DSC_0784.JPG
+Thumbl: CeciliaKan_P2080715--thumb.JPG
+Thumbr: RhysTyers_DSC_0784--thumb.JPG
 
 <!---
 Title: Title of the trip, i.e Wales III or Yorkshire IV or France
