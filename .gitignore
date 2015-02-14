@@ -1,0 +1,8 @@
+#ignore gnerated site
+/output/
+
+#ignore any photos
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
