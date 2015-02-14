@@ -19,6 +19,9 @@ def isarchive(generator):
 
 def archivemaker(generator, writer):
     template = generator.get_template('photoindex')
+    filename = "photo_archive/index.php"
+    writer.write_file(filename, template, generator.context)
+    print "Generic photo archive page generated"
     for article in generator.articles:
         if 'archiveloc' in article.metadata.keys():
             print "Photoarchive: creating photoarchive directory and index file for " + article.title

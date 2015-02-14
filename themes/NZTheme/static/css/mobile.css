@@ -67,7 +67,7 @@ H3 {
 /* Text and link properties */
 
 a {
-  color: #B90504;
+  color: #A6373F;
   text-decoration: underline;
 }
 
@@ -323,7 +323,7 @@ a.footer-button:visited: {
 }
 
 .mainimg img {
-  width: 780px;
+  width: 100%;
 }
 
 
@@ -348,4 +348,49 @@ hr.hrsidebartop {
   border-top: 1px solid #E8E8E8;
   border-bottom: 0px solid transparent;
   margin-top: 0px;
+}
+
+
+/* Photo page stuff */
+.currlink, .prevlink, .nextlink {
+  font-family: Roboto-Medium, Helvetica, Arial, sans-serif;
+  color: #A6373F;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  width: 33%;
+}
+
+.link-container {
+  display: table;
+  width: 100%;
+}
+
+.maindisplay {
+  max-width: 100%;
+  max-height: 600px;
+}
+
+.image-wrapper {
+  max-height: 600px;
+  display: table;
+  width: 100%;
+}
+.image-cell {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.thumb_box {
+  overflow-x: hidden;
+  bottom: 5px;
+}
+.select-thumbnail {
+  border: 5px solid #A6373F;
+  max: 100px;
+}
+.thumbnail {
+  border: 0px solid transparent;
+  max: 100px;
 }
