@@ -6,7 +6,7 @@ def isarchive(generator):
         print "Photoarchive: checking article " + article.title
         if 'photoarchive' in article.metadata.keys():
             if article.photoarchive == '':
-                archive_loc = generator.settings['SITEURL'] + 'photo_archive/'
+                archive_loc = 'photo_archive/'
                 if 'triportour' in article.metadata.keys():
                     archive_loc += article.triportour + '/'
                 if 'location' in article.metadata.keys() and 'date' in article.metadata.keys():
@@ -14,8 +14,8 @@ def isarchive(generator):
                 article.metadata['archiveloc'] = archive_loc
                 article.archiveloc = archive_loc
             else:
-                article.metadata['archiveloc'] = generator.settings['SITEURL'] + article.photoarchive + '/'
-                article.archiveloc = generator.settings['SITEURL'] + article.photoarchive + '/'
+                article.metadata['archiveloc'] = article.photoarchive + '/'
+                article.archiveloc = article.photoarchive + '/'
 
 def archivemaker(generator, writer):
     template = generator.get_template('photoindex')

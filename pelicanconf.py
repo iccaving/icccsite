@@ -44,5 +44,5 @@ PLUGINS = ['photoarchive']
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-ARTICLE_URL = '{slug}.html'
-ARTICLE_SAVE_AS = '{slug}.html'
+ARTICLE_URL = 'articles/{slug}.html'
+ARTICLE_SAVE_AS = 'articles/{slug}.html'
