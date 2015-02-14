@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock %}">
+<head>
+  <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+  <!-- Using the latest rendering mode for IE -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  {% if FAVICON %}
+    <link href="{{ SITEURL }}/{{ FAVICON }}" rel="icon">
+  {% endif %}
+
+  {% block meta %}
+    <meta name="author" content="{{ AUTHOR }}" />
+  {% endblock %}
+
+  <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css" type="text/css"/>
+
+  <script src="{{ SITEURL }}/theme/js/jquery.js"></script>
+
+</head>
+<body>
+
+  <div class="banner">
+    <div class="logo"></div>
+    <div class="banner-title">
+      {% block banner %}
+      {% endblock %}
+    </div>
+  </div>
+
+  <div style="clear: both;"></div>
+
+  <div class="left-col">
+    {% include 'includes/sidebar.html' %}
+  </div>
+
+  <div style="clear: both;"></div>
+
+    <div class="center-col">
+          {% block content %}
+          {% endblock %}
+    </div>
+
+    <div class="right-col">
+      <p> right </p>
+    </div>
+
+</body>
+</html>
