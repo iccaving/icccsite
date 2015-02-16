@@ -45,9 +45,6 @@ Imperial College Caving Club
                 </div>
                 {% endif %}
               {% endif %}
-              <div class="content-summary">
-              {{ article.summary }}
-              </div>
               {% if article.thumbr is defined %}
                 {% if article.thumbr != '' %}
                 <div class="index-thumbr">
@@ -55,6 +52,9 @@ Imperial College Caving Club
                 </div>
                 {% endif %}
               {% endif %}
+              <div class="content-summary">
+              {{ article.summary }}
+              </div>
           </div>
           <div class="content-footer">
             <div class="content-footer-left">
@@ -62,9 +62,7 @@ Imperial College Caving Club
             </div>
             <div class="content-footer-right">
               {% if article.archiveloc is defined %}
-                <div class="mainimg">
                   <a class="footer-button" href="{{ SITEURL }}/{{ article.archiveloc }}index.php">Photos</a>
-                </div>
               {% endif %}
             </div>
           </div>

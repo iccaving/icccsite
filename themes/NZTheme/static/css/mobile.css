@@ -25,7 +25,17 @@
   font-family: 'Roboto-Thin'; /*a name to be used later*/
   src: url('../fonts/Roboto-Thin.ttf'); /*URL to font*/
 }
+/*
+Colour Dictionary:
+#AA3939: Light Red (Highlighting, Some links)
+#801515: Darker Red (Visited Links)
 
+#143B46: Dark Turquoise (Background Colour for Banner/Sidebar/Headers)
+#407F7F; Light Turquoise (Highlight colour for Banner/Sidebar/Headers/text)
+#5DACC2: Light Blue (Body Background)
+
+#E8E8E8: Off White (Backgrounds/ Large Text on dark backgrounds)
+*/
 
 /* Global Page Properties */
 body,html{
@@ -44,35 +54,39 @@ body {
   font-size: 16px;
   margin: 0px;
 }
-/* Heading Properties */
 
-H1 {
+/* Global Text and link properties */
+
+h1 {
   font-family: Roboto-Bold, Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
   text-align: right;
   color:	#000000; }
 
-H2 {
+h1 {
     font-size: 1.125rem;
     font-weight: bold;
     color: #000000;
     }
 
-H3 {
+h1 {
     font-size: 1rem;
     font-weight: bold;
     color: #000000;
       }
 
-/* Text and link properties */
-
 a {
-  color: #A6373F;
+  color: #AA3939;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #333333
+  color: #801515
+}
+
+/* Useful Tags */
+.nodisplay {
+  display: none;
 }
 
 /* Column Layout */
@@ -131,7 +145,9 @@ a:visited {
   margin-bottom: 20px;
 }
 
-
+.nodisplay {
+  display: none;
+}
 
 /*Sidebar properties*/.
 
@@ -140,10 +156,6 @@ a:visited {
   float: left;
   width: 100%;
  }
-
-.nodisplay {
-  display: none;
-}
 
 .sidebar-content-box {
   font-family: Roboto-Medium, Helvetica, Arial, sans-serif;
@@ -209,35 +221,8 @@ a:visited {
           transition: max-height .5s ease;
   overflow: hidden;
 }
+
 /* Index Content properties */
-
-.content {
-  width: 100%;
-  padding: 10px 10px 0px 10px;
-}
-.content p{
-  margin: 0px 0px 0px 0px;
-}
-
-.content-summary {
-  padding: 0px 10px;
-  vertical-align: top;
-}
-
-.index-thumbl {
-  text-align: center;
-}
-
-.index-thumbl img {
-}
-
-.index-thumbr {
-  text-align: center;
-}
-
-.index-thumbr img {
-}
-
 .content-box {
   margin: 0px 0px 20px 0px;
   width: 100%;
@@ -276,9 +261,25 @@ a:visited {
   font-family: Roboto-Medium, Helvetica, Arial, sans-serif;
 }
 
-.content-header-left, .content-header-right, {
-  margin: 5px 0px 0px 0px;
-  }
+.content {
+  padding: 10px 10px 0px 10px;
+}
+.content p{
+  margin: 0px 0px 0px 0px;
+}
+
+.content-summary {
+  padding: 0px 10px;
+  vertical-align: top;
+}
+
+.index-thumbl {
+  display: none;
+}
+
+.index-thumbr {
+  display: none;
+}
 
 .content-footer {
   width: 100%;
@@ -306,19 +307,19 @@ a:visited {
 a.footer-button {
   padding: 5px 5px 5px 5px;
   font-family: Roboto-Medium, Helvetica, Arial, sans-serif;
-  color: #A6373F;
+  color: #AA3939;
   text-decoration: none;
 }
 
-a.footer-button:visited: {
-  color: #333333
+a.footer-button:visited {
+  color: #801515
 }
 
 /*Article and Page Content Styling */
 .article-content {
   border-radius: 2px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
-  background-color: #F6F6F6;
+  background-color: #E8E8E8;
   padding: 10px 10px 10px 10px;
 }
 
@@ -354,14 +355,19 @@ hr.hrsidebartop {
 /* Photo page stuff */
 .currlink, .prevlink, .nextlink {
   font-family: Roboto-Medium, Helvetica, Arial, sans-serif;
-  color: #A6373F;
   display: table-cell;
   text-align: center;
   vertical-align: middle;
   width: 33%;
 }
 
+.currlink a, .prevlink a, .nextlink a {
+  color: #E8E8E8;
+}
+
 .link-container {
+  background-color: #143B46;
+  height: 40px;
   display: table;
   width: 100%;
 }
@@ -372,20 +378,48 @@ hr.hrsidebartop {
 }
 
 .image-wrapper {
-  max-height: 600px;
-  display: table;
   width: 100%;
 }
+
 .image-cell {
-  display: table-cell;
   text-align: center;
-  vertical-align: middle;
 }
 
 .thumb_box {
+  height: 150px;
   overflow-x: hidden;
+  overflow-y: scroll;
   bottom: 5px;
 }
+
+.expand-thumb-box {
+  height: 100%;
+  overflow-y: hidden;
+}
+
+.thumb-toggle {
+  width: 80px;
+  padding: 2px;
+  border-radius: 2px;
+  background-color: #143B46;
+  color: #E8E8E8;
+  margin: 2px auto 2px auto;
+  text-align: center;
+
+  transition: box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  transition-delay: 0.2s;
+  -moz-box-shadow:    inset 0 0 0px #000000;
+  -webkit-box-shadow: inset 0 0 0px #000000;
+  box-shadow:         inset 0 0 0px #000000;
+}
+
+.thumb-toggle:active {
+  -moz-box-shadow:    inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow:         inset 0 0 10px #000000;
+  transition-delay: 0s;
+}
+
 .select-thumbnail {
   border: 5px solid #A6373F;
   max: 100px;

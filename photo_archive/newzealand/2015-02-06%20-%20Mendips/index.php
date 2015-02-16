@@ -41,6 +41,16 @@
   </script>
 
 
+<script>
+$(function() {
+  $('div.thumb-toggle').click(function(){
+        $('div.thumb_box').toggleClass('expand-thumb-box');
+        $('div.thumb-toggle').toggleClass('nodisplay');
+    });
+});
+</script>
+
+
 </head>
 <body>
 
@@ -117,7 +127,6 @@ Photos    </div>
     <div class="center-col">
 
 <div class="container">
-<div class="article-content">
 
 <?php
 
@@ -138,24 +147,6 @@ foreach (scandir('.') as $file)
 $search = $_GET["image"];
 $imagekey = array_search($search, $files);
 
-echo '<div class="image-wrapper"><div class="image-cell">';
-if ($files[$imagekey] != null)
-  {
-  if ( $files[$imagekey+1] != null)
-  {
-    echo '<a id="mainlink" href=".?image=' . $files[$imagekey+1] . '">';
-  }
-  else
-  {
-    echo '<a id="mainlink" href=".?image=' . $files[0] . '">';
-  }
-  echo '<img class="maindisplay" id="maindisplay" alt="Click thumbnails below to see image. Click image to go to next image" src="' . $files[$imagekey] . '"></a></div></div>' . "\n";
-  }
-else
-  {
-  echo '<a id="mainlink">';
-  echo '<img class="maindisplay" id="maindisplay" alt="Click thumbnails below to see image. Click image to get original"></a></div></div>' . "\n";
-  }
 echo '<div class="link-container">' . "\n";
 if ( $files[$imagekey-1] != null)
   {
@@ -185,6 +176,34 @@ else
 
 echo '<div style="clear: both;"></div>' . "\n";
 echo '</div>' . "\n";
+
+?>
+
+<div class="article-content">
+
+<?php
+
+echo '<div class="image-wrapper"><div class="image-cell">';
+if ($files[$imagekey] != null)
+  {
+  if ( $files[$imagekey+1] != null)
+  {
+    echo '<a id="mainlink" href=".?image=' . $files[$imagekey+1] . '">';
+  }
+  else
+  {
+    echo '<a id="mainlink" href=".?image=' . $files[0] . '">';
+  }
+  echo '<img class="maindisplay" id="maindisplay" alt="Click thumbnails below to see image. Click image to go to next image" src="' . $files[$imagekey] . '"></a></div></div>' . "\n";
+  }
+else
+  {
+  echo '<a id="mainlink">';
+  echo '<img class="maindisplay" id="maindisplay" alt="Click thumbnails below to see image. Click image to get original"></a></div></div>' . "\n";
+  }
+
+echo '<div class="thumb-toggle nodisplay">Collapse</div>' . "\n";
+echo '<div class="thumb-toggle">Expand</div>' . "\n";
 
 echo '<div id ="thumb_box" class="thumb_box">' . "\n";
 
