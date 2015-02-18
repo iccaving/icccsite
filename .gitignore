@@ -1,5 +1,7 @@
 #ignore gnerated site
 /output/
+#ignore cache folder (I dont know what this is for really)
+/cache/
 
 #ignore any photos
 *.jpg
