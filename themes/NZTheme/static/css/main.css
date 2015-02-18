@@ -32,17 +32,15 @@ Colour Dictionary:
 #AA3939: Light Red (Highlighting, links)
 #801515: Darker Red (Visited Links)
 
-#143B46: Dark Turquoise (Background Colour for Banner/Sidebar/Headers)
-#407F7F; Light Turquoise (Highlight colour for Banner/Sidebar/Headers/text)
+#143B46: Dark Turquoise (Background Colour for Banner/Sidebar/Headers H1)
+#0D4D4D: Turquoise (H2)
+#407F7F; Light Turquoise (Highlight colour for Banner/Sidebar/Headers H3/text)
 #5DACC2: Light Blue (Body Background)
 
 #E8E8E8: Off White (Backgrounds/ Large Text on dark backgrounds)
 */
 
 /* Global Page Properties */
-body,html{
-	height:100%;
-}
 
 body {
 	background-color: #5DACC2;
@@ -63,20 +61,23 @@ body {
 
 h1 {
 		font-family: Roboto-Bold, Helvetica, Arial, sans-serif;
-		font-size: 1.25rem;
-		color:	#000000;
+		font-size: 2.5rem;
+		color:	#143B46;
+		margin: 0.5rem 0rem;
 		}
 
 h2 {
-		font-size: 1.125rem;
+		font-size: 1.5rem;
 		font-weight: bold;
-		color: #000000;
+		color: #0D4D4D;
+		margin: 0.5rem 0rem;
 		}
 
 h3 {
-		font-size: 1rem;
+		font-size: 1.125rem;
 		font-weight: bold;
-		color: #000000;
+		color: #407F7F;
+		margin: 0.2rem 0rem;
 		}
 
 a {
@@ -113,6 +114,10 @@ a:hover {
 	padding: 15px 0px 15px 20px;
 	color: #E8E8E8;
 	float: left;
+}
+
+.banner-title-menu {
+	display: none;
 }
 
 .banner-date {
@@ -404,6 +409,7 @@ hr.hrsidebartop {
 
 .image-cell {
 	text-align: center;
+
 }
 
 .thumb_box {
@@ -471,5 +477,9 @@ hr.hrsidebartop {
 		}
 		.maindisplay {
 			max-width: 100%;
+		}
+		.image-wrapper {
+			height: 100%;
+			width: 100%;
 		}
 }

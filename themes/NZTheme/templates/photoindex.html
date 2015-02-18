@@ -2,12 +2,106 @@
 
 {% block head %}
 
+<!--Control expansion of thumbnail box"-->
 <script>
 $(function() {
   $('div.thumb-toggle').click(function(){
         $('div.thumb_box').toggleClass('expand-thumb-box');
         $('div.thumb-toggle').toggleClass('nodisplay');
+
+        var thumbox = ""
+        var ca = document.cookie.split(';');
+        for(var i=0; i<ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1);
+            if (c.indexOf("thumbox=") != -1) thumbox = c.substring("thumbox=".length,c.length);
+        }
+        if (thumbox == "expand") {
+          document.cookie = "thumbox=" + "collapse" + ";";
+        }
+        else if (thumbox == "collapse") {
+          document.cookie = "thumbox=" + "expand" + ";";
+        }
+        else {
+          document.cookie = "thumbox=" + "collapse" + ";";
+        }
     });
+});
+
+$( window ).load(function()
+{
+  var thumbox = "";
+  var ca = document.cookie.split(';');
+  for(var i=0; i<ca.length; i++) {
+      var c = ca[i];
+      while (c.charAt(0)==' ') c = c.substring(1);
+      if (c.indexOf("thumbox=") != -1) thumbox = c.substring("thumbox=".length,c.length);
+  }
+  if (thumbox == "expand") {
+    $('div.thumb-toggle').each(function() {
+      if ($(this).hasClass("thcollapse")) {
+        $(this).removeClass("nodisplay");
+      } else if ($(this).hasClass("thexpand")) {
+        $(this).addClass("nodisplay");
+      }
+    });
+    $('div.thumb_box').addClass('expand-thumb-box');
+  }
+  else if (thumbox == "collapse") {
+    $('div.thumb-toggle').each(function() {
+      if ($(this).hasClass("thcollapse")) {
+        $(this).addClass("nodisplay");
+      } else if ($(this).hasClass("thexpand")) {
+        $(this).removeClass("nodisplay");
+      }
+    });
+    $('div.thumb_box').removeClass('expand-thumb-box');
+  }
+  else {
+    document.cookie = "thumbox=" + "collapse" + ";";
+    $('div.thumb-toggle').each(function() {
+      if ($(this).hasClass("thexpand")) {
+        $(this).addClass("nodisplay");
+      } else if ($(this).hasClass("thcollapse")) {
+        $(this).removeClass("nodisplay");
+      }
+    });
+    $('div.thumb_box').removeClass('expand-thumb-box');
+  }
+});
+
+</script>
+
+<!--Remember scroll positions of page and selected item in the thumb box-->
+<script>
+function scroll(evt) {
+  var pagey = document.body.scrollTop;
+  document.cookie = "pagey=" + pagey + ";";
+}
+function mobscroll(evt) {
+  var pagey = document.body.scrollTop;
+  document.cookie = "pagey=" + pagey + ";";
+}
+
+$( window ).load(function()
+{
+  document.addEventListener("touchend", mobscroll, false);
+  document.addEventListener("scroll", scroll, false);
+
+  var suby = $(".select-thumbnail").offset().top - $("#thumbnails-top").offset().top;
+  document.cookie = "suby=" + suby + ";";
+
+  var pagey_search = "pagey=";
+  var suby_search = "suby=";
+  var ca = document.cookie.split(';');
+  for(var i=0; i<ca.length; i++) {
+      var c = ca[i];
+      while (c.charAt(0)==' ') c = c.substring(1);
+      if (c.indexOf(pagey_search) != -1) pagey = c.substring(pagey_search.length,c.length);
+      if (c.indexOf(suby_search) != -1) suby = c.substring(suby_search.length,c.length);
+  }
+  document.body.scrollTop = pagey;
+  document.getElementById("thumb_box").scrollTop = suby;
 });
 </script>
 
@@ -93,14 +187,14 @@ else
   echo '<img class="maindisplay" id="maindisplay" alt="Click thumbnails below to see image. Click image to get original"></a></div></div>' . "\n";
   }
 
-echo '<div class="thumb-toggle nodisplay">Collapse</div>' . "\n";
-echo '<div class="thumb-toggle">Expand</div>' . "\n";
+echo '<div class="thumb-toggle nodisplay thcollapse">Collapse</div>' . "\n";
+echo '<div class="thumb-toggle thexpand">Expand</div>' . "\n";
 
 echo '<div id ="thumb_box" class="thumb_box">' . "\n";
+echo '<div id="thumbnails-top"></div>' . "\n";
 
 foreach ($files as $key=>$file) {
     $file_parts = pathinfo($file);
-
     echo '<a class="thumbnail" id=' . $file . ' href=".?image=' . $file . '">' . "\n";
     if ($imagekey == $key)
   {
