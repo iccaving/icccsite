@@ -1,22 +1,20 @@
-# nzsite
-
 Instructions are based on a linux set up but the semantic procedure (if not commands) should be the same.
 
-##Basic set up
+#Basic set up
 
-Install git! Get yourself a github account. Add yourself (by logging into the iccaving github account) or get someone to add you as a contributer to https://github.com/iccavingrepo/. That's it!  
+Install git! Get yourself a github account. Add yourself (by logging into the iccaving github account) or get someone to add you as a contributer to https://github.com/iccavingrepo/.
 Then set up the repo on your computer.
 
     git clone https://github.com/iccavingrepo/nzsite.git
 
-##Writing Trip Reports
+#Writing Trip Reports
 First pull the repo so you're up to date. Navigate to the directory then:
 
     git pull
 
 Then add your write your trip report as a markdown file (.md extenstion) to the nzsite/content/ folder. If its a standard post or trip report stick it in the nzsite/content/articles/ folder. Try to keep to the yyyy-mm-dd-placename.md filename format where possible.
 
-###File layout
+##File layout
 There is a template.md file in the root of the nzsite repo. Copy and paste this and fill it according to the instructions within. If in doubt have a look at an existing article.  
 
 The key points are:
@@ -25,7 +23,7 @@ The key points are:
 * Markdown syntax is simple and avialable online. Look it up, or look at another article to format yours. [Also check this](https://help.github.com/articles/markdown-basics/)
 * HTML works fine in markdown files (the same as they would in an html file) so if you can't do something with markdown just stick the html in.
 
-###Finishing
+##Finishing
 Save your .md file. Track the file in git:
 
     git add path/to/file
@@ -41,7 +39,7 @@ Finally push your changes:
 
 And that can be it. Contact whoever is in charge of the site to let them know to update it.
 
-##Advanced Set Up
+#Advanced Set Up
 If you want to be able to build and deploy the site yourself look here, otherwise ignore.
 ###Installing Pelican
 Pelican is a python based static site generator. Install it:
