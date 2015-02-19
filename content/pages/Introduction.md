@@ -6,14 +6,14 @@ Location: page
 
 ###Beginnings
 
-The expedition first appeared as an idea at the 2014 Imperial College freshers fair. As we convinced and coaxed, cajoled and coerced the latest batch of Imperialites into a life of mud and darkness we were approached by Dr Lorraine Craig, chairman of the Imperial College Exploration Board. She told us that they were inviting clubs to apply for support from the board. They wanted us to run an expedition, something novel and challenging. The reward was a generous amount of funding.
+The expedition first appeared as an idea at the 2014 Imperial College freshers fair. As we convinced and coaxed, cajoled and coerced the latest batch of Imperialites into a life of mud and darkness we were approached by Dr Lorraine Craig, chair of the Imperial College Exploration Board. She told us that they were inviting clubs to apply for support from the board. They wanted us to run an expedition, something novel and challenging. The reward was a generous amount of funding.
 
-Immediately we set to work. Our idea's ranged from China to Iran, Peru to Turkey. In the end language barriers, high altitudes and lack of support in the regions narrowed us down to one choice. New Zealand! With bountiful, beautiful, and accessible karst, friendly English speaking locals, and a well organised rescue service it was perfect for our expedition.
+Immediately we set to work. Our ideas ranged from China to Iran, Peru to Turkey. In the end language barriers, high altitudes and lack of support in the regions narrowed us down to one choice. New Zealand! With bountiful, beautiful, and accessible karst, friendly English speaking locals, and a well organised rescue service New Zealand was perfect for our expedition.
 
 ###Contacts
-We first looked around for local contacts to advise and help us. Not only is local knowledge invaluable for any expedition but there are often permits and permissions to acquire, official or merely to be polite. We contacted the [Nelson Speleological Group](http://www.nsg.org.nz/) as the largest club, local to a large amount of karst and with a large active membership. They gave us the aforementioned permission and put us in contact with Kieran McKay ([check out some of his videos](https://www.youtube.com/watch?v=mYvx3LNDrw4 "Kieran's youtube channel")). 
+We first looked for local contacts to advise and help us. Not only is local knowledge invaluable for any expedition, but there are often permits and permissions to acquire, both officially, and to be polite. We contacted the [Nelson Speleological Group](http://www.nsg.org.nz/) as the largest club, local to a large amount of karst and with a large active membership. They put us in contact with Kieran McKay ([check out some of his videos](https://www.youtube.com/watch?v=mYvx3LNDrw4 "Kieran's youtube channel")). 
 
-As luck would have it he was in London, giving a talk at the RGS. We met up with him in the IC Union bar, where all good caving plans begin, and this initial conversation proved to be our major motivation for the beginning of our expedition.
+As luck would have it he was in London, giving a talk at the RGS on his recent cave exploration. We met up with him in the IC Union bar, where all good caving plans begin, and this initial conversation proved to be our major motivation for the beginning of our expedition.
 
 ###Location
 
@@ -31,4 +31,4 @@ The expedition has a number of aims:
 * To make contacts in the New Zealand caving community
 * To give our members the opportunity to present their exploration to a wider audience
 
-This is the set up then. The rest of the site will detail our preparations and subsequently our trip. Read on.
+The rest of the site will detail our preparations and subsequently our trip. Read on!
