@@ -6,6 +6,7 @@ Photoarchive:
 Mainimg:
 Thumbl:
 Thumbr:
+Status:
 
 Write your stuff here and below!
 
@@ -25,6 +26,8 @@ Mainimg: filename including extension of image in photoarchive folder to display
 Thumbl: filename including extension of image in photoarchive folder to display as the left thumbnail on the main index page
 
 Thumbr: same but the right thumbnail
+
+Status: Set this to "draft" if you don't want it to appear on the site yet
 
 delete this before posting because it will appear as a html comment
 
