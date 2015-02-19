@@ -79,6 +79,14 @@ h3 {
 		color: #407F7F;
 		margin: 0.2rem 0rem;
 		}
+h4 {
+		font-size: 1rem;
+		font-weight: bold;
+		color: #407F7F;
+		margin: 0.2rem 0rem;
+		text-align: right;
+}
+
 
 a {
 	color: #A6373F;
