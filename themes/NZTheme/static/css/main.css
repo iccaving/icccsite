@@ -360,6 +360,18 @@ a.footer-button:hover {
 	width: 780px;
 }
 
+.photo-button {
+	padding: 5px 5px 5px 5px;
+	color: #AA3939;
+	text-decoration: underline;
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.photo-button-wrapper {
+	text-align: center;
+}
+
 
 /*Horizontal rule stylings */
 
