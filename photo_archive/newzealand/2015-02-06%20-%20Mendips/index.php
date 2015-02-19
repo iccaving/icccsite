@@ -181,7 +181,7 @@ Photos    </div>
       <hr class="hrsidebar">
 
       <div class="sidebar-content-box">
-        <div class="sidebar-item"><a >Photos</a></div>
+        <div class="sidebar-item"><a href="https://union.ic.ac.uk/rcc/caving/newzealand/photo_archive/">Photos</a></div>
       </div>
 
       <script>
