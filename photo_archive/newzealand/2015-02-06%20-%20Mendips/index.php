@@ -25,17 +25,17 @@
     }
   </script>
   <script>
-  $( document ).ready(function() {
-    if (jQuery.browser.mobile) {
-      $('div.left-col').addClass('nodisplay');
-    }
-  });
+
   </script>
   <!-- script for opening/closing of sidebar on mobiles -->
   <script>
   $(function() {
     $('div.banner').click(function(){
-          $('div.left-col').toggleClass('nodisplay');
+      if ($('div.left-col').css("display") == "none"){
+        $('div.left-col').css("display", "block");
+      } else{
+        $('div.left-col').css("display", "none");
+      }
       });
   });
   </script>

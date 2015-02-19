@@ -73,6 +73,7 @@ a:visited { }
 }
 
 .left-col {
+    display: none;
     float: none;
     width: initial;
     height: initial;
