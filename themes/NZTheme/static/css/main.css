@@ -63,27 +63,27 @@ h1 {
 		font-family: Roboto-Bold, Helvetica, Arial, sans-serif;
 		font-size: 2.5rem;
 		color:	#143B46;
-		margin: 0.5rem 0rem;
+		margin: 1rem 0rem;
 		}
 
 h2 {
 		font-size: 1.5rem;
 		font-weight: bold;
 		color: #0D4D4D;
-		margin: 0.5rem 0rem;
+		margin: 1rem 0rem;
 		}
 
 h3 {
 		font-size: 1.125rem;
 		font-weight: bold;
 		color: #407F7F;
-		margin: 0.2rem 0rem;
+		margin: 1rem 0rem;
 		}
 h4 {
 		font-size: 1rem;
 		font-weight: bold;
 		color: #407F7F;
-		margin: 0.2rem 0rem;
+		margin: 1rem 0rem;
 		text-align: right;
 }
 
@@ -294,7 +294,6 @@ a:hover {
 	padding: 10px 10px 0px 10px;
 }
 .content p{
-	margin: 0px 0px 0px 0px;
 }
 
 .content-summary {

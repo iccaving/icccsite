@@ -8,3 +8,5 @@
 *.JPG
 *.jpeg
 *.JPEG
+*.md~
+*.pyc
