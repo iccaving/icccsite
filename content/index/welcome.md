@@ -3,8 +3,10 @@ Date: 2015-02-14 12:00
 Authors: Rhys Tyers
 Location: sticky
 
+<<<<<<< HEAD
 Welcome to the Imperial College Caving Club New Zealand expedition subsite. Here we'll be detailing our efforts as we prepare for an expedition to the other side of the world. Get started with:
 
 * [Introduction]({filename}/pages/Introduction.md) - A description of the expedition and its aims. 
 * [Itinerary]({filename}/pages/Itinerary.md) - A quick run through of our plans.
 * [Team]({filename}/pages/Team.md) - Meet the intrepid members of the expedition.
+>>>>>>> 4c1133486dfeee9290ca15c18afa8ed7faf0a028
