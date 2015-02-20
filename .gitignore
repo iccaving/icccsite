@@ -10,6 +10,9 @@
 *.JPG
 *.jpeg
 *.JPEG
+#Except that one from Andy's NZ trip
+!content/oldnz/newzealand-2010-10-15.jpg
+
 
 ignore stupid files
 *.md~

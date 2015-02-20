@@ -28,10 +28,12 @@ DEFAULT_PAGINATION = False
 
 DEFAULT_DATE_FORMAT = '%d-%m-%Y'
 
-PLUGIN_PATHS = ["plugins", "plugins"]
-PLUGINS = ['photoarchive']
+PLUGIN_PATHS = ["plugins"]
+PLUGINS = ['photoarchive', 'saveoldnz']
 
 SLUGIFY_SOURCE = 'basename'
+
+ARTICLE_EXCLUDES = ['oldnz']
 
 ARTICLE_URL = 'articles/{slug}.html'
 ARTICLE_SAVE_AS = 'articles/{slug}.html'
