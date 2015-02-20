@@ -37,7 +37,15 @@ Finally push your changes:
 
     git push
 
-And that can be it. Contact whoever is in charge of the site to let them know to update it.
+And that can be it. Contact whoever is in charge of the site to let them know to update it. If you want to see it yourself (good to check for formatting errors) then run:
+
+    ./develop_server.sh start
+    
+This will start a web server and display the site for you locally. Navigate to localhost:8000 with your web browser to see it. It is likely that images won't show up.
+
+    ./develop_server.sh stop
+
+Will stop the sever.
 
 #Advanced Set Up
 If you want to be able to build and deploy the site yourself look here, otherwise ignore.

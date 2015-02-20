@@ -2,11 +2,16 @@
 /output/
 #ignore cache folder (I dont know what this is for really)
 /cache/
+#ignore photo_archive folder (this is generated because the NZ site isnt the root of the webserver)
+/photo_archive/
 
 #ignore any photos
 *.jpg
 *.JPG
 *.jpeg
 *.JPEG
+
+ignore stupid files
 *.md~
 *.pyc
+*.pid
