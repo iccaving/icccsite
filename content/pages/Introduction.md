@@ -11,7 +11,7 @@ The expedition first appeared as an idea at the 2014 Imperial College freshers f
 Immediately we set to work. Our ideas ranged from China to Iran, Peru to Turkey. In the end language barriers, high altitudes and lack of support in the regions narrowed us down to one choice. New Zealand! With bountiful, beautiful, and accessible karst, friendly English speaking locals, and a well organised rescue service New Zealand was perfect for our expedition.
 
 ###Contacts
-We first looked for local contacts to advise and help us. Not only is local knowledge invaluable for any expedition, but there are often permits and permissions to acquire, both officially, and to be polite. We contacted the [Nelson Speleological Group](http://www.nsg.org.nz/) as the largest club, local to a large amount of karst and with a large active membership. They put us in contact with Kieran McKay ([check out some of his videos](https://www.youtube.com/watch?v=mYvx3LNDrw4 "Kieran's youtube channel")). 
+We first looked for local contacts to advise and help us. Not only is local knowledge invaluable for any expedition, but there are often permits and permissions to acquire, both officially, and to be polite. We contacted the [Nelson Speleological Group](http://www.nsg.org.nz/) as they were local to a large amount of karst and had a large active membership. They put us in contact with Kieran McKay ([check out some of his videos](https://www.youtube.com/watch?v=mYvx3LNDrw4 "Kieran's youtube channel")). 
 
 As luck would have it he was in London, giving a talk at the RGS on his recent cave exploration. We met up with him in the IC Union bar, where all good caving plans begin, and this initial conversation proved to be our major motivation for the beginning of our expedition.
 
