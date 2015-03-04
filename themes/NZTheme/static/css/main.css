@@ -114,6 +114,12 @@ a:hover {
 	overflow: hidden;
 	width: 100%;
 	position:	fixed;
+	
+	display: table;
+}
+
+.banner-wrap {
+	display: table-row;
 }
 
 .banner-title {
@@ -121,7 +127,10 @@ a:hover {
 	font-family: Roboto-Black, Helvetica, Arial, sans-serif;
 	padding: 15px 0px 15px 20px;
 	color: #E8E8E8;
-	float: left;
+	
+	display: table-cell;
+	width: 100%;
+	vertical-align: top;
 }
 
 .banner-title-menu {
@@ -141,6 +150,8 @@ a:hover {
 	background-position: center;
 	background-repeat: no-repeat;
 	float: left;
+	
+	display: table-cell;
 }
 
 
@@ -256,7 +267,8 @@ a:hover {
 	width: 100%;
 	border-radius: 2px;
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
-	background-color: #F6F6F6
+	background-color: rgba(232, 232, 232, 0.83);
+	/*background-color: #F6F6F6*/
 }
 
 .content-header {
@@ -352,7 +364,7 @@ a.footer-button:hover {
 .article-content {
 	border-radius: 2px;
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
-	background-color: #E8E8E8;
+	background-color: rgba(232, 232, 232, 0.83);
 	padding: 10px 10px 10px 10px;
 }
 

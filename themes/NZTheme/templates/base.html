@@ -29,9 +29,6 @@
       $("link").attr("href","{{ SITEURL }}/theme/css/mobile.css");
     }
   </script>
-  <script>
-
-  </script>
   <!-- script for opening/closing of sidebar on mobiles -->
   <script>
   $(function() {
@@ -44,6 +41,20 @@
       });
   });
   </script>
+  <!-- Script to ensure banner does not overlap centercol -->
+  <script>
+    $( window ).resize(function() {
+      if (!(jQuery.browser.mobile)) {
+        $(".center-col").css("margin-top", $(".banner").height());
+      }
+    });
+    
+    $( window ).load(function() {
+      if (!(jQuery.browser.mobile)) {
+        $(".center-col").css("margin-top", $(".banner").height());
+      }
+    });
+  </script>
 
   {% block head %}
   {% endblock %}
@@ -51,12 +62,16 @@
 </head>
 <body>
   <div class="banner">
+    <div class="banner-wrap">
     <div class="logo"></div>
     <div class="banner-title">
       {% block banner %}
       {% endblock %}
     </div>
+  </div>
+  <div class="banner-wrap">
     <div class="banner-title-menu">Menu</div>
+  </div>
   </div>
 
   <div style="clear: both;"></div>

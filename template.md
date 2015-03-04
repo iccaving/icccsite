@@ -27,7 +27,7 @@ Thumbl: filename including extension of image in photoarchive folder to display 
 
 Thumbr: same but the right thumbnail
 
-Status: Set this to "draft" if you don't want it to appear on the site yet
+Status: Set this to "draft" if you don't want it to appear on the site yet or delete entirely if you do
 
 delete this before posting because it will appear as a html comment
 

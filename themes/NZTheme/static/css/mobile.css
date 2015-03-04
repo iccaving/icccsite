@@ -44,6 +44,12 @@ a:visited { }
 
 .banner {
   position: static;
+  
+  display: block;
+}
+
+.banner-wrap {
+  display: block;
 }
 
 .banner-title {
@@ -51,6 +57,8 @@ a:visited { }
   padding: 5px 0px 5px 0px;
   float: none;
   text-align: center;
+  
+  display: block;
 }
 
 .banner-title-menu {
@@ -60,7 +68,8 @@ a:visited { }
   padding: 0px 0px 0px 0px;
   float: none;
   text-align: center;
-  display: inherit;
+  
+  display: block;
 }
 
 .banner-date {
@@ -70,6 +79,8 @@ a:visited { }
 .logo {
   width: 100%;
   float: none;
+  
+  display: block;
 }
 
 .left-col {
