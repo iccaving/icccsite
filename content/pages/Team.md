@@ -66,18 +66,6 @@ Call sign: Adobe Reader
 
 <tr>
 <td>
-<img src="../photo_archive/newzealand/mugshots/clare--thumb.jpg"></img>
-</td>
-<td>
-<h3>Clare Tan</h3>
-Translator<br>
-Age: 23<br>
-Call sign:
-</td>
-</tr>
-
-<tr>
-<td>
 <img src="../photo_archive/newzealand/mugshots/james--thumb.jpg"></img>
 </td>
 <td>
