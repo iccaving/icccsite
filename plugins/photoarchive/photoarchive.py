@@ -1,8 +1,8 @@
 from pelican import signals
 
 def isarchive(generator):
+    archives = []
     for article in generator.articles:
-        archives = []
         archive_loc = ''
         print "Photoarchive: checking article " + article.title
         if 'photoarchive' in article.metadata.keys():
@@ -18,6 +18,7 @@ def isarchive(generator):
                 article.metadata['archiveloc'] = article.photoarchive + '/'
                 article.archiveloc = article.photoarchive + '/'
             archives.append((article.archiveloc, article.title, article.date.strftime('%d-%m-%Y')))
+    print archives
     generator.context['photoarchives'] = archives
 
 def archivemaker(generator, writer):
@@ -25,12 +26,13 @@ def archivemaker(generator, writer):
     filename = "photo_archive/index_template.php"
     writer.write_file(filename, template, generator.context)
     print "Photoarchive: Generic photo archive page generated"
-
+    '''
     for article in generator.articles:
         if 'archiveloc' in article.metadata.keys():
             print "Photoarchive: creating photoarchive directory and index file for " + article.title
             filename = article.metadata['archiveloc'] + 'index.php'
             writer.write_file(filename, template, generator.context)
+    '''
 
 def photoarchivelist(generator, writer):
     template = generator.get_template('photoarchivelist')
