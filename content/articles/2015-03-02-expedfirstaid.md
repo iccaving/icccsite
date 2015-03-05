@@ -6,6 +6,7 @@ Photoarchive: ../photo_archive/newzealand/2015-03-02%20-%20Expedition%20First%20
 Mainimg: IMG_20150303_100741.jpg
 Thumbl: IMG_20150303_110235--thumb.jpg
 Thumbr: IMG_20150303_141922--thumb.jpg
+Authors: Jack Hare
 
 Tanguy, Rhys and Jack went on a two day course with Marlin Training, hosted by the Imperial College Union. The Exploration Board kindly paid for the three of us to attend to build on the skills we learned in the first wilderness first aid course we did in January.
 
@@ -16,3 +17,5 @@ We were shocked out of our complacency by the trauma session, examining exactly 
 Some excellent sessions on immobilising a patient with suspected neck injuries made me a lot more confident about dealing with this situation on our expedition, especially advice on fashioning impromptu neck braces out of SAM splints. Stuart surprised the class by stumbling in half way through a session, face bright red as he stumbled and collapsed to the floor. We gathered round and set to work, releaved to see the facepaint he was wearing. In no time he had a neck brace on, oxygen mask at the ready and about half the class miming phoning for help.
 
 I really enjoyed the two days we spent on the course, and though I hope we'll never need the skills that we've learned, I feel a lot more confident and capable for having been taught them.
+
+####Jack Hare
