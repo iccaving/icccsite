@@ -10,6 +10,7 @@ def addInlinePhotos(gen):
     if InlinePhotos not in gen.settings['MD_EXTENSIONS']:
         gen.settings['MD_EXTENSIONS'].append(InlinePhotos())
 
+    print "InlinePhotos: Success"
 
 def register():
     signals.initialized.connect(addInlinePhotos)

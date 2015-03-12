@@ -8,6 +8,7 @@ Thumbl: IMG_20150303_110235--thumb.jpg
 Thumbr: IMG_20150303_141922--thumb.jpg
 Authors: Jack Hare
 
+##Expedition First Aid
 Tanguy, Rhys and Jack went on a two day course with Marlin Training, hosted by the Imperial College Union. The Exploration Board kindly paid for the three of us to attend to build on the skills we learned in the first wilderness first aid course we did in January.
 
 On Monday we started with a lovely lecture on diarrhoea from Dr Simon Green, a GP who was one of our two lecturers along with Stuart Marshall. After we all felt suitably queasy, we did some more practice with Automatic External Defibrillators, adding in oxygen from bottles to help care for victims of cardiac arrest. There were some excellent lectures on infectious diseases and animal attacks, all featuring maps of the world in which New Zealand began to appear increasingly benign.

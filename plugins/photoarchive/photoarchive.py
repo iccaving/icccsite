@@ -18,7 +18,6 @@ def isarchive(generator):
                 article.metadata['archiveloc'] = article.photoarchive + '/'
                 article.archiveloc = article.photoarchive + '/'
             archives.append((article.archiveloc, article.title, article.date.strftime('%d-%m-%Y')))
-    print archives
     generator.context['photoarchives'] = archives
 
 def archivemaker(generator, writer):

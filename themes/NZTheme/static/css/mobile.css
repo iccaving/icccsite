@@ -44,7 +44,7 @@ a:visited { }
 
 .banner {
   position: static;
-  
+
   display: block;
 }
 
@@ -57,7 +57,7 @@ a:visited { }
   padding: 5px 0px 5px 0px;
   float: none;
   text-align: center;
-  
+
   display: block;
 }
 
@@ -68,7 +68,7 @@ a:visited { }
   padding: 0px 0px 0px 0px;
   float: none;
   text-align: center;
-  
+
   display: block;
 }
 
@@ -79,7 +79,7 @@ a:visited { }
 .logo {
   width: 100%;
   float: none;
-  
+
   display: block;
 }
 
@@ -178,6 +178,12 @@ a.footer-button:visited { }
   width: 100%;
 }
 
+.article-content p,ol,ul {
+	padding: 0px 0px;
+}
+.article-content h1,h2,h3,h4,h5 {
+	padding: 0px 0px;
+}
 
 /*Horizontal rule stylings */
 

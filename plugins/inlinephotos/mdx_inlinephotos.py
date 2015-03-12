@@ -2,7 +2,7 @@
 import markdown
 from markdown.inlinepatterns import Pattern
 
-image = r'.*?(\[).*?(image).*?(".*?").*?((?:[a-z][a-z]+)).*?(\])'
+image = r'.*?(\[\!|\[).*?(image).*?(".*?").*?((?:[a-z][a-z]+)).*?(\])'
 
 class AttrTagPattern(Pattern):
     """
@@ -15,9 +15,14 @@ class AttrTagPattern(Pattern):
         self.md = md
 
     def handleMatch(self, m):
-        el = markdown.util.etree.Element('img')
-        el.text = m.group(5)
-        el.set('src', self.md.Meta['photoarchive'][0].encode("utf-8") + '/' + m.group(4).replace('"','').replace('\'',''))
+        outer = markdown.util.etree.Element('a')
+        el = markdown.util.etree.SubElement(outer, 'img')
+        if m.group(2) == '[!':
+            el.set('src', m.group(4).replace('"','').replace('\'',''))
+            outer.set('href', m.group(4).replace('"','').replace('\'',''))
+        elif m.group(2) == '[':
+            el.set('src', self.md.Meta['photoarchive'][0].encode("utf-8") + '/' + m.group(4).replace('"','').replace('\'',''))
+            outer.set('href', self.md.Meta['photoarchive'][0].encode("utf-8") + '/?image=' + m.group(4).replace('"','').replace('\'','').replace('--thumb',''))
         if m.group(5) == 'center':
             el.set('class', 'article-img-center')
         elif  m.group(5) == 'left':
@@ -26,7 +31,7 @@ class AttrTagPattern(Pattern):
             el.set('class', 'article-img-right')
         elif  m.group(5) == 'big':
             el.set('class', 'article-img-big')
-        return el
+        return outer
 
 class InlinePhotos(markdown.Extension):
     def extendMarkdown(self, md, md_globals):

@@ -56,6 +56,8 @@ body {
 	margin: 0px -220px 0px 0px;
 	padding: 0px 220px 0px 0px; /* To allow background to overflow into right sidebar */
 	overflow-x: hidden;
+
+	line-height: 1.5rem;
 }
 /*Global Text and link properties */
 
@@ -114,7 +116,7 @@ a:hover {
 	overflow: hidden;
 	width: 100%;
 	position:	fixed;
-	
+
 	display: table;
 }
 
@@ -127,7 +129,7 @@ a:hover {
 	font-family: Roboto-Black, Helvetica, Arial, sans-serif;
 	padding: 15px 0px 15px 20px;
 	color: #E8E8E8;
-	
+
 	display: table-cell;
 	width: 100%;
 	vertical-align: top;
@@ -150,7 +152,7 @@ a:hover {
 	background-position: center;
 	background-repeat: no-repeat;
 	float: left;
-	
+
 	display: table-cell;
 }
 
@@ -305,12 +307,14 @@ a:hover {
 	width: calc(100% - 20px);
 	padding: 10px 10px 0px 10px;
 }
-.content p{
-}
 
 .content-summary {
 	padding: 0px 10px;
 	vertical-align: top;
+}
+
+.content-summary p {
+	margin: 0px;
 }
 
 .index-thumbl {
@@ -366,6 +370,14 @@ a.footer-button:hover {
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
 	background-color: rgba(232, 232, 232, 0.83);
 	padding: 10px 10px 10px 10px;
+}
+
+.article-content p,ol,ul {
+	padding: 0px 50px;
+}
+
+.article-content h1,h2,h3,h4,h5 {
+	padding: 0px 25px;
 }
 
 .mainimg img {
