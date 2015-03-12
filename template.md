@@ -6,6 +6,7 @@ Photoarchive:
 Mainimg:
 Thumbl:
 Thumbr:
+Author:
 Status:
 
 Write your stuff here and below!
@@ -26,6 +27,8 @@ Mainimg: filename including extension of image in photoarchive folder to display
 Thumbl: filename including extension of image in photoarchive folder to display as the left thumbnail on the main index page
 
 Thumbr: same but the right thumbnail
+
+Author: The authors of the article, seperated by commas e.g. "Stores Gnomes, Stores Mice"
 
 Status: Set this to "draft" if you don't want it to appear on the site yet or delete entirely if you do
 
