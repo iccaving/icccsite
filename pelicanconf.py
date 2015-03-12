@@ -29,7 +29,7 @@ DEFAULT_PAGINATION = False
 DEFAULT_DATE_FORMAT = '%d-%m-%Y'
 
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ['photoarchive', 'saveoldnz']
+PLUGINS = ['photoarchive', 'saveoldnz', 'inlinephotos']
 
 SLUGIFY_SOURCE = 'basename'
 
