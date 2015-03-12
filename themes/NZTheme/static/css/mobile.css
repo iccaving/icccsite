@@ -177,6 +177,30 @@ a.footer-button:visited { }
 .mainimg img {
   width: 100%;
 }
+.article-img-center {
+  width: 100%;
+  padding: 0px 0px;
+}
+
+.article-img-left {
+  padding: 10px 10px 0px 0px;
+}
+
+.article-img-right {
+  padding: 10px 0px 0px 10px;
+}
+
+.article-img-center img {
+}
+
+.article-img-left img {
+}
+
+.article-img-right img {
+}
+
+figcaption {
+}
 
 .article-content p,ol,ul {
 	padding: 0px 0px;

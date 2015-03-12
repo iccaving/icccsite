@@ -12,6 +12,10 @@ Status:
 Write your stuff here and below!
 
 <!---
+delete this before posting because it will appear as a html comment
+
+METADATA:
+
 Title: Title of the trip, i.e Wales III or Yorkshire IV or France
 
 Date: Date in YYYY-MM-DD format
@@ -32,6 +36,13 @@ Author: The authors of the article, seperated by commas e.g. "Stores Gnomes, Sto
 
 Status: Set this to "draft" if you don't want it to appear on the site yet or delete entirely if you do
 
-delete this before posting because it will appear as a html comment
+OTHER STUFF:
 
+There is a plugin active to allow easy inline posting of images. Similar to the way links work in standard markdown:
+{"Caption Goes Here Or Not" left}("filename.jpg")
+Within the curly braces on the left there is a caption in quotes, this is optional. There is also an alignment (left) on the right which can be left/right/center. In the round braces on the right is the url in quotes of the image. This will link to photos in the specified photoarchive (i.e just use the filename!).
+If you want to link to images outside of the photoarchive then put an exclamation mark after the first curly brace:
+{!"Caption Goes Here Or Not" left}("www.external.com/image.jpg")
+
+delete this before posting because it will appear as a html comment
 --->

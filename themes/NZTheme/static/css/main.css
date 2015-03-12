@@ -56,10 +56,12 @@ body {
 	margin: 0px -220px 0px 0px;
 	padding: 0px 220px 0px 0px; /* To allow background to overflow into right sidebar */
 	overflow-x: hidden;
-
-	line-height: 1.5rem;
 }
 /*Global Text and link properties */
+
+p {
+		line-height: 1.5rem;
+}
 
 h1 {
 		font-family: Roboto-Bold, Helvetica, Arial, sans-serif;
@@ -380,8 +382,52 @@ a.footer-button:hover {
 	padding: 0px 25px;
 }
 
+.mainimg {
+	text-align: center;
+}
+
 .mainimg img {
-	width: 780px;
+	max-width: 750px;
+	width: 100%;
+}
+
+.article-img-center {
+  width: calc(100% - 50px);
+  text-align: center;
+  padding: 0px 25px;
+  margin: 0px;
+}
+
+.article-img-left {
+	width: 50%;
+  float: left;
+  margin: 0px;
+  padding: 10px 25px 0px 25px;
+  text-align: center;
+}
+
+.article-img-right {
+	width: 50%;
+  float: right;
+  margin: 0px;
+  padding: 10px 25px 0px 25px;
+  text-align: center;
+}
+
+.article-img-center img {
+	width: 100%
+}
+
+.article-img-left img {
+	width: 100%
+}
+
+.article-img-right img {
+	width: 100%
+}
+
+figcaption {
+	font-size: 0.9rem;
 }
 
 .photo-button {
