@@ -18,5 +18,5 @@ We have one Makita rotary hammer drill in the club already, but for this expedit
 
 After pulling apart our old drill and checking it over, I noticed there is an additional contact on the battery on our new drill, and I had no idea what it's supposed to do. After umming and ahhing for a bit, I decided to do something stupid and short this extra contact to the positive terminal of the battery, and suddenly the drill sprang into life. So that's a win for mindless experimentation. Inside the case this contact leads to a yellow wire that I cut and soldered to the positive terminal. {"Seemingly extraneous yellow wire soldered to the positive terminal" center}("IMG_20150315_190635.jpg") I've been told by Jarv that this could be a wire leading to a thermistor on the battery that makes the drill cut out if the battery overheats - for our purposes, it's an unhelpful safety feature.
 
- ###Putting it back together
+###Putting it back together
 Reversing the steps above gets the drill back together nicely - it's worth cross tightening the screws to keep the watertight seals on the drill in proper working order. Now we have two working drills for New Zealand, and I have learnt far more about the internals of this specific drill than I ever, ever wanted to know.
