@@ -7,7 +7,6 @@ Mainimg: IMG_20150315_190658.jpg
 Thumbl: 2015-03-15.jpg
 Thumbr: IMG_20150315_190041.jpg
 Author: Jack Hare
-Status: draft
 
 We have one Makita rotary hammer drill in the club already, but for this expedition we wanted another so we could have two teams bolting at the same time. Jarv already described the LiPo batteries in a [previous post](https://union.ic.ac.uk/rcc/caving/newzealand/articles/2015-03-12-drills.html), and he also an excellent [blog post](https://migovec.wordpress.com/2011/07/06/makita-bhr162/) detailing modifying Makita drills with long leads for external batteries. We bought a new drill off eBay for £99 (all the cost is in the batteries, so 'naked' drills are quite cheap). Having nothing better to do with my Sunday evening, I decided to crack it open and poke around inside.
 
