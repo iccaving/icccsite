@@ -12,7 +12,7 @@ td {
 }
 </style>
 
-##Expedition Members:
+<h2 class="nopad">Expedition Members:</h2>
 
 <table>
 
@@ -21,7 +21,7 @@ td {
 <img src="../photo_archive/newzealand/mugshots/rhys--thumb.jpg"></img>
 </td>
 <td>
-<h3>Rhys Tyers</h3>
+<h3 class="nopad">Rhys Tyers</h3>
 Expedition Leader<br>
 Age: 21<br>
 Call sign: Private Dancer
@@ -33,7 +33,7 @@ Call sign: Private Dancer
 <img src="../photo_archive/newzealand/mugshots/tanguy--thumb.jpg"></img>
 </td>
 <td>
-<h3>Tanguy Racine</h3>
+<h3 class="nopad">Tanguy Racine</h3>
 Lead Geologist<br>
 Age: 19<br>
 Call sign: Root Smoker
@@ -45,7 +45,7 @@ Call sign: Root Smoker
 <img src="../photo_archive/newzealand/mugshots/jack--thumb.jpg"></img>
 </td>
 <td>
-<h3>Jack Hare</h3>
+<h3 class="nopad">Jack Hare</h3>
 Medicinal Officer<br>
 Age: 26<br>
 Call sign: Hunter Leader
@@ -57,7 +57,7 @@ Call sign: Hunter Leader
 <img src="../photo_archive/newzealand/mugshots/oli--thumb.jpg"></img>
 </td>
 <td>
-<h3>Oliver Myerscough</h3>
+<h3 class="nopad">Oliver Myerscough</h3>
 Treasurer<br>
 Age: 22<br>
 Call sign: Adobe Reader
@@ -69,7 +69,7 @@ Call sign: Adobe Reader
 <img src="../photo_archive/newzealand/mugshots/james--thumb.jpg"></img>
 </td>
 <td>
-<h3>James O'Hanlon</h3>
+<h3 class="nopad">James O'Hanlon</h3>
 Key Grip<br>
 Age: 19<br>
 Call sign: Master Grater
@@ -81,7 +81,7 @@ Call sign: Master Grater
 <img src="../photo_archive/newzealand/mugshots/cecilia--thumb.jpg"></img>
 </td>
 <td>
-<h3>Cecilia Kan</h3>
+<h3 class="nopad">Cecilia Kan</h3>
 Security Officer<br>
 Age: 20<br>
 Call sign: Mushroom Chopper
@@ -93,7 +93,7 @@ Call sign: Mushroom Chopper
 <img src="../photo_archive/newzealand/mugshots/alex--thumb.jpg"></img>
 </td>
 <td>
-<h3>Alex Seaton</h3>
+<h3 class="nopad">Alex Seaton</h3>
 Aesthetics Officer<br>
 Age: 21<br>
 Call sign: Easy Peeler
@@ -105,7 +105,7 @@ Call sign: Easy Peeler
 <img src="../photo_archive/newzealand/mugshots/chris--thumb.jpg"></img>
 </td>
 <td>
-<h3>Chris McDonnell</h3>
+<h3 class="nopad">Chris McDonnell</h3>
 Technical Advisor<br>
 Age: 21<br>
 Call sign: Careless Whisper

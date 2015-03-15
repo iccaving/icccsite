@@ -2,6 +2,8 @@ Title: Itinerary
 Authors: Rhys Tyers
 Location: page
 
+##The Plan:
+
 ###2nd April
 Depart London for Guangzhou
 ###4th April

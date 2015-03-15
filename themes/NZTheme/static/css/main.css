@@ -57,6 +57,7 @@ body {
 	padding: 0px 220px 0px 0px; /* To allow background to overflow into right sidebar */
 	overflow-x: hidden;
 }
+
 /*Global Text and link properties */
 
 p {
@@ -108,6 +109,14 @@ a:hover {
 /* Useful Tags */
 .nodisplay {
 	display: none;
+}
+
+.nopad {
+	padding: 0px;
+}
+
+.center {
+	text-align: center;
 }
 
 /* Column Layout */
@@ -207,7 +216,6 @@ a:hover {
 
 .sidebar-item a, .sidebar-sub-item a {
 	display: block;
-	width: 100%;
 	height: 100%;
 	text-decoration: none;
 	color: #E8E8E8;
@@ -272,7 +280,6 @@ a:hover {
 	border-radius: 2px;
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
 	background-color: rgba(232, 232, 232, 0.83);
-	/*background-color: #F6F6F6*/
 }
 
 .content-header {

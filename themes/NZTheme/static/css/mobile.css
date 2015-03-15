@@ -202,8 +202,11 @@ a.footer-button:visited { }
 figcaption {
 }
 
-.article-content p,ol,ul {
+.article-content p {
 	padding: 0px 0px;
+}
+.article-content ol,ul {
+	padding: 0px 30px;
 }
 .article-content h1,h2,h3,h4,h5 {
 	padding: 0px 0px;

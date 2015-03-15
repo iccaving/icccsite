@@ -9,9 +9,11 @@
 <div class="container">
   <div class="article-content">
     <h2>List of photo archives</h1>
+      <ul>
     {% for url, name, date in photoarchives %}
-      <a href="{{ SITEURL }}/{{ url }}index.php">{{ name }} - {{ date }}</a><br>
+      <li><a href="{{ SITEURL }}/{{ url }}index.php">{{ name }} - {{ date }}</a></li>
     {% endfor %}
+    </ul>
   </div>
 </div>
 {% endblock %}
