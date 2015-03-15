@@ -4,8 +4,8 @@ Location: Caving Club Stores
 Summary: I spent Sunday evening modifying a Makita drill to use an external battery. The drill is slightly different from the one we already had, and after a bit of experimental soldering, it seems to be working fine. I'm posting this guide in case it helps anyone else wanting to modify one of these drills.
 Photoarchive: /website/rcc/caving/photo_archive/newzealand/2015-03-15-Drill%20Modification
 Mainimg: IMG_20150315_190658.jpg
-Thumbl: 2015-03-15.jpg
-Thumbr: IMG_20150315_190041.jpg
+Thumbl: 2015-03-15--thumb.jpg
+Thumbr: IMG_20150315_190041--thumb.jpg
 Author: Jack Hare
 
 We have one Makita rotary hammer drill in the club already, but for this expedition we wanted another so we could have two teams bolting at the same time. Jarv already described the LiPo batteries in a [previous post](https://union.ic.ac.uk/rcc/caving/newzealand/articles/2015-03-12-drills.html), and he also an excellent [blog post](https://migovec.wordpress.com/2011/07/06/makita-bhr162/) on modifying Makita drills to add long leads for external batteries. We bought a new drill off eBay for £99 (all the cost is in the batteries, so 'naked' drills are quite cheap). Having nothing better to do with my Sunday evening, I decided to crack it open and poke around inside.
