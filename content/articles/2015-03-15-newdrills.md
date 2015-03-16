@@ -44,3 +44,5 @@ I've been told by Jarv that this could be a wire leading to a thermistor on the 
 
 ###Putting it back together
 Reversing the steps above gets the drill back together nicely - it's worth cross tightening the screws to keep the watertight seals on the drill in proper working order. Now we have two working drills for New Zealand, and I have learnt far more about the internals of this specific drill than I ever, ever wanted to know.
+
+####Jack Hare
