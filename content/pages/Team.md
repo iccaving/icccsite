@@ -82,7 +82,7 @@ Call sign: Master Grater
 </td>
 <td>
 <h3 class="nopad">Cecilia Kan</h3>
-Security Officer<br>
+Compliance Officer<br>
 Age: 20<br>
 Call sign: Mushroom Chopper
 </td>
