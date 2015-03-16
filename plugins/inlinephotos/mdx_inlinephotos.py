@@ -2,7 +2,7 @@
 import markdown
 from markdown.inlinepatterns import Pattern
 
-image = r'(\{|\{!)(".*?")?.*?((?:[a-z][a-z]+))(\})(\()(".*?")(\))'
+image = r'(\{!|\{)(".*?")?.*?((?:[a-z][a-z]+))(\})(\()(".*?")(\))'
 
 class AttrTagPattern(Pattern):
     """
@@ -19,11 +19,11 @@ class AttrTagPattern(Pattern):
         figure = markdown.util.etree.SubElement(a, 'figure')
         el = markdown.util.etree.SubElement(figure, 'img')
         if m.group(2) == '{!':
-            el.set('src', m.group(7).replace('"','').replace('\'',''))
-            a.set('href', m.group(7).replace('"','').replace('\'',''))
+            el.set('src', m.group(7)[1:-1])
+            a.set('href', m.group(7)[1:-1])
         elif m.group(2) == '{':
-            el.set('src', self.md.Meta['photoarchive'][0].encode("utf-8") + '/' + m.group(7).replace('"','').replace('\'',''))
-            a.set('href', self.md.Meta['photoarchive'][0].encode("utf-8") + '/?image=' + m.group(7).replace('"','').replace('\'','').replace('--thumb',''))
+            el.set('src', self.md.Meta['photoarchive'][0].encode("utf-8") + '/' + m.group(7)[1:-1])
+            a.set('href', self.md.Meta['photoarchive'][0].encode("utf-8") + '/?image=' + m.group(7)[1:-1])
         if m.group(4) == 'center':
             figure.set('class', 'article-img-center')
         elif  m.group(4) == 'left':
@@ -32,7 +32,7 @@ class AttrTagPattern(Pattern):
             figure.set('class', 'article-img-right')
         if m.group(3) is not None:
             cap = markdown.util.etree.SubElement(figure, 'figcaption')
-            cap.text = m.group(3).replace('"','').replace('\'','')
+            cap.text = m.group(3)[1:-1]
         return a
 
 class InlinePhotos(markdown.Extension):
