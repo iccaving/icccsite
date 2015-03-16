@@ -379,6 +379,7 @@ a.footer-button:hover {
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
 	background-color: rgba(232, 232, 232, 0.83);
 	padding: 10px 10px 10px 10px;
+	overflow: auto;
 }
 
 .article-content p,ol,ul {
@@ -391,11 +392,12 @@ a.footer-button:hover {
 
 .mainimg {
 	text-align: center;
+	max-height: 600px;
+	padding: 0px 15px;
 }
 
 .mainimg img {
-	max-width: 750px;
-	width: 100%;
+	max-width: 100%;
 }
 
 .article-img-center {
@@ -422,15 +424,18 @@ a.footer-button:hover {
 }
 
 .article-img-center img {
-	width: 100%
+	max-width: 100%;
+	max-height: 600px;
 }
 
 .article-img-left img {
-	width: 100%
+	max-width: 100%;
+	max-height: 300px;
 }
 
 .article-img-right img {
-	width: 100%
+	max-width: 100%;
+	max-height: 300px;
 }
 
 figcaption {

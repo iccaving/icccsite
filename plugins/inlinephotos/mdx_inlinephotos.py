@@ -38,7 +38,7 @@ class AttrTagPattern(Pattern):
 class InlinePhotos(markdown.Extension):
     def extendMarkdown(self, md, md_globals):
         tag = AttrTagPattern(image, md)
-        md.inlinePatterns.add('inlineimg', tag, '_begin')
+        md.inlinePatterns.add('inlineimg', tag, '<image_link')
 
 def makeExtension(configs=None):
     return InlinePhotos(configs=configs)
