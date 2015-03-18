@@ -33,10 +33,12 @@
   <script>
   $(function() {
     $('div.banner').click(function(){
-      if ($('div.left-col').css("display") == "none"){
-        $('div.left-col').css("display", "block");
-      } else{
-        $('div.left-col').css("display", "none");
+      if (jQuery.browser.mobile) {
+        if ($('div.left-col').css("display") == "none"){
+          $('div.left-col').css("display", "block");
+        } else{
+          $('div.left-col').css("display", "none");
+        }
       }
       });
   });
@@ -48,7 +50,7 @@
         $(".center-col").css("margin-top", $(".banner").height());
       }
     });
-    
+
     $( window ).load(function() {
       if (!(jQuery.browser.mobile)) {
         $(".center-col").css("margin-top", $(".banner").height());
@@ -63,7 +65,7 @@
 <body>
   <div class="banner">
     <div class="banner-wrap">
-    <div class="logo"></div>
+    <div class="logo"><img src="assets/logo.svg"></div>
     <div class="banner-title">
       {% block banner %}
       {% endblock %}

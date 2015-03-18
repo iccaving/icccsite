@@ -1,31 +1,32 @@
 /* IC caving web site style sheet for main pages
 */
-
+/*
 @font-face {
-	font-family: 'Roboto-Regular'; /*a name to be used later*/
-	src: url('../fonts/Roboto-Regular.ttf'); /*URL to font*/
+	font-family: 'Roboto-Regular';
+	src: url('../fonts/Roboto-Regular.ttf');
 }
 
 @font-face {
-	font-family: 'Roboto-Black'; /*a name to be used later*/
-	src: url('../fonts/Roboto-Black.ttf'); /*URL to font*/
+	font-family: 'Roboto-Black';
+	src: url('../fonts/Roboto-Black.ttf');
 }
 
 @font-face {
-	font-family: 'Roboto-Bold'; /*a name to be used later*/
-	src: url('../fonts/Roboto-Bold.ttf'); /*URL to font*/
+	font-family: 'Roboto-Bold';
+	src: url('../fonts/Roboto-Bold.ttf');
 }
 
 @font-face {
-	font-family: 'Roboto-Medium'; /*a name to be used later*/
-	src: url('../fonts/Roboto-Medium.ttf'); /*URL to font*/
+	font-family: 'Roboto-Medium';
+	src: url('../fonts/Roboto-Medium.ttf');
 }
 
 @font-face {
-	font-family: 'Roboto-Thin'; /*a name to be used later*/
-	src: url('../fonts/Roboto-Thin.ttf'); /*URL to font*/
+	font-family: 'Roboto-Thin';
+	src: url('../fonts/Roboto-Thin.ttf');
 }
-
+*/
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700,900,100,500);
 /*
 Colour Dictionary:
 #D46A6A: Pink (Link hover)
@@ -48,10 +49,9 @@ body {
 	background-size: 700px;
 	background-repeat: no-repeat;
 	color: #000000;
-	background-position-y: 50px;
-	background-position-x: right;
+	background-position: right 50px;
 	background-attachment: fixed;
-	font-family: Roboto-Regular, Helvetica, Arial, sans-serif;
+	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 400;
 	font-size: 16px;
 	margin: 0px -220px 0px 0px;
 	padding: 0px 220px 0px 0px; /* To allow background to overflow into right sidebar */
@@ -65,7 +65,7 @@ p {
 }
 
 h1 {
-		font-family: Roboto-Bold, Helvetica, Arial, sans-serif;
+		font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 700;
 		font-size: 2.5rem;
 		color:	#143B46;
 		margin: 1rem 0rem;
@@ -98,6 +98,11 @@ a {
 	text-decoration: underline;
 }
 
+a, img {
+	border: none;
+	outline: none;
+}
+
 a:visited {
 	color: #801515
 }
@@ -122,12 +127,12 @@ a:hover {
 /* Column Layout */
 
 .banner {
-	min-height: 90px;
+	/*min-height: 90px;*/
+	height: 90px;
 	background-color: #143B46;
 	overflow: hidden;
 	width: 100%;
 	position:	fixed;
-
 	display: table;
 }
 
@@ -137,7 +142,7 @@ a:hover {
 
 .banner-title {
 	font-size: 3rem;
-	font-family: Roboto-Black, Helvetica, Arial, sans-serif;
+	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 900;
 	padding: 15px 0px 15px 20px;
 	color: #E8E8E8;
 
@@ -158,13 +163,14 @@ a:hover {
 .logo {
 	width: 220px;
 	height: 85px;
-	background-image: url(../../assets/logo.svg);
-	background-size: 180px 85px;
-	background-position: center;
-	background-repeat: no-repeat;
+	text-align: center;
 	float: left;
-
 	display: table-cell;
+}
+
+.logo img {
+	width:170px;
+	height: 85px;
 }
 
 
@@ -210,7 +216,7 @@ a:hover {
  }
 
 .sidebar-content-box {
-	font-family: Roboto-Medium, Helvetica, Arial, sans-serif;
+	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 500;
 	font-size: 0.8rem;
 }
 
@@ -240,15 +246,15 @@ a:hover {
 }
 
 .sidebar-sub-item a:hover {
-	font-family: Roboto-Regular, Helvetica, Arial, sans-serif;
+	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 400;
 }
 .sidebar-item a {
-	font-family: Roboto-Medium, Helvetica, Arial, sans-serif;
+	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 500;
 	padding: 10px 0px 10px 20px;
 }
 
 .sidebar-sub-item a {
-	font-family: Roboto-Thin, Helvetica, Arial, sans-serif;
+	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 100;
 	padding: 10px 0px 10px 60px;
 }
 
@@ -298,7 +304,7 @@ a:hover {
 .content-left a {
 	color: #E8E8E8;
 	text-decoration: none;
-	font-family: Roboto-Bold, Helvetica, Arial, sans-serif;
+	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 700;
 }
 
 .content-right {
@@ -309,7 +315,7 @@ a:hover {
 	padding: 10px 10px 10px 10px;
 	background-color: #407F7F;
 	color: #E8E8E8;
-	font-family: Roboto-Medium, Helvetica, Arial, sans-serif;
+	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 500;
 }
 
 .content {
@@ -360,7 +366,7 @@ a:hover {
 
 a.footer-button {
 	padding: 5px 5px 5px 5px;
-	font-family: Roboto-Medium, Helvetica, Arial, sans-serif;
+	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 500;
 	color: #AA3939;
 	text-decoration: underline;
 }
@@ -393,7 +399,7 @@ a.footer-button:hover {
 .mainimg {
 	text-align: center;
 	max-height: 600px;
-	padding: 0px 15px;
+	padding: 25px 25px 0px 25px;
 }
 
 .mainimg img {
@@ -480,7 +486,7 @@ hr.hrsidebartop {
 
 /* Photo page stuff */
 .currlink, .prevlink, .nextlink {
-	font-family: Roboto-Medium, Helvetica, Arial, sans-serif;
+	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 500;
 	display: table-cell;
 	text-align: center;
 	vertical-align: middle;
