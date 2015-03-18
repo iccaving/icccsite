@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Stores Gnomes'
+AUTHOR = u'ICCC'
 SITENAME = u'Imperial College Caving Club'
 #SITEURL = 'https://union.ic.ac.uk/rcc/caving/topsecret'
 SITEURL = ''
