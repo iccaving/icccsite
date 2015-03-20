@@ -44,6 +44,7 @@
           var inner = $(this).data("idinner");
           var outerelement = $('#' + outer);
           var innerelement = $('#' + inner);
+          $(outerelement).bind("transitionend webkitTransitionEnd oTransitionEnd MSTransitionEnd", function(){  if (!$(this).hasClass('collapsed')){ $(this).css({ 'max-height': $(innerelement).outerHeight() + 'px' }); } });
           if (outerelement.hasClass('collapsed')) {
             var height = innerelement.outerHeight();
             outerelement.css({ 'max-height': (parseInt(height)).toString() + 'px' });
@@ -51,7 +52,6 @@
             outerelement.css({ 'max-height': '0px' });
           }
           outerelement.toggleClass('collapsed');
-
           if ($(this).data("upidouter") != null && $(this).data("upidinner")) {
             var outer = $(this).data("upidouter");
             var inner = $(this).data("upidinner");
