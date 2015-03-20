@@ -45,8 +45,8 @@
           var outerelement = $('#' + outer);
           var innerelement = $('#' + inner);
           if (outerelement.hasClass('collapsed')) {
-            outerelement.css({ 'max-height': innerelement.outerHeight() + 'px' });
             var height = innerelement.outerHeight();
+            outerelement.css({ 'max-height': (parseInt(height)).toString() + 'px' });
           } else {
             outerelement.css({ 'max-height': '0px' });
           }
