@@ -1,31 +1,5 @@
 /* IC caving web site style sheet for main pages
 */
-/*
-@font-face {
-	font-family: 'Roboto-Regular';
-	src: url('../fonts/Roboto-Regular.ttf');
-}
-
-@font-face {
-	font-family: 'Roboto-Black';
-	src: url('../fonts/Roboto-Black.ttf');
-}
-
-@font-face {
-	font-family: 'Roboto-Bold';
-	src: url('../fonts/Roboto-Bold.ttf');
-}
-
-@font-face {
-	font-family: 'Roboto-Medium';
-	src: url('../fonts/Roboto-Medium.ttf');
-}
-
-@font-face {
-	font-family: 'Roboto-Thin';
-	src: url('../fonts/Roboto-Thin.ttf');
-}
-*/
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,700,900,100,500);
 /*
 Colour Dictionary:
@@ -207,17 +181,28 @@ a:hover {
 	margin: 20px auto 20px auto;
 }
 
-/*Sidebar properties*/.
+/*Sidebar properties*/
 
 .sidebar {
-	min-height: 100%;
 	float: left;
 	width: 100%;
+
+	height: calc(100% - 90px);
+	display: flex;
+	flex-flow: column nowrap;
+	overflow-x: hidden;
+	overflow-y: auto;
  }
 
 .sidebar-content-box {
 	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 500;
 	font-size: 0.8rem;
+
+	flex: 0 0 auto;
+}
+
+#sidebar-fill {
+	flex: 1 0 auto;
 }
 
 .sidebar-item a, .sidebar-sub-item a {
@@ -476,12 +461,18 @@ hr.hrstyle {
 hr.hrsidebar {
 	border-top: 1px solid #E8E8E8;
 	border-bottom: 0px solid transparent;
+
+	width: 100%;
+	flex: 0 0 auto;
 }
 
 hr.hrsidebartop {
 	border-top: 1px solid #E8E8E8;
 	border-bottom: 0px solid transparent;
 	margin-top: 0px;
+
+	width: 100%;
+	flex: 0 0 auto;
 }
 
 /* Photo page stuff */

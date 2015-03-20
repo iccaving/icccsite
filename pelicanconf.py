@@ -39,3 +39,5 @@ ARTICLE_URL = 'articles/{slug}.html'
 ARTICLE_SAVE_AS = 'articles/{slug}.html'
 
 FAVICON = "assets/iclogo.png"
+
+DISQUS_SITENAME = u'iccc'
