@@ -3,7 +3,7 @@ Authors: Rhys Tyers
 Location: page
 
 <style>
-img {
+.mugshot {
   float: left;
   margin-right: 10px;
 }
@@ -18,7 +18,7 @@ td {
 
 <tr>
 <td>
-<img src="../photo_archive/newzealand/mugshots/rhys--thumb.jpg"></img>
+<img class="mugshot" src="../photo_archive/newzealand/mugshots/rhys--thumb.jpg"></img>
 </td>
 <td>
 <h3 class="nopad">Rhys Tyers</h3>
@@ -30,7 +30,7 @@ Call sign: Private Dancer
 
 <tr>
 <td>
-<img src="../photo_archive/newzealand/mugshots/tanguy--thumb.jpg"></img>
+<img class="mugshot" src="../photo_archive/newzealand/mugshots/tanguy--thumb.jpg"></img>
 </td>
 <td>
 <h3 class="nopad">Tanguy Racine</h3>
@@ -42,7 +42,7 @@ Call sign: Root Smoker
 
 <tr>
 <td>
-<img src="../photo_archive/newzealand/mugshots/jack--thumb.jpg"></img>
+<img class="mugshot" src="../photo_archive/newzealand/mugshots/jack--thumb.jpg"></img>
 </td>
 <td>
 <h3 class="nopad">Jack Hare</h3>
@@ -54,7 +54,7 @@ Call sign: Hunter Leader
 
 <tr>
 <td>
-<img src="../photo_archive/newzealand/mugshots/oli--thumb.jpg"></img>
+<img class="mugshot" src="../photo_archive/newzealand/mugshots/oli--thumb.jpg"></img>
 </td>
 <td>
 <h3 class="nopad">Oliver Myerscough</h3>
@@ -66,7 +66,7 @@ Call sign: Adobe Reader
 
 <tr>
 <td>
-<img src="../photo_archive/newzealand/mugshots/james--thumb.jpg"></img>
+<img class="mugshot" src="../photo_archive/newzealand/mugshots/james--thumb.jpg"></img>
 </td>
 <td>
 <h3 class="nopad">James O'Hanlon</h3>
@@ -78,7 +78,7 @@ Call sign: Master Grater
 
 <tr>
 <td>
-<img src="../photo_archive/newzealand/mugshots/cecilia--thumb.jpg"></img>
+<img class="mugshot" src="../photo_archive/newzealand/mugshots/cecilia--thumb.jpg"></img>
 </td>
 <td>
 <h3 class="nopad">Cecilia Kan</h3>
@@ -90,7 +90,7 @@ Call sign: Mushroom Chopper
 
 <tr>
 <td>
-<img src="../photo_archive/newzealand/mugshots/alex--thumb.jpg"></img>
+<img class="mugshot" src="../photo_archive/newzealand/mugshots/alex--thumb.jpg"></img>
 </td>
 <td>
 <h3 class="nopad">Alex Seaton</h3>
@@ -102,7 +102,7 @@ Call sign: Easy Peeler
 
 <tr>
 <td>
-<img src="../photo_archive/newzealand/mugshots/chris--thumb.jpg"></img>
+<img class="mugshot" src="../photo_archive/newzealand/mugshots/chris--thumb.jpg"></img>
 </td>
 <td>
 <h3 class="nopad">Chris McDonnell</h3>
