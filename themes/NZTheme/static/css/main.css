@@ -34,7 +34,7 @@ body {
 
 /*Global Text and link properties */
 
-p {
+p, ul {
 		line-height: 1.5rem;
 }
 
