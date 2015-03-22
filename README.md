@@ -72,7 +72,7 @@ Be very careful with this. It deletes the entire subsite (on the union server) a
 The photos are a bit more complicated due to the photo_archive being outside of the root of the nz subsite. To do this you will need at least SFTP access.
 * Make folder in appropriate location in photo_archive. e.g "/home/www/htdocs/rcc/caving/photo_archive/newzealand/YYYY-MM-DD%20-%20Placename". Note: %20 is just a space character. Your sftp client can probably handle spaces.
 * Upload photos to this folder.
-* Run the thumb.sh script in the photo_archive root. This will generate the thumbnails and small images.
+* Run the thumb.sh script that is in photo_archive root from the directory with your new photos. This will generate the thumbnails and small images.
 * In the nz subsite there is a photo_archive folder (do not put photos here). From here copy the "index.php" file to your new photo folder.
 * In the relevant article, fill out the relevent metadata. (This can be done before making the folder/uploading photos, the links will just be dead until you do)
 Done.
