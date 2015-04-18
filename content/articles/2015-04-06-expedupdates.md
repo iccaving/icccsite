@@ -4,6 +4,41 @@ Location: Takaka Hill Cave Hut
 Summary: Rolling updates from the expedition, in the field in New Zealand.
 Author: Jack Hare
 
+## 2015-04-13 - Snow
+
+There's snow on the high peaks. As we drive in the afternoon sun to Wakefield
+to await our heli lift, we can see far to the south the glowing white shards of
+dark marble thrusting far into the clouds. My heart sinks - we are not prepared
+for this. We always knew there was a chance that winter would come early this
+year, covering the mountain and our potential caves in snow. Our contact,
+Kieran, confirms that there is at least 20cm on the ground, the freezing level
+300m below our proposed base camp and a huge storm sweeping in on Friday,
+promising more snow.
+
+The mood was still high as we camped by the side of Highway 60, and ate
+a chickpea and peanut butter curry for dinner. I spoke up after a few bites, to
+point out how grim it would be on the mountain, and how difficult it would be
+to achieve anything up there. The silence was deafening as we sat and thought
+and tried to find a way round the inevitability of the obvious conclusion - we
+would not be going up Mt Owen as we'd planned and strove for over the last six
+months.
+
+In the largest tent we clustered with maps and whisky. We read and reread
+emails sent by all our sources in NZ, looked at forecasts, going leads,
+campgrounds and roads, creeks and river beds that shouldn't be dry but were,
+and a plan formed. We looked to Takaka Hill, dark and brooding, covered with
+deep, old forest and razor blade crags of rock, made from the same marble as Mt
+Owen, ancient and shattered. We knew there were acres of forest untramped, with
+caves and sinkholes wreathed in trees and undergrowth. If we returned the next
+day, made camp and pushed hard, we'd have eleven solid days of caving, putting
+in long hours scouring the hillside and pushing deep into new caves as yet
+untrodden.
+
+*The expedition is remaining on Takaka Hill, due to continued poor weather on
+Mount Owen*
+
+#### Jack Hare
+
 ## 2015-04-10 - Ed's Cellar 
 
 ( This was transcribed by JMF at 23:40 BST, so 10:40 NZ time tomorrow 2015-04-11, 
