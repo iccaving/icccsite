@@ -1,5 +1,5 @@
 Title: In the field expedition updates
-Date: 2015-04-06
+Date: 2015-04-05
 Location: Takaka Hill Cave Hut
 Summary: Rolling updates from the expedition, in the field in New Zealand.
 Author: Jack Hare
