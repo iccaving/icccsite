@@ -114,6 +114,14 @@ a:hover {
 	display: table-row;
 }
 
+.menu-icon {
+	position: absolute;
+	font-size: 4rem;
+	color: white;
+	padding: 5px 0px 0px 10px;
+	display: none;
+}
+
 .banner-title {
 	font-size: 3rem;
 	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 900;

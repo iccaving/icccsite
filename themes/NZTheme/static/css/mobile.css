@@ -52,6 +52,10 @@ a:visited { }
   display: block;
 }
 
+.menu-icon {
+  display: block;
+}
+
 .banner-title {
   font-size: 1rem;
   padding: 5px 0px 5px 0px;
