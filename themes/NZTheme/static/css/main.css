@@ -364,6 +364,10 @@ a.footer-button:hover {
 	color: #D46A6A
 }
 
+.paginator {
+	text-align: center;
+}
+
 /*Article and Page Content Styling */
 .article-content {
 	border-radius: 2px;
