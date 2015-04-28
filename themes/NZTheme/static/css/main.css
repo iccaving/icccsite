@@ -213,7 +213,7 @@ a:hover {
 	flex: 1 0 auto;
 }
 
-.sidebar-item a, .sidebar-sub-item a {
+.sidebar-item a, .sidebar-sub-item a, .sidebar-sub-sub-item a {
 	display: block;
 	height: 100%;
 	text-decoration: none;
@@ -247,6 +247,11 @@ a:hover {
 }
 
 .sidebar-sub-item a {
+	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 100;
+	padding: 10px 0px 10px 60px;
+}
+
+.sidebar-sub-sub-item {
 	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 100;
 	padding: 10px 0px 10px 60px;
 }

@@ -30,11 +30,9 @@ DEFAULT_ORPHANS = 4
 DEFAULT_DATE_FORMAT = '%d-%m-%Y'
 
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ['photoarchive', 'saveoldnz', 'inlinephotos']
+PLUGINS = ['photoarchive', 'acyear', 'inlinephotos', 'cavepeeps']
 
 SLUGIFY_SOURCE = 'basename'
-
-ARTICLE_EXCLUDES = ['oldnz']
 
 ARTICLE_URL = 'articles/{slug}.html'
 ARTICLE_SAVE_AS = 'articles/{slug}.html'

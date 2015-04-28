@@ -3,9 +3,11 @@
 
       <div class="sidebar-content-box">
         <div class="sidebar-item"><a href="{{ SITEURL }}/">Home</a></div>
-        <div class="sidebar-item"><a href="{{ SITEURL }}/pages/introduction.html">Introduction</a></div>
-        <div class="sidebar-item"><a href="{{ SITEURL }}/pages/team.html">Team</a></div>
-        <div class="sidebar-item"><a href="{{ SITEURL }}/pages/itinerary.html">Itinerary</a></div>
+        <div class="sidebar-item"><a href="{{ SITEURL }}/pages/calendar.html">Calendar</a></div>
+        <div class="sidebar-item"><a href="{{ SITEURL }}/pages/clubinfo.html">Club Info</a></div>
+        <div class="sidebar-item"><a href="{{ SITEURL }}/pages/library.html">Library</a></div>
+        <div class="sidebar-item"><a href="{{ SITEURL }}/pages/contacts.html">Contacts</a></div>
+        <div class="sidebar-item"><a href="{{ SITEURL }}/pages/awards.html">Awards</a></div>
       </div>
 
       <hr class="hrsidebar">
@@ -14,14 +16,43 @@
         <div class="sidebar-item" data-idouter="posts-outer" data-idinner="posts-inner"><a>Trips and Posts</a></div>
         <div class="sidebar-outer collapsed" id="posts-outer">
           <div class="sidebar-inner" id="posts-inner">
+            {% set year = '' %}
+            {% for item in yearlist %}
+              {% if item.acyear != year %}
+                {% if year != '' %}
+                </div>
+                </div>
+                {% endif %}
+                {% set year = item.acyear %}
+                <div class="sidebar-sub-item" data-idouter="trips-sub-outer-{{ item.acyear }}" data-idinner="trips-sub-inner-{{ item.acyear }}" data-upidouter="trips-outer" data-upidinner="trips-inner"><a>{{ item.acyear }}</a></div>
+                <div class="sidebar-outer collapsed" id="trips-sub-outer-{{ item.acyear }}">
+                <div class="sidebar-inner" id="trips-sub-inner-{{ item.acyear }}">
+                <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ item.article.url }}">{{ item.article.title }}</a></div>
+              {% else %}
+                <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ item.article.url }}">{{ item.article.title }}</a></div>
+              {% endif %}
+            {% endfor %}
+
+            {% if yearlist|count > 0 %}
+            </div>
+            </div>
+            {% endif %}
+          </div>
+        </div>
+
+      <div class="sidebar-content-box">
+        <div class="sidebar-item" data-idouter="tours-outer" data-idinner="tours-inner"><a>Tours</a></div>
+        <div class="sidebar-outer collapsed" id="tours-outer">
+          <div class="sidebar-inner" id="tours-inner">
             {% for article in articles %}
-              {% if article.location != "sticky" %}
-                <div class="sidebar-sub-item"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
+              {% if article.triportour == 'tour' %}
+                <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
               {% endif %}
             {% endfor %}
           </div>
         </div>
       </div>
+    </div>
 
       <div class="sidebar-content-box">
         <div class="sidebar-item"><a href="{{ SITEURL }}/photo_archive/">Photos</a></div>
@@ -30,7 +61,6 @@
       <hr class="hrsidebar">
 
       <div id="sidebar-fill" class="sidebar-content-box">
-        <div class="sidebar-item"><a href="{{ SITEURL }}/../">ICCC Main Site</a></div>
       </div>
 
       <div class="sidebar-content-box">
@@ -66,5 +96,5 @@
         });
       });
       </script>
-
+</div>
 </div>
