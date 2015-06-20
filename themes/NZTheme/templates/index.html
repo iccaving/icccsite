@@ -8,7 +8,7 @@ Imperial College Caving Club
   {% if articles %}
     {% for article in articles %}
       {% if articles_previous_page == None %}
-        {% if article.location == 'sticky' %}
+        {% if article.type == 'stickyindex' %}
           <div class="content-box">
             <div class="content-header">
               <div class="content-left">
@@ -29,7 +29,7 @@ Imperial College Caving Club
       {% endif %}
     {% endfor %}
     {% for article in articles_page.object_list %}
-      {% if article.location != 'sticky' %}
+      {% if article.type != 'stickyindex' %}
         <div class="content-box">
           <div class="content-header">
             <div class="content-left">

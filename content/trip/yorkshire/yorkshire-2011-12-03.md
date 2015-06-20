@@ -6,7 +6,7 @@ Mainimg:
 Thumbl:
 Thumbr:
 Summary: Short version for index and feeds
-TripOrTour: trip
+Type: trip
 Cavepeeps: cave1(person1, person2, person3) cave2(person4, person5)
 
 This is the content of my super blog post.

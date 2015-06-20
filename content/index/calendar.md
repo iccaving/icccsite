@@ -1,8 +1,8 @@
 Title: Calender Autumn 2014
 Date: 2010-09-01 10:20
 Authors:
-Location: sticky
-TripOrTour: index
+Location:
+Type: stickyindex 
 
 17--19th Oct:	Wales, Caerllwyn, WSG Cottage
 

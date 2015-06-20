@@ -1,6 +1,5 @@
 /* IC caving web site style sheet for main pages
 */
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,700,900,100,500);
 /*
 Colour Dictionary:
 #D46A6A: Pink (Link hover)
@@ -27,8 +26,8 @@ body {
 	background-attachment: fixed;
 	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 400;
 	font-size: 16px;
-	margin: 0px -220px 0px 0px;
-	padding: 0px 220px 0px 0px; /* To allow background to overflow into right sidebar */
+	margin: 0 -220px 0 0;
+	padding: 0 220px 0 0; /* To allow background to overflow into right sidebar */
 	overflow-x: hidden;
 }
 
@@ -42,27 +41,27 @@ h1 {
 		font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 700;
 		font-size: 2.5rem;
 		color:	#143B46;
-		margin: 1rem 0rem;
+		margin: 1rem 0;
 		}
 
 h2 {
 		font-size: 1.5rem;
 		font-weight: bold;
 		color: #0D4D4D;
-		margin: 1rem 0rem;
+		margin: 1rem 0;
 		}
 
 h3 {
 		font-size: 1.125rem;
 		font-weight: bold;
 		color: #407F7F;
-		margin: 1rem 0rem;
+		margin: 1rem 0;
 		}
 h4 {
 		font-size: 1rem;
 		font-weight: bold;
 		color: #407F7F;
-		margin: 1rem 0rem;
+		margin: 1rem 0;
 		text-align: right;
 }
 
@@ -91,7 +90,7 @@ a:hover {
 }
 
 .nopad {
-	padding: 0px;
+	padding: 0;
 }
 
 .center {
@@ -118,14 +117,14 @@ a:hover {
 	position: absolute;
 	font-size: 4rem;
 	color: white;
-	padding: 5px 0px 0px 10px;
+	padding: 5px 0 0 10px;
 	display: none;
 }
 
 .banner-title {
 	font-size: 3rem;
 	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 900;
-	padding: 15px 0px 15px 20px;
+	padding: 15px 0 15px 20px;
 	color: #E8E8E8;
 
 	display: table-cell;
@@ -172,7 +171,7 @@ a:hover {
 .center-col {
 		float: left;
 		vertical-align: top;
-		margin: 90px 0px 0px 220px;
+		margin: 90px 0 0 220px;
 		height: 100%;
 		width: calc(100% - 440px);
 }
@@ -221,19 +220,19 @@ a:hover {
 
 	transition: box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 	transition-delay: 0.2s;
-	-moz-box-shadow:    inset 0 0 0px #000000;
-	-webkit-box-shadow: inset 0 0 0px #000000;
-	box-shadow:         inset 0 0 0px #000000;
+	-moz-box-shadow:    inset 0 0 0 #000000;
+	-webkit-box-shadow: inset 0 0 0 #000000;
+	box-shadow:         inset 0 0 0 #000000;
 }
 
-.sidebar-item a:active, .sidebar-sub-item a:active, .sidebar-sub-sub-item a:active {
+.sidebar-item a:active, .sidebar-sub-item a:active, .sidebar-sub-sub-item:active {
 	-moz-box-shadow:    inset 0 0 10px #000000;
 	-webkit-box-shadow: inset 0 0 10px #000000;
 	box-shadow:         inset 0 0 10px #000000;
 	transition-delay: 0s;
 }
 
-.sidebar-item a:hover, .sidebar-sub-item a:hover, .sidebar-item:hover, .sidebar-sub-item:hover {
+.sidebar-item a:hover, .sidebar-sub-item a:hover, .sidebar-sub-sub-item a:hover, .sidebar-item:hover, .sidebar-sub-item:hover, .sidebar-sub-sub-item:hover {
 	text-decoration: none;
 	background-color: #A6373F;
 }
@@ -243,17 +242,17 @@ a:hover {
 }
 .sidebar-item a {
 	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 500;
-	padding: 10px 0px 10px 20px;
+	padding: 10px 0 10px 20px;
 }
 
 .sidebar-sub-item a {
-	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 100;
-	padding: 10px 0px 10px 60px;
+	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 400;
+	padding: 10px 0 10px 60px;
 }
 
 .sidebar-sub-sub-item {
 	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 100;
-	padding: 10px 0px 10px 60px;
+	padding: 10px 0 10px 60px;
 }
 
 .sidebar-item.no-link a:hover, .sidebar-item.no-link:hover {
@@ -267,19 +266,20 @@ a:hover {
 }
 
 .collapsed {
-	max-height:0px;
+	max-height:0;
 }
 
 .sidebar-outer {
 	-webkit-transition: max-height .5s ease;
-		-moz-transition: max-height .5s ease;
+		 -moz-transition: max-height .5s ease;
+	     -o-transition: max-height .5s ease;
 					transition: max-height .5s ease;
 	overflow: hidden;
 }
 /* Index Content properties */
 
 .content-box {
-	margin: 0px 0px 20px 0px;
+	margin: 0 0 20px 0;
 	width: 100%;
 	border-radius: 2px;
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
@@ -318,16 +318,16 @@ a:hover {
 
 .content {
 	width: calc(100% - 20px);
-	padding: 10px 10px 0px 10px;
+	padding: 10px 10px 0 10px;
 }
 
 .content-summary {
-	padding: 0px 10px;
+	padding: 0 10px;
 	vertical-align: top;
 }
 
 .content-summary p {
-	margin: 0px;
+	margin: 0;
 }
 
 .index-thumbl {
@@ -391,17 +391,17 @@ a.footer-button:hover {
 }
 
 .article-content p,ol,ul {
-	padding: 0px 50px;
+	padding: 0 50px;
 }
 
 .article-content h1,h2,h3,h4,h5 {
-	padding: 0px 25px;
+	padding: 0 25px;
 }
 
 .mainimg {
 	text-align: center;
 	max-height: 600px;
-	padding: 25px 25px 0px 25px;
+	padding: 25px 25px 0 25px;
 }
 
 .mainimg img {
@@ -411,23 +411,23 @@ a.footer-button:hover {
 .article-img-center {
   width: calc(100% - 50px);
   text-align: center;
-  padding: 0px 25px;
-  margin: 0px;
+  padding: 0 25px;
+  margin: 0;
 }
 
 .article-img-left {
 	width: 50%;
   float: left;
-  margin: 0px;
-  padding: 10px 25px 0px 25px;
+  margin: 0;
+  padding: 10px 25px 0 25px;
   text-align: center;
 }
 
 .article-img-right {
 	width: 50%;
   float: right;
-  margin: 0px;
-  padding: 10px 25px 0px 25px;
+  margin: 0;
+  padding: 10px 25px 0 25px;
   text-align: center;
 }
 
@@ -477,7 +477,7 @@ hr.hrstyle {
 
 hr.hrsidebar {
 	border-top: 1px solid #E8E8E8;
-	border-bottom: 0px solid transparent;
+	border-bottom: 0 solid transparent;
 
 	width: 100%;
 	flex: 0 0 auto;
@@ -485,8 +485,8 @@ hr.hrsidebar {
 
 hr.hrsidebartop {
 	border-top: 1px solid #E8E8E8;
-	border-bottom: 0px solid transparent;
-	margin-top: 0px;
+	border-bottom: 0 solid transparent;
+	margin-top: 0;
 
 	width: 100%;
 	flex: 0 0 auto;
@@ -550,9 +550,9 @@ hr.hrsidebartop {
 
 	transition: box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 	transition-delay: 0.2s;
-	-moz-box-shadow:    inset 0 0 0px #000000;
-	-webkit-box-shadow: inset 0 0 0px #000000;
-	box-shadow:         inset 0 0 0px #000000;
+	-moz-box-shadow:    inset 0 0 0 #000000;
+	-webkit-box-shadow: inset 0 0 0 #000000;
+	box-shadow:         inset 0 0 0 #000000;
 }
 
 .thumb-toggle:active {
@@ -567,7 +567,7 @@ hr.hrsidebartop {
 	max: 100px;
 }
 .thumbnail {
-	border: 0px solid transparent;
+	border: 0 solid transparent;
 	max: 100px;
 }
 

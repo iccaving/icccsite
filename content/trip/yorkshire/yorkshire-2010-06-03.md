@@ -1,7 +1,7 @@
 Title: Yorkshire I
 Date: 2010-06-03 10:20
 Location: yorkshire
-TripOrTour: trip
+Type: trip
 Photoarchive:
 Mainimg:
 Thumbl:

@@ -6,10 +6,10 @@ def acyear(generator):
     yearlist = []
     row = namedtuple('row', 'date acyear article')
     for article in generator.articles:
-        if 'triportour' in article.metadata.keys():
+        if 'type' in article.metadata.keys():
           #Only do this if the article is a trip because it only matters for the sidebar
           #ordering
-            if article.triportour == 'trip':
+            if article.type == 'trip':
               #The boundary is august/september
                 if int(article.date.strftime('%m')) > 8:
                     year1 = article.date.strftime('%Y')
