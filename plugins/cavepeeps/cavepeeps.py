@@ -89,7 +89,7 @@ def generatecavepages(generator, writer):
 def generatecavepage(generator, writer):
   #Generate a page linking to all the cave pages
   template = generator.get_template('cavepage')
-  filename = 'caves/caves.html'
+  filename = 'caves/index.html'
   writer.write_file(filename, template, generator.context)
 
 def generatepersonpages(generator, writer):
@@ -103,7 +103,7 @@ def generatepersonpages(generator, writer):
 def generatepersonpage(generator, writer):
   #Create a page listing all the people pages
   template = generator.get_template('personpage')
-  filename = 'cavers/cavers.html'
+  filename = 'cavers/index.html'
   writer.write_file(filename, template, generator.context)
 
 def register():
