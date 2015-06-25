@@ -2,17 +2,15 @@ Title: Calender Autumn 2014
 Date: 2010-09-01 10:20
 Authors:
 Location:
-Type: stickyindex 
+Type: stickyindex
 
-17--19th Oct:	Wales, Caerllwyn, WSG Cottage
-
-31st Oct--2nd Nov:	Wales, Ystradfellte, Croydon Cottage
-
-14--16th Nov:	Yorkshire, NPC Cottage
-
-28--30th Nov:	Yorkshire, NPC Cottage
-
-Click for our Google Calendar
+<pre>
+17 - 19th Oct:       Wales, Caerllwyn, WSG Cottage  
+31st Oct - 2nd Nov:	 Wales, Ystradfellte, Croydon Cottage  
+14 - 16th Nov:	     Yorkshire, NPC Cottage  
+28 - 30th Nov:	     Yorkshire, NPC Cottage  
+</pre>
+Click for our Google Calendar  
 ##Fresher Info
 
 Weekly meetings Tuesday 7.00pm in the Union Bar
