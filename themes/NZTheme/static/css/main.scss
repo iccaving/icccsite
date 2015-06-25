@@ -13,6 +13,9 @@ $offwhite: #E8E8E8; /*Off White (Backgrounds/ Large Text on dark backgrounds)*/
 
 /* Global Page Properties */
 
+html {
+}
+
 body {
 	background-color: $body-background;
 	color: #000000;
@@ -23,9 +26,11 @@ body {
 	background-attachment: fixed;*/
 	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 400;
 	font-size: 16px;
-	margin: 0 -220px 0 0;
-	padding: 0 220px 0 0; /* To allow background to overflow into right sidebar */
+	margin: 0;
 	overflow-x: hidden;
+	background-image: url("../../assets/bg.png");
+	background-position: right bottom;
+	background-attachment: fixed;
 }
 
 /*Global Text and link properties */
@@ -101,7 +106,7 @@ a:hover {
 	height: 90px;
 	background-color: $dark-background;
 	overflow: hidden;
-	width: 100%;
+	width: calc(100% - 220px);
 	position:	fixed;
 	display: table;
 	margin: 0 0 0 220px;
@@ -170,10 +175,21 @@ a:hover {
 }
 
 .right-col {
-	float: left;
-	height: 100%;
-	width: 220px;
-	vertical-align: top;
+	/* float: left; */
+  height: 100vh;
+  width: 220px;
+  vertical-align: top;
+  background-image: url("../../assets/jack.png");
+  background-size: 500px;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  /* background-attachment: fixed; */
+  margin-left: -200px;
+  padding-left: 200px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
 }
 
 .container {
@@ -186,7 +202,7 @@ a:hover {
 .sidebar {
 	float: left;
 	width: 100%;
-	height: calc(100% - 90px);
+	height: 100%;
 	display: flex;
 	flex-flow: column nowrap;
 	overflow-x: hidden;
@@ -452,7 +468,6 @@ figcaption {
 .photo-button-wrapper {
 	text-align: center;
 }
-
 
 /*Horizontal rule stylings */
 
