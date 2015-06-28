@@ -1,14 +1,19 @@
 {% extends "base.html" %}
 
-{% block banner %}{% endblock banner %}
+{% block head %}
+<script src="{{ SITEURL }}/theme/js/sorttable.js"></script>
+{% endblock %}
+
+{% block banner %}Cavers{% endblock banner %}
 
 {% block content %}
 <div class="container">
 <div class="article-content">
-<h1>PEOPLE</h1>
+<h3>People and the trips they've been on:</h3>
 
 
-<table>
+<table class="sortable">
+<tr><th>Caver</th><th>No. of Reports</th></tr>
 {% for item in cavepeep_person %}
 <tr><td><a href="{{ SITEURL }}/cavers/{{ item }}.html">{{ item }}</a><br></td><td class="count">{{ cavepeep_person[item]|length }}</td></tr>
 {% endfor %}

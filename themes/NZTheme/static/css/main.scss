@@ -103,13 +103,14 @@ a:hover {
 
 .banner {
 	/*min-height: 90px;*/
-	height: 90px;
+	height: 104px;
 	background-color: $dark-background;
 	overflow: hidden;
 	width: calc(100% - 220px);
 	position:	fixed;
 	display: table;
 	margin: 0 0 0 220px;
+	border-bottom: 1px $offwhite solid;
 }
 
 .banner-wrap {
@@ -397,7 +398,7 @@ a.footer-button:hover {
 	overflow: auto;
 }
 
-.article-content p,ol,ul {
+.article-content p,ol,ul,pre {
 	padding: 0 50px;
 }
 
@@ -466,6 +467,12 @@ figcaption {
 }
 
 .photo-button-wrapper {
+	text-align: center;
+}
+
+/*Table stylings*/
+table.sortable th, table.sortable td {
+	min-width: 6em;
 	text-align: center;
 }
 

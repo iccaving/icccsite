@@ -84,13 +84,14 @@ a:hover {
 /* Column Layout */
 .banner {
   /*min-height: 90px;*/
-  height: 90px;
+  height: 104px;
   background-color: #2D2D2D;
   overflow: hidden;
   width: calc(100% - 220px);
   position: fixed;
   display: table;
-  margin: 0 0 0 220px; }
+  margin: 0 0 0 220px;
+  border-bottom: 1px #E8E8E8 solid; }
 
 .banner-wrap {
   display: table-row; }
@@ -339,7 +340,7 @@ a.footer-button:hover {
   padding: 10px 10px 10px 10px;
   overflow: auto; }
 
-.article-content p, ol, ul {
+.article-content p, ol, ul, pre {
   padding: 0 50px; }
 
 .article-content h1, h2, h3, h4, h5 {
@@ -396,6 +397,11 @@ figcaption {
   font-weight: bold; }
 
 .photo-button-wrapper {
+  text-align: center; }
+
+/*Table stylings*/
+table.sortable th, table.sortable td {
+  min-width: 6em;
   text-align: center; }
 
 /*Horizontal rule stylings */
