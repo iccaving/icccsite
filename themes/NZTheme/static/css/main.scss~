@@ -165,7 +165,6 @@ a:hover {
 	overflow-x: hidden;
 	position: fixed;
 	z-index: 1;
-	display: block;
 }
 
 .center-col {
@@ -612,7 +611,7 @@ hr.hrsidebartop {
 		width: 100%;
 	}
 }
-/* Below 750px
+
 @media screen and (max-width: 750px) {
 @import '_mobile.scss'
-}*/
+}
