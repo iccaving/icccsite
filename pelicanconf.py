@@ -10,10 +10,11 @@ SITEURL = ''
 THEME = 'themes/NZTheme'
 
 PATH = 'content'
+ARTICLE_EXCLUDES = ['caves', 'cavers']
 
 STATIC_PATHS = ['assets', 'photo_archive']
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = u'en'
 
