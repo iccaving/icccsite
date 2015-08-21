@@ -1,13 +1,30 @@
-{% extends "base.html" %}
-
-{% block content %}
+{% extends "base.html" %} {% block head %}
+<script src="{{ SITEURL }}/theme/js/sorttable.js"></script>
+{% endblock %} {% block banner %}{{ personname }}{% endblock banner %} {% block content %}
 <div class="container">
-<div class="article-content">
-{{ personname }} <br>
+  <div class="article-content">
+    <div class="content">
 
-{% for cave, report in reports %}
-  <a href="{{ SITEURL }}/{{ report.url }}">{{ report.date }} - {{ report.title }} - {{ cave }}</a><br>
-{% endfor %}
-</div>
+      {{ bio }}
+      <br>
+
+      <table class="sortable">
+        <tr>
+          <th>Report</th>
+          <th>Cave</th>
+          <th>Date</th>
+        </tr>
+        {% for cave, report in reports %}
+        <tr>
+          <td><a href="{{ SITEURL }}/{{ report.url }}">{{ report.title }}</a>
+            <br>
+          </td>
+          <td>{{ cave }}</td>
+          <td>{{ report.date.strftime('%d-%m-%Y') }}</td>
+        </tr>
+        {% endfor %}
+      </table>
+    </div>
+  </div>
 </div>
 {% endblock %}

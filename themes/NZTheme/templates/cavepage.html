@@ -1,23 +1,42 @@
-{% extends "base.html" %}
-
-{% block head %}
+{% extends "base.html" %} {% block head %}
 <script src="{{ SITEURL }}/theme/js/sorttable.js"></script>
-{% endblock %}
-
-{% block banner %}Caves{% endblock banner %}
-
-{% block content %}
+<script>
+  $(function() {
+    $('#search').on('input propertychange paste', function() {
+      $('.cave').each(function() {
+        if (!($(this).prop('id').indexOf($('#search').val()) >= 0)) {
+          $(this).css('display', 'none');
+        } else {
+          $(this).removeAttr('style');
+        }
+      });
+    });
+  });
+</script>
+{% endblock %} {% block banner %}Caves{% endblock banner %} {% block content %}
 <div class="container">
-<div class="article-content">
-<h3>Caves we've been to and the reports:</h3>
+  <div class="article-content">
+    <div class="content">
+      <h3>Caves we've been to and the reports:</h3>
+      <input type="text" id="search">
+      <table class="sortable">
+        <tr>
+          <th>Cave</th>
+          <th>No. of Reports</th>
+          <th>Most Recent</th>
+        </tr>
+        {% for item in cavepeep_cave %}
+        <tr class="cave" id="{{ item }}">
+          <td><a href="{{ SITEURL }}/caves/{{ item }}.html">{{ item }}</a>
+            <br>
+          </td>
+          <td class="count">{{ cavepeep_cave[item][0]|length }}</td>
+          <td>{{ cavepeep_cave[item][1].strftime('%d-%m-%Y') }}</td>
+        </tr>
+        {% endfor %}
+      </table>
 
-<table class="sortable">
-<tr><th>Cave</th><th>No. of Reports</th></tr>
-{% for item in cavepeep_cave %}
-<tr><td><a href="{{ SITEURL }}/caves/{{ item }}.html">{{ item }}</a><br></td><td class="count">{{ cavepeep_cave[item]|length }}</td></tr>
-{% endfor %}
-</table>
-
-</div>
+    </div>
+  </div>
 </div>
 {% endblock %}
