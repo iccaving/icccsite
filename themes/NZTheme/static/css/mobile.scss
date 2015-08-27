@@ -60,7 +60,7 @@ a:visited { }
   text-align: center;
   padding: 5px 0 5px 100px;
   width: calc(100% - 100px);
-  
+
   display: block;
 }
 
@@ -194,8 +194,11 @@ a.footer-button:visited { }
 figcaption {
 }
 
-.article-content p {
+.article-content p, table {
 	padding: 0px 0px;
+}
+.article-content input {
+	margin: 0;
 }
 .article-content ol,ul {
 	padding: 0px 30px;

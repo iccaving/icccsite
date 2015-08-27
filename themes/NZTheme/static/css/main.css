@@ -100,7 +100,7 @@ a:hover {
   position: absolute;
   font-size: 4rem;
   color: white;
-  padding: 5px 0 0 10px;
+  margin: 5px 0 0 10px;
   display: none; }
 
 .banner-title {
@@ -341,8 +341,11 @@ a.footer-button:hover {
   padding: 10px 10px 10px 10px;
   overflow: auto; }
 
-.article-content p, ol, ul, pre {
+.article-content p, ol, ul, pre, table {
   padding: 0 50px; }
+
+.article-content input {
+  margin: 0 50px; }
 
 .article-content h1, h2, h3, h4, h5 {
   padding: 0 25px; }

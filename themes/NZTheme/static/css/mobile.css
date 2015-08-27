@@ -92,8 +92,11 @@ body {
 .article-img-right {
   padding: 10px 0px 0px 10px; }
 
-.article-content p {
+.article-content p, table {
   padding: 0px 0px; }
+
+.article-content input {
+  margin: 0; }
 
 .article-content ol, ul {
   padding: 0px 30px; }
