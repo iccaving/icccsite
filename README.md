@@ -40,7 +40,7 @@ Finally push your changes:
 And that can be it. Contact whoever is in charge of the site to let them know to update it. If you want to see it yourself (good to check for formatting errors) then run:
 
     ./develop_server.sh start
-    
+
 This will start a web server and display the site for you locally. Navigate to localhost:8000 with your web browser to see it. It is likely that images won't show up.
 
     ./develop_server.sh stop
@@ -62,11 +62,9 @@ Firstly run:
 
     pelican content -s publishconf.py
 
-This will build the site and output it to the output folder (shocking!). To push the site to the union server (and therefore make it live) you will need at least sftp access (can be requested via a sysadmin form). You need to get the contents of the output folder into the /home/www/htdocs/rcc/caving/newzealand/ folder. If you have ssh access (requested by emailing the sysadmin) then you can run:
+This will build the site and output it to the output folder. To push the site to the union server (and therefore make it live) you will need at least sftp access (can be requested via a sysadmin form). You need to get the contents of the output folder into the /home/www/htdocs/rcc/caving/ folder. If you have ssh access (requested by emailing the sysadmin) then you can run:
 
-    rsync -avz --delete output/ username@dougal.union.ic.ac.uk:/home/www/htdocs/rcc/caving/newzealand
-
-Be very careful with this. It deletes the entire subsite (on the union server) and uploads it again. I don't think this is actually necessary but it avoids potential problems from old crap building up and the while the site is small it makes no difference in time.
+    rsync -avz output/ username@dougal.union.ic.ac.uk:/home/www/htdocs/rcc/caving/topsecret
 
 ##Photos
 The photos are a bit more complicated due to the photo_archive being outside of the root of the nz subsite. To do this you will need at least SFTP access.
@@ -76,3 +74,24 @@ The photos are a bit more complicated due to the photo_archive being outside of 
 * In the nz subsite there is a photo_archive folder (do not put photos here). From here copy the "index.php" file to your new photo folder.
 * In the relevant article, fill out the relevent metadata. (This can be done before making the folder/uploading photos, the links will just be dead until you do)
 Done.
+
+#Subsite
+There is a plugin that allows subs sites to be added easily (like the NZ or Slov sites). They are treated essentially entirely seperate from the main site so you can have different plugins and completely different themes. Though its probably best just to modfiy the colour scheme slightly :P.
+###Set up
+It works like the main site. There is a content folder to put articles in, a plug in folder for site specific plugins, a themes folder for a site specific theme. The settings file is a little different. It has to be called "settings.py" and reside in the root of the subsite.
+
+In "settings.py" there are three mandatory settings:
+
+    ISSUBSITE = True
+
+This must be placed in the settings file as is.
+
+    PATH = 'content'
+
+This should point to the folder that your markdown files are in.
+
+    SUBSITE_PATH = 'newzealand'
+
+This should be the name of the subdirectory you want the site to reside in once its published.
+
+All other settings are optional and will default to the main site's settings. All of the file paths in this settings file will be relative to the file itself (i.e not the main site root). Useful settings to change might be the THEME, PLUGINS, PLUGIN_PATHS or STATIC_PATHS which will copy directories in the subsites content folder into the subsites output (just like for the main site).

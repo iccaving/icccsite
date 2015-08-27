@@ -1,0 +1,255 @@
+/* IC caving web site style sheet for main pages
+*/
+@import url("main.css");
+/*
+Colour Dictionary:
+#AA3939: Light Red (Highlighting, Some links)
+#801515: Darker Red (Visited Links)
+
+#143B46: Dark Turquoise (Background Colour for Banner/Sidebar/Headers)
+#407F7F; Light Turquoise (Highlight colour for Banner/Sidebar/Headers/text)
+#5DACC2: Light Blue (Body Background)
+
+#E8E8E8: Off White (Backgrounds/ Large Text on dark backgrounds)
+*/
+
+/* Global Page Properties */
+
+body {
+  background-size: 100%;
+  background-position-y: initial;
+  background-position-x: initial;
+
+  margin: 0px;
+  padding: 0px;
+
+}
+
+/* Global Text and link properties */
+
+h1 { }
+
+h2 { }
+
+h3 { }
+
+a { }
+
+a:visited { }
+
+/* Useful Tags */
+.nodisplay { }
+
+/* Column Layout */
+
+.banner {
+  position: static;
+
+  display: block;
+}
+
+.banner-wrap {
+  display: block;
+}
+
+.menu-icon {
+  display: block;
+}
+
+.banner-title {
+  font-size: 1rem;
+  padding: 5px 0px 5px 0px;
+  float: none;
+  text-align: center;
+
+  display: block;
+}
+
+.banner-title-menu {
+  font-family: Roboto-Black, Helvetica, Arial, sans-serif;
+  color: #E8E8E8;
+  font-size: 1rem;
+  padding: 0px 0px 0px 0px;
+  float: none;
+  text-align: center;
+
+  display: block;
+}
+
+.banner-date {
+  display: none;
+}
+
+.logo {
+  width: 100%;
+  float: none;
+
+  display: block;
+}
+
+.left-col {
+    display: none;
+    float: none;
+    width: initial;
+    height: initial;
+    position: static;
+    margin: 0px;
+}
+
+.center-col {
+    float: none;
+    margin: 0px;
+    width: 100%
+}
+
+.right-col {
+    display: none;
+}
+
+.container {
+  padding: 0px 10px 0px 10px;
+}
+/*Sidebar properties*/.
+
+.sidebar { }
+
+.sidebar-content-box { }
+
+.sidebar-item a, .sidebar-sub-item a { }
+
+.sidebar-item a:active, .sidebar-sub-item a:active, .sidebar-sub-sub-item a:active { }
+
+.sidebar-item a:hover, .sidebar-sub-item a:hover, .sidebar-item:hover, .sidebar-sub-item:hover { }
+
+.sidebar-sub-item a:hover { }
+
+.sidebar-item a { }
+
+.sidebar-sub-item a { }
+
+.sidebar-item.no-link a:hover, .sidebar-item.no-link:hover { }
+
+.sidebar-item.no-link a { }
+
+.collapsed { }
+
+.sidebar-outer { }
+
+/* Index Content properties */
+.content-box { }
+
+.content-header { }
+
+.content-left { }
+
+.content-left a { }
+
+.content-right { }
+
+.content {
+  width: initial;
+}
+.content p{ }
+
+.content-summary { }
+
+.index-thumbl {
+  display: none;
+}
+
+.index-thumbr {
+  display: none;
+}
+
+.content-footer { }
+
+.content-footer-left, .content-footer-right, .content-footer-center {   }
+
+.content-footer-left {   }
+
+.content-footer-center {   }
+
+.content-footer-right {   }
+
+a.footer-button { }
+
+a.footer-button:visited { }
+
+/*Article and Page Content Styling */
+.article-content { }
+
+.mainimg img {
+  width: 100%;
+}
+.article-img-center {
+  width: 100%;
+  padding: 0px 0px;
+}
+
+.article-img-left {
+  padding: 10px 10px 0px 0px;
+}
+
+.article-img-right {
+  padding: 10px 0px 0px 10px;
+}
+
+.article-img-center img {
+}
+
+.article-img-left img {
+}
+
+.article-img-right img {
+}
+
+figcaption {
+}
+
+.article-content p {
+	padding: 0px 0px;
+}
+.article-content ol,ul {
+	padding: 0px 30px;
+}
+.article-content h1,h2,h3,h4,h5 {
+	padding: 0px 0px;
+}
+
+/*Horizontal rule stylings */
+
+hr.hrstyle { }
+
+hr.hrsidebar { }
+
+hr.hrsidebartop { }
+
+
+/* Photo page stuff */
+.currlink, .prevlink, .nextlink { }
+
+.currlink a, .prevlink a, .nextlink a { }
+
+.link-container { }
+
+.maindisplay {
+  max-width: 100%;
+}
+
+.image-wrapper {
+  height: initial;
+}
+
+.image-cell { }
+
+.thumb_box { }
+
+.expand-thumb-box { }
+
+.thumb-toggle { }
+
+.thumb-toggle:active { }
+
+.select-thumbnail { }
+
+.thumbnail { }

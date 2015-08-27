@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+<div class="article-content">
+{{ personname }} <br>
+
+{% for cave, report in reports %}
+  <a href="{{ SITEURL }}/{{ report.url }}">{{ report.date }} - {{ report.title }} - {{ cave }}</a><br>
+{% endfor %}
+</div>
+</div>
+{% endblock %}

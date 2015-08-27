@@ -1,0 +1,15 @@
+from pelican import signals
+import six
+
+def subsites(pelican_obj):
+    cls = pelican_obj.settings['PELICAN_CLASS']
+    if isinstance(cls, six.string_types):
+        module, cls_name = cls.rsplit('.', 1)
+        module = __import__(module)
+        cls = getattr(module, cls_name)
+
+
+
+def register():
+    signals.get_generators.connect(subsites)
+

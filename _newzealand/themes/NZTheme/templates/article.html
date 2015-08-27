@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
+{% block head %}<BASE href="{{ SITEURL }}/">{% endblock %}
+
+{% block banner %}{{ article.title }} <div class="banner-date">{{ article.date.strftime('%d-%m-%Y') }}</div> {% endblock banner %}
+
+
+{% block content %}
+
+<div class="container">
+  <div class="article-content">
+      {% if article.mainimg is defined %}
+        {% if article.mainimg != '' %}
+          {% if article.archiveloc %}
+            <div class="mainimg">
+              <a href="{{ SITEURL }}/{{ article.archiveloc }}"><img src="{{SITEURL}}/{{ article.archiveloc }}{{ article.mainimg}}"></a>
+            </div>
+            <div class="photo-button-wrapper"><a class="photo-button" href="{{ SITEURL }}/{{ article.archiveloc }}">Photos</a></div>
+          {% endif %}
+        {% endif %}
+      {% endif %}
+
+      {{ article.content }}
+
+      <!--{% include 'includes/disqus.html' %}-->
+    </div>
+</div>
+{% endblock %}
