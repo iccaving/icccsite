@@ -1,0 +1,28 @@
+{% extends "base.html" %} {% block head %}
+<script src="{{ SITEURL }}/theme/js/sorttable.js"></script>
+{% endblock %} {% block banner %}{{ cavename }}{% endblock banner %} {% block content %}
+<div class="container">
+  <div class="article-content">
+    <div class="content">
+
+      {{bio}}
+
+      <table class="sortable">
+        <tr>
+          <th>Report</th>
+          <th>Date</th>
+        </tr>
+        {% for report in reports %}
+        <tr>
+          <td><a href="{{ SITEURL }}/{{ report.url }}">{{ report.title }}</a>
+            <br>
+          </td>
+          <td>{{ report.date.strftime('%d-%m-%Y') }}</td>
+        </tr>
+        {% endfor %}
+      </table>
+
+    </div>
+  </div>
+</div>
+{% endblock %}
