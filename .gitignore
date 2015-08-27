@@ -20,4 +20,4 @@ ignore stupid files
 *.pid
 
 ignore sass cache
-*/.sass-cache/
+.sass-cache/
