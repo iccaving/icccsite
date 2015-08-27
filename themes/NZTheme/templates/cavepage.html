@@ -4,7 +4,7 @@
   $(function() {
     $('#search').on('input propertychange paste', function() {
       $('.cave').each(function() {
-        if (!($(this).prop('id').indexOf($('#search').val()) >= 0)) {
+        if (!($(this).prop('id').toLowerCase().indexOf($('#search').val().toLowerCase()) >= 0)) {
           $(this).css('display', 'none');
         } else {
           $(this).removeAttr('style');
@@ -16,7 +16,6 @@
 {% endblock %} {% block banner %}Caves{% endblock banner %} {% block content %}
 <div class="container">
   <div class="article-content">
-    <div class="content">
       <h3>Caves we've been to and the reports:</h3>
       <input type="text" id="search">
       <table class="sortable">
@@ -35,8 +34,6 @@
         </tr>
         {% endfor %}
       </table>
-
-    </div>
   </div>
 </div>
 {% endblock %}
