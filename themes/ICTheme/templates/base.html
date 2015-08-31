@@ -45,9 +45,9 @@
       }
     });
   </script>
-  <!-- Script to ensure banner does not overlap centercol -->
+  <!-- Script to ensure banner does not overlap centercol and that the logo is the same height as the banner-->
   <script>
-    $(window).resize(function() {
+    function bannerresizer() {
       if (!($(window).width() < 750)) {
         $(".center-col").css("margin-top", $(".banner").height());
         $(".logo").css("height", $(".banner").height());
@@ -55,16 +55,13 @@
       } else {
         $(".center-col").css("margin-top", 0);
       }
-    });
+    }
 
+    $(window).resize(function() {
+      bannerresizer();
+    });
     $(window).load(function() {
-      if (!($(window).width() < 750)) {
-        $(".center-col").css("margin-top", $(".banner").height());
-        $(".logo").css("height", $(".banner").height());
-        $(".logo img").css("padding-top", ($(".banner").height() - 100) / 2);
-      } else {
-        $(".center-col").css("margin-top", 0);
-      }
+      bannerresizer();
     });
   </script>
   <!--Google Analytics Tracking-->
