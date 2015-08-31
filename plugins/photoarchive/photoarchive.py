@@ -3,17 +3,20 @@ from pelican import signals
 def isarchive(generator):
     archives = []
     for article in generator.articles:
-        archive_loc = ''
+        if 'PHOTODIRLOC' in generator.settings.keys():
+            archive_loc = generator.settings['PHOTODIRLOC']
+        else:
+            archive_loc = ''
         print "Photoarchive: checking article " + article.title
         if 'photoarchive' in article.metadata.keys():
             if article.photoarchive == '':
-                archive_loc = 'photo_archive/'
-                if 'triportour' in article.metadata.keys():
-                    archive_loc += article.triportour + '/'
+                archive_loc += 'photo_archive/'
+                if 'type' in article.metadata.keys():
+                    archive_loc += article.type + 's/'
                 if 'location' in article.metadata.keys() and 'date' in article.metadata.keys():
                     archive_loc += article.date.strftime('%Y-%m-%d') + ' - ' + article.location + '/'
-                article.metadata['archiveloc'] = archive_loc
-                article.archiveloc = archive_loc
+                article.metadata['archiveloc'] = archive_loc.lower()
+                article.archiveloc = archive_loc.lower()
             else:
                 article.metadata['archiveloc'] = article.photoarchive + '/'
                 article.archiveloc = article.photoarchive + '/'
