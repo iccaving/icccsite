@@ -11,7 +11,7 @@
     <h2>List of photo archives</h1>
       <ul>
     {% for url, name, date in photoarchives %}
-      <li><a href="{{ SITEURL }}/{{ url }}index.php">{{ name }} - {{ date }}</a></li>
+      <li><a href="{{ SITEURL }}/{{ url }}">{{ name }} - {{ date }}</a></li>
     {% endfor %}
     </ul>
   </div>

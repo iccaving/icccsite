@@ -1,12 +1,27 @@
-{% extends "base.html" %} {% block head %}
+{% extends "base.html" %}
+{% block head %}
 <script src="{{ SITEURL }}/theme/js/sorttable.js"></script>
-{% endblock %} {% block banner %}Cavers{% endblock banner %} {% block content %}
+<script>
+  $(function() {
+    $('#search').on('input propertychange paste', function() {
+      $('.caver').each(function() {
+        if (!($(this).prop('id').toLowerCase().indexOf($('#search').val().toLowerCase()) >= 0)) {
+          $(this).css('display', 'none');
+        } else {
+          $(this).removeAttr('style');
+        }
+      });
+    });
+  });
+</script>
+{% endblock %}
+{% block banner %}Cavers{% endblock banner %}
+{% block content %}
 <div class="container">
   <div class="article-content">
     <div class="content">
       <h3>People and the trips they've been on:</h3>
-
-
+      <input type="text" id="search">
       <table class="sortable">
         <tr>
           <th>Caver</th>
@@ -14,7 +29,7 @@
           <th>Most Recent</th>
         </tr>
         {% for person in cavepeep_person %}
-        <tr>
+        <tr class="caver" id="{{ person }}">
           <td><a href="{{ SITEURL }}/cavers/{{ person }}.html">{{ person }}</a>
           </td>
           <td class="count">{{ cavepeep_person[person][0]|length }}</td>
