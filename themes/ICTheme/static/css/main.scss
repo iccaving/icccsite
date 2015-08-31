@@ -1,15 +1,34 @@
 /* IC caving web site style sheet for main pages
 */
 /*Colour Variables:*/
-$link-hover: #D46A6A; /* Pink (Link hover)*/
-$highlight: #AA3939; /*Light Red (Highlighting, links)*/
+$colourscheme: light;
+$link-hover: #D46A6A; /*Link hover*/
+$highlight: #AA3939; /*Light Red (Highlighting,)*/
+$links: #A6373F;
 $visited-links: #801515; /*Darker Red (Visited Links)*/
-$dark-background: #2D2D2D; /*Dark Turquoise (Background Colour for Banner/Sidebar/Headers H1)*/
-$header2: #AB3C3C; /* Turquoise (H2)*/
-$light-background: #AB4444; /*Light Turquoise (Highlight colour for Banner/Sidebar/Headers H3/text)*/
-$body-background: #999999; /*Light Blue (Body Background)*/
+$dark-background: #2D2D2D; /*Dark grey (Background Colour for Banner/Sidebar/Headers H1)*/
+$header2: #AB3C3C; /* (H2)*/
+$light-background: #AB4444; /*(Highlight colour for Banner/Sidebar/Headers H3/text)*/
+$body-background: #999999; /*(Body Background)*/
 $offwhite: #E8E8E8; /*Off White (Backgrounds/ Large Text on dark backgrounds)*/
+$text: #000000; /*Normal text colour*/
+$back-image: "../../assets/bg.png";
+$right-image: "../../assets/jack.png";
 
+@if $colourscheme == light {
+	$link-hover: #D46A6A; /* Pink (Link hover)*/
+	$highlight: #AA3939; /*Light Red (Highlighting,)*/
+	$links: #A6373F;
+	$visited-links: #801515; /*Darker Red (Visited Links)*/
+	$dark-background: #143B46; /*Dark Turquoise (Background Colour for Banner/Sidebar/Headers H1)*/
+	$header2: #0D4D4D; /* Turquoise (H2)*/
+	$light-background: #407F7F; /*Light Turquoise (Highlight colour for Banner/Sidebar/Headers H3/text)*/
+	$body-background: #5DACC2; /*Light Blue (Body Background)*/
+	$offwhite: #E8E8E8; /*Off White (Backgrounds/ Large Text on dark backgrounds)*/
+	$text: #000000; /*Normal text colour*/
+	$back-image: "";
+	$right-image: "";
+}
 
 /* Global Page Properties */
 
@@ -18,7 +37,7 @@ html {
 
 body {
 	background-color: $body-background;
-	color: #000000;
+	color: $text;
 	/*background-image: url(../../assets/nz.svg);
 	background-size: 700px;
 	background-repeat: no-repeat;
@@ -28,7 +47,7 @@ body {
 	font-size: 16px;
 	margin: 0;
 	overflow-x: hidden;
-	background-image: url("../../assets/bg.png");
+	background-image: url($back-image);
 	background-position: right bottom;
 	background-attachment: fixed;
 }
@@ -69,7 +88,7 @@ h4 {
 
 
 a {
-	color: #A6373F;
+	color: $links;
 	text-decoration: underline;
 }
 
@@ -181,7 +200,7 @@ a:hover {
   height: 100vh;
   width: 220px;
   vertical-align: top;
-  background-image: url("../../assets/jack.png");
+  background-image: url($right-image);
   background-size: 500px;
   background-repeat: no-repeat;
   background-position: right bottom;
