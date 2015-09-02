@@ -14,7 +14,7 @@ def isarchive(generator):
                 if 'type' in article.metadata.keys():
                     archive_loc += article.type + 's/'
                 if 'location' in article.metadata.keys() and 'date' in article.metadata.keys():
-                    archive_loc += article.date.strftime('%Y-%m-%d') + ' - ' + article.location + '/'
+                    archive_loc += article.date.strftime('%Y-%m-%d') + '%20-%20' + article.location + '/'
                 article.metadata['archiveloc'] = archive_loc.lower()
                 article.archiveloc = archive_loc.lower()
             else:

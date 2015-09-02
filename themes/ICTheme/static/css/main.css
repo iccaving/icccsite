@@ -10,18 +10,9 @@
 /*(Body Background)*/
 /*Off White (Backgrounds/ Large Text on dark backgrounds)*/
 /*Normal text colour*/
-/* Pink (Link hover)*/
-/*Light Red (Highlighting,)*/
-/*Darker Red (Visited Links)*/
-/*Dark Turquoise (Background Colour for Banner/Sidebar/Headers H1)*/
-/* Turquoise (H2)*/
-/*Light Turquoise (Highlight colour for Banner/Sidebar/Headers H3/text)*/
-/*Light Blue (Body Background)*/
-/*Off White (Backgrounds/ Large Text on dark backgrounds)*/
-/*Normal text colour*/
 /* Global Page Properties */
 body {
-  background-color: #5DACC2;
+  background-color: #999999;
   color: #000000;
   /*background-image: url(../../assets/nz.svg);
   background-size: 700px;
@@ -33,7 +24,7 @@ body {
   font-size: 16px;
   margin: 0;
   overflow-x: hidden;
-  background-image: url("");
+  background-image: url("../../assets/bg.png");
   background-position: right bottom;
   background-attachment: fixed; }
 
@@ -45,25 +36,25 @@ h1 {
   font-family: Roboto, Tahoma, Arial, sans-serif;
   font-weight: 700;
   font-size: 2.5rem;
-  color: #143B46;
+  color: #2D2D2D;
   margin: 1rem 0; }
 
 h2 {
   font-size: 1.5rem;
   font-weight: bold;
-  color: #0D4D4D;
+  color: #AB3C3C;
   margin: 1rem 0; }
 
 h3 {
   font-size: 1.125rem;
   font-weight: bold;
-  color: #407F7F;
+  color: #AB4444;
   margin: 1rem 0; }
 
 h4 {
   font-size: 1rem;
   font-weight: bold;
-  color: #407F7F;
+  color: #AB4444;
   margin: 1rem 0;
   text-align: right; }
 
@@ -95,7 +86,7 @@ a:hover {
 .banner {
   /*min-height: 90px;*/
   height: 104px;
-  background-color: #143B46;
+  background-color: #2D2D2D;
   overflow: hidden;
   width: calc(100% - 220px);
   position: fixed;
@@ -127,7 +118,7 @@ a:hover {
   display: none; }
 
 .banner-date {
-  color: #407F7F;
+  color: #AB4444;
   display: inline-block; }
 
 .logo {
@@ -142,7 +133,7 @@ a:hover {
   width: 220px;
   height: 100%;
   vertical-align: top;
-  background-color: #143B46;
+  background-color: #2D2D2D;
   overflow-y: auto;
   overflow-x: hidden;
   position: fixed;
@@ -161,7 +152,7 @@ a:hover {
   height: 100vh;
   width: 220px;
   vertical-align: top;
-  background-image: url("");
+  background-image: url("../../assets/jack.png");
   background-size: 500px;
   background-repeat: no-repeat;
   background-position: right bottom;
@@ -270,7 +261,7 @@ a:hover {
   height: 100%;
   display: table-cell;
   padding: 10px 10px 10px 10px;
-  background-color: #143B46;
+  background-color: #2D2D2D;
   color: #E8E8E8; }
 
 .content-left a {
@@ -285,7 +276,7 @@ a:hover {
   text-align: right;
   display: table-cell;
   padding: 10px 10px 10px 10px;
-  background-color: #407F7F;
+  background-color: #AB4444;
   color: #E8E8E8;
   font-family: Roboto, Tahoma, Arial, sans-serif;
   font-weight: 500; }
@@ -454,7 +445,7 @@ hr.hrsidebartop {
   color: #E8E8E8; }
 
 .link-container {
-  background-color: #143B46;
+  background-color: #2D2D2D;
   height: 40px;
   display: table;
   width: 100%; }
@@ -484,7 +475,7 @@ hr.hrsidebartop {
   width: 80px;
   padding: 2px;
   border-radius: 2px;
-  background-color: #143B46;
+  background-color: #2D2D2D;
   color: #E8E8E8;
   margin: 2px auto 2px auto;
   text-align: center;
