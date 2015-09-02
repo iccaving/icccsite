@@ -17,7 +17,7 @@ def cavepeeplinker(generator):
         # If the article has the cavepeeps metadata
         if 'cavepeeps' in article.metadata.keys():
             # Seperate the value of cavepeeps into a list of characters
-            string = list(article.cavepeeps)
+            string = list(''.join(article.cavepeeps))
             inbracks = False
             cave = ""
             person = ""
