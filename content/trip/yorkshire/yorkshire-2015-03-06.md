@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg: DSC_0022.JPG
 Thumbl: DSC_0040--thumb.jpg
 Thumbr: DSC_0016--thumb.jpg
-Author: Rhys Tyers
+Authors: Rhys Tyers
 Cavepeeps: DATE=2015-03-07; CAVE=County Pot > Lancaster Hole; PEOPLE=Rosanna Nichols, Cecilia Kan, Peter Ganson, Jack Hare, Nicola McCallion, Sarah Gian;
            DATE=2015-03-07; CAVE=County Pot > Cow Pot; PEOPLE=Rhys Tyers, William French, Ben Honan, Chris McDonnell, Dave Kirkpatrick;
            DATE=2015-03-08; CAVE=County Pot; PEOPLE=Rhys Tyers, Cecilia Kan, Jack Hare, Chris McDonnell;

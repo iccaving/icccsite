@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg: CeciliaKan_P2210543.JPG
 Thumbl: CeciliaKan_P2210542--thumb.jpg
 Thumbr: CeciliaKan_P2220573--thumb.jpg
-Author: Cecilia Kan, Jack Hare
+Authors: Cecilia Kan, Jack Hare
 Cavepeeps: DATE=2015-02-21; CAVE=James Hall; PEOPLE=Jack Hare, Rosanna Nichols, Pavel Kroupa, Ben Honan, Celia Tinsley, Dave Kirkpatrick;
            DATE=2015-02-21; CAVE=James Hall > Peak Cavern; PEOPLE=Rhys Tyers, William French, Peter Ganson, Cecilia Kan;
            DATE=2015-02-22; CAVE=James Hall; PEOPLE=Jack Hare, Rhys Tyers, Cecilia Kan;

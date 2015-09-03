@@ -7,7 +7,7 @@ Photoarchive: photo_archive/tours/2014%20-%20yorkshire%20winter/
 Mainimg: RhysTyers_DSC_0678.JPG
 Thumbl: RhysTyers_DSC_0607--thumb.jpg
 Thumbr: AlexSeaton_IMGP2402--thumb.jpg
-Author: Jack Hare, Rosanna Nichols, Tanguy Racine, Chris McDonnell, Rhys Tyers
+Authors: Jack Hare, Rosanna Nichols, Tanguy Racine, Chris McDonnell, Rhys Tyers
 Cavepeeps: DATE=2014-12-31; CAVE=Wretched Rabbit; PEOPLE=Rhys Tyers, Jack Hare, Alex Seaton, Fiona Hartley, Chris McDonnell, Tanguy Racine, Rosanna Nichols;
            DATE=2015-01-01; CAVE=Simpson Pot; PEOPLE=Rhys Tyers, Jack Hare, Alex Seaton, Chris McDonnell, Tanguy Racine, Rosanna Nichols;
            DATE=2015-01-02; CAVE=Jingling; PEOPLE=Fiona Hartley, Dave Kirkpatrick, Rosanna Nichols, Tetley;
