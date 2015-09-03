@@ -2,6 +2,7 @@ from pelican import signals
 from pelican.settings import configure_settings, get_settings_from_file
 import six
 import os
+import logging
 
 # This is mostly ripped fomr Pelican.settings
 # It makes some of the relative urls in the subsite settings files absolute
@@ -52,7 +53,7 @@ def subsites(pelican_obj):
     # Check if a subsite is running this. If so, stop. I don't know why this is
     # necessary.
     if "ISSUBSITE" in basesettings.keys() and basesettings["ISSUBSITE"] == True:
-        print "NO RECURSION"
+        logging.debug("Subsite: Recursion protection activated")
     else:
         # Run through the list of subsites
         for subsite in basesettings["SUBSITES"]:
