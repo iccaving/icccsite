@@ -5,7 +5,7 @@
   $(function() {
     $('#search').on('input propertychange paste', function() {
       $('.caver').each(function() {
-        if (!($(this).prop('id').toLowerCase().indexOf($('#search').val().toLowerCase()) >= 0)) {
+        if (!($(this).text().toLowerCase().indexOf($('#search').val().toLowerCase()) >= 0)) {
           $(this).css('display', 'none');
         } else {
           $(this).removeAttr('style');
@@ -28,12 +28,12 @@
           <th>No. of Reports</th>
           <th>Most Recent</th>
         </tr>
-        {% for person in cavepeep_person %}
+        {% for person, number, recentdate, meta in people %}
         <tr class="caver" id="{{ person }}">
           <td><a href="{{ SITEURL }}/cavers/{{ person }}.html">{{ person }}</a>
           </td>
-          <td class="count">{{ cavepeep_person[person][0]|length }}</td>
-          <td>{{ cavepeep_person[person][1].strftime('%d-%m-%Y') }}</td>
+          <td class="count">{{ number }}</td>
+          <td>{{ recentdate.strftime('%d-%m-%Y') }}</td>
         </tr>
         {% endfor %}
       </table>

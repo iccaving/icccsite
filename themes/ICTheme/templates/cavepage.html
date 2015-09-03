@@ -2,20 +2,35 @@
 {% block head %}
 <script src="{{ SITEURL }}/theme/js/sorttable.js"></script>
 <script>
+  // Script that does a very simple search of the table based on the value in
+  // the input box
+  function search() {
+    $('.cave').each(function() {
+      if (!($(this).text().toLowerCase().indexOf($('#search').val().toLowerCase()) >= 0)) {
+        $(this).css('display', 'none');
+      } else {
+        $(this).removeAttr('style');
+      }
+    });
+  }
   $(function() {
     $('#search').on('input propertychange paste', function() {
-      $('.cave').each(function() {
-        if (!($(this).prop('id').toLowerCase().indexOf($('#search').val().toLowerCase()) >= 0)) {
-          $(this).css('display', 'none');
-        } else {
-          $(this).removeAttr('style');
-        }
-      });
+      search();
     });
   });
+  $(function() {
+    $('.searchme').click(function() {
+        console.log($('#search').value)
+        $('#search').val($(this).text());
+        search();
+      return false;
+    });
+  });
+
 </script>
 {% endblock %}
-{% block banner %}Caves{% endblock banner %} {% block content %}
+{% block banner %}Caves{% endblock banner %}
+{% block content %}
 <div class="container">
   <div class="article-content">
       <h3>Caves we've been to and the reports:</h3>
@@ -25,14 +40,16 @@
           <th>Cave</th>
           <th>No. of Reports</th>
           <th>Most Recent</th>
+          <th>Region</th>
+          <th>System</th>
         </tr>
-        {% for item in cavepeep_cave %}
+        {% for name, number, recent, meta in caves %}
         <tr class="cave" id="{{ item }}">
-          <td><a href="{{ SITEURL }}/caves/{{ item }}.html">{{ item }}</a>
-            <br>
-          </td>
-          <td class="count">{{ cavepeep_cave[item][0]|length }}</td>
-          <td>{{ cavepeep_cave[item][1].strftime('%d-%m-%Y') }}</td>
+          <td><a href="{{ SITEURL }}/caves/{{ name }}.html">{{ name }}</a></td>
+          <td class="count">{{ number }}</td>
+          <td>{{ recent.strftime('%d-%m-%Y') }}</td>
+          <td>{% if meta.region is defined %}<a class="searchme" href="#">{{ meta.region }}</a>{% endif %}</td>
+          <td>{% if meta.system is defined %}<a class="searchme" href="#">{{ meta.system }}</a>{% endif %}</td>
         </tr>
         {% endfor %}
       </table>
