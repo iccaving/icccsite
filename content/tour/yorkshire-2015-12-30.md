@@ -3,7 +3,7 @@ Date: 2014-12-30
 Location: Yorkshire
 Summary: We've survived another year of caving and what better way to cap it off than a week in beautiful Yorkshire? This winter tour saw us welcoming the New Year in Easegill, some classic Lost John's action, a trip to the ever-impressive Gaping Ghyll, and a rope rescue training sesh to finish!
 Type: tour
-Photoarchive: photo_archive/tours/2014%20-%20yorkshire%20winter/
+Photoarchive: /photo_archive/tours/2014%20-%20yorkshire%20winter/
 Mainimg: RhysTyers_DSC_0678.JPG
 Thumbl: RhysTyers_DSC_0607--thumb.jpg
 Thumbr: AlexSeaton_IMGP2402--thumb.jpg
@@ -17,8 +17,6 @@ Cavepeeps: DATE=2014-12-31; CAVE=Wretched Rabbit; PEOPLE=Rhys Tyers, Jack Hare, 
            DATE=2015-01-04; CAVE=Brown Hill; PEOPLE=Rhys Tyers, Jack Hare;
            DATE=2015-01-05; CAVE=Notts Pot 2; PEOPLE=Rosanna Nichols, Katy Morgan, Dave Wilson;
 Status:
-
-###Rhys, Jack, Alex, Fiona, Chris McDonnell, Tanguy, William, Dave KP, Rosanna Nichols, Katy Morgan, Tetley, DW
 
 ##Tuesday 30th
 
