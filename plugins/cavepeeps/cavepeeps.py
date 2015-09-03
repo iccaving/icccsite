@@ -3,6 +3,7 @@ from collections import namedtuple, defaultdict, OrderedDict
 import os
 from datetime import date, datetime
 import logging
+import string
 
 
 def parse_metadata(metadata, article):
@@ -62,6 +63,28 @@ def parse_metadata(metadata, article):
     return cavepeep
 
 
+def articlelink(peoplelist, article):
+    # Function to link articles with lists of people that relate to the trips
+    # in that article
+    peopletrips = {}
+    allpeople = {}
+    row = namedtuple('person', 'firstname lastname fullname')
+    for item in peoplelist:
+        firstname, lastnames = None, None
+        fullname = item.person
+        firstname, lastnames = item.person.split()[0], " ".join(
+            item.person.split()[1:])
+        tripid = item.date.strftime('%Y-%m-%d') + '-' + item.cave.translate(
+            {ord(c): None for c in string.punctuation}).replace(' ', '-')
+        if tripid in peopletrips.keys():
+            peopletrips[tripid].append(row(firstname, lastnames, fullname))
+        else:
+            peopletrips[tripid] = [row(firstname, lastnames, fullname)]
+        allpeople[fullname] = (row(firstname, lastnames, fullname))
+    article.peopletrips = peopletrips
+    article.allpeople = [val for key, val in allpeople.iteritems()]
+
+
 def cavepeeplinker(generator):
     cavepeep = []
     for article in generator.articles:  # Loop through articles
@@ -69,7 +92,10 @@ def cavepeeplinker(generator):
         if 'cavepeeps' in article.metadata.keys():
             # Parse metadata and return a list where each item contains a date,
             # cave, caver, and article reference
-            cavepeep += parse_metadata(article.metadata['cavepeeps'], article)
+            cavepeep_partial = parse_metadata(
+                article.metadata['cavepeeps'], article)
+            articlelink(cavepeep_partial, article)
+            cavepeep += cavepeep_partial
     cavepeep.sort(key=lambda tup: tup.person)  # Sort the list by person name
     cavepeep_person = OrderedDict()
     # Add the entries to an ordered dictionary so that for each person
