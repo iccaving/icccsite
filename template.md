@@ -7,7 +7,9 @@ Photoarchive:
 Mainimg:
 Thumbl:
 Thumbr:
-Author:
+Authors:
+Cavepeeps:
+Oldurl:
 Status:
 
 Write your stuff here and below!
@@ -36,6 +38,13 @@ Thumbl: filename including extension of image in photoarchive folder to display 
 Thumbr: same but the right thumbnail
 
 Author: The authors of the article, seperated by commas e.g. "Stores Gnomes, Stores Mice"
+
+Cavepeeps: A list of the trips that happened. Normal trips and through trips supported. Format as below:
+DATE=YYYY-MM-DD; CAVE=Cave 1; PEOPLE=Person 1, Person 2, Person 3, Person 4;
+DATE=YYYY-MM-DD; CAVE=Cave 2 > Cave 3; PEOPLE=Person 1, Person 2, Person 3, Person 4;
+Each entry should be on a new line and lines after the first 1 should be indented by more than 4 spaces (essetially match up the start of the entries).
+
+Oldurl: If this is an old trip report being converted copy the FULL url (https:union.ic.ac.uk/rcc/caving/place/YYYY-MM-DD-place.php) and write it here.
 
 Status: Set this to "draft" if you don't want it to appear on the site yet or delete entirely if you do
 
