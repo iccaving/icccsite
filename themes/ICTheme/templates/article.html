@@ -9,15 +9,16 @@
 
 <div class="container">
   <div class="article-content">
-      {% if article.mainimg is defined %}
-        {% if article.mainimg != '' %}
-          {% if article.archiveloc %}
-            <div class="mainimg">
-              <a href="{{ SITEURL }}/{{ article.archiveloc }}"><img src="{{SITEURL}}/{{ article.archiveloc }}{{ article.mainimg}}"></a>
-            </div>
-            <div class="photo-button-wrapper"><a class="photo-button" href="{{ SITEURL }}/{{ article.archiveloc }}">Photos</a></div>
-          {% endif %}
-        {% endif %}
+      {% if article.mainimg is defined and article.mainimg != '' and article.archiveloc is defined %}
+        <div class="mainimg">
+          <a href="{{ SITEURL }}/{{ article.archiveloc }}"><img src="{{SITEURL}}/{{ article.archiveloc }}{{ article.mainimg}}"></a>
+        </div>
+        <div class="photo-button-wrapper"><a class="photo-button" href="{{ SITEURL }}/{{ article.archiveloc }}">Photos</a></div>
+      {% endif %}
+      {% if article.allpeople is defined %}
+      <h5>
+        {% for person in article.allpeople %}{% if loop.index != 1 %}, {% endif %}<a href="{{ SITEURL }}/cavers/{{ person.fullname.replace(" ", "%20") }}.html">{{ person.fullname }}</a>{% endfor %}
+      </h5>
       {% endif %}
 
       {{ article.content }}
