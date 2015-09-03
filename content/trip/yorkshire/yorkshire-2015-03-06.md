@@ -8,7 +8,9 @@ Mainimg: DSC_0022.JPG
 Thumbl: DSC_0040--thumb.jpg
 Thumbr: DSC_0016--thumb.jpg
 Author: Rhys Tyers
-Cavepeeps: County Pot(Rhys Tyers, Rosanna Nichols, Cecilia Kan, Peter Ganson, Jack Hare, William French, Ben Honan, Nicola McCallion, Chris McDonnell, Sarah Gian, Dave Kirkpatrick) Cow Pot(Rhys Tyers, Rosanna Nichols, Cecilia Kan, Peter Ganson, Jack Hare, William French, Ben Honan, Nicola McCallion, Chris McDonnell, Sarah Gian, Dave Kirkpatrick) Lancaster Hole(Rhys Tyers, Rosanna Nichols, Cecilia Kan, Peter Ganson, Jack Hare, William French, Ben Honan, Nicola McCallion, Chris McDonnell, Sarah Gian, Dave Kirkpatrick)
+Cavepeeps: DATE=2015-03-07; CAVE=County Pot > Lancaster Hole; PEOPLE=Rosanna Nichols, Cecilia Kan, Peter Ganson, Jack Hare, Nicola McCallion, Sarah Gian;
+           DATE=2015-03-07; CAVE=County Pot > Cow Pot; PEOPLE=Rhys Tyers, William French, Ben Honan, Chris McDonnell, Dave Kirkpatrick;
+           DATE=2015-03-08; CAVE=County Pot; PEOPLE=Rhys Tyers, Cecilia Kan, Jack Hare, Chris McDonnell;
 Status:
 
 The perils of not writing trip reports promptly are clear and alas this trip has faded from memory. It would be as if it had never happened except for the collection of photos that prove it must have (barring intrusion from a keener parallel dimesion).
