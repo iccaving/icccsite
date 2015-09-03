@@ -14,13 +14,13 @@
           <th>Cave</th>
           <th>Date</th>
         </tr>
-        {% for cave, report in reports %}
+        {% for cave, article, date in articles %}
         <tr>
-          <td><a href="{{ SITEURL }}/{{ report.url }}">{{ report.title }}</a>
+          <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
             <br>
           </td>
           <td>{{ cave }}</td>
-          <td>{{ report.date.strftime('%d-%m-%Y') }}</td>
+          <td>{{ date.strftime('%d-%m-%Y') }}</td>
         </tr>
         {% endfor %}
       </table>
