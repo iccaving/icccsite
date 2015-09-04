@@ -80,11 +80,7 @@ There is a plugin that allows subs sites to be added easily (like the NZ or Slov
 ###Set up
 It works like the main site. There is a content folder to put articles in, a plug in folder for site specific plugins, a themes folder for a site specific theme. The settings file is a little different. It has to be called "settings.py" and reside in the root of the subsite.
 
-In "settings.py" there are three mandatory settings:
-
-    ISSUBSITE = True
-
-This must be placed in the settings file as is.
+In "settings.py" there are two mandatory settings:
 
     PATH = 'content'
 
