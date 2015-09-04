@@ -18,14 +18,9 @@ def isarchive(generator):
                     archive_loc += article.date.strftime('%Y-%m-%d') + '%20-%20' + article.location + '/'
                 article.metadata['archiveloc'] = archive_loc.lower()
                 article.archiveloc = archive_loc.lower()
-                logging.critical(archive_loc)
             else:
-                if article.photoarchive[:1] == '/':
                     article.metadata['archiveloc'] = archive_loc + article.photoarchive + '/'
                     article.archiveloc = archive_loc + article.photoarchive + '/'
-                else:
-                    article.metadata['archiveloc'] = article.photoarchive + '/'
-                    article.archiveloc = article.photoarchive + '/'
             archives.append((article.archiveloc, article.title, article.date.strftime('%d-%m-%Y')))
     generator.context['photoarchives'] = archives
 
