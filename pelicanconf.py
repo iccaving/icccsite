@@ -31,7 +31,7 @@ DEFAULT_ORPHANS = 4
 DEFAULT_DATE_FORMAT = '%d-%m-%Y'
 
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ['photoarchive', 'acyear', 'inlinephotos', 'cavepeeps', 'subsites']
+PLUGINS = ['photoarchive', 'acyear', 'inlinephotos', 'cavepeeps', 'subsites', 'oldurl']
 
 SLUGIFY_SOURCE = 'basename'
 

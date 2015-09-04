@@ -11,6 +11,7 @@ Authors: Rhys Tyers
 Cavepeeps: DATE=2015-03-07; CAVE=County Pot > Lancaster Hole; PEOPLE=Rosanna Nichols, Cecilia Kan, Peter Ganson, Jack Hare, Nicola McCallion, Sarah Gian;
            DATE=2015-03-07; CAVE=County Pot > Cow Pot; PEOPLE=Rhys Tyers, William French, Ben Honan, Chris McDonnell, Dave Kirkpatrick;
            DATE=2015-03-08; CAVE=County Pot; PEOPLE=Rhys Tyers, Cecilia Kan, Jack Hare, Chris McDonnell;
+Oldurl: /rcc/caving/yorkshire/yorkshire-2015-03-06.php
 Status:
 
 The perils of not writing trip reports promptly are clear and alas this trip has faded from memory. It would be as if it had never happened except for the collection of photos that prove it must have (barring intrusion from a keener parallel dimesion).
