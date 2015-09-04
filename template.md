@@ -44,7 +44,7 @@ DATE=YYYY-MM-DD; CAVE=Cave 1; PEOPLE=Person 1, Person 2, Person 3, Person 4;
 DATE=YYYY-MM-DD; CAVE=Cave 2 > Cave 3; PEOPLE=Person 1, Person 2, Person 3, Person 4;
 Each entry should be on a new line and lines after the first 1 should be indented by more than 4 spaces (essetially match up the start of the entries).
 
-Oldurl: If this is an old trip report being converted copy the FULL url (https:union.ic.ac.uk/rcc/caving/place/YYYY-MM-DD-place.php) and write it here.
+Oldurl: If this is an old trip report being converted copy the caving url from /rcc/ e.g /rcc/caving/place/YYYY-MM-DD-place.php and write it here.
 
 Status: Set this to "draft" if you don't want it to appear on the site yet or delete entirely if you do
 
