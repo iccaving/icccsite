@@ -46,6 +46,7 @@
     });
   </script>
   <!-- Script to ensure banner does not overlap centercol and that the logo is the same height as the banner-->
+  <!-- Also ensures that the caver image is a sutiable size for the page (so you dont just see his butt)-->
   <script>
     function bannerresizer() {
       if (!($(window).width() < 750)) {
@@ -57,10 +58,20 @@
       }
     }
 
+    function caverresizer() {
+      var viewportHeight = $(window).height();
+      var bannerHeight = $(".banner").height();
+      if (viewportHeight - bannerHeight < 689) {
+        $(".right-col").css({"background-size": 'auto ' + String(viewportHeight - bannerHeight) + 'px'});
+      }
+    }
+
     $(window).resize(function() {
       bannerresizer();
+      caverresizer();
     });
     $(window).load(function() {
+      caverresizer();
       bannerresizer();
     });
   </script>
