@@ -229,10 +229,16 @@ def generatecavepage(generator, writer):
 def generatepersonpages(generator, writer):
     # For each person generate a page listing the caves they have been in and the article that
     # describes that trip
+    authors = {}
+    for item in generator.authors:
+        authors[item[0].name] = item[1]
     template = generator.get_template('personpages')
     for person in generator.context['cavepeep_person']:
         caverbio = ''
         cavermeta = ''
+        authoredarticles = None
+        if person in authors:
+            authoredarticles = authors[person]
         # Check if they have a bio written about them
         if person in generator.context['caverbios']:
             logging.debug("Bio generated for " + person)
@@ -240,7 +246,7 @@ def generatepersonpages(generator, writer):
             cavermeta = generator.context['caverbios'][person][1]
         filename = 'cavers/' + str(person) + '.html'
         writer.write_file(filename, template, generator.context, personname=person,
-                          articles=generator.context['cavepeep_person'][person][0], bio=caverbio, meta=cavermeta)
+                          articles=generator.context['cavepeep_person'][person][0], bio=caverbio, meta=cavermeta, authoredarticles=authoredarticles)
 
 
 def generatepersonpage(generator, writer):
