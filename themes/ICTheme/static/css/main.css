@@ -159,7 +159,7 @@ a:hover {
   width: 220px;
   vertical-align: top;
   background-image: url("../../assets/jack.png");
-  background-size: 500px;
+  background-size: auto 689px;
   background-repeat: no-repeat;
   background-position: right bottom;
   /* background-attachment: fixed; */
