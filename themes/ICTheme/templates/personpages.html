@@ -8,6 +8,7 @@
       {{ bio }}
       <br>
 
+      <h3>Trips attended</h3>
       <table class="sortable">
         <tr>
           <th>Report</th>
@@ -24,6 +25,25 @@
         </tr>
         {% endfor %}
       </table>
+
+      {% if authoredarticles is defined and authoredarticles is not none %}
+      <h3>Articles Written</h3>
+      <table class="sortable">
+        <tr>
+          <th>Report</th>
+          <th>Date</th>
+        </tr>
+        {% for article in authoredarticles %}
+        <tr>
+          <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+            <br>
+          </td>
+          <td>{{ article.date.strftime('%d-%m-%Y') }}</td>
+        </tr>
+        {% endfor %}
+      </table>
+      {% endif %}
+
     </div>
   </div>
 </div>
