@@ -67,7 +67,7 @@ At the hut we ate a delicious curry (thankfully) preprepared by DW and sunk into
 
 ##Sunday
 
-##Notts 2: Everyone - DKP, Fiona, Celia
+###Notts 2: Everyone - DKP, Fiona, Celia
 
 I was initially not fond of the idea of going down ladders in a cave, and the analogy of going down a chimney was unhelpful. Notts II turned out to be quite a playground, with exquisite formations awaiting those willing to get soaked. The cave entrance was located in a tiny picturesque valley, glazed by the setting sun as we sat leisurely waiting for the full team to exit the cave.
 
