@@ -7,19 +7,12 @@ Photoarchive:
 Mainimg: yorkshire-2014-09-19.jpg
 Thumbl: 2_DSC_0136_Alum--thumb.jpg
 Thumbr: 2_DSC_0136_Alum--thumb.jpg
-Authors: 
-Cavepeeps:
+Authors: Fiona Hartley, Rhys Tyers
+Cavepeeps: DATE=2014-09-20; CAVE=Ireby Fell Cavern; PEOPLE=Fiona Hartley, Jack Hare, James O'Hanlon;
+           DATE=2014-09-20; CAVE=Trapdoor Pot; PEOPLE=Rhys Tyers, Dave Kirkpatrick, William French, Sandeep Mavadia;
+	   DATE=2014-09-21; CAVE=Alum Pot; PEOPLE=Rhys Tyers, Dave Kirkpatrick, William French, Sandeep Mavadia, James O'Hanlon;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2014-09-19.php
 Status:
-
-#  Yorkshire 
-
-##  Weekend Trip 19–21 September 2014 
-
-##  [ Photos ](/caving/photo_archive/trips/2014-09-19%20-%20yorkshire/)
-
-[ ![](yorkshire-2014-09-19.jpg) ](/caving/photo_archive/trips/2014-09-19%20-%20yorkshire/)
-
 ###  Rhys, Dave, Fiona, Jack, Sandeep, William, James 
 
 ##  Saturday 
