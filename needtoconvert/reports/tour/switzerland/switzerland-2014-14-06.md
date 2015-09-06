@@ -14,7 +14,7 @@ Status:
 
 #  Switzerland 
 
-##  Canyoning Tour 6–14 September 2014 
+##  Canyoning Tour 6â14 September 2014 
 
 [ ![](switzerland-2014-14-06.jpg) ](/caving/photo_archive/tours/2014%20-%20switzerland/)
 

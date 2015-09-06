@@ -60,6 +60,8 @@ We were cheated of a Henslers-Dis exchange by the weather, but still had a crack
 
 Back at the NPC soon, wolfed down three super delicious curries that Dave had cooked (he'd volunteered to do the shopping + start cooking on Friday) - turkey, vegetarian, vegan. I honestly think it was the best curry I've had on a caving weekend so far! Even Jana's rice was really well prepared :) 
 
+####  Clare 
+
 ###  Stream Derig: Jarv, Eric, Nico 
 
 After the parting of the ways, we bumped into the stream team just in the start of Sand Caverns. The Marilyn deriggers had already disappeared, so they decided to have a gander at the main chamber and then leave via Bar. 
@@ -75,6 +77,8 @@ I was rather perturbed that I hadn't met anyone by the foot of the entrance pitc
 Thankfully the lazy toads were at the top of the oil drums, and I put them to work hauling up the two sacks of tackle. 7.5hrs trip, saw lights in the rough direction of Bar as we walked back and went over to meet the Marilyn crew, and picked up our rescue bag from the entrance to Bar. As agreed, the Stream-Bar team had taken the minibus keys + derigged Bar. Not previously agreed, they'd also drank the full 1L thermos of hot Ribena dry. 
 
 Sat star spotting through the clouds next to Marilyn while everyone exited (warm and still, for a Yorkshire fell in November at least...), then walked down together. Picked up the minibus keys from the Stream-Bar party ensconced in the New Inn. 
+
+####  Jarv 
 
 ###  Bullpot + Jingling: Jana, Dave, Kat, Tony, Xiao Ting, Nia, Rong Kai 
 
@@ -101,6 +105,8 @@ Kate: I thought _ you _ knew what to do!
 They end up tying some alpine butterflies + having a stumble around the master cave. Nobody dies. 
 
 Both exit safely. 
+
+####  Clare 
 
 ###  NPC crack team: Jarv, Clare, Nico, Eric, Richard, Ari 
 

@@ -26,7 +26,11 @@ Status:
 
 [ ![](/caving/photo_archive/trips/2008-01-25%20-%20yorkshire/veronique%20mahue%20-%20IMGP0700--thumb.jpg) ](/caving/photo_archive/trips/2008-01-25%20-%20yorkshire/veronique%20mahue%20-%20IMGP0700.html) [ ![](/caving/photo_archive/trips/2008-01-25%20-%20yorkshire/veronique%20mahue%20-%20IMGP0706--thumb.jpg) ](/caving/photo_archive/trips/2008-01-25%20-%20yorkshire/veronique%20mahue%20-%20IMGP0706.html) After the usual long and boring drive up to the Dales we finally reach Bull Pot Farm, where we find the Oxford Caving Club and a few locals cavers are already rather merry. In order to prevent them from having an overly disgusting hangover the next day, we bravely butt in and try guzzling beer and port as fast as the narrow neck of a bottle allows to flow. The evening quickly degenerates in a drunken orgy of burning and smashing stuff with axes. The only element preventing a maelstrom of destruction and carnage is Geregely and his soothing violin skills: rapidly the sweet sound of music turns turns the axes from an instrument of destruction to a surprisingly unirritating musical tool 
 
+####  James KP 
+
 [ ![](/caving/photo_archive/trips/2008-01-25%20-%20yorkshire/veronique%20mahue%20-%20IMGP0707--thumb.jpg) ](/caving/photo_archive/trips/2008-01-25%20-%20yorkshire/veronique%20mahue%20-%20IMGP0707.html) Good to be back - back in Yorkshire, back for some new caving experience. It is been a month since the club go caving again. The previous trip to Wales was canceled because of the floods. Bull pot farm looks very lovely plus the new central heating system: one that actually works. 
+
+####  Jana 
 
 ##  Saturday 
 
@@ -36,15 +40,23 @@ _ ** "Shit." said Shed "I've just wiped my arse on a paper Christmas hat." ** _
 
 The usual morning faff was otherwise short-circuited by the fact that the caves were in walkin distance of the hut! 
 
+####  Jarvist 
+
 ###  Cow: Rik, Gergely, James KP 
 
 The entrance pitch is an open shaft, we quickly find ourselves squeezing and falling through FX5 inlet: a narrow steep opening with an awkward bend which will prove rather challenging on the way out. After walking through a beautiful meander we reach a roof traverse, which Rik bafflingly manages to rig using his telescopic arms. At the end of the traverse a Y hang leads on to an impressive second pitch leading to a large hall, part of the vast East Gill upper system where we meet 
+
+####  James KP 
 
 ###  Lancs: Everyone else! 
 
 Team Lanc had a more gentle time. Shed rigged, loitering on the rebelay ledge to check the freshers. Once all down, an easy stumble in time to find our seats on the three-story-house sized rock and see Gergely send fall pot, arriving with his warm carbide glow and drift down the rope hanging in the dead center of the cavern. 
 
+####  Jarvist 
+
 At this point we were all reunited and having had our fill of sweeties, malt loaf and water we continue exploring Montague West. A brief climb out of the Hall leads to the a large Passage, strewn with boulders and covered in mud. The way is wide and airy and highly decorated: we admire the delicate spaghetti formations, numerous stalactites and a the painters pallet, a truly weird collection of technicolor pools. At this point we split into two groups. 
+
+####  James KP 
 
 ###  Arson's Shaft + Magic Roundabout: James KP, Tim, G, Jana 
 
@@ -52,9 +64,13 @@ At this point we were all reunited and having had our fill of sweeties, malt loa
 
 When I start ascending all I could see were few blood drops. After a while long blood leeds, but when I get to the rebelay was blood everywhere. It was impossible to pass the rebelay and not to get any blood on the over suit. On the plus side, we saw some amazing pretties, hundreds of straws hanging from the sealing. Nice place to sit and relax. 
 
+####  Jana 
+
 We follow a fixed rope up a spacey and airy shaft. Before the first rebelay James slices his left middle finger on an exceedingly sharp flake of rock: it's only a shallow cut but it bleeds like a freshly gutted piglet. James keeps prussicking up, smearing the wall with blood and dripping on Tim, who as a medic is bound to enjoy the sight of blood! James reaches the top, a narrow 1m tall passage adorned with the most beateous and delicate formations. The world and its woes suddenly disappear and one cannot help but think how privileged we are to view these amazing spectacle. Soon Tim and Jana reach James and they all meander to the right, where the decorative spaghetti are most dense. This turns out to be the wrong way to continue to the magic round about, but none seems to mind and keeps admiring the magical place we are in. 
 
 Meanwhile, G has managed to have a pretty unfortunate time: he is having difficulty squeezing through a narrow window, just below the last rebelay. His Petzl is almost out of juice and his backup Tikka breaks, dropping a battery. After swapping around some batteries and having another go at squeezing through the tight window he gives up and starts descending in the dim light of his Petzl. Jana, James and Tim follow suit and we quickly catch up with the others who have continued down the main passage and explored the lower passage, where a fast flowing stream is jetting down. The level is presently not exceedingly high but the foam on the 2.5 metre ceiling testifies that this passage was recently flooded. After some more exploring and walking about in the muddy Main passage we all prussick and crawl back out of the cave and into Bull Pot Farm. 
+
+####  James KP 
 
 ###  Ease-y Exit 
 
@@ -64,6 +80,8 @@ Sedate trip out, Lancs derig party and the Cow Potters coming out with perfect t
 
 An evening of mulled wine, debauchery, smashed crockery, axe wielding championships and OUCC port followed. And then the carbide came out: bins were launched skyward and balloons disappeared in whoomps of orange flame. A little collateral damage and then to bed. 
 
+####  Jarv 
+
 ##  Sunday 
 
 ###  Aygill: People 
@@ -72,9 +90,11 @@ An evening of mulled wine, debauchery, smashed crockery, axe wielding championsh
 
 After not having much time left to go to Wretched rabbit, we decided to go to the closest cave from Bull pot farm - Aygill. I have made some quick notes on a piece of paper, since nobody had been there before. After 5 min from the hut we already pop in to the cave. Quite a lot of crawling and two short pitches. Did not have much work with rigging, because both of them were found to be permanently rigged (well, first one was a little frayed, and so I rigged anyway). We went a bit downstream - which continue into water cascading down, possibly more pitches), then upstream a bit. Quite a lot of water down there after heavy rain, so it is worth going down again to explore the beautiful streamway of the cave. 
 
+####  Jana 
+
 ###  King Pot: Rik, James KP 
 
-At breakfast Hilary (from the Oxford union caving club) manages somehow to convince James and Rik to descend the first three pitches of King Pot in order to rescue a 20 m rope they dropped at the bottow of a rift. The plan makes no sense whatsoever: James and Rik are told about how 9 people from the OUCC spent 13 hours underground in King Pot the night before, breaking a few students' will to ever leave the comfort of sky open land and wedging a poor unsuspecting member in a nasty rift. On top of that the purported aim of the expedition, to rescue 20£ of rope, makes no financial sense: this mission will cause James and Rik to miss the minibus to London and to spend a similar sum on a bus fare back to the Big Smoke. It is clear that the only reason the OUCC want us to retrieve this rope is so that someone else does not get it, see the OUCC mark and think: those Oxford pansies! The scene is so pathetic that Rik and James decide to step down and come to the rescue. 
+At breakfast Hilary (from the Oxford union caving club) manages somehow to convince James and Rik to descend the first three pitches of King Pot in order to rescue a 20 m rope they dropped at the bottow of a rift. The plan makes no sense whatsoever: James and Rik are told about how 9 people from the OUCC spent 13 hours underground in King Pot the night before, breaking a few students' will to ever leave the comfort of sky open land and wedging a poor unsuspecting member in a nasty rift. On top of that the purported aim of the expedition, to rescue 20ĂĹ of rope, makes no financial sense: this mission will cause James and Rik to miss the minibus to London and to spend a similar sum on a bus fare back to the Big Smoke. It is clear that the only reason the OUCC want us to retrieve this rope is so that someone else does not get it, see the OUCC mark and think: those Oxford pansies! The scene is so pathetic that Rik and James decide to step down and come to the rescue. 
 
 We are provided with rope etc, a plasticated guide of the pot and driven to Kingsdale. The map we are given makes it look as though finding the entrance of the pot will be easy: walk up the track and look for the 8m x 8m x 3m shake hole: easy! At 2pm, having clambered around in the mist looking at dozens of bloody shake holes, we finally find the entrance to King Pot. Call out is at 8 pm, with an ETA of 4 pm: James and Rik better be fast. 
 

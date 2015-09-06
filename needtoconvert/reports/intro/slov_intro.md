@@ -34,7 +34,7 @@ Expedition base camp is located at 1880m above sea level on the western edge of 
 
 ###  Written Report: The Hollow Mountain (1974-2006) 
 
-[ ![](hollow_mountain.jpg) Buy it from LULU.com  ](http://www.lulu.com/content/909368) at the cost price of ~8 squid 45 pennies (including P&amp;P to EU). 246 A4 pages of international caving exploration! 
+[ ![](hollow_mountain.jpg) Buy it from LULU.com ](http://www.lulu.com/content/909368) at the cost price of ~8 squid 45 pennies (including P&amp;P to EU). 246 A4 pages of international caving exploration! 
 
 ![](/caving/barebum_black.jpg) [ Full Print Ready 246 A4 Pages PDF (127MB) ](/caving/slovenia/hollowmountain/hollow_mountain_final_full_246pages.pdf)   
   

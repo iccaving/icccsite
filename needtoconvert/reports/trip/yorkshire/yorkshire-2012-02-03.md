@@ -36,7 +36,11 @@ At the bottom of the cave was a very narrow rift that I failed to squeeze into a
 
 After quickly exiting the cave we emerged into a blizzard. Luckily we didnât get lost and found are way to the nature trail which lead us back to the minivan. One slow, snow chain aided drive later and we were nice and warm in the hut once again. 
 
+####  Rhys Tyers 
+
 Excellent trip. Definitely one of the pleasant ones in the Black Book. Nothing difficult in it, though one should be prepared to be horizontal more often than not! Classic rifty, crawly passage, broken up quite nicely by cute little pitches. PVC suits highly recommended, unless you enjoy soaking up liquid mud with your fabric oversuit. Its relative obscurity means that you get little gems like a particularly well-decorated traverse that's really quite pretty. Well worth doing if you're bored with the usual Bar/Stream/Dis/Flood trade routes down GG. Was ace caving with George, Konrad and Rhys -- thanks guys. 
+
+####  Clare 
 
 ###  Flood-Bar - Jarv, Oliver 
 
@@ -62,6 +66,8 @@ Snow chain faff, shovelling snow off the windscreen, waiting for the other Gapin
 
 Not the type of trip I intended for the day — _ (Oh to be with King Pot, my one true love) _ — but pleasant nonetheless. 
 
+####  Jarv 
+
 ###  Bar-Flood exchange: Nathan, Martin, Sam 
 
 As we headed out for our caving trip, there was snow around, but nothing to worry about; however, we were all expecting a lot worse later on. After the long walk to the cave, more than one of us were feeling the effects. Because of this, plus the momentary confusion arising from the fact that none of us seemed to recognise the entrance to Bar, we took a minute to regain composure before entering. Not long after the crawl through the entrance comes the first pitch. Although slightly tight to begin with, this gave us no difficulty. I came a slightly bit more unstuck on the second pitch, having a little trouble with the rebelay, but this was not a problem after Nathan spoke me through the solution. 
@@ -72,6 +78,8 @@ The sight of the main chamber was as impressive as the first time that I saw it,
 
 After re-equipping ourselves with our harnesses, my group of three proceeded to head out of Flood entrance. Again I had a little difficulty with a rebelay on the way up, but little time was wasted. This pitch was followed by a further two, both of which were relatively short. Unfortunately, Nathan was faced with the task of carrying the three tackle bags up the second pitch, straight after which the bags were more fairly distributed. Heading for the final pitch, there was a lot of crawling, which was not difficult, just quite annoying. We all needed a minute after this before heading up the last, longest pitch. Although quite narrow all the way up, we progressed up with no trouble. Here the rebelay was accompanied by a supremely convenient foot ledge, so that this took mere seconds to pass. At the top of the pitch, the outside was not far away. Scrambling out, I was shocked to see just how much snow had fallen whilst we had been underground. This made the walk back to the minibus quite nasty, as the snow continued to fall heavily. 
 
+####  Sam 
+
 ##  Sunday 
 
 ###  Hardrawkin: Clive, Tony, Clare, Sam, Rhys 
@@ -80,11 +88,15 @@ On Sunday many cavers opted not to brave the snow but of the few who did most we
 
 We entered the cave by dropping into a mossy, icy stream where the entrance was. Some familiar stooping and crawling led us to the first pitch which was followed by a bit of climbing and quickly onto the second pitch. This dropped next to the sump that marked the end of the cave. Our trip did have a ulterior motive though, helping Clive Westlake photograph the sump. Whilst heading out Clive attempted to take a photo of me climbing the first pitch but unfortunately the flash at the bottom didnât go off so it didnât work. 
 
+####  Rhys Tyers 
+
 ###  Hardrawkin: Clive, Tony, Clare, Sam, Rhys 
 
 Despite the very cold conditions, a group of us were led back out caving on the Sunday, most of the group tagging along to help Clive take his required photos of the sump at the bottom of the cave. After a short walk through the snow, the entrance was found, and carefully we entered down the wet, icy rocks. After a short passage of walking, with some crawling through a little water, we reached the first pitch, where we all got slightly wet. After only a little scrambling, the second, shorter, pitch was reached. Immediately at the bottom of this was the sump â fortunately we all stepped forward, not backward, into the deep water, after reaching the bottom. Clive wasted little time in setting up his camera equipment (after all, there was nothing more to see down there than the sump), and I was more than happy to help in the smallest way possible by holding the flash. I was interested in seeing him work with his box of tricks, and the extra difficulties associated with underground photography. 
 
 We then proceeded to return to the surface, with little difficulty. Clive had wanted to take a photo of one of us ascending the first pitch, however after one failed photo attempt, he found that he had run out of film. Sodâs law, of course, after seeing the care that he had taken with his equipment. Nonetheless, the necessary shots had been obtained. As we waited for Tony to derig the pitch, we decided it would be warmer to stay inside than to head straight out. Shortly after, we all proceeded out of the cave, after a pleasant, short Sunday trip. 
+
+####  Sam Page 
 
 ###  Joint Hole 
 

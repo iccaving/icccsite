@@ -14,7 +14,7 @@ Status:
 
 #  Destination 
 
-##  Weekend Trip 08–10 March 2013 
+##  Weekend Trip 08â10 March 2013 
 
 ![](/caving/missing_photos_grannys_garden_witch.jpg)
 

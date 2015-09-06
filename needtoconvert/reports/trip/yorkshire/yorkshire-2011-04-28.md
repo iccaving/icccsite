@@ -14,7 +14,7 @@ Status:
 
 #  Yorkshire - Three Pots 
 
-##  Royal Weeding: 28th April – 1st May 2011 
+##  Royal Weeding: 28th April â 1st May 2011 
 
 ###  People: William, Jarv, Tetley, Kate, Sandeep, Clare, Jim Evans 
 
@@ -23,6 +23,8 @@ Status:
 The seeds for this weekend were first sown 4+ months ago, as we sat around the table in the NPC on a winter's day discussing future trips. With El Tet reminding me about it every time I saw him in the subsequent months, how could we not go? So despite looming exams and thesis corrections, a crack(ed) team of IC3 reprobates assembled at stores on the eve of the royal wedding to launch our assault on the three pots: King, Penyghent and Meregill. 
 
 Traffic out of London was unexpectedly light, so a civilised 6 hour drive+shop later saw us arriving to a completely deserted Greenclose. Most of the NPC regulars were either cave diving in the Dordogne or caving in Ardeche, we later learned. 
+
+####  Clare 
 
 ##  Friday 
 
@@ -50,9 +52,13 @@ Rest of the way out was uneventful, emerged to the a most magnificent evening, t
 
 Back at the NPC, gin and tonic + steak and mash (and ratatouille for the grazers) + lemon meringue pie for pudding was a fittingly decadent end to the day. 
 
+####  Clare 
+
 I feel I must plead for the beauty of the Middle sump. I was told there were some beautiful curtains ('nicest in Yorkshire') by some cave divers. This is a lie, there are some curtains and they're fairly pretty, but I think you need to have surfaced from some grim cave dive and be being overwhelmed by the euphoria of not being dead to really consider them that pretty. 
 
 However, the sump itself is just lovely, the sheer sides drop away into the darkness (viz was excellent), the water seemingly wells out of nowhere and flows either side around the central obstruction in the passage going down two beautiful chutes before meeting at a confluence and barrelling along in more than walking height passage downstream along a beautiful white rock stream. 
+
+####  Jarv 
 
 ##  Saturday 
 
@@ -76,6 +82,8 @@ Cigarette for Tetley, then we headed back down the hill, where cups of tea were 
 
 Jarv and Tet proceeded to pack the Meregill ropes for the next day, while the rest of us lazed around the table and did some washing up in turns. By a stroke of serendipity, sometime in the night Dave Mountain &amp; family turned up unannounced, using the NPC carpark as an impromptu stop on their way back from Scotland. 
 
+####  Clare 
+
 ##  Sunday 
 
 ###  Meregill Hole: Jarv, Jim E, Tetley, Kate, Sandeep, William, Clare 
@@ -89,6 +97,8 @@ Jarv rigged all 180m (depth, not length!) of the cave very nicely. It's a really
 At the bottom Jim and Jarv bravely volunteered to derig, and they along with Deep and Kate bimbled down the streamway for a bit while Tetley, William and I fucked on out. We zipped out, I derigged aven entrance, collected the van keys and Selected Caves and joined Tetley and William at the Mere entrance in the sun while we waited for the rest to arrive. 
 
 Just over an hour later everyone was out for a total trip time of ~4.5 hours. Lovely Sunday trip, and really a fitting end to a cracking weekend. Back to the NPC for a quick tidy, some tea and cheese on toast before we left for London at 6:30pm. Back at stores 5 hours later, stiff, bruised but completely fulfilled. 
+
+####  Clare 
 
 I swear I spent 90% of this trip staring at a tendril of 9mm either spooling out of, or being stuffed into, a tackle sac. It was ace though. I used every single Maillon on the way done perhaps ~35 in total. The rope for the 2nd pitch seemed a bit short. The final cascade pitches could be rigged as Tyrollean traverses with a bit of extra cord and rope length, which would make them an epic end to a truly great trip and avoid risking falling into the waist + chest deep pools. 
 

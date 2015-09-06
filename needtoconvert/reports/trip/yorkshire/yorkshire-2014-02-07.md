@@ -26,6 +26,8 @@ It was Friday at 6pm when I realised that something was terribly, terribly wrong
 
 The van was loaded with minimal fuss, and we were quickly off straight into the back of a two hour queue to the M25. Normally this would be a major setback but as this trip Fiona was driving solo, and therefore in charge of the tunes, it was merely an opportunity to blast "99 Luftballons" and other 80s classics. Once we broke free of the traffic and hit warp speed (62mph) we had an untroubled journey to the North (apart from a brief detour to Coventry in a desperate attempt to avoid paying £9 on the M6 toll). 
 
+####  Rhys 
+
 ##  Saturday 
 
 ###  King Pot : Rhys, Fiona, Sam, Jack, Sarah 
@@ -41,6 +43,8 @@ The rest of us decided to venture on. Sarah, up until this point, had spent much
 We emerged on the other side to Jack and Sam's smiling faces. Maybe grimacing actually. Swiftly we reached the conclusion that everyone was fucked and that surface was calling. We clambered back into the T-shaped passage. Both Jack and I managed to leave our cows tails on the hand line as we crawled away. Great minds, ay? Jack kept up as I huffed and puffed my way through pushing the tackle sack. Once again on the other side we both sat and listened to Sarah and Sam slither through. Jack retained his composure despite (as he revealed later) undergoing a minor mental breakdown. Ha. 
 
 We exited at some pace beyond singing to keep our spirits up (incidentally the wet crawl beyond the t-shaped passage is exactly one "Puff the Magic Dragon" long). Jack derigged and eventually we caught Fiona on the last pitch. Sam decided to lose a finger (or something) on the way out. Jack using wilderness survival skills taped it back on and we made our walk back. 
+
+####  Rhys 
 
 From T to infinity – a lone caver on the way out of King 
 
@@ -67,6 +71,8 @@ It definitely is wetter than it was on the descent. Climbing the first pitch was
 The others soon catch up and assist me through the slot, which takes me a bazillion attempts and Sam manages first-time. I curse everyone and only feel less useless when Sam stands on my shoulders to exit the entrance climb. It's drizzling and windy on the surface, but I'm satisfied, and not even too tired. 
 
 The depths that lie beyond the T-shaped passage hold an allure for me now, and though most wouldn't find the trip I've described here much of an achievement, for I who normally needs another's leg to stand on it's a true boost to my flagging caving confidence. On the walk down the hill I declare my uncertainty about ever returning. But I think I was wrong. King, I'll be back. 
+
+####  Fiona 
 
 ###  Bull Pot: Oli, Dave, William, Chelsea, Rachel, Kareem, Mel 
 

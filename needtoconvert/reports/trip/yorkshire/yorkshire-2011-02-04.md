@@ -26,6 +26,8 @@ Status:
 
 I showed up at stores with the phrase, "Don't get too many bruises," ringing in my ears for this trip - quite amusing because I had a new purple one on my thigh from tree-training on Wednesday and my bruises from the Mendips had only just completely disappeared! We were a small group leaving London on Friday despite all efforts to drum up more people: myself, Simon, Clare, Jarv, William, and Nick. Jarv's mp3 player serenaded us for the six hour, gale-accompanied trip to the NPC hut, where Alex's presence was a surprise to all of us. The lack of people made the minibus very quiet; I dozed on and off for the entire journey and I don't think I was alone in that. It was raining when we got to Yorkshire and so tea and toasted bagels were much appreciated while chatting with the NPC members before heading off to bed. 
 
+####  Fiona 
+
 ##  Saturday 
 
 ###  Bull Pot (Kingsdale): Fiona, Clare, Alex, Dave 
@@ -46,6 +48,8 @@ The traverse was slow going and I don't remember too much about it but getting o
 
 A cold roadside change in the rain and the dark and we made our escape (slowly due to spectacular fog) in Alex's little car back to the warmth of the NPC hut. We observed a committee meeting and amongst all the conversation I looked through the black book of caving horrors. 'Not for the Faint-Hearted' indeed! Alex and Clare made a gamble about when Jarv and company would return from King: Clare said about 12, Alex about 4. In the end they came back somewhere around half 11, looking tired but satisfied with their trip. Colour me both envious and happy I hadn't gone? maybe someday! 
 
+####  Fiona 
+
 ###  King Pot: Simon, Nick, Jarv, William 
 
 Ah, King. Rather aquatic in Kingsdale, asked the farmer for permission &amp; was graciously granted it. He had a whole string of puppies chasing his quad bike around the farm, very cute! The old farm dog gave his usual barking send off. 
@@ -65,6 +69,8 @@ I have heard rumours that there are some additional (Spit) bolts further out fro
 Steady pace on the way out, William assisted with the derig and all helped with the gear haulage. Pita bread sandwiches the other side of the t-shape passage with lashings of hot squash were pretty nice. Out just gone ten, about an eight hour trip. Visibility was approx 6m in the clag, quite glad that we caught up the initial party who were preparing to depart with the minibus keys and GPS, leaving the rear guard to fend for themselves! 
 
 Great trip, certainly everything as far as Elizabeth is eminently doable even in the flooded state of Yorkshire this weekend. A pity that there aren't some 'heavy weather' deviation bolts on the 1st, Emma and Elizabeth pitches. 
+
+####  Jarv 
 
 ###  Jarv's Creative Writing Corner 
 
@@ -105,6 +111,8 @@ Gently caving off, a bare hour more of crawls, wet slithers, climbs and rope wor
 Safely back in front of the warm fire in the caving hut, you sheepishly acknowledge your failings in front of your caving peers, a simple 'found it a bit awkward on the way out' explains all. For only other potholers can understand the feeling of being broken, and then remade, in the bowels of the earth. 
 
 The T-shaped passage? I love the place. 
+
+####  Jarv 
 
 ##  Sunday 
 

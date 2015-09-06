@@ -14,7 +14,7 @@ Status:
 
 #  Mallorca Easter Tour 
 
-##  1st–8th April 2012 
+##  1stâ8th April 2012 
 
 ###  [ Photos ](/caving/photo_archive/tours/2012%20-%20mallorca/)
 
@@ -43,7 +43,11 @@ Status:
 
 Eventually we all gathered at Alex Bet's, paid lots of Euros, and drove in convoy through the night to our palace! La Casetaaaa 
 
+####  Jan 
+
 Love this villa, can't find the lights for illuminating the pool though. And sadly no food.... very weird to arrive at the equivalent of the hut and NOT eating loads of pasta! Anyway, pretty excited for the week ahead, especially Sa Compana, and swimming in the pool, and listening to Fiesta FM. 
+
+####  Fiona 
 
 * * *
 
@@ -61,9 +65,13 @@ When we got out it was already dark. By this point, I was very tired and not bes
 
 Heading home, everything seemed perfect. There were no other cars on the road (only sheep), the album we were listening to finished just as we parked the car, and food was waiting on the table. A great first day! 
 
+####  Sam 
+
 ###  Cala Magraner: Izi, Jana, Kate, Jonny, Jan, Fiona, Oliver, Clement 
 
 First morning, predictable faffage at the breakfast table, what are we going to do? The forecast suggested go climbing while the weather was good. Deep water soloing on the S. coast or a good crag near the villa? Then inspiration! From the Rockfax climbing book, a cove with a beach and two grade 3+4 top 50 climbs... perfectto! 
+
+####  Jan 
 
 Great climbing! Nice rock, fairly high routes and a great day. Sharp limestone = sore fingers. Headed back via Malancor/Manacor/whatever to get coal and MORE WINE! 
 
@@ -71,7 +79,11 @@ Awaiting food, smells good, and the arrival of the Sa Compana group. Life's gooo
 
 P.S. Caving tomorrow? Caving tomorrow!! 
 
+####  Jonny 
+
 Everyone climbed 'El vigilant de la platja' at Cala Magraner after swimming in the sea/sitting around watching the greats of Jonny, Jan, Izi and Jana running up the cliff face. Sea as cold but great for splashing around in -- loved it, although all the fish were quick to swim away if you got too close. We spent yonks 'Janning around' on the way home in Manacor - a new descriptive term for whatever Jan does! Hopefully some good caving to come tomorrow as Tetley &amp; co. (Clare Rhys, Sam, Maver) described Sa Compana to be bloody good. Fantastic day! 
+
+####  Fiona 
 
 * * *
 
@@ -87,7 +99,7 @@ After a morning of running around packing and navigating our way through the sea
 
 And so we set off. The first hour or so of the gorge was pretty dry, then the pitches and pools started coming in quick succession. A quick lesson to Rhys and Oliver on which ropes to abseil off (this was before we learned that double roping is much better!) and away we went. It was pretty sociable really, with two tackle bags of rope we kept up a rotation of sorts, with the ropes exchanging leads and everyone taking turns rigging. Spirits were high; the Indiana Jones theme was hummed by all, lots of bad singing by me, and better singing by Tetley... life was good. 
 
-In truth the canyoning itself was pretty benign -- easy pitch heads, good bolts, calm water to swim in. The greatest danger is perhaps the length of it, which makes the trip pretty committing, and how you’re constantly in and out of 2 degree celsius water. I was shivering for hours in my 3mm wetsuit; the less stupid wore up to 2 wetsuits and I was assured they had a much more pleasant experience. 
+In truth the canyoning itself was pretty benign -- easy pitch heads, good bolts, calm water to swim in. The greatest danger is perhaps the length of it, which makes the trip pretty committing, and how youâre constantly in and out of 2 degree celsius water. I was shivering for hours in my 3mm wetsuit; the less stupid wore up to 2 wetsuits and I was assured they had a much more pleasant experience. 
 
 Finally after hours of 
 
@@ -96,6 +108,8 @@ Finally after hours of
 we made it to the bit of the canyon that's in an actual cave. This was really really cool. Instantly we all felt a bit more at home, and we knew we weren't far from the end. By this point the swimming in cold water had lost a bit of its novelty! It wasn't long before we were out of the cave, exhilarated and relieved at having completed the trip safely. 
 
 Next came a 4 hour walk out of the gorge back to the car, in which we were so desperate for water we picked up a bottle of unknown origin off the ground and drained it! Finally got back at the villa around 1:30am, where we found the others had had a barbecue earlier in the night, leaving us with... a frankfurter each (to be fair they did run out of charcoal prematurely)! We fried up some eggs and enjoyed a well earned sandwich. 
+
+####  Clare 
 
 ###  Fra Rafel: Jan, Kate, Jonny, Sam 
 
@@ -107,11 +121,15 @@ We started to head back but after rooting around a small climb through some boul
 
 We bimbled out of the cave playing stal drums and derigging. Out for sunset + beer! 
 
+####  Jonny 
+
 Fra Rafel is a nice cave, in a nice location. The entrance is overlooked by trees, the sing into the window is cool and the passageway + chambers big, the formations are numerous and quite weird! 
 
 The final pitch is really big and if a way could be found to the bottom this would be a v. decent trip. Otherwise it is a nice bimble (1.5 hrs?) When we got back to the car we chilled at the picnic area drinking beer and eating cake, nice. 
 
 Beware on the way of buses! We nearly got squished by a bus on a hairpin bend, lots of abuse shouted. 
+
+####  Jan 
 
 ###  Penya Rotja: Fiona, Clement, Izi, Jana, Maver 
 
@@ -122,6 +140,8 @@ Finding the cave proved difficult - ~3km along a coastal path that alternated be
 After eating tuna and shortbread we changed into our gear and headed into the cave. Quickly we rued the temperature -- it was so damn warm we were all dripping with sweat whenever e did anything of note. Clement and I were swept along by a wave of Slovenian expertise and style, down down down into the depths of the cave. The first pitch was down a wall, leading to sloping chambers filled with stals and straws and all kinds of amazing formations.We faffed around taking photos at each point. Some expo-style rigging on the second pitch seemed a bit hairy to me but was fine in the end. Each chamber and shaft was more amazing than the last. At the bottom we found some weird spider/millipede-esque lifeform chilling on an impressive column structure and nearly lost our footing when it moved. 
 
 Striking back for the surface, slow and steady, we had a couple of minor inconveniences ith route-finding but nothing could stop us -- up, up, up we went. Izi freeclimbed the first pitch. Plenty of Slovenian banter saw us out of the cave in the lull just before sunset. We ate, changed and were grateful not to be in such a hot cave still! Progress back to the car was also slow in the fading light of day and finally in the dark of night -- the up and down of the path a welcome change from the upwards scramble back from the cave. Clement seems to be getting a grasp of Slovenian! Zoomed back to the villa, here showers and food awaited. Writing this now, I am knackered but satisfied. It has been one hell of a day, and one hell of a cave. 
+
+####  Fiona 
 
 * * *
 
@@ -137,15 +157,21 @@ We decided to park and have a look around the Roman town. It was quite cool to w
 
 Heading off again, we found a car park leading to, supposedly, the amphitheatre. There were some various ruins, but it looked as if one site was closed. Nonetheless, we headed off across a field, climbed up onto a wall and found the amphitheatre! It was a nice site and I was glad we had found it. AFter a break, we headed back, only slightly concerned that we were trespassing.. but we did see another person so we were OK. 
 
+####  Sam 
+
 ###  Cala Boquer walk: Tet, Clare, Sam, Clement, Fiona 
 
 Again we headed off to Port Pollenca, where Tetley knew of a walk we could do. This turned out to be really enjoyable -- really easy going and leading to an isolated little beach. Time was spent here generally looking around etc. I was a little shocked to stumble across a dead goat. 
 
 Heading the other way, I had a look at this little chamber in the rocks behind a metal door. There was lots of rubbish in there -- bath tub, plastic containers etc. In truth, the place was a little disconcerting. But the water looked so nice! It was even more pleasant when the sun started to stream down from the mountains. Walking back, I almost stepped on a little snake. Time was spent observing it before it wriggled off. To fill out my wildlife section, there was also a chained up poor dog. I actually felt a little concerned for it. And I don't like dogs. So we were the first ones to get back to the villa, after a chilled day where we did some worthwhile stuff later on. 
 
+####  Sam 
+
 ###  Avenc del Terrasa: Jonny, Jan, Rhys, Oliver 
 
 After meeting with the climbing team at the Cap Formentor lighthouse for sunset, we headed down to the cave, a slot in rock right by the road, parked up by the cave Jonny set-off to rig while we ate Brie + bread in the car, after some time I swapped with Jonny and rigged down to the bottom, somehow avoiding any rub points, but using a dubious spit that I couldn't properly thread the bolt in. Rhys followed me and passed a sling. After derigging we enjoyed the lighthouse, moon and view of the sea before driving back. Oliver offering a good selection of Rhys is fat jokes, to which he had no comeback. We also shared some strange dreams: me Tounamis, Rhys losing teeth, Oliver brain transplants, Jonny burning people... !! 
+
+####  Jan 
 
 * * *
 
@@ -153,7 +179,11 @@ After meeting with the climbing team at the Cap Formentor lighthouse for sunset,
 
 Our first piss up last night! 11 litres of wine and a bottle each of vodka and gin gone. Giggling fits all around. Now 0830 the next morning and everyone else is still in bed. Lazy bastards, eh? 
 
+####  Clare 
+
 A good night of blow-chatting!! 
+
+####  Anonymous 
 
 ###  Sa Compana: Jan, Jonny, Clement, Oli, Fiona 
 
@@ -167,7 +197,11 @@ We returned to the surface in time to catch the fading rays of the sun, Jonny de
 
 P.S. the other cavers were from Sweden (with a Spanish guide or two?) Funnily we met them in the smallest, tightest part of the cave between the second and third pitches - the concept of actually caving after all the huge chambers had Jan and I very perturbed, but the appearance of these other cavers convinced us we were on the right track for the next chamber. 
 
+####  Fiona 
+
 After slicing my knee open on the way back down from Sa Compana, I have taken to being an invalid. 
+
+####  Jonny 
 
 * * *
 
@@ -189,7 +223,11 @@ On the way back we enjoyed the sunset from the viewpoint looking over the headla
 
 In summary: PENYA ROTJA HAS THE BEST WALK TO THE CAVE, THE MOST BEAUTIFUL VIEW FROM THE ENTRANCE, ONE CHAMBER WITH TONS OF CALCITE IN COLOURS, BUT IT IS A BIT TWATTY. TRICKY ROUTE FINDING 'COS IT'S ONE BIG BEDDING PLANE AND YOU NEED KNEEPADS! 
 
+####  Jan 
+
 BBQ-tastic night! 11 bottles of wine drunk, lots of meat consumed, lots of heavy metal music listened to. 
+
+####  Anonymous 
 
 * * *
 
@@ -206,6 +244,8 @@ We woke up late and spent a very lazy morning eating. Somehow we got it into our
 We found the cave without incident (unless you count a minor nosebleed from Rhys) and Tetley dove in to rig it. AFter abseiling from the trees and swinging into the entrance fo the cave we found a large sloping chamber. 
 
 Down a light slope took us past some bats in which none else appreciated) we passed a hand line and reached our target: the 100 metre pitch. Tetley got stuck in with rigging and succeeded by using a total of two hangers and inumerable naturals. The bottom was... 
+
+####  Rhys &amp; Oliver 
 
 ###  Cala Sa Nav: Jan, Sam 
 

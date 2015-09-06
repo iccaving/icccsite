@@ -25,6 +25,8 @@ Status:
 
 Another weekend in subterranean England, reacquainted with whatever part of us made happy by caving. Or in my case, for reasons that will be made clear later, whatever part of me made unhappy as well. 
 
+####  Clare Tan 
+
 ##  Saturday 
 
 The day started off pleasantly enough. Bullpot Farm was nice and toasty, despite its notoriety for dodgy heating. After the usual faff and fuck-whereâs-my-helmet/cowstails/descender-mayhem the teams set off to take on mighty Easegill. 
@@ -42,6 +44,8 @@ Anyway, thanks to Jarv, Kate and Will's infinite patience, understanding and car
 After dinner we all relaxed around the fire immobilised by Janâs 10,000kCal treacle tart, put on some music, and the night descended into chaos. You know, those caving games that invariably involve squeezing into any hole of slightly reasonable size, and Jan's incredibly impressive triumphant room traverse. 
 
 ![](yorkshire-2010-03-05_jan_traverse.jpg)
+
+####  Clare Tan 
 
 ##  Sunday 
 

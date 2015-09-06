@@ -56,6 +56,8 @@ Nice Mr AA boosted our battery, tightened our alternator belt and sent us on our
 
 Back to the hut to be welcomed by Team Cook with a most wondrous meal. Delicious soup for the Veggies, Beef stew with many dumplings for the murderers, served with side-dish of mash, sauteed green beans &amp; fried mushrooms. Jay is truly a good cook; and his assistants much appreciated. 
 
+####  Jarvist Frost 
+
 ##  Sunday 
 
 ###  Lost Johns': Shed, Clew, Deep, Paul, Tim, Tom, Gerardo, Thara 
@@ -87,6 +89,8 @@ Shed: 'Where is Sandeep?'
 Apparently Sandeep was still underground, having taken the wrong turn at the first junction. Bimbling round the entrance series. 
 
 In the end, Clew waited for more than hour, wishing he could just drive off to get his fuel (more cake)... 
+
+####  Thara 
 
 "Both days I was out while it was still light; probably my best weekend of caving in the UK ever!"   
 

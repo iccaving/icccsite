@@ -12,8 +12,6 @@ Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2013-winter-tour.php
 Status:
 
-ICCC Winter Tour 
-
 #  ICCC Winter Tour 
 
 ###  ICCC - RCC Club of the Year 

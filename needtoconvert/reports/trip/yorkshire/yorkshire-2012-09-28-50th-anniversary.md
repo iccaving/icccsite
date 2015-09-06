@@ -29,6 +29,8 @@ How better to celebrate our 50th Birthday than by going caving? Coming from a te
 
 We blazed up the motorways towards Yorkshire with a van full of stuff, including six ladders, the perverse idea being to rig Bar Pot with them. We got to the NPC at about 01:15 where ICCC's 50 th birthday party was in full swing with alcohol flowing freely. Saber made pasta-goodness for us to eat, as per. 
 
+####  Fiona Hartley 
+
 ##  Saturday 
 
 ###  Gaping Gill: Almost Everyone! 

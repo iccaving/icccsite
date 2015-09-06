@@ -12,8 +12,6 @@ Cavepeeps:
 Oldurl: /rcc/caving/andalucia/andalucia13.php
 Status:
 
-ICCC Easter Tour \ Ronda - Andalucia 
-
 #  ICCC Easter Tour - Ronda, Andalucia 
 
 [ ![](/rcc/caving/photo_archive/tours/2013%20-%20andalucia/DSC_0809.jpg) ](/rcc/caving/photo_archive/tours/2013%20-%20andalucia/DSC_0809.html)

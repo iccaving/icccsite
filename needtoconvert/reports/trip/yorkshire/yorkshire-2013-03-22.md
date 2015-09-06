@@ -14,7 +14,7 @@ Status:
 
 #  Yorkshire 
 
-##  End of Term Spectacular 22–26 March 2013 
+##  End of Term Spectacular 22â26 March 2013 
 
 ##  [ Photos ](/caving/photo_archive/trips/2013-03-22%20-%20yorkshire/) [ ![](yorkshire-2013-03-22.jpg) ](/caving/photo_archive/trips/2013-03-22%20-%20yorkshire/)
 

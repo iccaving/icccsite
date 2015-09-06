@@ -12,8 +12,6 @@ Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2014-winter-tour.php
 Status:
 
-ICCC Winter Tour 
-
 #  ICCC Winter Tour 
 
 [ ![](/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/RhysTyers_DSC_0678.JPG) ](/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/RhysTyers_DSC_0678.html)  

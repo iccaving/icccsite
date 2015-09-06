@@ -49,17 +49,25 @@ Exit was smooth except for a bit of a rope tangle. Entrance pipe was difficult o
 
 Lost Johns' really is a nice cave! The stream was bigger than I'd ever seen, and there was a frightful 'Thud, Thud, Thud' in the dry old section of the cave of the water crashing down the main pitch. Lyndon came as far as the traverse, Clew and I got to one pitch before battleaxe when we met Paul coming the other way and waited in the little warm ante chamber for a natter. Clewin deployed the Biere D'Or that he'd been chilling in his SRT bag, and I derigged out behind Andy. We managed to break surface just after a sleet storm that had completely whited out the windows of the bus, and got to change in (relative) warmth. 
 
+####  Jarvist Frost 
+
 ###  Rumbling: Rik, Lyndon, TomB 
 
 Seemed to get on alright, abandoned the cave when the pits got excessively wet, making a rather short trip. Was eminently doable though, even in the extreme weather. 
+
+####  Jarvist Frost 
 
 ###  Lost Johns': Andy, James KP, Paul 
 
 They got a long way before being turned around by the comedy water levels. With assistance, Andy made it to the backup bolt on the final pitch only by a soaking to the nipple line. Sensibly abandoned at this point, for a smooth exit with a little tea-break halfway. 
 
+####  Jarvist Frost 
+
 ###  ULSA Party: 
 
 [ ![](/caving/photo_archive/trips/2007-11-30%20-%20yorkshire/jana%20carga%20-%2000056--thumb.jpg) ](/caving/photo_archive/trips/2007-11-30%20-%20yorkshire/jana%20carga%20-%2000056.html) [ ![](/caving/photo_archive/trips/2007-11-30%20-%20yorkshire/jana%20carga%20-%2000057--thumb.jpg) ](/caving/photo_archive/trips/2007-11-30%20-%20yorkshire/jana%20carga%20-%2000057.html) [ ![](/caving/photo_archive/trips/2007-11-30%20-%20yorkshire/jana%20carga%20-%2000059--thumb.jpg) ](/caving/photo_archive/trips/2007-11-30%20-%20yorkshire/jana%20carga%20-%2000059.html) [ ![](/caving/photo_archive/trips/2007-11-30%20-%20yorkshire/jana%20carga%20-%2000060--thumb.jpg) ](/caving/photo_archive/trips/2007-11-30%20-%20yorkshire/jana%20carga%20-%2000060.html) [ ![](/caving/photo_archive/trips/2007-11-30%20-%20yorkshire/jana%20carga%20-%2000061--thumb.jpg) ](/caving/photo_archive/trips/2007-11-30%20-%20yorkshire/jana%20carga%20-%2000061.html) The NPC was absolutely jam-packed in the evening as [ Ulsa ](http://www.ulsa.org.uk/) were using it as the venue for a double whammy birthday party. Wolfed down a delicious Curry (Hmm, with mixed-meat from the Preston Tesco reduced shelf...), and then settled into an evening of drinking (tea for me!). ULSA peeps were a good laugh, and shared their most amazing collection of birthday cakes. I went to bed dreaming of that chocolate smartie cake, smeared with clotted cream... 
+
+####  Jarvist Frost 
 
 ##  Sunday 
 

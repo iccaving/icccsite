@@ -30,6 +30,8 @@ At least we were relatively comfortable in the minibus. Poor Tim, waiting for us
 
 Got moving again at around 530 in the morning, did the Tesco shop in a daze, arrived at the NPC to daylight and a thoroughly bemused Clive (Westlake). 
 
+####  Clare 
+
 ##  Saturday 
 
 I woke up at about 11, but caving that day was out of the question having gone to bed just two hours earlier at 9 that morning. 
@@ -42,11 +44,15 @@ With the others still fast asleep, I opted for some teashop caving/shopping in I
 
 Back to bed at 3 in the afternoon, only to be woken up by Jarv (of all people) at 5. Chilli for dinner; joined later by Hugh Penney, who showed up with a couple of GUPA cavers in tow. 
 
+####  Clare 
+
 ##  Sunday 
 
 Having done a GG massive just 5 weeks prior as a club, there wasn't a big push to visit Gaping Ghyll main chamber, so the traditional GG feast was forgone in favour of a Grange Rigg-Christmas Pot exchange. 
 
 Parked in Clapham and walked up via Long Lane, which proved to be a good choice and very pleasant, without the earnest shouts of children excited to see Santa that one gets on the nature trail. 
+
+####  Clare 
 
 ###  Grange Rigg: Jarv, Tim O, Clare 
 
@@ -69,6 +75,8 @@ Meanwhile...
 ###  Christmas Pot (turned New Inn): Tetley, Jim Li, Nia 
 
 Apparently they tried a dig site 4m from the Christmas Pot entrance before actually going down Christmas. Whose entrance pitch/passage was partially iced up anyway so it was impassable. Some chiseling from Tetley before he concluded it wasn't worth it, and the trio headed down to beer and boar sausages in the New Inn instead. 
+
+####  Clare 
 
 ##  Monday 
 
@@ -129,6 +137,8 @@ Tetley got in his ladder trip of the tour, taking William and Nia on a jaunt dow
 Jarv: They had a jaunt up Poetic Justice and on to Eureka junction, then went out via Platypus Junction, they were attempting to loop back to Oxford Circus (the climb up for going out county) and then out via county, but ended up in some cold inlet somewhere under the beck + so retraced their steps back to Spout Hall and back that way. On a previous trip 6 years ago, I did something very similar and only noticed that it was Oxford Circus on the way back from the inlet. Could Tetley + co have missed it entirely? 
 
 Dinner was once again a Martin McGowan masterpiece, this time a massive stuffed marrow! And a calorie-fest of a Christmas pudding. 
+
+####  Clare 
 
 ##  Wednesday 
 

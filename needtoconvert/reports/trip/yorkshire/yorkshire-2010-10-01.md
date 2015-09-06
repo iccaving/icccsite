@@ -36,11 +36,15 @@ A brief little look at the lovely confluence and bit of stream above the final p
 
 We met the Jingling crew literally at the gate between the fields, and quickly followed their ropes down the lateral route — very nice! Nico took the derigging mantle, with Al being his second / bag carrier. Exit to dusk, gentle walk down to the waiting minibus and a partially changed Jingling party (justifying their speed at the clearly superior skills of their rigger / derigeour). 
 
+####  Jarv 
+
 ###  King Pot: Tetley, Clare, Jim, Myles 
 
 All I know is that they set off shortly after 1pm, and returned, just before their callout, to the road of Kingsdale at ten to midnight. Mad staring eyes, tales of epic tackle bag dragging by those who foolishly haven't been caving since last term, and the beauty and horror of standing at the bottom of Elizabeth pitch contemplating the return journey... 
 
 Returned to the NPC to find cavers snoozing in front of the fire, and a truly epic chilli created under Shed as head chef, and truly debauched quantities of treacle tart with lashings of double cream thanks to Jan. 
+
+####  Jarv 
 
 ###  Marble Steps: Sandeep, Shed, Jan, Goaty 
 
