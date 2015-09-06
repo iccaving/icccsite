@@ -28,6 +28,8 @@ Status:
 
 Drive up was smooth, and we were pleasantly surprised when we arrived at the NPC to an empty hut. North Wales CRO gear fettling had called away some of the NPC regulars, and luxurious as it was to be able to stretch ourselves out fully in the hut, their presence was actually missed... Certainly felt weird without Dave there! 
 
+####  Clare 
+
 ##  Saturday 
 
 ###  Ireby Fell Cavern: James KP, Nico, Eric, Richard, Jonny 
@@ -39,6 +41,8 @@ On the fifth pitch we met Swindon MOuntaneering Group and waited for them to get
 The bottom of Ireby was amazing: Duke street is impressive! We walked down to the sump and had the satisfaction of following the cave to the end. Way out was OK. I figured the most significant bit of SRT difficulty was going to be the last pitch and the wet pitch from last, so sent Nico up first to supervise the passing of the rebelay from above while I checked out the situation from below. Everyone did well. Impressive. Gave everyone a pep talk about prussicking through wet pitches. Something like"never surrender, never look up, go go go". Needless to say from that point on I literally lost contact. The freshers were too fast for Nico and I to keep up and I basically saw them next outside. 
 
 We got out to a beautiful, starry night, Mission Accomplised! 
+
+####  James KP 
 
 ###  Lost Johns' Cave 
 
@@ -72,6 +76,8 @@ Back at the minibus Nico was holding the fort, cursing us for coming so close to
 
 Got back to the NPC with a lovely curry waiting for us; everyone looked a bit harrowed and comatosed, going to bed shortly after dinner. Some of us sat up for a while for tea and peaches + cream, but it was pretty late and crashed soon after as well. 
 
+####  Clare 
+
 Ah, Lost Johns'! Such a lovely friendly cave, there's a bit of stream in the entrance to be admired, a couple of easy traverses to limber up for, and then the meat of the SRT down to battleaxe is in beautiful short pitches, completely dry. It's a very friendly place - still air &amp; no risk of getting cold on the ropes. With no falling water you can communicate, more or less, from the top to the bottom of a pitch, which certainly helps when explaining things to the novice SRTers. 
 
 It was pretty damp - but I've been in here in worse. It's really very flood proof. The start and end of Dome were filled with a rhythmic low bass whump of the water tumbling down the traditional wet route, like the thud of the sub woofas from a festival across down. I particularly like Dome pitch itself - a nice take off at the top from a y-hang, then swinging out into the spacious shaft to gain a rift leaving the pitch well above the floor. At Dome junction I left Ari guarding the tackle sacs and slithered my way up to Centipede (it's not that the free climbs are so massively difficult, it's just that you don't expect them to be there!) where I met Al the rigger and stole his Candle/Shistol rope bag. Back a Dome with a motley crew of random people from both routes I led the charge to Candle, and rigged our way down. 
@@ -100,6 +106,8 @@ Derigging LJ always seems more effort than it should be. I think a few factors c
 
 Note on Rope: The CNCC lengths are a bit short - Candle / Shistol would be more comfortable to rig on 35 rather than 30. The 30 we brought was actually a 27 when measured back in stores, and was just long enough to tie off to the final Y-hang (Doh!). Similarly, if it's wet you'd want more like a 40 for the final pitch (rather than a 30), so you can rig the chute/cascade + not die. I put a deviation on Vestry (single 8ft sling through thread). You want about 15 maillons for battle axe to rig it in a 'bullet proof' manner for novices rather than the 7 depicted. Conversely the 60 for Mud / Centipede seems a bit long, but I stupidly forgot to make a note of how much spare rope we had at the bottom. 
 
+####  Jarv 
+
 ##  Sunday 
 
 ###  Teashop cavers: Al, Nico, Leo, Jonny... 
@@ -109,6 +117,8 @@ Note on Rope: The CNCC lengths are a bit short - Candle / Shistol would be more 
 [ ![](/caving/photo_archive/trips/2010-10-29%20-%20yorkshire/Jarvist%20Frost%20-%20Powershot%20G5%20-%202010-10-31-13.49.58%20-%20CRW_0634%20-%20yordas%20-%202nd%20pitch--thumb.jpg) ](/caving/photo_archive/trips/2010-10-29%20-%20yorkshire/Jarvist%20Frost%20-%20Powershot%20G5%20-%202010-10-31-13.49.58%20-%20CRW_0634%20-%20yordas%20-%202nd%20pitch.html) [ ![](/caving/photo_archive/trips/2010-10-29%20-%20yorkshire/Jarvist%20Frost%20-%20Powershot%20G5%20-%202010-10-31-13.11.38%20-%20IMG_0626%20-%20kingsdale%20-%20group%20shot--thumb.jpg) ](/caving/photo_archive/trips/2010-10-29%20-%20yorkshire/Jarvist%20Frost%20-%20Powershot%20G5%20-%202010-10-31-13.11.38%20-%20IMG_0626%20-%20kingsdale%20-%20group%20shot.html) Ahh, a classic quick Sunday fettle. Bundled past a (school group?) equipped with matching suits and FX2s about to pop into the lower entrance &amp; found the middle entrance just as two cavers (who obviously got started rather earlier in the day!) finished derigging. Jean rigged the first hang, then I slurped my way down the 2nd and got the photo kit out to take a few snaps. Lovely little water chute just around the corner, then a small bit of crawling + the connection with the higher entrance to gain the the start of the deepening rift and waterfall. Actually takes a bit of time to rig, and the SRT is not super simple - swinging onto a more-or-less free hanging traverse and then a rather severe deviation for a dry hang. As well as the in-situ cord, there's a P-bolt much further down + on the wall which I missed, but which should give a dry hang &amp; should also be a lot easier to pass. 
 
 [ ![](/caving/photo_archive/trips/2010-10-29%20-%20yorkshire/Jarvist%20Frost%20-%20Powershot%20G5%20-%202010-10-31-13.54.40%20-%20CRW_0635%20-%20yordas%20-%20cascade--thumb.jpg) ](/caving/photo_archive/trips/2010-10-29%20-%20yorkshire/Jarvist%20Frost%20-%20Powershot%20G5%20-%202010-10-31-13.54.40%20-%20CRW_0635%20-%20yordas%20-%20cascade.html) [ ![](/caving/photo_archive/trips/2010-10-29%20-%20yorkshire/Jarvist%20Frost%20-%20Powershot%20G5%20-%202010-10-31-14.31.24%20-%20CRW_0641%20-%20yordas%20-%20final%20pitch--thumb.jpg) ](/caving/photo_archive/trips/2010-10-29%20-%20yorkshire/Jarvist%20Frost%20-%20Powershot%20G5%20-%202010-10-31-14.31.24%20-%20CRW_0641%20-%20yordas%20-%20final%20pitch.html) [ ![](/caving/photo_archive/trips/2010-10-29%20-%20yorkshire/Jarvist%20Frost%20-%20Powershot%20G5%20-%202010-10-31-14.47.04%20-%20CRW_0655%20-%20yordas%20-%20final%20pitch%20-%20looking%20straight%20up--thumb.jpg) ](/caving/photo_archive/trips/2010-10-29%20-%20yorkshire/Jarvist%20Frost%20-%20Powershot%20G5%20-%202010-10-31-14.47.04%20-%20CRW_0655%20-%20yordas%20-%20final%20pitch%20-%20looking%20straight%20up.html) More photos taken, everyone bar me exited at the walk-out entrance (with the photo gear), I derigged + met Jean at the end of the traverse (who had re-entered the middle entrance after locating the hide + seeker), who then derigged the two little entrance pitches. I climbed out of the alternative first pitch for a bit of variation. 
+
+####  Jarv 
 
 ###  Bull Pot: James KP, Clare, Eric, Mehdi, Andrzej 
 

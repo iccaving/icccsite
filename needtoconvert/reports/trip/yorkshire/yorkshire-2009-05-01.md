@@ -24,6 +24,8 @@ Status:
 
 I am writing to you from a train on my way back from the ICCC may bank holiday weekend trip to the ?Yorkshire Dales. I'm aching, my hands feel so raw I have difficulty typing, I'm still mostly filthy but I feel satisfied in a mystical way, reunited with whatever part of me is made happy by caving. There have been aesthetic moments, like gazing at the reflection from my lights in the wet passages of king pot. There is the companionship of a strenuous trip, dividing food out and sharing the load. There are also moments of peace and quiet, begin alone in a passage with no sound bar water trickling down, and moments of exhilaration such as being in Rowten looking down at my companion's lights disappearing into the darkness and knowing with sickening certainty that soon it shall be my turn. 
 
+####  James Kirkpatrick 
+
 ##  Saturday 
 
 ###  Top - Lancs: Jarv, Leo, James Berg, Timo 
@@ -35,6 +37,8 @@ Zip down the climb / abseil, and into the whiteway, through the stal curtain and
 Getting changed outside the farm, a 2-person (husband/wife?) team returned looking rather muddy - they'd just done Top-Pip, starting just in front of us. 
 
 Got back to the NPC to discover to our joy that the members had a surplus of Curry, and would we prefer to eat this rather than cook ourselves? I don't think we've ever managed to put some extra rice on so quick! The Naan was a particular treat, and the Dave W (?) concocted veggie curry a delight, though I offended the cook by topping with cheese (for the calories!). 
+
+####  Jarvist Frost 
 
 ##  Sunday 
 
@@ -54,6 +58,8 @@ The way back leads us in reverse through the same places, but they do not seem t
 
 We got out of the cave by 11:30, 9 hours after we entering for the second time. The night was still and free from rain. The world seemed a calm and at peaceful place. 
 
+####  James Kirkpatrick 
+
 Urg! Too many times up that hill! We bumped into Leo in the top field (turned back after a couple of nasty moments stuck above pitches, the rather untensioned traverse over the pit being the final straw); he had Andy's car keys so after dropping my SRT + helmet at the entrance to King I stumbled back down past Braida Garth farm to retrieve the keys and keep them safe from the car thieves. Finally underground, it was gone three. I actually really like solo caving, at least when the stress is off and you don't have too many crazy climbs. You go at the pace you want, resting whenever you fancy without worry for the person trapped behind in the squeeze, talking to yourself without reproach and saying hello to the bolts... I also really like King. The squeezes aren't really squeezes, its more like some lovely acrobatic dance spidering your way down the climbs and reptating through the pitch heads. 
 
 Soon I had caught the whispering voices, and followed the boots down the grovel before the crawl to the little waiting chamber for the T-shape passage. As I popped out the far end TimO and James Berg were already inside its clutches. A quick shout to remind them to tidy their harnesses before engaging with the enemy, and I pause drinking gulps of the icy water from the little inlet. Then into the mouth of this little collector's piece. A shallow rift that slowly narrows, first one is merely hopping over the top up in the bedding plane for ease of access, before suddenly finding oneself wedged in the roof with legs akimbo, contemplating some crazy dog-leg backwards on your side, while the temptation to swing your legs down to find a little extra purchase is difficult to resist... Its not actually that bad, and I really enjoy it. With a year of UK caving under your belt it would present no problems. James Berg had a few trips in, and was not of the easiest dimension, with nice long inflexible femurs. About halfway through, with the situation worsening, he decided that it was time to call it a day and somehow found somewhere to do a quick 68-point turn and start heading out. Tim passed the car keys, we bid our adieu and parted ways. 
@@ -62,11 +68,15 @@ And so the return, James and I took it nice and steady, bit of assistance on the
 
 Elizabeth my darling, I promise I will be back soon. 
 
+####  Jarvist Frost 
+
 ##  Monday 
 
 ###  Rowten: Everyone 
 
 What cave provides a fast trip, with no special difficulties, is interesting and safe in the wet? Ah, also it needs to be less than a 20' walk from the car. The answer: Rowten. Andy and Andy formed the advance rig-team and the rest followed an hour later or so. I was barred from rigging since the last time I tried we ended up going through the waterfall... This time no such problems occured, we got down the first pitch and into the rift traverse that separates the new and old routes. A perfect hang down to the main chamber. Then the strange third pitch with hard rebelays. Finally a straightforward traverse and the last pitch leading to an extremely wet passage and eventually the sump. Tim joined us at the bottom of the main hall while Jarv visited the bottom of the cave. James B and Leo made it to the bottom of the main hall and got turned around. Rowten is a beautiful place, but not one where you want to spend hours staring at people prussicking! Anyways both of them got out quickly and with no trouble. A hassle free and satisfying closing chapter for a fantastic weekend! 
+
+####  James Kirkpatrick 
 
 Awoke to less than ideal weather, but to find a delish breakfast prepared by my rather less somnolent cave buddies. Munching chilli last night, our consensus was to find somewhere suitable for the varied levels of experience on this weekend, a trip that could be enjoyed by all. Somehow this became Rowten, one of the most 'impressive' open SRT shafts in Yorks. If you can control the vertigo on Rowten you're probably going to be ok anywhere. It is not exactly top of the list for beginners 'ease me in' SRT trips. Still, start as you mean to go on 'n' all. 
 

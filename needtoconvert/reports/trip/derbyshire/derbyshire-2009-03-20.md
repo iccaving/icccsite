@@ -25,12 +25,12 @@ Once per year it is always nice to visit the Derbyshire caves. Castleton is also
 
 On Saturday we all did a Maskill-Oxlow exchange trip which is just a plain caving trip. I would say nothing special, really, but probably a good choice cave for freshers or to practice rigging. We were all out in 5 1/2 hours (with 11 people!) and it was still daylight. 
 
-After a good meal the obvious step is to have a glass of wine, or two &amp; maybe a bit of beer. And around 10PM this news about possible cave rescue start spreading around (cavers who did a Titan â Peak Cavern) through trip failed to return by evening. Jarv was the only sober person who was ready to participate. But it is hard just to stay in a hut and wait so we all decided to go to the cave entrance and have a look. We get lost twice before getting to Peak Cavern! Anyway, the rescue was cancelled, because they did turn up. 
+After a good meal the obvious step is to have a glass of wine, or two &amp; maybe a bit of beer. And around 10PM this news about possible cave rescue start spreading around (cavers who did a Titan Ă˘ Peak Cavern) through trip failed to return by evening. Jarv was the only sober person who was ready to participate. But it is hard just to stay in a hut and wait so we all decided to go to the cave entrance and have a look. We get lost twice before getting to Peak Cavern! Anyway, the rescue was cancelled, because they did turn up. 
 
 ###  Sunday: Peak Cavern 
 
 On Sunday a man called Jim rescued ICCC from the usual Sunday faff and he took us into Peak. We split in two groups. One group went up Victoria aven and the other went to look around and to see where JH drops down. 
 
-Very nice Sunday trip which included - rather unusually â sledging in a cave! You put some lubricating mud on your bottom and then you go! 
+Very nice Sunday trip which included - rather unusually Ă˘ sledging in a cave! You put some lubricating mud on your bottom and then you go! 
 
 ####  Jana 

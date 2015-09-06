@@ -26,6 +26,8 @@ Status:
 
 After ferrying the essential stuff into the hut we had time for some tea and a beer, maybe toast...no, Saber had other ideas and set about cooking us all pasta at 2.30am, which turned out to be delicious and I declare it should a be traditional thing for Saber to do from now... 
 
+####  Jan 
+
 ###  Saturday: Notts Pot 
 
 From Leck Fell the views across to the Lake District and down to Morecambe Bay were nice, it was already 2pm and the sun was low, but it picked out the river Wennington winding down to the sea as a trail of bright puddles of light. 
@@ -44,6 +46,8 @@ A while later I emerged up the Left-hand route with the biggest tackle bag I've 
 
 Back on top, Tetley and I gathered up the last bits of rigging and I finished off a flask of coffee, then we trudged back through snow covered heather, it was very cold and clear, without a cloud in the sky and the stars were as bright as I've ever seen. 
 
+####  Jan 
+
 ###  Sunday: Alum Pot 
 
 Sunday was a really nice sunny day and the main shaft of Alum pot was well lit up even by low winter sun. Dave and I decided to form a crack team and do a quick decent via Lower Long Churn. 
@@ -54,9 +58,13 @@ At the bottom we met the water pouring down the Diccan route straight into the s
 
 On the way back to the NPC we passed the Hill Inn, and I heard a few new stories, of that once centre of cavers debauchery. 
 
+####  Jan 
+
 ###  Back to London 
 
 I decided to walk from the NPC to Clapham to catch the 1840 for Leeds, I arrived 20mins early and the train was 35mins late... Luckily there were a couple of walkers to chat with to pass the time, as we stood there getting cold. After about 40mins I picked up the station phone and some guy said down a crackly line, the train was delayed by sheep on the track and signal failure! When the train finally limped into the station the back carriage had no lights and was freezing cold, the guard said it was broken down and didn't have any heating, so we moved to the front carriage, but as we trundled along the front carriage got colder and colder, until my breath was condensing in the air, I sat huddled in my goretex hat and duvet jacket, imagining what fun train journeys must have been 100 years ago. 
+
+####  Jan 
 
 ###  Sunday: Cow to County - Tetley, Jonny &amp; Rhys 
 
@@ -71,6 +79,8 @@ Traversing the cave was extremely enjoyable and fast from that point on. We walk
 We then travelled around a small loop which included the spectacular Easter Grotto, with its hundreds of stalagmites and stalactites, and the interestingly named Perfection Passage, a minute or so of flat out crawl that emerges in a new cavern about 1.5m above the floor (which makes not landing on your head an interesting challenge), before heading out through County Pot. 
 
 Once back at the van we took our stuff and changed in Bullpot farm (in the warm) before having a cup of tea and a beer whilst waiting for the other group. They appeared 20 minutes later and soon we were going back to the NPC. Overall it was a very good day. 
+
+####  Rhys 
 
 ###  Sunday: Easegill County &lt;&gt; Cow - Jarv, Oliver, Clare, Sam 
 
@@ -90,6 +100,8 @@ The four of us ascended the wet Candle and Shistol and split into pairs. Dave an
 
 The Centipede shaft is magnificent to ascend, a great free hang with plenty for the eye to feast on. It was tiring but a lot of fun bouncing around on 9mm for 30 metres, kicking away from the damp wall and a nice easy pitch head to step off on. Calling "rope free" to Dave, smoking at the bottom of Centipede, I went on to look at the next pitch Mud which isn't far ahead. When I came back after a minute or two I was shocked and mightily impressed to find Dave had almost reached the head of Centipede. He was breathing hard when he stepped off the rope but who wouldn't be! It seemed almost as if he had flown up the rope on mystical wings. 
 
+####  Fiona 
+
 ###  Tuesday: Rescue Practice 
 
 ###  Wednesday: Rowten Pot: Dave, Saber, Chris, Pete, Clare, Rhys, Oliver 
@@ -105,6 +117,8 @@ Once you're free of the rift, this descent is very leisurely. This pitch is prob
 Next comes a fairly spacious passage, followed by a short pitch leading into the final chamber. I spent most of my time here telling Dave how much I liked the cave while Rhys attempted to take some photos and Saber slept on a comfy rock. As soon as we had all accumulated here those down first started filing off. Rhys and I flipped a chocolate bar to decide who would take the first bag up. He lost, so I set off while he waited with Clare. Rowten is one of those caves that is a lot more fun coming in than going out, but despite this is remains one of my favourate trips so far. 
 
 Of all the places that trees could grow, I find very strange how often then grow beside huge holes in the ground like the entrance to Rowten and nowhere else in sight. Why this happens I don't know, but this time I appreciated the handholds the roots gave, particularly as I had a nice heavy bag to pull up. Rhys and I didn't shiver in the cold for long, within about five minutes Clare had finished derigging and we were heading back to the minibus. Just as before, the other team were just leaving, but somehow Jarv was still asleep in the bus. 
+
+####  Oliver 
 
 ###  Thursday: Brown Hill: Rhys, Oliver, Jarv 
 
@@ -134,9 +148,11 @@ Bags rotated (we would each have one on they way out) and we made steady progres
 
 Quick elope back to the happy red minibus, got changed with the stereo on (it was now strangely mild at the end of the week), and zoomed back to the NPC to arrive in time for the last minute roast dinner preparations and then a serious self stuffing. 
 
+####  Jarv 
+
 ###  Thursday: Easegill County &lt;&gt; Lancs: Dave, Chris, Saber, Clare 
 
-We left the NPC early in the morning to get a long trip don in Easegill. Once we had driven to where the road ran out, we were accosted by trail bikers, who called us “suicidal”. We got out and walked the remaining distance on foot, with Dave cleverly remembering to put a rope down Lancaster so that we could get out. We then walked for what seemed like hours and finally reached the entrance to county. Our plan was to pull the rope through, while keeping a watchful eye out for piranhas and other cave-dwelling nasties. However, at the top of one of the pitches the rope got stuck, so Dave had to climb up and get it back. Just as he was reaching the top, we heard a terrifying roar, which sounded like a dragon, even though we knew it was probably just a polar bear stuck in a tight rift. We then trudged for hours through increasingly slippery mud and boulders, before finally stopping for a rest. Clare showed Saber and Chris an interesting passage, before teleporting out and leaving them to find a tiny rabbit-sized hole in the floor, which they failed to do. 
+We left the NPC early in the morning to get a long trip don in Easegill. Once we had driven to where the road ran out, we were accosted by trail bikers, who called us âsuicidalâ. We got out and walked the remaining distance on foot, with Dave cleverly remembering to put a rope down Lancaster so that we could get out. We then walked for what seemed like hours and finally reached the entrance to county. Our plan was to pull the rope through, while keeping a watchful eye out for piranhas and other cave-dwelling nasties. However, at the top of one of the pitches the rope got stuck, so Dave had to climb up and get it back. Just as he was reaching the top, we heard a terrifying roar, which sounded like a dragon, even though we knew it was probably just a polar bear stuck in a tight rift. We then trudged for hours through increasingly slippery mud and boulders, before finally stopping for a rest. Clare showed Saber and Chris an interesting passage, before teleporting out and leaving them to find a tiny rabbit-sized hole in the floor, which they failed to do. 
 
 This was followed by more hours of boulder-hopping before we finally escaped through Lancaster. The walk back seemed twice as long as before, but we finally made it back to the car and got home. This is all I can remember about this trip. 
 

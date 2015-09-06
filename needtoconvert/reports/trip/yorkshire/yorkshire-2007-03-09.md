@@ -42,6 +42,8 @@ The return journey went quite smoothly by comparison, and we were back at the se
 
 It was with some relief that we reached the surface, and enjoyed a nice walk back to the minibus through the howling gale and driving hail. With any luck, the memories of this cave will have faded into nostalgia by the time we next attempt it, allowing us to approach it with naive enthusiasm once again. 
 
+####  Marc Labuhn 
+
 Oh Large Pot; my temptrous, my fickle Lover. The scene of [ my worst trip ever ](/caving/yorkshire/yorkshire-2005-06-24.php) 21 months ago, I nevertheless found myself being dragged back to the scene of such muddy depravity. Now 23, an adult for five years, I felt a return was justified, and certainly a good place to train up the now more-than-competent first years to expedition standard caving. The following is a description of ** My Worst Caving Experience Ever ** that was the almost immediate result. 
 
 Whizzed down the first pitch, on into the crawl. Feet first. Can't seem to get round the corner. Ok. Backup, leave tacklesac while considering the rigging and try headfirst. Oh - much easier, ropes all attached. Bit greasy this rift. Clip in at pitch-head to peer down at the first rebelay. Hmm. Try and reverse up the rift, no joy. Not enjoying this; not claustraphobic as such - just not having a whale of a time. Right - lets just go head first through the pitchhead, get weight onto clipped in short cows tail, roll over, pull rope through / rig descender from there. Not panic'ing, but not thinking as carefully as I should. Crawl forward and start lowering down. A pull on my waist... Oh no! I didn't take off my long cows-tail! It's still in the bloody traverse line! 
@@ -56,13 +58,19 @@ Finding that the rope for Colossus had been left at the top was a relief; the ca
 
 And yet, already I'm planning the return. Such abuses at least give this cave a very personal touch and a special place in my heart. 
 
+####  Jarvist Frost 
+
 ###  Marble Steps: Deep, Tom B, Ben S 
 
 No trip report from the participants yet... Apparently Sandeep found himself rather caught out deep down the cave, and filled his survival bag. Not sure how far they got - three pitches maybe? Team Large were dropped off at home by Jarv after waiting for a couple of hours (in order to start cooking), returned to find the Marble Steps boys just walking down from the Pumping Station. Drove them back to the NPC to change. 
 
+####  Jarvist Frost 
+
 ###  Rowten: Dave Wilson, Paul H, Ben B 
 
 Smooth steady trip straight to the bottom, only marginally upset by Ben B finding that he hadn't a harness, coming over to Marble Steps to search the minibus before bouncing back to the NPC to pick up spare bits of kit. 
+
+####  Jarvist Frost 
 
 ##  Sunday 
 
@@ -75,6 +83,8 @@ Smooth steady trip straight to the bottom, only marginally upset by Ben B findin
 [ ![](/caving/photo_archive/trips/2007-03-09%20-%20yorkshire/jarvist%20frost%20-%20aquamole%20-%20thara%20ascending--thumb.jpg) ](/caving/photo_archive/trips/2007-03-09%20-%20yorkshire/jarvist%20frost%20-%20aquamole%20-%20thara%20ascending.html) Cracked out the old digital camera and used the 'pelicase tripod' method to take a few long-exposure shaft photos. Dave Wilson - wondering what the little flashing orange light was (showing that it was exposing!), kept on shining his obscenely powerful prototype Bisun at the camera. Very pleased with the results nonetheless, really think its worth taking a tripod and a film camera down here for a bit of a play at some point - good practice for the 'real' shaft photos out in Slovenia this summer... 
 
 Thara led the way out, gentle derig from behind. Under three hours to do the whole thing; half changed at the minibus when the Heron Pot faffers returned. 
+
+####  Jarvist Frost 
 
 ###  Heron: Deep, Tom B, Ben S, Paul H 
 

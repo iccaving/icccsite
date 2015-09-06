@@ -12,8 +12,6 @@ Cavepeeps:
 Oldurl: /rcc/caving/sardinia/sardinia14.php
 Status:
 
-ICCC\Easter Tour 2014\Sardinia 
-
 #  ICCC   
 Easter Tour 2014   
 Sardinia 

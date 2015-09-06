@@ -38,6 +38,8 @@ Status:
 
 Major van cock-ups; booking was for 7am Sat 16th . clashed with drama-soc transporting a fridge to Hammersmith. Then a one-hour protracted faff in Tescos, after a party of two had been sent ahead to do the shopping anyhow. Left London 10pm. Picked up Jarv and Jana from Windermere at 3am, arrived at hut for 4ish. 
 
+####  Jarv 
+
 ##  Saturday 16th 
 
 ###  County: Jarv, Jana, Jutta, Rahel 
@@ -46,21 +48,35 @@ Lovely new scotchbright reflector posts on the fell!
 
 Team European zoomed down the trapdoor, with a sheep denying clang. Beautiful rift, sinuous and slippery. At pitch-head , some dodgy 9mm found and tidied out the way; beautiful 10mm blue-Lanex substituted. Down and onto the free-climb. 
 
+####  Jarv 
+
 Well, again one of these nice walks among the sheep on this lovely UK hill/fields. Typical UK entrance to the cave . trapdoor (said the Slovenian caver). Two small SRT drops and lots of nice walks in this narrow corridor with streams. Some crawling and back up again.worth going again and explored some more. Yey. 
 
+####  Jana 
+
 So yes:- Beyond the shower/bath go down stream, bit of horrid crawling then pop into Poetic Justice chamber. Under and up . after a bit of shoulder standing! Rope found rigged for the next bit . used it. Downstream to T-junction (foam on roof and sides of chamber along the whole way) then stomp upstream and climb up to top-right. Flat-out crawl for ~30m to medium chamber, start of Double-Decker passage? Followed around to the right, up and down and then across the weir, then into Straw Chamber. Back into the stream and up to Holbeck Junction, quick photoshoot and then slowly out. Evil tryst of witches attempted to scare me on my solo derig by hiding in the dark just below the entrance crawl. Effect was slightly spoiled by timing; had walked around the corner and said hello to Jutta before they made the monster screams! Rain/snow dripping down the entrance climb, stars everywhere on the wander back, shoo.ing sheep out of the way as we fought the biting wind. 
+
+####  Jarv 
 
 ###  Lancaster: Anne, Marc, Thara, Sandeep (and Skippy the kangaroo) 
 
 Following Anne down the entrance pitch, we made a good tag-team and within the hour we were at the bottom of the entrance pitch. Marc and Thara zoomed down after and headed into chamber after chamber until we hit a huge pot ~10m across and more down. We saw the p-hanger traverse around the side but we didn.t have another rope with so we just carried on bumbling. Marc and Anne headed out while Thara. Skippy and me took a photo on a boulder, unfortunately there was just too much stream. I think he might feature later on this week. 
 
+####  Sandeep 
+
 ##  Meal: 
 
 Curry (or was it chilli?!) delicacy by Thara. Followed by debauchery involving chocolate and egg-whites, chilled by sitting it outside in the frosty air. Marc popped off in the van to the train station to pick up the late arriving Ben. 
 
+####  Jarv 
+
 Trying to get to the week was a challenge in itself. The train to Leeds was fine until we were diverted to York due to a fatality on the track before Leeds, which I can only assume was a jumper or someone who wandered onto the track at the wrong moment. Eventually arrived at the hut with food still on the table. There was good curry and later nice German chocolate and egg thingy. Much fun with the fire ensured through the evening. Looking forward to my first trip of the week tomorrow. 
 
+####  Ben 
+
 Inflated to find myself in a cave, quick photos were taken with Thara on a boulder. Many were ruined by excess steam. A short climb followed by strolling to the base of the first pitch before I was reluctantly deflated and squeezed flat with Marc.s gloves. 
+
+####  Skippy 
 
 ##  Sunday 17th 
 
@@ -68,10 +84,16 @@ Inflated to find myself in a cave, quick photos were taken with Thara on a bould
 
 Although I'd been down here yesterday, the thought of doing something more tempted me down. We were down the hole and it was obvious it was going t obe very different. We zoomed off to Kath's Way and within minutes we were crawling along a passage decorated by thousands of stals We emerged into walking passageway and headed to the double pots, remarking on the foam above our heads. The ropes down weren.t too bad apart from my lack of flexibility. The climb after this was 'interesting'. Following Toby was Jana but the 1ft difference in height took its toll and she plummeted ~2m into a pool of water. She later vehemently denied that she was hurt at all. 
 
+####  Sandeep 
+
 Well really! I wasn't hurt. It just sounded like that. It was fun!   
 Really lovely cave. One of the most beautiful ones I've seen. It was a moderately interesting and musing trip. Would love to explore more of it. 
 
+####  Jana 
+
 My second trip down Lancaster hole and we managed to go much further this time around. No deviation on the entrance pitch this time made descending a lot faster. Me and Thara were waiting away from the gap when Jana fell so we couldn.t see the bottom so it sounded bad (there were three large thumps), but on seeing the drop it didn.t look too bad. The rest of us just descended the gap rather than trying to cross it. We enjoyed exploring around Waterfall Passage. Tried climbing up next to the waterfall but it became too hairy. On the way back we tooka diversion after Kath.s Way to see the Colonnades, which required a rather risky scramble to get there. Very impressive features dominated the chamber and it was wekk worth the hairiness of the scramble. Definitely enjoyed the deeper exploration of Lancaster and the further East Gill Series 
+
+####  Ben 
 
 I almost smashed my face against the rock face, after losing balance while holding onto the guide rope. As I gradually realised my situation, my grip on the rope tightened, allowing myself to swing towards the side of a rock. Expecting a fatal impact on the rock, I was surprised when my body suddenly stopped short of the rock. Only after I landed on the ground below did I realise that the rope was tied to a rock column. 
 
@@ -81,13 +103,17 @@ After a bit of exploring and poking our heads into tight places, we finished our
 
 It was well worth the time spent underground. Wish Skippy could be there to experience them all... 
 
-###  Top to Top: Jarv, Marc and Jutta (2½ hours) 
+####  Thara 
+
+###  Top to Top: Jarv, Marc and Jutta (2ĂË hours) 
 
 A lovely cave! I had forgotten the squeeze, the crawl and the ever dripping nature of Walrus pot. The permanently rigged rope was slightly ellipsoid rope from all the abseiling, but was ok. Marc had a bit of a (purely psychological) horror moment on Walrus traverse, but recovered and came down anyhow. Jutta.s knees were complaining (smashed up six months ago) but we pushed on. Crawl, wiggle, crawl, wiggle. Can see why club SRT kits has no more colour left on it! 
 
 Marc forgot his chest harness - doh! Gave him mine and found a new use for the hood drawstring on Meander.s over suits . tying it directly through the top of my croll. Worked really well . but started to garrotte me when a bag of rope was swinging from my harness. 
 
 We eventually reached our failsafe . halfway to Limerick Junction, still in nasty bit before pleasant cascades. Smooth exit, bit wet on Walrus! Drove Marc (well, he drove himself there, I drove back) bloody miles to Skipton. Back to Bullpot; epic faff to pack the van for the move to the NPC. Broke in and started a four hour tea-drinking session. 
+
+####  Jarv 
 
 ###  Monday 18th 
 
@@ -104,6 +130,8 @@ Sent the frozen Jana out (Cordura over suit, falling water . not a good combinat
 
 Up for a beautiful canvas of stars, a quick coil and wander back to the bus. In 3pm, out 6pm . nice three hours down. Now we just had to wait for Sandeep's crew. Callout was 9pm. 
 
+####  Jarv 
+
 Jarv always lies and don.t trust his rigging too much. Coming up the rope I noticed a little section of rope was rubbing gently against a ledge (about midway of ~50m pitch (Jarv said 45m but Jana argued for 60m, so I settled for 50m)). All I can say is that there was a moment that the though of falling 30m entered my head.   
 Apart from that I found a better way of tying my chest harness so that I can climb the rope more efficiently.   
 Some difficulty in communication between cavers at the top and those at the bottom of the 30m pitch while having a roaring waterfall in the background. Several methods were used by different individuals (without telling the others of course (Thara: not so sure how we can communicate if the other doesn.t understand the person sending the message)). Whistle was used first by Jarv. Three sharp blows followed by .Rope Free. (Thara: not sure if I heard this correctly, just heard what I wanted to hear at that time), was in a way ineffective. First I didn.t know about that particular signal. Second , .Rope Free. was drowned by the constant pouring watery element. Another problem was that didn.t have a whistle with me to reply back. Another method was adopted by Jana. Slightly more effective if you can see that person or light can reach you. Three flashes of light was the idea behind this. The actual operation is left as an exercise. This worked better than the first method, but its downfall was still me. I wasn.t sure about that signal and noone told me anything about it and I wasn.t sure whether Jana really meant it. Limitation; it will not work if the receiver doesn.t take notice of it. 
@@ -111,6 +139,8 @@ Some difficulty in communication between cavers at the top and those at the bott
 Other failed attempts in communication in the cave: Mouth whistle . Neither Jana or I can whistle that loud!, Shout over the sound of the water, Cut the rope 
 
 Never forget to bring a spanner; trying to screw a bolt with a maillon was not the greatest idea. My head felt colder without hair! (Ed . Thara was experiencing his first day with a fantastically skewwiff mohican) 
+
+####  Thara 
 
 ###  Jana's Comments on Rowten: 
 
@@ -120,9 +150,13 @@ The guy's wrote enough about that trip, so I will just a small comment. I would 
 
 I rigged the first pitch as Jutta hid from the sheep and I worried if Rahel was going to fall on me. We got down the bottom of the first pitch happily, Rahel had a steep learning curve with rebelays and wasn't down long after I'd rigged. Jutta followed after pulling the grate over our heads at the top. We walked down to the bottom of the small chamer where the crawl starts, it was much longer than I remember. I seem to be able to block out all the memories of crawling underground, they just dissapear as soon as I'm above ground. We made it to the top of the next pitch and I showed Jutta how to rig a simple traverse and free hanging drop. Once we were all at the bottom I realise I had forgotten to pack the short rope for the pitch that we had just abseiled so we had to use the 60m for this one. We wouldn't have had time to do the bottom pitch anyway, we headed out slowly, I talked to Rahel about anything and everying caving while Jutta stared her way up the entrance pitch. I had instructed her to just go down to the van, there was no point for her to sit on the surface getting cold. An excellent 5 hour trip even if we didn't get as far as we had planned. Back to the hut for some satisfying slop. 
 
+####  Deep 
+
 ###  Rumbling Hole: Anne, Ben &amp; James 
 
 With little faff after waking up, we arrived at rumbling just after one. The start of the first pitch was a small post which made up part of te fence and an old tree which was halfway down to the drop. After Anne had gone down the drop, me and Jamesdecided to change the rebelay to a traverse. I needed to take my gloves off to do this and after adjusting the knot I managed to knock one of my gloves off the ledge and down the pitch. Anne misheard my call of 'Glove Falling!' and thought we'd chucked the (greater than 10kg) rope bags down. The pitch itself was really beautiful. At the bottom of the first pitch you could see a lot of the sky and seeing planes fly over was impressive. Anne rigged the second pitch and went down, managing to find my missing glove, which had managed to fly to the opposite side of the cave from where it was dropped. After going halfway along the traverse to the second pitch we decided to turn around. The three of us managed to get out &amp; derig quickly, just out in time to watch the sun setting. We poked around for a few minutes looking for another cave before dragging .Gertrude. and .Brandy. (our rope bags) back to the car. 
+
+####  Ben 
 
 ##  Tuesday: 
 
@@ -144,13 +178,19 @@ Hearded the cavers into the back of the van and razzed along to Valley Ent. Driv
 
 Quick change, then took Jana to the train station. 
 
+####  Jarv 
+
 There.s not much to say about Yordas Pot. Went down, liked the deviations, didn.t like the look of the crawl in the streamway, went backup when Rahel was down. Lovely mist was creeping across the valley as we went back to the minibus, which we thought might be it burning at first glance. Sat on top of the ropes on the way down to Valley entrance while Jarv was driving. Rather scary, felt the need to clip our cows-tails into the minibus for some support and to survive. Valley Entrance was nice . my wellies got wet for the first time during the tour! Lots of ducking, lots of stooping, some crawling, tiny pitch. We managed a good few kilometres of walking underground shockingly quickly! 
+
+####  Ben 
 
 ###  Rowten: Dave W., Anne, Deep, Jutta 
 
 We walked away from Dave.s car cautiously as it dripped petrol onto the Tarmac. At the entrance to the cave I took silly photos while Anne received useful information about the rigging. Down the entrance pitch and a few free hanging rebelays later we were standing on the rock bridge above a 40m pitch. Anne rigged down thus far but from this point on Dave took over as we swung into rifts and onto ledges. Anne did the final pitch and then we traversed round to the terminal sump. Anne disappeared waist deep in the pool. 
 
 We indulged in some hot Vitaminski and chocolate (but not mixed together!) before we headed up the string. I derigged, always a nice experience swinging out from traverses into big open black spaces and sitting on the end of the rope. We were out to a beautiful starlight night all within six hours of going under, an excellent cave and one I hope to revisit. 
+
+####  Deep 
 
 ###  Wedesday 20th Dec: Super-faff-tastic-rescue-practice 
 
@@ -169,6 +209,8 @@ Back to the barn for rope-cutting techniques . Sandeep tried to slice up Thara (
 
 Finally out &amp; back to the hut for a chessy pasta-y smashy soupy mix (and very nice it was too.) 
 
+####  Jarv 
+
 ##  Thursday 21st Dec: 
 
 ###  Lost Johns. (note the correct placing of the apostrophe!) 
@@ -181,6 +223,8 @@ Dome . to bottom, and derig out Centipede: Dave W, Thara, Anne (our 18:00 - 7ish
 
 Complete lack of faff, waking up and getting out no matter how much the (relatively) early start hurt. A pleasant bimble along a passageway until the Dome party disappeared down a hole which we traversed over. 
 
+####  Jarv 
+
 Complete lack of faff waking up and getting out, no matter how much the relatively early start hurt. Under we went starting with a pleasant bimble towards on vertical section where we divided into our two parties, we would meet up later, after we had both descended 50m. Our decent was split into two short drops, only two stories each before we got to the major height change at the pitch called "Centipede" impressive in every way, perfectly round, deep, and awe inspiring. Once at the bottom we met up with the other group and carried on down, we were less than half way there by depth but already several hours from the entrance. An impromptu choir formed as we attempted to waste time before the next drop was rigged (Jutta and Rahel singing in harmony, the rest of us singing intermittently and off key). Carols, lots of Lion King soundtracks, Beatles, We will rock you and that song from Titanic were among the gems on offer. 
 
 Next came the notorious Battle-axe traverse, a nerve-racking experience. Here I attached myself to the rope and slowly shuffled along the parallel vertical walls with equal quantities of fear and hope as the floor completely disappeared below me. This was not the end though; at the end lay the final 50m drop, Valhalla. From this point of view in to the huge void that I was now descending I could see that if I hadn't been clipped to the rope I would have fell, almost certainly, to my death as the rift that I had been in remained without a floor until the walls reached the bottom of Valhalla. 
@@ -192,6 +236,8 @@ Somehow, I ended up leading the way back to the surface for our group. Knowing w
 I exited via a different route to that I had entered, the pitch was called "Dome", an unusual section to ascend, I attached myself to the rope and simply swung into space before I could make my way to the top. 
 
 One of my best trips, Quality day. 
+
+####  Ben B. 
 
 ##  A Christmas Cracker by Tetley 
 

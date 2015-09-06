@@ -1,15 +1,15 @@
-Title: Yorkshire I
-Date: 2012-11-09
-Location: yorkshire
-Summary: This trip marked the beginning of the SRT season with a classic Lost John's exchange. We rigged Centipede and Dome, and down beyond to the main streamway. Most turned back at the Battleaxe, but a few brave souls descending a booming Valhalla and marvelled at the shuddering bulk of the waterfall. Clare's birthday was celebrated in style with candles & cake at the Battleaxe Traverse. We delved into the delights of Notts 2 on Sunday. Here a novel system of ladders, scaffolding and cinder blocks leads down the vertical entrance shaft and into the very enjoyable and pretty streamway. 
-Type: trip
+Title: Summer Expedition Report
+Date: 
+Location: document
+Summary: Gathering together all the various results of our summer expedition is taking a long time—the complexity of the total, now connected, system is requiring a lot of effort to produce a survey on the same projection. We have thousands of photos to edit & select from, hundreds of expedition reports & stories to gather. However, motivated by some immoveable deadlines, we have managed to get together a provisional written report (as submitted to our Union as our summer tour report), and produced a provisional Extended-Elevation survey (with Slovene labels, for submission to the Jamar magazine).
+Type: 
 Photoarchive:
 Mainimg: yorkshire-2012-11-09.jpg
-Thumbl: 2012-11-10-13.56.50-JarvistFrost-PowershotG5-CRW_0043-LostJohns-Centipede--thumb.jpg
-Thumbr: 2012-11-10-13.56.50-JarvistFrost-PowershotG5-CRW_0043-LostJohns-Centipede--thumb.jpg
+Thumbl: 
+Thumbr: 
 Authors: Caroline Ainsworth, Pierre Blacque, Caroline Ainsworth, Pierre Blacque, 
 Cavepeeps:
-Oldurl: /rcc/caving/yorkshire/yorkshire-2012-11-09.php
+Oldurl: /rcchttps://docs.google.com/document/pub?id=1prFIYOYQM_gI7utzH4fPcOg90EmFj1z20XXcdndVo1k
 Status:
 
 #  Yorkshire 

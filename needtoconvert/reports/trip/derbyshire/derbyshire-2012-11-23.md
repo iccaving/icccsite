@@ -40,6 +40,8 @@ Dan's car battery had died in the three hour interim between arriving and trying
 
 Five hours after exiting Giant's Sam and I were finally on our way back to the hut with the Oxlow crew. Massive thanks to Sam for waiting around with me. Saber had made five curries for dinner, which was amazing. 
 
+####  Fiona 
+
 ###  Oxlow: Rhys, Oli, Kate, Niko, Nadine, Dave, Tim, Sean, Jessica 
 
 A great trip! We set off in our usual fafftastic fashion (i.e. after 1pm) and after a little navigation practise we arrived at Giants. We changed there and Fiona gave us a lift to Oxlow field. 
@@ -56,6 +58,8 @@ Out of the cave once more we found Fiona and Sam at the bottom of the hill in th
 
 At the hut an amazing variety of curry was consumed and Ed and Christina made rice pudding which was surprisingly delicious. 
 
+####  Rhys 
+
 ##  Sunday 
 
 ###  Carlswark Caverns: Rhys, Oli, Sam, Nadine, Tim, Sean, Jessica, Venoshah, Ed, Christina, Dave(Driving Only) 
@@ -71,6 +75,8 @@ We arrived near the cave and changed. I assured people that the cave was somewhe
 We stumbled across Carlswark eventually though and dived in. It was a really fun trip, mostly stooping and crawling through ankle deep water with just enough waist deep holes to keep you on your toes. Most people got quite involved in searching for ways on, we found quite a lot of dead ends and undesirable leads and ended up in a nice small streamway where we turned around. 
 
 On our return we were packed and ready to go by 6. Dan's car required a push downhill by half a dozen people to persuade it to start. We were back at Beit by 10ish. 
+
+####  Rhys 
 
 ###  Non-Cavers: Fiona, Kate, Saber, Niko, Dan 
 

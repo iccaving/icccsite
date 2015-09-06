@@ -51,6 +51,8 @@ We poke around a bit and eventually find our way to Hall of the Ten. From here o
 
 Peterson's absolutely ace and lots of fun — an entrance well worth trying if you haven't before. I'd certainly go back there in a heartbeat. Forget Lancs and County and Top, the Bye George/Pip/Link side is where it's at! 
 
+####  Clare 
+
 ** Small **
 
 Saturday started with Jana rousing everyone at the ungodly hour of 9.30. After the usual protein heavy breakfast Clare picked the two most gullible cavers, Oliver and I, to accompany her to Peterson Pot. After kitting up and a relatively short walk from the hut we found ourselves at the unassuming shake hole that was the entrance to Peterson. Once inside and down the first couple of pitches we found ourselves at the aptly named Roly-Poly passage. Clare went in first, followed by Ollie, and I went last. I then spent the next 45 minutes to an hour wedged on my side staring at Ollie's wellies as he rotated and wiggled his way through the torturous passage. Having no kneecaps would certainly have been an advantage and some quite tight dogleg corners required very interesting spinal contortions to navigate. I found it a little easier what with being smaller and getting to emulate Ollie's successful attempts at each corner. 
@@ -58,6 +60,8 @@ Saturday started with Jana rousing everyone at the ungodly hour of 9.30. After t
 Roly-Poly passage ends with a 2.5m skydive which is a little awkward. After I emerged from this (and had undislocated my knees) Clare asked whether we wanted to exit via Mistral or attempt to reach the bottom of Petersons and then exit back through Roly-Poly passage. The question didn't really require an answer and we headed off towards Mistral. Some quite pleasant and easy caving followed with some nice route-finding practice. On our way we encountered what appeared to be a caver entombed in the copious amounts of mud that were present in the cave. On closer inspection it turned out to be an anatomically correct hermaphrodite sculpture built by some caver with far too much time on their hands. 
 
 On Saturday evening Jana treated us all to what appeared to be a massive cheese, potato and grease pancake followed by a ham and potato soupy, stewey thing, both absolutely delicious. The meal was followed by caving games, including chair squeezes and table traversing. Jan showed everyone what a real caver can do by being the only person to successfully traverse under the table. An amazing oat and treacle dessert thing finished the night quite well. 
+
+####  Rhys 
 
 ** Medium **
 
@@ -80,6 +84,8 @@ I could have been in there for hours, time was the last of my concerns. The actu
 I'm glad to say I even managed to enjoy the climb down, which is quite a relief after so much constriction. It's only a short distance, but the rotation required to get out of the tunnel and into position is quite satisfying. Rhys quickly followed me out, and before we went I commissioned him to retrieve my bag. It is a shame we didn't go deeper into Peterson, especially as Clare carried the ropes through that horrific crawl, but I did not want to be back in that tunnel any time too soon. Scrabling through to the Mistral exit, aptly termed the "escape route", was no trouble at all in comparison. Relief from stressful curcumstances can revive even the deadest of minds, and by the time we were moving again I felt much more comfortable. I suprised myself in feeling slight recognition for some chambers here, although that may well show my incompetence as a navigator as I do not believe I had ever been there before. 
 
 Despite how unpleasant I will have made this trip sound, if I have any skill as a writer, it was not a bad one, quite the contrary. I may even be convinced to return, given time and more training, now that I know what to expect. Perhaps that makes me foolish, but then I should definitely go, for I have not learnt my lesson. 
+
+####  Oliver 
 
 ##  Sunday 
 

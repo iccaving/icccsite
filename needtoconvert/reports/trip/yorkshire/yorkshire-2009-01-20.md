@@ -58,6 +58,8 @@ In view of the clearly comedy navigation situation, we placed the little dunked 
 
 On the way down we abused an Eldon group - counting 4 clearly caving lights in the darkness, we assumed it was the Christmas Pot lot returning after failing to find the way on after the first pitch, and so waited up and then shouted at them to join us so that they could benefit from our superior navigation. But whoopsie, they were not poor starving students but had an impressive GPS along with the priciest lights. 
 
+####  Jarvist Frost 
+
 ###  JG: Rik, Gerardo, Tim, Nick 
 
 Jarv Notes: They went down to the bottom, and then came out again. Declared it as not particularly difficult, but all were rather shattered the next day. For added amusement, Tim climbed the bottom pitch on Prussic cord and then still went caving on Sunday, 'cause he's well hard like. 
@@ -65,6 +67,8 @@ Jarv Notes: They went down to the bottom, and then came out again. Declared it a
 ###  Christmas Pot: Paul, Emily, Sandeep, Christoph 
 
 Good first pitch for training freshers, 4 rebelays and a deviation. Wouldn't go down the climb before the second pitch with them though. 
+
+####  Sandeep Mavadia 
 
 Jarv Notes (in case noone else writes up anything...): P-bolts on pitch (ledges everywhere), stake backup. They turned back after not deeming the ~4m+ climb suitable. Think they found the correct way on. 
 
@@ -75,6 +79,8 @@ It was pretty surreal walking, unbelievably similar to solo sailing. I think it 
 At JG, after nearly falling down the rift, I bumped into Tim. Shortly after elevan, after first out the cave, he had decided to see whether he could pick up the limestone wall. Was nice to see another human being, and to know that everyone was fine and noone from that group yet lost on the moor! After sufficient time chit-chatting for Nick to emerge, I accepted my duty and headed back to the Gate. Still no sign of team Grange Rigg, and so was mentally preparing myself for the 1km+ walk into the cold wind and horizontal drizzle. Then my phone rang - Paul ath the NPC reporting that James &amp; William had rocked up and were stuffing themselves with stir fry, courtesy of an extremely generous lift from the New Inn publican, where James had also been smearing mud over the bar in an effort to find a working telephone. 
 
 So I retraced my way to JG, everyone out and derigged by Midnight - naughty, but never mind. Sedate walk back, kept together in the dense fog. Path was good from gate through pavement, then became unfollowable. Followed slightly off back bearing to van till picked up the valley path down to Crummack farm. Quick change and then back to the hut for 1am, food and bed. 
+
+####  Jarvist Frost 
 
 ###  Grange Rigg: James and William 
 
@@ -90,6 +96,8 @@ At 21:30 we reached the surface. This is where our problems began in earnest. Fo
 
 In conclusion: next time it will be a through trip... THROUGH P5! 
 
+####  James Kirkpatrick 
+
 ##  Sunday 
 
 ###  Yordas: Jarv, Christoph, Ludo 
@@ -99,6 +107,8 @@ Well, we actually had bags packed for Bullpot, but after bumping into a rambler 
 Rotten branch belay flexed but held, rather disturbingly its forbear was in a big broken heap at the bottom of the pitch! 
 
 Back to the van to get changed with the Heron Pot crew, before dragging Rik out of the Ingleborough sweetshop, refuel while sucking on a peardrop, then back to the NPC to tidy up and then leave for the Big Smoke. 
+
+####  Jarvist Frost 
 
 ###  Heron: Paul, Sandeep, Emily, Tim, Nick... 
 

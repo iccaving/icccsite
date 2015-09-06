@@ -14,7 +14,7 @@ Status:
 
 #  Yorkshire 
 
-##  Weekend Trip 23–25th March 2012 
+##  Weekend Trip 23â25th March 2012 
 
 ##  [ Photos ](/caving/photo_archive/trips/2012-03-23 - yorkshire)
 
@@ -31,6 +31,8 @@ Our Saturday trip was to Large Pot, an interesting name for this cave. The cave 
 We arrive at the impressive Colossus and it is definitely accurately named, a 40m pitch with just one deviation at the top. At the bottom there's a large chamber, quite a contrast to the rest of the cave, and some more crawls brought us to a flooded section. We were hoping to go right through to Rift but we decided not to risk the ice cold water (except Jarv who had a little swim) and headed back. Standing at the bottom of the Colossus waiting for Marion and Ollie, Jarv wraps himself in a big orange bag he found and begins whistling. I think I recognised some songs but he switched between them mid song (I think) which made for a strange listening experience. 
 
 Once we were both at the top of Colossus, with both Ollie and Marion gone ahead, it was up to Jarv and I to carry the tackle bag out. Ordinarily I like to think this would have been no trouble but the lack of food and inability to carry the bag on my shoulder lead to me becoming quickly exhausted, despite the fact that Jarv carried the bag most of the way. At one point we think we're catching up to Ollie and Marion but their voices die away and soon we reach the third pitch. Deciding that they must've got lost and that we shouldn't let them die in the cave Jarv turns around to look for them, I follow. We reach the pit again and Jarv nimbly hops down and back up again and disappears into the cave. I stumble down the first climb and attempt to get up the next. After failing for the fourth time to climb up I stick on my hand jammer and pull myself up and reach the top. Seeing, nor hearing any sign of the other three I collapse into a ball of self-pity and exhaustion. A little while later I pick myself up and go further in but Jarv hears me scraping against the walls and shouts that he's found the other two. Relieved I scramble down and up the pit for the fourth time and head out. Marion and I zoom out leaving Ollie and Jarv to de-rig. Overall it was an enjoyable cave. 
+
+####  Rhys 
 
 Large Pot and I go back many years. We have a troubled history, it is the site of my most arduous and probably physically least pleasant caving trip ( [ June 2005 ](/caving/yorkshire/yorkshire-2005-06-24.php) , relatively inexperienced &amp; attempting to follow a trip description backwards from Rift-to-Large against a tight callout) and most unpleasant caving moment ( [ March 2007 ](/caving/yorkshire/yorkshire-2007-03-09.php) , helplessly suspended upside down with my cowstails between my feet, bursting all the capillaries over my forehead). 
 
@@ -72,6 +74,8 @@ Out just gone nine, about a 7.5 hr trip. Would have shaved off a couple of hours
 
 Back to Greenclose for a high speed super effective cooking sesh. Made frozen pea soup, blended with the stick blender, for delightfully hydrating consumption as the pasta sauce cooked for our main meal. This tactical choice also worked brilliantly, quick soups for the win. 
 
+####  Jarv 
+
 ###  Rift Pot: Andy, Jonny, Fiona, Sally 
 
 Changing for our caving trips was beautiful in the sun, although it made the walk up to Rift Pot a little arduous. Rift has an incredibly obvious entrance nestled at the bottom of a steep shakehole, a makeshift gate of rotting wood and some rusty scaffolding protecting the cave within. Jonny took the lead down the reasonable climb to the entrance pitch, practicing his rigging. Sally followed, then Andy, then me. I declare that rotting wood in a cave is annoying, with splinters and slipping both proving to be irritants. 
@@ -92,11 +96,15 @@ Well, the rubber eventually gave in, though it had gained two neat little notche
 
 Overall I found the cave to be full of little annoyances and would appreciate trying it again to overcome these, but not technically challenging. Lovely location also. We bimbled back to the van; Jonny and Sally wandered up the nearest hill for a bit, I investigated the pumping station and then we listened to The Cure for a long time, waiting for the others to bottom Large and return. Later, in the dark of night Sally and I walked quite away along one of the tracks, with bleating sheep and the stars for company. Yorkshire is a great place, and caving trips make me appreciate that I live there. God's own county indeed. 
 
+####  Fiona 
+
 ##  Sunday 
 
 ###  Sunset Hole: Rhys, Oliver, Marion, Andy 
 
 The morning begins slowly with the glorious sunshine tempting many cavers to forgo Sunday caving. Some retain their determination to cave and Andy bravely volunteers to lead us into Sunset Pot. Several hours pass as we lazily pack rope and equipment in the sun outside the NPC but we set off eventually. A drive and a quick walk up the valley leads us to the cave and we're in before (maybe) 3pm. The cave is nice, a pretty stream way reminiscent of the Mendips. Johnny practises his rigging and we're at the bottom in no time. After looking at a delightful little crawl at the end of the cave that lead to a tiny boulder chamber we leave, once again with Marion and I in the lead followed by Johnny, Ollie and Andy. Marion, Johnny and I are out some time before the other two so we relax in the sun. Another nice cave. 
+
+####  Rhys 
 
 ###  Joint Hole: Jarv 
 
@@ -127,6 +135,8 @@ It's always quicker leaving the cave, somehow. So I soon found myself back at th
 Mmm, what to do now? I loiter by the out tag, looking down and around at my gear configuration. I quite like where my tanks are now, but the pigtail of pegs seems a bit mobile. Hmmm. Oh well, not going to sort that out down here. 
 
 Drift up the out line, seeing the brown tea of the sump entrance. Break surface to an azure sky. Stumble out into the bright light and have an extremely enjoyable slow change, sunbathing in my pants on the grass river bank, waving at the motor homes and over zealous motorcyclists screaming up the B6255. 
+
+####  Jarv 
 
 ###  Walk to Ingleton 
 

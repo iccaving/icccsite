@@ -14,7 +14,7 @@ Status:
 
 #  Yorkshire 
 
-##  Weekend Trip 4–6 March 2011 
+##  Weekend Trip 4â€“6 March 2011 
 
 ###  People List: Jarvist, Thomas MCW, Gergely, Daniel Tio, Kate, Eric, Clare, Nia, Jonny, Nico, Jana, Olle Akesson, Nicola Crowhurst, Alex 
 
@@ -29,6 +29,8 @@ Status:
 ##  Sunday 
 
 ###  Cow Pot: Clare, Niko (&amp; Jarv, Gergely) 
+
+####  Clare 
 
 ###  Top -&gt; WR: Jana, Toby + others? 
 

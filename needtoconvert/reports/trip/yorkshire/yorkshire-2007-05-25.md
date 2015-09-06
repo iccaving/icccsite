@@ -20,7 +20,7 @@ Status:
 
 [ ![](yorkshire-2007-05-25.jpg) ](/caving/photo_archive/trips/2007-05-25%20-%20Yorkshire%20JSPDT/)
 
-###  ** JSPDT: ** Jana, Erik, Aljoa, Iztok, Kos, Kletnik &amp; pela 
+###  ** JSPDT: ** Jana, Erik, AljoÂa, Iztok, Kos, Kletnik &amp; Âpela 
 
 ###  ** ICCC: ** Jarvist, Joe JK, Tomasz, Marc L, Ben B, Sandeep, James H, Jan, Tetley, Huggy, Shed, Jutta &amp; Dave Wilson 
 
@@ -106,6 +106,8 @@ Jarvist Frost
 
 We all agree by the end of dinner time that even some English people can cook. It was really tasty. But we add they will taste tomorrow, what means true caving cuisine. After the full stomach, we needed a drop or two of Zganje (for health!). Well, maybe just a little bit more.... again and again till the dawn. 
 
+####  Jana Carga 
+
 ##  Sunday 
 
 ###  Top -&gt; Cow: Jarv, Erik, Tomasz, Kletnik 
@@ -184,6 +186,6 @@ The Slovs were dispatched with the leftover food to the dodgy backpackers hostel
 Jarvist Frost 
 
 ** We were all like to thanks each of the ICCC member that make this caving weekend really enjoyable. We'll never forget it!   
-Hvala and see you on top of the Mig!  **
+Hvala and see you on top of the Mig! **
 
 JSPDT caving club from Tolmin 

@@ -27,11 +27,15 @@ Perfect weekend to have a caving trip, naturally. Weather was surprisingly kind 
 
 Waterlevels were unsurprisingly rather high in the Dales, though most of the rain fell on Thursday. We ended up having two days of Sunday trips; but all were sweet though short. 
 
+####  Jarvist Frost 
+
 ##  Saturday 
 
 Comedy Moment for the entire trip had to be when El-Presidente realised he had left his entire kit bag in stores. Managed to scrounge enough stuff off the ever generous Dave W to go caving, except for a helmet which Sandeep hired from Ingelsport for the princely sum of 50p! 
 
 Once equipped with the usual bits, the minibus shot off to West Kingsdale, dropping off the simple-SRT'ers near Dave's car for Jingling, before rushing back to valley entrance. 
+
+####  Jarvist Frost 
 
 ###  Valley Ent: Jarv &amp; the AcreLane Comedians 
 
@@ -45,13 +49,17 @@ Some more grovelling in increasingly deep water following the stream, we hopped 
 
 Slow exit, with another pause sitting above the streamway to eat some more chocolate, before emerging shivering into the cold air at sunset. Quick change in the lee of the 'bus, just caught by the hail at the end. Faff time waiting for the others was spent checking the fuses to try and fix the van fans. No such luck - motor should clearly be chucked. 
 
+####  Jarvist Frost 
+
 ###  Swinsto: Dave L, Jutta, Thara, Deep + Marc L 
 
 ###  <strike> Aquamole </strike> Jingling: Dave W, Joe JK, Ben, GOF + James 
 
 ** Leaning out over   
 The dreadful precipice,   
-One contemptuous tree.  **
+One contemptuous tree. **
+
+####  W.H. Auden 
 
 Attempted Aquamole; but when faced with faffing cavers wandered off to Jingling. Amiable enough conditions; was Joe JK's first ever cave, the super-keen fresher did the big shaft twice just for kicks! 
 
@@ -60,6 +68,8 @@ Attempted Aquamole; but when faced with faffing cavers wandered off to Jingling.
 A few bits of hail while waiting in West Kingsdale, listening to the thunderstorm crackling across Radio 4. Again we missed out on the worst of the weather, and with both Swinsto and Jingling parties exiting almost simultaneously, beat a hasty retreat to the hut. 
 
 The delicacy was a fine communually prepared (Lamb or Vegie) Balti; with cumin'd carrots, corrainder'ed mash potato &amp; peaches for dessert. Shockling fed &amp; watered by 7:30pm, we had a quick excursion to the Marton Arms (Teetotal drivers rock). Back to the hut, keeneys set off on a late evening walk on the moor. Spotted three shooting stares and the milky way, but failed to find a footpath. Walking back via the road with helmets &amp; MigLights - a police car stopped to check we were alright! 
+
+####  Jarvist Frost 
 
 ##  Sunday 
 
@@ -73,6 +83,8 @@ Suddenly the ceiling was covered with straws - dipping down over a foot, but thi
 
 Some excellent caving followed and a bit of climbing up to an alcove with an enormous snowy-white stalagmite. 
 
+####  Sandeep Mavadia 
+
 ###  XXX  : Jarv, Andy J, Jutta, Thara 
 
 (Incidentally, I see from our archives that we surveyed XXX  to Grade 4B with the now-defunct UCLSS back in March 1968. Thanks for the survey, us!) 
@@ -85,6 +97,8 @@ No problems with leading - just follow the P-hangers.
 Rigged by Andy, Jarv was derigeur until Thara succeeded him for the surface shaft, with a little bit of a chat &amp; suggestion on the long traverse. 
 
 Out before sunset, sat simultaneously in the golden rays as a hailstorm pinged off my helmet. Top, short, trip - was perfectly dry in my PVC suit, though a little chilled due to lack of thermals. Arrived in Andy's little car with perfect timing, as the Notts II team unlocked the minibus; sat shivering with No Heating until it was time to drive back to the hut. 
+
+####  Jarvist Frost 
 
 ###  Lancaster: Marc, An VDP, Dave W 
 

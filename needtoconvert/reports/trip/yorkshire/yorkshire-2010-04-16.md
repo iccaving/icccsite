@@ -60,6 +60,8 @@ Cave Summary: Lovely little place, non too difficult. All the tight (ish) stuff 
 
 Photos with ye old Powershot G5, Vivitar 283 strobe + firefly 2, P7 LED flood light. 
 
+####  Jarvist Frost 
+
 ###  Simpson Pot -&gt; Swinsto Hole: DaveW, Tetley, Clare 
 
 Tetley and Dave had agreed to take turns guiding me through the rigging (“We have 54 years of experience between us… what could go wrong?”), so Tet and I set off first, while Dave remained on the surface to bask in the sunshine and munch on a chocolate bar or two. 
@@ -80,6 +82,8 @@ Progress was steady and despite my initial reluctance at the bottom of the cave 
 
 At the end of the crawl was one last short pitch, a further minute’s crawl, then daylight and a smiling Larry. We sat around for a while to bask in the sunlight, collected a can of beer from the Simpson entrance, and walked back to the bus to find the Brown Hill team changed and waiting. Brilliant trip. 
 
+####  Clare Tan 
+
 ###  Swinsto Hole -&gt; Simpson Pot: President Alex, Thomas MCW, Jim Lee, James KP 
 
 I had never been to Swinstow, nor had anyone else in the group, but it was deemed to be a good idea for us to go down and rig to one half of the through trip whilst Clare, Tetley and Dave sorted the other half out. It would also provide a good trip for Alex to practice rigging, for Jim to be reminded of SRT and for Thomas to carry lots of heavy bags. My personal plan was to lead from the back doing as little as possible. 
@@ -89,6 +93,8 @@ Even though the weekend was very dry, Swinstow was still taking a fair amount of
 Simpson Pot on the way out is much more fun than on the way in! The pitches were bone dry and beautifully rigged. The climbs were just the right level of challenge (maybe an extra 40m rope would have rigged all the 5 jumps in one go?). We were out by 8 o'clockish and were pleasantly surprised that Dave had left us a beer! 
 
 Walked down the hill in the twilight with can of bitter. Bonus! 
+
+####  James Kirkpatrick 
 
 ##  Sunday 
 
@@ -100,11 +106,15 @@ Soon we are at the bottom and derigging before noon! dear God! The way out is no
 
 Awesome trip. Always interesting, but luckily never for too long. Caving with Tetley always a pleasure, half action, half ciggie breaks, the meaningfui songs coming from him ("you gotta shape up! Cos I need a man" - is the cave talking to me?). 
 
+####  James Kirkpatrick 
+
 ###  Somewhere East Kingsdale: Jarv, ???, ??? 
 
 I can't remember where I was, I can't remember who I was with. But I definitely went caving somewhere (Bullpot?). I think I may have taken someone on a 'learn to rig' trip, possibly Thomas. Though Clare thinks he went to the pub. The main thing I remember is returning with perfect timing, looking down from the hill on East Kingsdale and spotting the little stick figures of Tetley and James coming down from Brown Hill. 
 
 We whisked down to the Marton and extracted the youngsters (perfect timing - just finishing their first round!), taking them back to the NPC to scrub the decks before zooming off back to South Ken poly. 
+
+####  Jarvist Frost 
 
 ###  Long Walk to Marton Arms: Jana, Alex, Will, Thomas, Jim, Clare 
 

@@ -14,7 +14,7 @@ Status:
 
 #  Yorkshire 
 
-##  Weekend Trip 08–10 February 2013 
+##  Weekend Trip 08â10 February 2013 
 
 ##  [ Photos ](/caving/photo_archive/trips/2013-02-08%20-%20yorkshire/) [ ![](yorkshire-2013-02-08.jpg) ](/caving/photo_archive/trips/2013-02-08%20-%20yorkshire/)
 

@@ -24,7 +24,11 @@ Status:
 
 Muddy, snowy Derbyshire trips were not for the faint-hearted. Once again many people bailed out so we were left with ten when we set off from London. Rosanna and I discovered Salmon’s Cavern in the rigging guide, however as it turned out the next day Ben (Salmon) was not feeling well enough to cave. We built structures of jenga pieces before we went to bed. 
 
+####  Cecilia 
+
 The curse of Derbyshire struck down many brave cavers before they had even got on bus, leaving us with only ten heading north on the M1. Lacking most of our experienced cavers, we planned two easy trips - Rhys would rig JH with Dan, Will, Cecilia and Peter, and exit out of peak. I would take Celia, Rosanna, Pavel, ably supported by Dave KP down JH and bounce back out. Easy, right? I convinced myself we had the easier trip, with no nasty crawls or full submersion. 
+
+####  Jack 
 
 ##  Saturday 
 
@@ -37,6 +41,8 @@ We were split into rigging team which would descend James Hall, then exit throug
 We went down poorly connected (or not at all) ladders to the stream way, where at one point the water was so deep we had to clip in to traverse lines, dipping our hips in water as we moved along. Awaiting us next was a ladder fully immersed in a very strong waterfall, to which I lost both my top gloves. Fortunately my right hand glove was washed into the stream, or the Colostomy Crawl would not have been grim but unbearable. During the forty minutes crawl I tasted the mud, felt the grits within with my left hand, waded through deep sucking mud, and announced I would never come to Derbyshire again. 
 
 Back at the hut, Ben and Peter chopped vegetables for supper while we got increasingly uneasy during the wait for the other team to return. Thirty minutes before call out time Jack texted, to our relief. Cooking instructions also came along, so Ben made himself even more useful. The table in the cosy common room in the hut looked like it was ready to fall apart any moment from the amount of table traverse we did for the rest of the day. 
+
+####  Cecilia 
 
 The cracks began to show when Dan bailed on the trip on Saturday morning, and we realised we’d forgotten all our tackle sacks and spare krabs. The TSG and MCG kindly stepped in and lent us tackle sacks - it’s great how generous the clubs are to students, even though they must think we’re complete idiots. I scavenged spare krabs from all the kit packed by people who bailed on the trip. 
 
@@ -56,11 +62,15 @@ Outside the sky was dark. It was 9pm, freezing cold and blowing a blizzard. Pave
 
 Back at the TSG, the others had prepared a huge and delicious stew, following my texted instructions of ‘all in pot’. I recovered enough to do a few table traverses, but every muscle ached in a deep, yawning way from the shivering. 
 
+####  Jack 
+
 ##  Sunday 
 
 ###  JH Derig: Rhys, Jack, Cecilia 
 
 Rhys, Jack took me along to derig James Hall. Only looking back after the trip did I realise how much tackle sack cursing I have done over that course. I was allocated my tackle sack at the top of Bitch Pitch. First I tried to conserve energy in my arms by carrying the sack of rope on my back, but before long found that bearing the weight full time was even more inefficient, not to mention the frequency with which the sack got caught in the bars above the crawls. However dragging it along the passage was not a smooth process either. Next I exchanged for a tackle sack which I believed was lighter, but the cord was so long the bag got stuck when I traversed above pitches. But even that or the ascent up the entrance pitch with added weight did not give me as much misery as the whipping snow on the surface. I hid behind what must have been Peter’s snowball before joining Jack behind a wall built for cavers’ defence against the wind. I utilised Rhys as a natural shelter as well while we trekked back to the minibus. The allure to grim Derbyshire caves was baffling yet existent, there is no denial it was a great trip. 
+
+####  Cecilia 
 
 So the next day the only logical thing to do was to return to JH to retrieve the ropes. Rhys, Cecilia and I formed a crack team, driving up Winnat’s pass in better weather and speedily making it to the entrance. Rhys told us he was going straight down without waiting for us, and I followed along, descending faster than I’d managed the previous day. I nimbly picked my way through the traverses, laughing at the deep waterfilled voids and almost caught up with Rhys halfway down Bitch Pitch. I descended the wet pitch of Leviathan to see if Rhys needed me to take a tackle sack up, but he realised it’d be quicker if he carried it. Total time to the bottom of this pitch: 20 minutes. I got another chance to do the long, wet climb out, though at least this time without a tackle sack. It wasn’t much more pleasant, but I did feel better for doing it. In the Workshop, we met Cecilia, who I sent right out up Bitch Pitch, planning to hand her a tackle sack at the top. Rhys passed of the lowest bag to me, which I handed to Cecilia after climbing Bitch Pitch. Cecilia gamely tried to do all the crawls with it on her back, but sadly didn’t quite make it. I heard her muttering dire threats to the tackle sack, which seemed to persuade it to cooperate. Back through to the entrance pitch and I decided to time myself up to see how I compared to Rhys. This time I used the nearby wall to lean against when rope walking, and made it up in seven minutes to Rhys’ four and a half - room for improvement, but a definite confidence booster after the previous day. 
 

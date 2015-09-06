@@ -20,7 +20,13 @@ Status:
 
 ###  Many Miscreants 
 
-Friday night we drove 4 hours to Derbyshire, picked up some freaks at 23:30 who where looking for UFOs (orb UFOs to be exact) in the middle of nowhere! It is something about Derbyshire - always something strange going on. This time two men were hitch-hiking. We stopped, since we are nice peoples and they were in the middle of nowhere. On the end they turn out to be the UFO seekers - yes, you read it correct... UFOs near Orpheus - do think about that, next time you gonna go there. On the end we found out threw internet, that apparently they saw UFOs just behind the Orpheus...or in our language - a caver with a tikka. 
+Friday night we drove 4 hours to Derbyshire, picked up some freaks at 23:30 who where looking for UFOs (orb UFOs to be exact) in the middle of nowhere! 
+
+####  James Kirkpatrick 
+
+It is something about Derbyshire - always something strange going on. This time two men were hitch-hiking. We stopped, since we are nice peoples and they were in the middle of nowhere. On the end they turn out to be the UFO seekers - yes, you read it correct... UFOs near Orpheus - do think about that, next time you gonna go there. On the end we found out threw internet, that apparently they saw UFOs just behind the Orpheus...or in our language - a caver with a tikka. 
+
+####  Jana Carga 
 
 ##  Saturday 
 
@@ -35,6 +41,8 @@ A few wet pools and a lot of grit later the five of us met up for the first time
 Anyway, we met up with the Titan party somewhere in the crappy horizontal bit. Pip clearly did know the way, as by the time the other four of us had got to the bottom of Titan she was out of sight beyond the Event Horizon. Prussiking out of Titan is fairly easy, certainly easier than JH. Apart from getting cold feet waiting at the top with my feet in the puddle and the rope spaghetti at the single rebelay, the only real excitement was finding damage to the rope about half way up the top half. 
 
 A bit of advice for communicating on big pitches - don't bother. If someone needs help it'll be obvious from the screaming, otherwise you should just ignore all other forms of communication apart from "rope free" and "OK" unless you want to confuse yourself. Solo trip back across moor in vain attempt to find JH in dark. Finally found James prussiking out, and assited Rik and JKP derigging. 
+
+####  Andy Jurd 
 
 ###  Titan -&gt; JH: Rik, James H, James KP, Tim O, Dave W, Jan, Ben B 
 
@@ -54,6 +62,8 @@ We reached the entrance pit: just another 40-50 m up a vertical shaft and out to
 
 Back to the Orpheus hut where Jan and Dave where busy preparing a delicious meal. I scoffed my plate down, downed a beer, sat in front of the fire and passed out... mmhh sweet oblivion. I think it's safe to say everyone was satisfied with this bonza trip! 
 
+####  James Kirkpatrick 
+
 ###  JH - Titan by Jana 
 
 At first I though I'm gonna go down Titan and up JH. But after Andy's argument, about how easier is to go up just in one go, I changed my mind. First time I have been down JH and I must say it is one of the most beautiful caves. Easy pitches, lovely small crawls, a mine working museum and shiny calcite crystals. On the bottom, we start searching for the connections to Titan. Fist time we went the wrong way and end up walking in super muddy small lakes. On the right way, half way threw the connection, we met the other group. 
@@ -63,6 +73,8 @@ And there we were at the bottom of this huge blackness - Titan. It is hard to sa
 I would only go back to Titan if it was lit up, but will definitely be back to JH. 
 
 Jarv and I were the last peoples who were all alone finishing derigging and locking up the Titan. It took us more than half an hour to lock it! We had the keys and we had to find a locker hidden in a chest. We spend 10 min looking for chest, hidden behind a big pile of dirt 10m away from the entrance. And then like puzzles putting things on place. 
+
+####  Jana Carga 
 
 ##  Caving Top-Trumps 
     
@@ -99,6 +111,8 @@ Jarv and I were the last peoples who were all alone finishing derigging and lock
     Gladiators: 9 (steel traverse)
     Dihedral: 6 (P-hangers)
     
+
+####  Andy Jurd 
 
 ##  Sunday 
 

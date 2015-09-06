@@ -14,7 +14,7 @@ Status:
 
 #  Derbyshire 
 
-##  Weekend Trip 07–09 June 2013 
+##  Weekend Trip 07â09 June 2013 
 
 ##  [ Photos ](/caving/photo_archive/trips/2013-06-07%20-%20derbyshire/) [ ![](derbyshire-2013-06-07.jpg) ](/caving/photo_archive/trips/2013-06-07%20-%20derbyshire/)
 
@@ -57,11 +57,11 @@ INK SUMP
 Divers: Jarvist Moore Frost, Clive Westlake   
 Sherpas: Imperial College CC   
   
-With the promised assistance of a team of Imperial College cavers, JMF and CDW chose to dive with the large air margin afforded by 7 litre cylinders. The sherpas whisked the six tackle sacks through Peak Cavern directly to Ink Sump, enabling JMF and CDW to submerge 80 minutes after entering the show cave.    
+With the promised assistance of a team of Imperial College cavers, JMF and CDW chose to dive with the large air margin afforded by 7 litre cylinders. The sherpas whisked the six tackle sacks through Peak Cavern directly to Ink Sump, enabling JMF and CDW to submerge 80 minutes after entering the show cave.   
 Ink Sump was a lovely dive, with almost perfectly visibility for JMF at the front, with just odd wisps of suspended silt in the water. The 8 mm beige line is extremely well belayed, with numerous lead and bolt anchors. The final section of line between the last airbell and Doom's Retreat is currently trapped under a circa. 5 metre long section of split cobbles from landscaping in the aven.   
   
 Beyond the sump, CDW and JMF dekitted, ascending the fixed ladders to admire progress at the dig front, and take advantage of the hospitality at Jim's house.   
   
 Warmed by hot Ribena, CDW and JMF kitted up for the return an hour after surfacing. JMF was sensibly instructed to wait on the line after the trapped section till reunited with CDW. Visibility on the way out was an acceptable 2-5 metres, except for the last 30 m approaching Ink Sump where it dropped to below a metre.   
   
-Many thanks to some extremely able portering by Imperial College CC which made this such a pleasant and low effort dive, and Jim Lister for arranging access and hospitality at short notice.  `
+Many thanks to some extremely able portering by Imperial College CC which made this such a pleasant and low effort dive, and Jim Lister for arranging access and hospitality at short notice. `

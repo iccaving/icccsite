@@ -29,6 +29,8 @@ Naturally, the balance of the Faff, the Yin/Yang, the Light Vs. Darkness that po
 
 Uneventful trip, except that the WGO bus probably shouldn't have been on the road as the tracking was absolutely screwed to the point where we drove the entirely length of the M4 turning 'right', evening around the sweeping left hand bends through the Cotswolds... The 24hrs Tesco was its usual post-midnight graveyard self, though the self-service checkout was frustrating at best - and didn't take to the dozens of cans of beans we attempted to pass over it. But we trundled up to the SWCC at long last, and started the Cheese on Toast production line. 
 
+####  Jarvist Frost 
+
 ##  Saturday 
 
 ###  OFD (Top -&gt; Waterfall): Jarv (Fearless Leader), Jana, Ben, Pete, Laurence, Gabriel, Jackson 
@@ -49,9 +51,13 @@ Food was pretty Epic. Pasta bolognase with a red wine sauce after a fleshy salad
 
 Post food and washing up, we fought for the Imperial side in the great Squeeze-through-the-church-bench competition of the long common room. We lost, 8 passed the test of 11 to compete, 2 abstentions from battle. I think we get the moral victory though: Nottingham had a roomful of people and even then had to buy in mercenaries to fight back our lead. 
 
+####  Jarvist Frost 
+
 ###  OFD (Top Ed's Shortcut + Sightseeing): Rik, Jamie, Jack, Tim, Dan, Veronique 
 
 [ ![](/caving/photo_archive/trips/2007-10-12%20-%20south%20wales/jarvist%20frost%20-%20fettling%20top%20entrance--thumb.jpg) ](/caving/photo_archive/trips/2007-10-12%20-%20south%20wales/jarvist%20frost%20-%20fettling%20top%20entrance.html) [ ![](/caving/photo_archive/trips/2007-10-12%20-%20south%20wales/jarvist%20frost%20-%20fettling%20top%20entrance%202--thumb.jpg) ](/caving/photo_archive/trips/2007-10-12%20-%20south%20wales/jarvist%20frost%20-%20fettling%20top%20entrance%202.html) Hmm... well, no one else has written anything yet... All I know is that they started a quick trip down Ed's shortcut via a controversial head-towards OFDIII method... but got there eventually, had a peer at the Maypole Inlet rift climb and backed away with an anxious new member (most definitely fair enough), and had an awfully exciting time exploring the dry upper levels and sightseeing everywhere. 
+
+####  Jarvist Frost 
 
 ##  Sunday 
 
