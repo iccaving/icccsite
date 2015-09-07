@@ -8,8 +8,8 @@ Mainimg: Jarvist%20Frost%20-%20Canon%20A520%20-%20Wet%20Kingsdale%20-%20IMG_0144
 Thumbl: Jarvist%20Frost%20-%20Canon%20A520%20-%20Wet%20Kingsdale%20-%20IMG_0142--thumb.jpg
 Thumbr:
 Authors: Fiona Hartley, Jarvist Frost
-Cavepeeps: DATE=2011-02-05; CAVE=Bull Pot; PEOPLE=Fiona Hartley, Clare Tan, Alex Herriot, Dave Wilson;
-           DATE=2011-02-05; CAVE=King Pot; PEOPLE=Simon, Nick, Javist Frost, William French;
+Cavepeeps: DATE=2011-02-05; CAVE=Bull Pot; PEOPLE=Fiona Hartley, Clare Tan, Alex Herriott, Dave Wilson;
+           DATE=2011-02-05; CAVE=King Pot; PEOPLE=Simon, Nick, Jarvist Frost, William French;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2011-02-04.php
 Status:
 

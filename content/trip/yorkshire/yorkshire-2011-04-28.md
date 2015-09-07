@@ -9,7 +9,7 @@ Thumbr:
 Authors: Clare Tan, Jarvist Frost
 Cavepeeps: DATE=2011-04-29; CAVE=King Pot; PEOPLE=Tetley, Clare Tan, William French, Sandeep Mavadia, Kate Smith, Jarvist Frost;
            DATE=2011-04-30; CAVE=Penyghent Pot; PEOPLE=Jim Evans, Tetley, Sandeep Mavadia, William French, Clare Tan;
-           DATE=2011-05-01; CAVE=Meregill Hole; PEOPLE=Jarv, Jim Evans, Tetley, Kate Smith, Sandeep Mavadia, William French, Clare Tan
+           DATE=2011-05-01; CAVE=Meregill Hole; PEOPLE=Jarvist Frost, Jim Evans, Tetley, Kate Smith, Sandeep Mavadia, William French, Clare Tan
 Oldurl: /rcc/caving/yorkshire/yorkshire-2011-04-28.php
 Status:
 
