@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2009-01-20.jpg
 Thumbl: Jarvist%20Frost%20-%20IMG_0015%20-%20changing%20at%20dusk%20in%20Kingsdale%20after%20Heron%20and%20Yordas--thumb.jpg
-Thumbr: Jarvist%20Frost%20-%20IMG_0015%20-%20changing%20at%20dusk%20in%20Kingsdale%20after%20Heron%20and%20Yordas--thumb.jpg
+Thumbr: Jarvist%20Frost%20-%20IMG_0006%20-%20Christmas%20Pot%20Crew%20ready%20to%20go%20under--thumb.jpg
 Authors: Jarvist Frost, Sandeep Mavadia, Jarvist Frost, James Kirkpatrick, Jarvist Frost, Sandeep Mavadia, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2009-01-20.php

@@ -6,7 +6,7 @@ Type: tour
 Photoarchive:
 Mainimg: RhysTyers-DSC_0121.JPG
 Thumbl: RhysTyers-DSC_0133--thumb.jpg
-Thumbr: RhysTyers-DSC_0133--thumb.jpg
+Thumbr: RhysTyers-DSC_0242--thumb.jpg
 Authors: 
 Cavepeeps:
 Oldurl: /rcc/caving/sardinia/sardinia14.php

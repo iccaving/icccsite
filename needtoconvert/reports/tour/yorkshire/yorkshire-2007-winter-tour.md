@@ -8,7 +8,7 @@ Type:
 Photoarchive:
 Mainimg: yorkshire-2008-01-25.jpg
 Thumbl: IMG_0082--thumb.jpg
-Thumbr: IMG_0082--thumb.jpg
+Thumbr: IMG_0083--thumb.jpg
 Authors: James KP, Jana, Jarvist, James KP, Jarvist, James KP, Jana, James KP, Jarv, Jana, Jarv, 
 Cavepeeps:
 Oldurl: /rccyorkshire/yorkshire-2007-winter-tour.php

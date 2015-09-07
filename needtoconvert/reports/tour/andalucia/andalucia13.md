@@ -6,7 +6,7 @@ Type: tour
 Photoarchive:
 Mainimg: DSC_0809.jpg
 Thumbl: DSC_0468--thumb.jpg
-Thumbr: DSC_0468--thumb.jpg
+Thumbr: DSC_0806--thumb.jpg
 Authors: 
 Cavepeeps:
 Oldurl: /rcc/caving/andalucia/andalucia13.php

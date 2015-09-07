@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2010-11-12.jpg
 Thumbl: Jana%20Carga%20-%20Canon%20A520%20-%20Jingling%20Sunday%20-%20IMG_0086--thumb.jpg
-Thumbr: Jana%20Carga%20-%20Canon%20A520%20-%20Jingling%20Sunday%20-%20IMG_0086--thumb.jpg
+Thumbr: Jana%20Carga%20-%20Canon%20A520%20-%20Bullpot%20Saturday%20-%20IMG_0071--thumb.jpg
 Authors: Clare, Jarv, Clare, Clare, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2010-11-12.php

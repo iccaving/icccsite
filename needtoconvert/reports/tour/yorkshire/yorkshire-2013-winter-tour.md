@@ -6,7 +6,7 @@ Type: tour
 Photoarchive:
 Mainimg: RhysTyers28.jpg
 Thumbl: Tetley02--thumb.jpg
-Thumbr: Tetley02--thumb.jpg
+Thumbr: JackHare16--thumb.jpg
 Authors: 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2013-winter-tour.php

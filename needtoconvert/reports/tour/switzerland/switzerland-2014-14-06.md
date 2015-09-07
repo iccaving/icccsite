@@ -6,7 +6,7 @@ Type: tour
 Photoarchive:
 Mainimg: switzerland-2014-14-06.jpg
 Thumbl: P1050308--thumb.jpg
-Thumbr: P1050308--thumb.jpg
+Thumbr: P1040589--thumb.jpg
 Authors: 
 Cavepeeps:
 Oldurl: /rcc/caving/switzerland/switzerland-2014-14-06.php

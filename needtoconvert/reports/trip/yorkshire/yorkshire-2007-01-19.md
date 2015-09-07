@@ -7,7 +7,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2007-01-19.jpg
 Thumbl: David%20Loeffler%20-%20Notts%20II%20-%20blackstal--thumb.jpg
-Thumbr: David%20Loeffler%20-%20Notts%20II%20-%20blackstal--thumb.jpg
+Thumbr: Bruno%20Rinvolucri%203--thumb.jpg
 Authors: Jarvist Frost, Jarvist Frost, Jarvist Frost, W.H. Auden, Jarvist Frost, Sandeep Mavadia, Jarvist Frost, Jarvist Frost, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2007-01-19.php

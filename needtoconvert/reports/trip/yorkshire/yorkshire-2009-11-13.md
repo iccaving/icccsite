@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2009-11-13.jpg
 Thumbl: jarvist%20frost%20-%20canon%20g5%20-%20kingsdale%20sunday%20pose--thumb.jpg
-Thumbr: jarvist%20frost%20-%20canon%20g5%20-%20kingsdale%20sunday%20pose--thumb.jpg
+Thumbr: 
 Authors: 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2009-11-13.php

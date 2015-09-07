@@ -7,7 +7,7 @@ Type: tour
 Photoarchive:
 Mainimg: yorkshire-2012-winter-tour.jpg
 Thumbl: 2012-12-20-20.24.24-Jarvist%20Frost-SK17i%20Phone-DSC_0789--thumb.jpg
-Thumbr: 2012-12-20-20.24.24-Jarvist%20Frost-SK17i%20Phone-DSC_0789--thumb.jpg
+Thumbr: 2012-12-16-12.53.29-Jarvist%20Frost-SK17i%20Phone-DSC_0783--thumb.jpg
 Authors: Rhys, Fiona, Fiona, Oliver, Rhys, Sam, Rhys, Fiona, Chris, Jarv, Chris K, Rhys, Jarv, Rhys, Rhys, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2012-winter-tour.php

@@ -7,7 +7,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2010-03-05.jpg
 Thumbl: 2010-03-06-17.00.56%20-%20Jarvist%20Frost-%20Canon%20Powershot%20G5%20-%20stop%20pot%20ladder2-%20william%20climb--thumb.jpg
-Thumbr: 2010-03-06-17.00.56%20-%20Jarvist%20Frost-%20Canon%20Powershot%20G5%20-%20stop%20pot%20ladder2-%20william%20climb--thumb.jpg
+Thumbr: 2010-03-07-13.36.56%20-%20Jarvist%20Frost%20-%20Canon%20Powershot%20G5%20-%20frozen%20easegill%20in%20the%20sun--thumb.jpg
 Authors: Clare Tan, Clare Tan, Clare Tan, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2010-03-05.php

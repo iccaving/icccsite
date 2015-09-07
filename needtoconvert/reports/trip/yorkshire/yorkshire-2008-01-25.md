@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2008-01-25.jpg
 Thumbl: veronique%20mahue%20-%20IMGP0717--thumb.jpg
-Thumbr: veronique%20mahue%20-%20IMGP0717--thumb.jpg
+Thumbr: veronique%20mahue%20-%20IMGP0700--thumb.jpg
 Authors: James KP, Jana, Jarvist, James KP, Jarvist, James KP, Jana, James KP, Jarv, Jana, Jarv, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2008-01-25.php

@@ -6,7 +6,7 @@ Type: tour
 Photoarchive:
 Mainimg: derbyshire-2011-03-27.jpg
 Thumbl: 2011-03-30-18.17.58-Jarvist%20Frost-CanonG5-Su%20Palu%20Sardinia-CRW_0836%20-%20square%20crop-setting%20up%20UG%20camp--thumb.jpg
-Thumbr: 2011-03-30-18.17.58-Jarvist%20Frost-CanonG5-Su%20Palu%20Sardinia-CRW_0836%20-%20square%20crop-setting%20up%20UG%20camp--thumb.jpg
+Thumbr: 2011-03-31-16.45.40-Jarvist%20Frost-CanonG5-Su%20Palu%20Sardinia-CRW_0883-crop-Trident%20formation%20on%20corner%20at%20start%20of%20Disneyland--thumb.jpg
 Authors: Jan, 
 Cavepeeps:
 Oldurl: /rcc/caving/sardinia/caving_spring_tour_report_2011.pdf

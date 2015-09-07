@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2007-11-30.jpg
 Thumbl: jarvist%20frost%20-%2000010--thumb.jpg
-Thumbr: jarvist%20frost%20-%2000010--thumb.jpg
+Thumbr: jarvist%20frost%20-%2000008--thumb.jpg
 Authors: Jarvist Frost, Jarvist Frost, Jarvist Frost, Jarvist Frost, Jarvist 'he writes too much' Frost, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2007-11-30.php

@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2007-05-05.jpg
 Thumbl: jarvist%20frost%20-%20meregill%20team%20photo--thumb.jpg
-Thumbr: jarvist%20frost%20-%20meregill%20team%20photo--thumb.jpg
+Thumbr: david%20loeffler%20-%206-magicroundabout-cobweb--thumb.jpg
 Authors: Dave, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2007-05-05.php

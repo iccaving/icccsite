@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2009-10-02.JPG
 Thumbl: James_BergP8020861--thumb.jpg
-Thumbr: James_BergP8020861--thumb.jpg
+Thumbr: James_BergP8031000--thumb.jpg
 Authors: 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2009-10-02.php

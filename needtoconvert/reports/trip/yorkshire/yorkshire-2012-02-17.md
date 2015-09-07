@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2012-02-17.jpg
 Thumbl: 2012-02-19-JarvistFrost-OlympusXA-RolleiRetro100-Rodinal1p50-BullpotFarm06--thumb.jpg
-Thumbr: 2012-02-19-JarvistFrost-OlympusXA-RolleiRetro100-Rodinal1p50-BullpotFarm06--thumb.jpg
+Thumbr: kate%20smith-canon%20s95-IMG_0466--thumb.jpg
 Authors: Clare, Rhys, Oliver, Rhys, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2012-02-17.php

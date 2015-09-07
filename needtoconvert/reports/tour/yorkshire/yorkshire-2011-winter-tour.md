@@ -6,7 +6,7 @@ Type: tour
 Photoarchive:
 Mainimg: yorkshire-2011-winter-tour.jpg
 Thumbl: PC170015--thumb.jpg
-Thumbr: PC170015--thumb.jpg
+Thumbr: PC180027--thumb.jpg
 Authors: Jan, Jan, Jan, Jan, Rhys, Fiona, Oliver, Jarv, Saber, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2011-winter-tour.php
