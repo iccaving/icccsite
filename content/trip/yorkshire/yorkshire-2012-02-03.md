@@ -10,7 +10,7 @@ Thumbr:
 Authors: Rhys Tyers, Clare Tan, Jarvist Frost, Sam Page
 Cavepeeps: DATE=2012-02-04; CAVE=Jean Pot; PEOPLE=Rhys Tyers, Clare Tan, Konrad Domanski, George Taylor;
            DATE=2012-02-04; CAVE=Flood Entrance Pot > Bar Pot; PEOPLE=Jarvist Frost, Oliver Myerscough;
-           DATE=2012-02-04; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE=Nathan Daniels, Martin Ginger, Sam Page;
+           DATE=2012-02-04; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE=Nathan Daniels, Martin Anderson, Sam Page;
            DATE=2012-02-05; CAVE=Hardrawkin Pot; PEOPLE=Rhys Tyers, Sam Page, Clare Tan, Clive Westlake, Tony Seddon;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2012-02-03.php
 Status:

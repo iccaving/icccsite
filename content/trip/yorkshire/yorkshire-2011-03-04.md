@@ -8,7 +8,7 @@ Thumbl:
 Thumbr:
 Authors:
 Cavepeeps: DATE=2011-03-05; CAVE=Top Sink > Lancaster Hole; PEOPLE=Jarvist Frost, Clare Tan, Olle Akesson, Eric Seidman;
-           DATE=2011-03-05; CAVE=Lancaster Hole > Link Pot; PEOPLE=Gergely Ambrus, Alex Herriott, Jonny Hardman, Niko Kral, Nia Johns;
+           DATE=2011-03-05; CAVE=Lancaster Hole > Link Pot; PEOPLE=Gergely Ambrus, Alex Herriott, Jonny Hardman, Niko Kral, Nia John;
            DATE=2011-03-05; CAVE=Link Pot > Wretched Rabbit; PEOPLE=Jana Carga, Kate Smith, Nicola Crowhurst, Daniel Tio, Thomas McCarthy-Ward
            DATE=2011-03-06; CAVE=Cow Pot; PEOPLE=Clare Tan, Niko Kral, Jarvist Frost, Gergely Ambrus;
            DATE=2011-03-06; CAVE=Top Sink > Wretched Rabbit; PEOPLE=Jana Carga;

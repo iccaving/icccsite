@@ -9,7 +9,7 @@ Thumbl: P1020824--thumb.jpg
 Thumbr: P1020848--thumb.jpg
 Authors: Rhys Tyers, Fiona Hartley
 Cavepeeps: DATE=2014-02-08; CAVE=King Pot; PEOPLE=Rhys Tyers, Jack Hare, Sarah Gian, Fiona Hartley, Sam Page;
-           DATE=2014-02-08; CAVE=Bull Pot; PEOPLE=Oliver, Dave Wilson, William French, Chelsea Lefever, Rachel Marx, Karim Elbakary, Melanie Singh;
+           DATE=2014-02-08; CAVE=Bull Pot; PEOPLE=Oliver Myerscough, Dave Wilson, William French, Chelsea Lefever, Rachel Marx, Karim Elbakary, Melanie Singh;
            DATE=2014-02-09; CAVE=Jingling Pot; PEOPLE=Rhys Tyers, Dave Wilson, Jack Hare, Jack Hare's Dad, Chelsea Lefever, Rachel Marx, Karim Elbakary;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2014-02-07.php
 Status:

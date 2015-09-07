@@ -9,19 +9,19 @@ Thumbl: Jana%20Carga%20-%20Canon%20A520%20-%20Jingling%20Sunday%20-%20IMG_0086--
 Thumbr: Jana%20Carga%20-%20Canon%20A520%20-%20Bullpot%20Saturday%20-%20IMG_0071--thumb.jpg
 Authors: Clare Tan, Jarvist Frost
 Oldurl: /rcc/caving/yorkshire/yorkshire-2010-11-12.php
-Cavepeeps: DATE=2010-11-13; CAVE=Stream Passage Pot > Bar Pot; PEOPLE=Tim Osborne, Thomas McCarthy-Ward, Nathan Daniels, Martin Ginger, Ari Whitby;
+Cavepeeps: DATE=2010-11-13; CAVE=Stream Passage Pot > Bar Pot; PEOPLE=Tim Osborne, Thomas McCarthy-Ward, Nathan Daniels, Martin Anderson, Ari Whitby;
            DATE=2010-11-13;CAVE=Bar Pot > Marilyn;PEOPLE=Alex Herriott, William French, Kate Smith, Richard Evans;
-           DATE=2010-11-13;CAVE=Marilyn > Disappointment Pot;PEOPLE=Jarvist Frost, Nico Kral, Eric Seidman, Clare Tan;
+           DATE=2010-11-13;CAVE=Marilyn > Disappointment Pot;PEOPLE=Jarvist Frost, Niko Kral, Eric Seidman, Clare Tan;
            DATE=2010-11-13;CAVE=Bull Pot;PEOPLE=Jana Carga, Dave Wilson, Kat Lloyd, Tony Seddon, Xiao Ting, Nia John, Rong Kai;
            DATE=2010-11-13;CAVE=Jingling Pot;PEOPLE=Jana Carga, Dave Wilson, Kat Lloyd, Tony Seddon, Xiao Ting, Nia John, Rong Kai;
            DATE=2010-11-14;CAVE=Sell Gill;PEOPLE=Dave Wilson, Kat Lloyd, Nia John, Xiao Ting, Rong Kai;
-           DATE=2010-11-14;CAVE=Jingling Pot;PEOPLE=Jana Carga, Tim Osborne, William French, Nathan Daniels, Martin Ginger;
+           DATE=2010-11-14;CAVE=Jingling Pot;PEOPLE=Jana Carga, Tim Osborne, William French, Nathan Daniels, Martin Anderson;
            DATE=2010-11-14;CAVE=Valley Entrance;PEOPLE=Thomas McCarthy-Ward, Kate Smith;
 Status:
 
 ##  Friday
 
-The weekend started eventfully, with Clare and Nico getting locked into stores because of a faulty lock! Fortunately most of the caving stuff had already gone outside to be loaded onto the van. After a bit of lock abuse, we passed things out through the window in the fire escape, I quickly hacked off my excess cowstail tail, and we made our escape via fire exits + Beit Hall.
+The weekend started eventfully, with Clare and Niko getting locked into stores because of a faulty lock! Fortunately most of the caving stuff had already gone outside to be loaded onto the van. After a bit of lock abuse, we passed things out through the window in the fire escape, I quickly hacked off my excess cowstail tail, and we made our escape via fire exits + Beit Hall.
 
 Said goodbye to the minibus as I was catching the train up. Made it to the NPC by about 745am in the morning, after a long, freezing 3 hour stopover in a deserted Leeds railway station.
 
@@ -31,7 +31,7 @@ Said goodbye to the minibus as I was catching the train up. Made it to the NPC b
 
 ###  Bar -&gt; Marilyn: Al, Will, Kate, Richard
 
-###  Marilyn-Dis -&gt; Stream: Jarv, Nico, Eric, Clare (in &amp; out Marilyn)
+###  Marilyn-Dis -&gt; Stream: Jarv, Niko, Eric, Clare (in &amp; out Marilyn)
 
 We took a rather unconventional but more direct and very pleasant hike up to Gaping Gill, led by Le Jarv. Approaching from the path leading from Trow Gill/nature trail, Marilyn is about 50m east from Bar and unmistakeable, with a very well-designed monster metal gate covering the entrance. Belays off two scaffold stakes in the ground, with the actual hang rigged off the gate.
 
@@ -47,11 +47,11 @@ Directions: The way on from the start of the crawl is obvious and easy. Soon you
 
 We saw the ropes from the Bar team already in place, natch. Continued on to the main chamber, with Jarv adjusting the rigging on the handline across SE passage pot ever so slightly. Main chamber was impressive as always but it was already dark out - grr, bloody short winter days (obviously it's not our fault we don't start caving before 1300/1400hrs). Faffed around a little bit, changed my light battery... soon joined by the Bar team returning from a visit to Mud Hall. Sat chatting for a while, then decided to head back to the Bar/Stream/main chamber junction, where it'd be warmer to wait for the Stream team.
 
-More faff deciding on our Great Exit, while Kate paid the main chamber another visit to donate some bodily fluids. Finally it was decided that I would show the Bar team the way out of Marilyn + derig, while Eric, Nico and Jarv would look for the Stream team and decide what to do from there (they ended up just doing a complete swap, i.e. Stream team exited Bar).
+More faff deciding on our Great Exit, while Kate paid the main chamber another visit to donate some bodily fluids. Finally it was decided that I would show the Bar team the way out of Marilyn + derig, while Eric, Niko and Jarv would look for the Stream team and decide what to do from there (they ended up just doing a complete swap, i.e. Stream team exited Bar).
 
 Anyway, way out of Dis/Marilyn was uneventful. William derigged Dis while I did the route finding from the front. Once his bag was full/the hard work was done, I took over derigging Marilyn. Got to the top of the bottom pitch, continued on... climb a bit, climb some more, climb even more.. hmm, am I lost? I don't remember a long climb on the way down. I'll just go a bit farther before turning back, please don't fall now...
 
-Turns out William had unknowingly pulled the rope all the way up to the rebelay with his tackle sack and I had free-climbed the pitch! Fortunately it wasn't too long and an easy climb. Anyway, got to the entrance to find Nico, Jarv and Eric there as well - they'd just come out of Stream. Perfect timing!
+Turns out William had unknowingly pulled the rope all the way up to the rebelay with his tackle sack and I had free-climbed the pitch! Fortunately it wasn't too long and an easy climb. Anyway, got to the entrance to find Niko, Jarv and Eric there as well - they'd just come out of Stream. Perfect timing!
 
 We were cheated of a Henslers-Dis exchange by the weather, but still had a cracking time down Gaping Gill. Amazingly enough, everyone exited via a different way from which they entered (except me, but I'm not complaining).
 
@@ -59,15 +59,15 @@ Back at the NPC soon, wolfed down three super delicious curries that Dave had co
 
 ####  Clare
 
-###  Stream Derig: Jarv, Eric, Nico
+###  Stream Derig: Jarv, Eric, Niko
 
 After the parting of the ways, we bumped into the stream team just in the start of Sand Caverns. The Marilyn deriggers had already disappeared, so they decided to have a gander at the main chamber and then leave via Bar.
 
 Quick ferret through Sand chambers (lovely layering in the sand), and a careful traverse around those deep mud pots. Washed our feet at the stream entering from the left (to save the rope), then completely forgot that following the stream out of 'stream' might be a good idea, and instead headed off through more mud to the far end of these chambers. Quite fun though.
 
-Back at the stream, washed the mud off, again, and followed the stream up + quickly dashed through the waterfall and found our rope. Every single pitch was too short - we made the mistake of believing the 'Selected Caves' lengths! The best howler in this is the suggestion of taking a 20m rope for the final, 27m pitch. A 28m rope was found to be just 2m short, and was backed up onto a 2nd 20m traverse rope. Having derigged these and handed the sack to Nico, I set about plodding up the main hang (in situ polyprop deviation held us clear of the massive water), and carefully climbing across to the final pitch. The rope was about 3m too short, with a tackle sac tied onto the end to help you grab it + pull it down. As it was a bit wet I automatically + quickly sorted my jammers out, transferred the tackle sac to my central maillon + shot up the pitch, derigging the extreme (to a slightly hidden p-bolt) deviation. It was only once I was standing on the pitch head undoing the y-hang and wanted somewhere to stash the rope that I locked in the bag and noticed the two large cobbles that were being used to weigh it down!
+Back at the stream, washed the mud off, again, and followed the stream up + quickly dashed through the waterfall and found our rope. Every single pitch was too short - we made the mistake of believing the 'Selected Caves' lengths! The best howler in this is the suggestion of taking a 20m rope for the final, 27m pitch. A 28m rope was found to be just 2m short, and was backed up onto a 2nd 20m traverse rope. Having derigged these and handed the sack to Niko, I set about plodding up the main hang (in situ polyprop deviation held us clear of the massive water), and carefully climbing across to the final pitch. The rope was about 3m too short, with a tackle sac tied onto the end to help you grab it + pull it down. As it was a bit wet I automatically + quickly sorted my jammers out, transferred the tackle sac to my central maillon + shot up the pitch, derigging the extreme (to a slightly hidden p-bolt) deviation. It was only once I was standing on the pitch head undoing the y-hang and wanted somewhere to stash the rope that I locked in the bag and noticed the two large cobbles that were being used to weigh it down!
 
-Eric + Nico had disappeared by this point, dragging the two fat tackle sacs through the stream was a bit grim - in the tight first bit I had a bag in each hand + had to thrutch along with my tip toes and chin. It was more pleasant once the passage was wide enough to get one bag on my shoulder and walk along holding the other one like a baby. The joy of SRT trips with 10.5 + 11mm ropes.
+Eric + Niko had disappeared by this point, dragging the two fat tackle sacs through the stream was a bit grim - in the tight first bit I had a bag in each hand + had to thrutch along with my tip toes and chin. It was more pleasant once the passage was wide enough to get one bag on my shoulder and walk along holding the other one like a baby. The joy of SRT trips with 10.5 + 11mm ropes.
 
 I was rather perturbed that I hadn't met anyone by the foot of the entrance pitch, I was a little concerned that I was about to desert them within the cave, or that they may have got out + decided to walk off the hill by themselves. This would be a bit of a problem - as if I got out to find them not there, I wouldn't know whether they were on the moors or in the cavern.
 
@@ -105,7 +105,7 @@ Both exit safely.
 
 ####  Clare
 
-###  NPC crack team: Jarv, Clare, Nico, Eric, Richard, Ari
+###  NPC crack team: Jarv, Clare, Niko, Eric, Richard, Ari
 
 Spectacular faffage abound. Sorted out some rope and cleaned up the hut in between fags and tea.
 
