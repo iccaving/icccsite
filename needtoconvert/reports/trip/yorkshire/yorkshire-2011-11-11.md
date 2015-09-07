@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2011-11-11.jpg
 Thumbl: Rhys%20Tyers%20-%20101_4678--thumb.jpg
-Thumbr: Rhys%20Tyers%20-%20101_4678--thumb.jpg
+Thumbr: Rhys%20Tyers%20-%20101_4686--thumb.jpg
 Authors: 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2011-11-11.php

@@ -7,7 +7,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2007-10-26.jpg
 Thumbl: jarvist%20frost%20-%20bull%20pot%20-%20team%20shot%20post%20cave--thumb.jpg
-Thumbr: jarvist%20frost%20-%20bull%20pot%20-%20team%20shot%20post%20cave--thumb.jpg
+Thumbr: jarvist%20frost%20-%20bull%20pot%20-%20entrance%20pitch%20descend--thumb.jpg
 Authors: Jarvist 'yes-its-bloody-well-me-again-why-does-noone-else-ever-write-for-this-thing? -its-practically-turning-into-a-flipping-personal-blog-mightas-well-upload-some-photos-of-my-non-existant-cats-or-something' Frost, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2007-10-26.php

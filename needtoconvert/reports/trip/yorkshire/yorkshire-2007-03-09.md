@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2007-03-09.jpg
 Thumbl: jarvist%20frost%20-%20aquamole%20-%20thara%20ascending--thumb.jpg
-Thumbr: jarvist%20frost%20-%20aquamole%20-%20thara%20ascending--thumb.jpg
+Thumbr: jarvist%20frost%20-%20large%20-%20marc%20happy--thumb.jpg
 Authors: Marc Labuhn, Jarvist Frost, Jarvist Frost, Jarvist Frost, Jarvist Frost, Deep, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2007-03-09.php

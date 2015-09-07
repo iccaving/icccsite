@@ -8,7 +8,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2008-12-05.jpg
 Thumbl: jarvist%20frost%20-%20canon%20g5%20-%20towards%20kingsdale%20head%20from%20braida%20garth%20parking%20spot%20frozen%20kingsdale--thumb.jpg
-Thumbr: jarvist%20frost%20-%20canon%20g5%20-%20towards%20kingsdale%20head%20from%20braida%20garth%20parking%20spot%20frozen%20kingsdale--thumb.jpg
+Thumbr: jarvist%20frost%20-%20canon%20g5%20-%20king%20pot%20shakehole%20looking%20nw%20-%20pre%20descent%20frozen%20kingsdale--thumb.jpg
 Authors: A. Caver, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2008-12-05.php

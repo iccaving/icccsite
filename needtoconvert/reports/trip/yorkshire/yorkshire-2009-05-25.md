@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2009-05-25.jpg
 Thumbl: jana%20carga%20-%20016--thumb.jpg
-Thumbr: jana%20carga%20-%20016--thumb.jpg
+Thumbr: daniel%20greenwald%20-%20DSCF1024_cropped--thumb.jpg
 Authors: 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2009-05-25.php

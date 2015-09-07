@@ -6,7 +6,7 @@ Type: tour
 Photoarchive:
 Mainimg: RhysTyers_DSC_0678.JPG
 Thumbl: RhysTyers_DSC_0607--thumb.jpg
-Thumbr: RhysTyers_DSC_0607--thumb.jpg
+Thumbr: AlexSeaton_IMGP2402--thumb.jpg
 Authors: 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2014-winter-tour.php

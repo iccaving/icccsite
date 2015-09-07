@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2007-02-16.jpg
 Thumbl: Tharatorn%20Supasiti%20-%20P2170003--thumb.jpg
-Thumbr: Tharatorn%20Supasiti%20-%20P2170003--thumb.jpg
+Thumbr: Tharatorn%20Supasiti%20-%20P2180012--thumb.jpg
 Authors: Jarvist Frost, Thara, Clewin Griffith, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2007-02-16.php

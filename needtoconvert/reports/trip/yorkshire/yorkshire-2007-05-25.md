@@ -8,7 +8,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2007-05-25.jpg
 Thumbl: jarvist%20frost%20-%20ricoh%20gr1%20fuji%20200asa%20-%20easegill%20-%20streamway%20ambient1--thumb.jpg
-Thumbr: jarvist%20frost%20-%20ricoh%20gr1%20fuji%20200asa%20-%20easegill%20-%20streamway%20ambient1--thumb.jpg
+Thumbr: jarvist%20frost%20-%20easegill%20-%20main_drain_stal--thumb.jpg
 Authors: Jana Carga, Jana Carga, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2007-05-25.php

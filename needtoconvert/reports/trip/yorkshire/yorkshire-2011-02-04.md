@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2011-02-04.jpg
 Thumbl: Jarvist%20Frost%20-%20Canon%20A520%20-%20Wet%20Kingsdale%20-%20IMG_0142--thumb.jpg
-Thumbr: Jarvist%20Frost%20-%20Canon%20A520%20-%20Wet%20Kingsdale%20-%20IMG_0142--thumb.jpg
+Thumbr: 
 Authors: Fiona, Fiona, Jarv, Jarv, Fiona, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2011-02-04.php

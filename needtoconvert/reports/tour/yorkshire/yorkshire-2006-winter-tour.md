@@ -9,7 +9,7 @@ Type: tour
 Photoarchive:
 Mainimg: yorkshire-2006-winter-tour.jpg
 Thumbl: 2006-yorkshire_winter-jana_carga-IMG_7757--thumb.jpg
-Thumbr: 2006-yorkshire_winter-jana_carga-IMG_7757--thumb.jpg
+Thumbr: jarvist_frost-team_lost_johns--thumb.jpg
 Authors: Jarv, Jarv, Jana, Jarv, Sandeep, Jarv, Ben, Skippy, Sandeep, Jana, Ben, Thara, Jarv, Jarv, Thara, Deep, Ben, Jarv, Ben, Deep, Jarv, Jarv, Ben B., Tetley, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2006-winter-tour.php

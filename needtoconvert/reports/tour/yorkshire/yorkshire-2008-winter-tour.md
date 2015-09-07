@@ -6,7 +6,7 @@ Type: tour
 Photoarchive:
 Mainimg: yorkshire-2008-winter-tour.jpg
 Thumbl: jarvist%20frost%20-%20canon%20g5%20-%20flood-stream%20exchange%20gaping%20gill%20-%20gaping%20gill%20main%20chamber%20waterfall%20andy%20jurd%20with%20flash2-sqaurecrop--thumb.jpg
-Thumbr: jarvist%20frost%20-%20canon%20g5%20-%20flood-stream%20exchange%20gaping%20gill%20-%20gaping%20gill%20main%20chamber%20waterfall%20andy%20jurd%20with%20flash2-sqaurecrop--thumb.jpg
+Thumbr: jarvist%20frost%20-%20canon%20g5%20-%20flood-stream%20exchange%20gaping%20gill%20-%20andy%20rigging%20middle%20pitch%20stream-longshot--thumb.jpg
 Authors: A. Caver, 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2008-winter-tour.php

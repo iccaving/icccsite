@@ -6,7 +6,7 @@ Type: tour
 Photoarchive:
 Mainimg: vercors-2009-04.jpg
 Thumbl: Jarvist%20Frost%20-%20A520%20-%20Vercors%20Easter%202009%20-%20Saints%20de%20Glace%20-%20Trou%20qui%20Souffle%20-%20009--thumb.jpg
-Thumbr: Jarvist%20Frost%20-%20A520%20-%20Vercors%20Easter%202009%20-%20Saints%20de%20Glace%20-%20Trou%20qui%20Souffle%20-%20009--thumb.jpg
+Thumbr: Jana%20Carga%20-%20Vercors%20Easter%2009%20-%2052--thumb.jpg
 Authors: Jana Carga, James Kirkpatrick, Jarvist Frost, James Kirkpatrick, Jana Carga, James Kirkpatrick, 
 Cavepeeps:
 Oldurl: /rcc/caving/france/vercors-2009-04.php

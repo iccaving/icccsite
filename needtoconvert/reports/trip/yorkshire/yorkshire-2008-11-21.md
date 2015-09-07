@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2008-11-21.jpg
 Thumbl: jarvist%20frost%20-%20canon%20g5%20vivitar%20283%20-%20crw_5060%20valhalla%20flashed%20just%20below%20pitch%20photo%20from%20below%20-%20square%20crop--thumb.jpg
-Thumbr: jarvist%20frost%20-%20canon%20g5%20vivitar%20283%20-%20crw_5060%20valhalla%20flashed%20just%20below%20pitch%20photo%20from%20below%20-%20square%20crop--thumb.jpg
+Thumbr: jarvist%20frost%20-%20canon%20g5%20vivitar%20283%20-%20crw_5094%20ben%20ascending%20final%20rotated--thumb.jpg
 Authors: 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2008-11-21.php

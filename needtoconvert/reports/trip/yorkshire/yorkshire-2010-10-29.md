@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: yorkshire-2010-10-29.jpg
 Thumbl: Jarvist%20Frost%20-%20Powershot%20G5%20-%202010-10-30-17.15.32%20-%20CRW_0615%20-%20valhalla%20-%20group%20shot--thumb.jpg
-Thumbr: Jarvist%20Frost%20-%20Powershot%20G5%20-%202010-10-30-17.15.32%20-%20CRW_0615%20-%20valhalla%20-%20group%20shot--thumb.jpg
+Thumbr: Jarvist%20Frost%20-%20Powershot%20G5%20-%202010-10-31-14.57.12%20-%20CRW_0658%20-%20yordas%20-%20final%20pitch%20-%20abseil--thumb.jpg
 Authors: Clare , James KP, Clare , Jarv, Jarv, Clare , 
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2010-10-29.php
