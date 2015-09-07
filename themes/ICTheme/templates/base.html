@@ -31,11 +31,14 @@
     $(function() {
       $('div.banner').click(function() {
         if ($(window).width() < 750) {
+            $('div.left-col').toggleClass("left-col-show");
+            $('body').css("scroll-y", "hidden")
+          /*
           if ($('div.left-col').css("display") == "none") {
             $('div.left-col').css("display", "block");
           } else {
             $('div.left-col').css("display", "none");
-          }
+          }*/
         }
       });
     });
@@ -54,7 +57,7 @@
         $(".logo").css("height", $(".banner").height());
         $(".logo img").css("padding-top", ($(".banner").height() - 100) / 2);
       } else {
-        $(".center-col").css("margin-top", 0);
+        $(".center-col").css("margin-top", $(".banner").height() + 5);
       }
     }
 

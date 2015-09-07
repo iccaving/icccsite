@@ -28,11 +28,14 @@ a:visited { }
 /* Column Layout */
 
 .banner {
-  position: static;
+  //position: static;
   margin: 0;
-  width: 100%;
+  width: 100vw;
   height: 75px;
   display: block;
+
+  position: fixed;
+  top: 0;
 }
 
 .banner-wrap {
@@ -76,17 +79,30 @@ a:visited { }
 }
 
 .left-col {
-    display: none;
+    display: block;
     float: none;
     width: initial;
     height: initial;
-    position: static;
+    //position: static;
     margin: 0px;
+
+    position: fixed;
+    top: 75px;
+    left: -185px;
+    width: 185px;
+    overflow-y: auto;
+    height: calc(100vh - 75px);
+
+    transition: left 1s;
+}
+
+.left-col-show {
+  left: 0px;
 }
 
 .center-col {
     float: none;
-    margin: 0px;
+    margin: 80px 0 0 0;
     width: 100%
 }
 
