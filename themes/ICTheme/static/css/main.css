@@ -35,7 +35,7 @@ p, ul {
 h1 {
   font-family: Roboto, Tahoma, Arial, sans-serif;
   font-weight: 700;
-  font-size: 2.5rem;
+  font-size: 2rem;
   color: #2D2D2D;
   margin: 1rem 0; }
 
@@ -47,7 +47,7 @@ h2 {
 
 h3 {
   font-size: 1.125rem;
-  font-weight: bold;
+  font-weight: 400;
   color: #AB4444;
   margin: 1rem 0; }
 
@@ -77,6 +77,9 @@ a:visited {
 
 a:hover {
   color: #D46A6A; }
+
+pre {
+  overflow: auto; }
 
 /* Useful Tags */
 .nodisplay {
@@ -120,7 +123,7 @@ a:hover {
   width: 100%;
   vertical-align: top; }
 
-.banner-title-menu {
+.banner-title-logo {
   display: none; }
 
 .banner-date {
@@ -226,12 +229,12 @@ a:hover {
 .sidebar-sub-item a {
   font-family: Roboto, Tahoma, Arial, sans-serif;
   font-weight: 400;
-  padding: 10px 0 10px 60px; }
+  padding: 10px 0 10px 35px; }
 
 .sidebar-sub-sub-item a {
   font-family: Roboto, Tahoma, Arial, sans-serif;
   font-weight: 100;
-  padding: 10px 0 10px 60px; }
+  padding: 10px 0 10px 50px; }
 
 .sidebar-item.no-link a:hover, .sidebar-item.no-link:hover {
   text-decoration: none;
@@ -363,7 +366,8 @@ a.footer-button:hover {
   padding: 25px 25px 0 25px; }
 
 .mainimg img {
-  max-width: 100%; }
+  max-width: 100%;
+  max-height: 600px; }
 
 .article-img-center {
   width: calc(100% - 50px);

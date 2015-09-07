@@ -198,6 +198,19 @@
         }
       }
 
+      //The scrollbar appearing can cause some elements to flow onto another line. This increses the size of the inner
+      //and can oveflow out of the outer. This ensures that at the end of a menu openeing, overflowing elements
+      //are adjusted.
+      var outer = $(this).data("idouter");
+      var outerelement = $('#' + outer);
+      outerelement.one('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend', function(e) {
+        $(".sidebar-outer").each(function() {
+          if ($(this).prop('scrollHeight') > $(this).height() && !($(this).hasClass("collapsed"))) {
+            height  = $(this).children(".sidebar-inner").outerHeight()
+            $(this).css({'max-height':height});
+          }
+        });
+      });
     });
   });
 </script>
