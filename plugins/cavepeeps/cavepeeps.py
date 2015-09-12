@@ -4,6 +4,7 @@ import os
 from datetime import date, datetime
 import logging
 import string
+import sys
 
 
 def parse_metadata(metadata, article):
@@ -34,7 +35,12 @@ def parse_metadata(metadata, article):
             if item == '':
                 continue
             # Find out type of item we are looking at
-            item_type, item_values = item.split('=')
+            try:
+                item_type, item_values = item.split('=')
+            except ValueError:
+                logging.critical("Error with the cavepeep metadata. Check that there are semicolons between DATE=, CAVE=, PEOPLE= (not colons) and that there are equals after each.")
+                logging.critical(str(article.title) + ' ' + str(article.date.strftime('%Y-%m-%d')))
+                sys.exit()
             if item_type == 'DATE':
                 item_date = datetime.strptime(item_values, '%Y-%m-%d')
             elif item_type == 'CAVE':
@@ -60,6 +66,10 @@ def parse_metadata(metadata, article):
                 for person in item_people:
                     cavepeep.append(
                         row(item_date, cave, person, article))
+        else:
+            logging.critical("Error with the cavepeep metadata. Are DATE, PEOPLE, CAVE present and spelt correctly? If there's no cavepeep data please delete the row from the metadata.")
+            logging.critical(str(article.title) + ' ' + str(article.date.strftime('%Y-%m-%d')))
+            sys.exit()
     return cavepeep
 
 
