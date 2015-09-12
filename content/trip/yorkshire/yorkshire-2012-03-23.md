@@ -15,6 +15,10 @@ Cavepeeps: DATE=2012-03-24; CAVE=Large Pot; PEOPLE=Jarvist Frost, Rhys Tyers, Ol
 Oldurl: /rcc/caving/yorkshire/yorkshire-2012-03-23.php
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 ##  Saturday
 
 ###  Large Pot: Jarv, Rhys, Oli, Marion

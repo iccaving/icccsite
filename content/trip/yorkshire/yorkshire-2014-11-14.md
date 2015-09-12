@@ -17,7 +17,12 @@ Cavepeeps: DATE=2014-11-15; CAVE=Jingling Pot; PEOPLE=Rhys Tyers, Sarah Gian, Wi
            DATE=2014-11-16; CAVE=Gaping Ghyll; PEOPLE=Andy Jurd, Dave Kirkpatrick, Sam Page;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2014-11-14.php
 Status:
-##  Saturday 
+
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
+##  Saturday
 
 ###  Jingling: Rhys, Sarah, William, Alex Seaton, Ben Honan
 

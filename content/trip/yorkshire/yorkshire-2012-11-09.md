@@ -12,6 +12,11 @@ Cavepeeps: DATE=2012-11-10; CAVE=Lost Johns' Cave; PEOPLE=Jarvist Frost, Clare T
            DATE=2012-11-11; CAVE=Notts Pot 2; PEOPLE=Clare Tan, Andy Jurd, Fiona Hartley, Rhys Tyers, Oliver Myerscough, Mehdi Ben Slama, Sam Page, Caroline Ainsworth, Sean Peezick, David Kirkpatrick, Catherine Claudet
 Oldurl: /rcc/caving/yorkshire/yorkshire-2012-11-09.php
 Status:
+
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 ##Saturday
 
 ###Lost Johns: Jarv, Clare, Andy, Fiona, Rhys, Ollie, Mehdi, Sam, Caroline, Pierre, Sean, David, Catherine

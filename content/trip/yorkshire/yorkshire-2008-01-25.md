@@ -1,4 +1,4 @@
-Title: Yorkshire I
+Title: Yorkshire III
 Date: 2008-01-25
 Location: yorkshire
 Summary: A long overdue return to the farm! Excitement fettling in Easegill on Saturday, smearing blood around a shaft and checking out the foam on the ceiling. Sunday saw a main party go to Aygill while an insane duo set off to King to swap a snickers bar and a maillon for a 20m rope and a broken Casio watch.
@@ -15,6 +15,9 @@ Cavepeeps: DATE=2008-01-26; CAVE=Cow Pot > Lancaster Hole; PEOPLE=Rik Venn, Gerg
 Oldurl: /rcc/caving/yorkshire/yorkshire-2008-01-25.php
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
 #####Vero M, Big G, Pip &amp; Chris (OUCC massive)
 
 ##  Friday

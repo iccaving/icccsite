@@ -14,6 +14,11 @@ Cavepeeps: DATE=2014-02-21; CAVE=Top Sink > Cow Pot; PEOPLE=Jarvist Frost, James
            DATE=2014-02-21; CAVE=County Pot > Wretched Rabbit; PEOPLE=Oliver Myerscough, Jack Hare, Elijah Choi, Tamzin Zawadska;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2014-02-21.php
 Status:
+
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 ##  Saturday
 
 ###  Easegill:

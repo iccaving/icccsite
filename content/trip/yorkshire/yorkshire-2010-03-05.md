@@ -13,6 +13,10 @@ Cavepeeps: DATE=2010-03-06; CAVE=Top Sink > Lancaster Hole; PEOPLE=William Frenc
 Oldurl: /rcc/caving/yorkshire/yorkshire-2010-03-05.php
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 Another weekend in subterranean England, reacquainted with whatever part of us made happy by caving. Or in my case, for reasons that will be made clear later, whatever part of me made unhappy as well.
 
 ####  Clare Tan

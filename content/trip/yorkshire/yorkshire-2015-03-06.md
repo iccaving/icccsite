@@ -14,6 +14,10 @@ Cavepeeps: DATE=2015-03-07; CAVE=County Pot > Lancaster Hole; PEOPLE=Rosanna Nic
 Oldurl: /rcc/caving/yorkshire/yorkshire-2015-03-06.php
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 The perils of not writing trip reports promptly are clear and alas this trip has faded from memory. It would be as if it had never happened except for the collection of photos that prove it must have (barring intrusion from a keener parallel dimesion).
 
 The photos and a dim (possibly false) memory suggests a fairly epic through trip from County to Cow and Lanc. A keen team of pre-riggers doing the hard work of rigging Cow and Lanc before leading the rest on a classic Easegill traverse.

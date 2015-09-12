@@ -14,6 +14,10 @@ Cavepeeps: DATE=2008-12-06;CAVE=King Pot; PEOPLE=Jarvist Frost, William French, 
 Oldurl: /rcc/caving/yorkshire/yorkshire-2008-12-05.php
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 ##  Saturday
 
 ###  King Pot (to King Henry Hall): Jarv, Jana, William, Paul

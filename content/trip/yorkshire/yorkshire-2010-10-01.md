@@ -11,6 +11,8 @@ Cavepeeps: DATE=2010-10-02;CAVE=Bull Pot; PEOPLE=Jarvist Frost, Niko Kral, Alex 
 Oldurl: /rcc/caving/yorkshire/yorkshire-2010-10-01.php
 Status:
 
+#####{{ allpeople }}
+
 With term, and all the new cavers, fast approaching, we managed to squeeze in a quick little experienced trip to Yorkshire to get some non-novice caving trips in.
 
 ##  Saturday

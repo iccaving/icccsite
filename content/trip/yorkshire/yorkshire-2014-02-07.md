@@ -14,6 +14,10 @@ Cavepeeps: DATE=2014-02-08; CAVE=King Pot; PEOPLE=Rhys Tyers, Jack Hare, Sarah G
 Oldurl: /rcc/caving/yorkshire/yorkshire-2014-02-07.php
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 It was Friday at 6pm when I realised that something was terribly, terribly wrong. A sense of dread and foreboding washed over me. What had I done. The Disco Box. It was at home, where Saber had left it after the previous trip. Fiona arrived and we quickly agreed that without the Disco Box there could be no trip. Quick as a flash I hopped onto my bike and sped home, hitting Mach 3 down Ladbroke Grove. When I returned 45 minutes later, Disco Box in hand, I was pleased to find that preparations for the trip were well underway. New cavers were packing, rope was piling up, and ancient alcohols were prized from the icy depths of the fridge.
 
 The van was loaded with minimal fuss, and we were quickly off straight into the back of a two hour queue to the M25. Normally this would be a major setback but as this trip Fiona was driving solo, and therefore in charge of the tunes, it was merely an opportunity to blast "99 Luftballons" and other 80s classics. Once we broke free of the traffic and hit warp speed (62mph) we had an untroubled journey to the North (apart from a brief detour to Coventry in a desperate attempt to avoid paying £9 on the M6 toll).

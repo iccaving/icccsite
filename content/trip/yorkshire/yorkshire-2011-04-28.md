@@ -3,9 +3,6 @@ Date: 2011-04-28
 Location: yorkshire
 Summary: Excellent three day weekend in Yorkshire ticking off King Pot (7.5hrs), Pennyghent (6hrs) and Meregill (4.5hrs). Fantastic weather, blue skies, sun and enough wind to blow you back down off the hill!
 Type: trip
-Mainimg:
-Thumbl:
-Thumbr:
 Authors: Clare Tan, Jarvist Frost
 Cavepeeps: DATE=2011-04-29; CAVE=King Pot; PEOPLE=Tetley, Clare Tan, William French, Sandeep Mavadia, Kate Smith, Jarvist Frost;
            DATE=2011-04-30; CAVE=Penyghent Pot; PEOPLE=Jim Evans, Tetley, Sandeep Mavadia, William French, Clare Tan;
@@ -16,6 +13,8 @@ Status:
 ###  Yorkshire - Three Pots
 
 ###  Royal Weeding: 28th April - 1st May 2011
+
+#####{{ allpeople }}
 
 ## Thursday
 

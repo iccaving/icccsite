@@ -19,6 +19,10 @@ Cavepeeps: DATE=2010-11-13; CAVE=Stream Passage Pot > Bar Pot; PEOPLE=Tim Osborn
            DATE=2010-11-14;CAVE=Valley Entrance;PEOPLE=Thomas McCarthy-Ward, Kate Smith;
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 ##  Friday
 
 The weekend started eventfully, with Clare and Niko getting locked into stores because of a faulty lock! Fortunately most of the caving stuff had already gone outside to be loaded onto the van. After a bit of lock abuse, we passed things out through the window in the fire escape, I quickly hacked off my excess cowstail tail, and we made our escape via fire exits + Beit Hall.

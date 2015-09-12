@@ -12,6 +12,10 @@ Cavepeeps: DATE=2013-02-23; CAVE=King Pot; PEOPLE=Rhys Tyers, Oliver Myerscough,
 Oldurl: /rcc/caving/yorkshire/yorkshire-2013-02-22.php
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 ##  Saturday
 
 ###  King Pot: Everyone

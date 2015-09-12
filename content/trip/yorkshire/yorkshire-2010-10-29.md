@@ -15,6 +15,10 @@ Cavepeeps: DATE=2010-10-30;CAVE=Ireby Fell Cavern;PEOPLE=James Kirkpatrick, Niko
 Oldurl: /rcc/caving/yorkshire/yorkshire-2010-10-29.php
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 ##  Friday
 
 <a href="/caving/photo_archive/trips/2010-10-29%20-%20yorkshire/Jarvist%20Frost%20-%20Powershot%20G5%20-%202010-10-30-01.43.28%20-%20CRW_0609%20-%20flash%20testing%20at%20npc.html">

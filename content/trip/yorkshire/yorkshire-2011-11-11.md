@@ -16,6 +16,10 @@ Cavepeeps: DATE=2011-11-12; CAVE=Jingling Pot; PEOPLE=Dave Wilson, Oliver Myersc
 Oldurl: /rcc/caving/yorkshire/yorkshire-2011-11-11.php
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 An ace weekend! Turned up surprisingly early at the NPC, as the roads were clear and Al + co had done the shopping in their car. We arrived to an excellent speedy pasta meal cooked by Saber. Bed space was rather nonexistent, the NUCC/Hades crew were booked in but there were also a load of mature members of another club who had turned up unannounced, and turned in, spreading themselves over several bunk rooms.
 
 Still, I counted 48 people at the NPC according to the sign in book that weekend, and it was great to be in a buzzing caving hut, even if the washing up does seem to scale with N^4!

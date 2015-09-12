@@ -3,9 +3,6 @@ Date: 2011-03-04
 Location: yorkshire
 Summary: Bullpot farm for the traditional early March Easegill fest. People disappeared in and out of various entrances including Top, Lancs, Cow, Link, WR and County. A massive curry was prepared with the new swish BPC kitchen facilities and eaten at the new long table. Caving games, debauchery & finally a slumbering return to London.
 Type: trip
-Mainimg:
-Thumbl:
-Thumbr:
 Authors:
 Cavepeeps: DATE=2011-03-05; CAVE=Top Sink > Lancaster Hole; PEOPLE=Jarvist Frost, Clare Tan, Olle Akesson, Eric Seidman;
            DATE=2011-03-05; CAVE=Lancaster Hole > Link Pot; PEOPLE=Gergely Ambrus, Alex Herriott, Jonny Hardman, Niko Kral, Nia John;
@@ -15,6 +12,8 @@ Cavepeeps: DATE=2011-03-05; CAVE=Top Sink > Lancaster Hole; PEOPLE=Jarvist Frost
            DATE=2011-03-06; CAVE=Wretched Rabbit > Top Sink; PEOPLE=Jarvist Frost;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2011-03-04.php
 Status:
+
+#####{{ allpeople }}
 
 ##  Saturday
 

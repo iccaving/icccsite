@@ -8,13 +8,16 @@ Mainimg: yorkshire-2012-09-28-50th-anniversary.jpg
 Thumbl:
 Thumbr:
 Authors: Fiona Hartley, Fiona Hartley,
-Cavepeeps: 
+Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2012-09-28-50th-anniversary.php
 Status:
 
 ##  ICCC 50th Anniversary
 By some miracle a large contigent of the Gaping Gill exchange (more to come on that) managed to bump into to each other, which enabled this group photo down Gaping Gill which left to right is:- Tim Palmer, Goaty(Mike Rogerson), Malcolm Barr, Jim Briggs, Chris Backhouse, Simon Seward, Sam Page, Jarvist Frost, Phil Hay, Mark Evans, Jim Evans, Rob Chaddock, Ian Mckenna, Dave Mountain, Chris Birkhead, Harry Locke, James Kirkpatrick(pic1)/Jan Evetts(pic3), Clare Tan.
 Which happens to include presidents for: 81, 82, 85, 86, 89, 93, 94, 99, 04, 05, 07, 10, 11! Such organisation is hither to unknown in the annals of IC caving.
+
+{{ mainimg }}
+{{ photolink }}
 
 ###Incomplete List of Atendees: Alex, Alva, Andy Jurd, Bronwyn, Ben, Chris Keeley, Christopher Backhouse, Clare Tan, Colm Carroll, Daniel Greenwald, Dave Mountain, Dave Wilson, Dewi Lloyd, Fiona Hartley, Goaty (Mike Rogerson), Harry Lock, J.Briggs, James KP, Jan Evetts, Janet Cotter, Jarvist Frost, Jim Evans, Kath, Malcolm MIB, Mark Evans, Mark Wilkins, Oliver Myerscough, Pam Murphy, Paul Huggins, Pete Hambley, Phil Hay, Rhys Tyers, Richard Anderson, Richard Colcott, Richard Venn, Rob Chaddock, Rob Knell, Saber King, Sam Page, Simon Seward, Tim Flack, Tim Palmer, many others left undocumented!
 

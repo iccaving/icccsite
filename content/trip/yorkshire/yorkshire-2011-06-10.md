@@ -15,6 +15,10 @@ Status:
 
 ##  Zero Carbon Dales trip - 10-12th June 2011
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 ###  Friday Night - Getting there
 
 The idea simple: practice bolt climbing on a weekend trip to the Yorkshire Dales. We decided to travel by train and bike to save money and CO2. At 7,30 pm on friday I headed over to Euston, met Clare and immediately realised a problem: I had forgotten my wellies. The train was not for another hour so I figured I had -just- enough time to head home, pick up the boots and make it back. Which I did. Just. At midnight-ish we made it to Lancaster, from where a 30 km ride awaited us. For the first 10 km or so the excitement of riding in the dark was rather exhilarating. During the next 10 km, the excitement abated somewhat to be substituted by a low level of annoyance. The last 10 km would have been pretty miserable but luckily Dewi and Dave passed us in their car after a CRO meeting and carried our gear for the last leg. Awesome. We got the the NPC to find a group of Nottingham students having a few drinks. It appears they remembered us and Clare from last year's trip to Car Pot - felt kind of like a celeb! In a way....

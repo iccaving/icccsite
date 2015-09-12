@@ -13,6 +13,10 @@ Cavepeeps: DATE=2014-11-29; CAVE=Lost Johns' Cave; PEOPLE=Rhys Tyers, Tanguy Rac
 Oldurl: /rcc/caving/yorkshire/yorkshire-2014-11-28.php
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 ##Friday
 
 After an incredibly epic game of risk (with a Scottish Alliance battling against the Southern Coalition for the supremacy of the British Isles) the minibus arrived at the NPC. The common room rang with laughter and good spirits. The wine flowed red, ales and ciders ran gold, brown and amber to the sound of ribald jests.

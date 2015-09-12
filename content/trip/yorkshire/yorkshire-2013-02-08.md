@@ -9,13 +9,15 @@ Thumbl: DSC_0311--thumb.jpg
 Thumbr: DSC_0254--thumb.jpg
 Authors: Sam,
 Cavepeeps: DATE=2013-03-09; CAVE=Pippikin Pot > Wretched Rabbit; PEOPLE=Sam Page, Andy Jurd, Jonny Hardman
-           DATE=2013-03-09; CAVE=Wretched Rabbit; PEOPLE=Clare Tan, Kate Smith, Su Teh, Rozzie O'Driscoll, Sam Ridiculo
+           DATE=2013-03-09; CAVE=Wretched Rabbit; PEOPLE=Clare Tan, Kate Smith, Su Teh, Rozzie O'Driscoll, Sam (Rozzie)
            DATE=2013-03-09; CAVE=Cow Pot; PEOPLE=Rhys Tyers, Oliver Myerscough, Dave Kirkpatrick;
            DATE=2013-03-10; CAVE=Lancaster Hole; PEOPLE=Kate Smith, Clare Tan, Rhys Tyers, Jonny Hardman, Rozzie O'Driscoll
 Oldurl: /rcc/caving/yorkshire/yorkshire-2013-02-08.php
 Status:
 
-###  Rhys, Oli, Jonny, Kate, Clare, Sam, Dave KP, Su, Rozzie, Sam (2), Andy
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
 
 ##  Saturday
 

@@ -7,10 +7,12 @@ Photoarchive: /
 Mainimg: missing_photos_grannys_garden_witch.jpg
 Thumbl:
 Thumbr:
-Authors: A. Caver,
+Authors:
 Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2013-03-08.php
 Status:
+
+{{ mainimg }}
 
 ###  People List
 
