@@ -54,7 +54,7 @@
     function bannerresizer() {
       if (!($(window).width() < 750)) {
         $(".center-col").css("margin-top", $(".banner").height());
-        $(".logo").css("height", $(".banner").height());
+        $(".logo").css("min-height", $(".banner").height());
         $(".logo img").css("padding-top", ($(".banner").height() - 100) / 2);
       } else {
         $(".center-col").css("margin-top", $(".banner").height() + 5);

@@ -63,27 +63,49 @@ def parse_metadata(metadata, article):
     return cavepeep
 
 
-def articlelink(peoplelist, article):
+def articlelink(peoplelist, article, generator):
     # Function to link articles with lists of people that relate to the trips
     # in that article
     peopletrips = {}
-    allpeople = {}
-    row = namedtuple('person', 'firstname lastname fullname')
+    allpeople = set()
     for item in peoplelist:
-        firstname, lastnames = None, None
         fullname = item.person
-        firstname, lastnames = item.person.split()[0], " ".join(
-            item.person.split()[1:])
         tripid = item.date.strftime('%Y-%m-%d') + '-' + item.cave.translate(
             {ord(c): None for c in string.punctuation}).replace(' ', '-')
         if tripid in peopletrips.keys():
-            peopletrips[tripid].append(row(firstname, lastnames, fullname))
+            peopletrips[tripid].append(fullname)
         else:
-            peopletrips[tripid] = [row(firstname, lastnames, fullname)]
-        allpeople[fullname] = (row(firstname, lastnames, fullname))
-    article.peopletrips = peopletrips
-    article.allpeople = [val for key, val in allpeople.iteritems()]
+            peopletrips[tripid] = [fullname]
+        allpeople.add(fullname)
 
+    # Make the metadata available to the article template
+    # article.peopletrips = article.metadata["peopletrips"] = peopletrips
+    # article.allpeople = article.metadata["allpeople"] = [val for key, val in allpeople.iteritems()]
+
+    # The metadata might need to be used to replace a tag in the article
+    # so add it to the metadata item that will be available to metainserter
+    outallpeople = ''
+    for index, person in enumerate(allpeople):
+        if index > 0:
+            outallpeople += ', '
+        outallpeople += """<a href='""" + generator.settings["SITEURL"] + """/cavers/""" + person.replace(" ", "%20") + """.html'>""" + person + """</a>"""
+    outpeopletrips = {}
+    for key in peopletrips:
+        outpeopletrips[key] = ''
+        for index, person in enumerate(peopletrips[key]):
+            if index > 0:
+                outpeopletrips[key] += ', '
+            outpeopletrips[key] += """<a href='""" + generator.settings["SITEURL"] + """/cavers/""" + person.replace(" ", "%20") + """.html'>""" + person + """</a>"""
+
+    try:
+        article.data["allpeople"] = outallpeople
+        for key in outpeopletrips:
+            article.data[key] = outpeopletrips[key]
+    except:
+        article.data = {}
+        article.data["allpeople"] = outallpeople
+        for key in outpeopletrips:
+            article.data[key] = outpeopletrips[key]
 
 def cavepeeplinker(generator):
     cavepeep = []
@@ -94,7 +116,7 @@ def cavepeeplinker(generator):
             # cave, caver, and article reference
             cavepeep_partial = parse_metadata(
                 article.metadata['cavepeeps'], article)
-            articlelink(cavepeep_partial, article)
+            articlelink(cavepeep_partial, article, generator)
             cavepeep += cavepeep_partial
     cavepeep.sort(key=lambda tup: tup.person)  # Sort the list by person name
     cavepeep_person = OrderedDict()
@@ -244,7 +266,7 @@ def generatepersonpages(generator, writer):
             logging.debug("Bio generated for " + person)
             caverbio = generator.context['caverbios'][person][0]
             cavermeta = generator.context['caverbios'][person][1]
-        filename = 'cavers/' + str(person) + '.html'
+        filename = 'cavers/' + person + '.html'
         writer.write_file(filename, template, generator.context, personname=person,
                           articles=generator.context['cavepeep_person'][person][0], bio=caverbio, meta=cavermeta, authoredarticles=authoredarticles)
 

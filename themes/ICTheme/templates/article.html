@@ -9,12 +9,6 @@
 
 <div class="container">
   <div class="article-content">
-      {% if article.mainimg is defined and article.mainimg != '' and article.archiveloc is defined %}
-        <div class="mainimg">
-          <a href="{{ SITEURL }}/{{ article.archiveloc }}"><img src="{{SITEURL}}/{{ article.archiveloc }}{{ article.mainimg}}"></a>
-        </div>
-        <div class="photo-button-wrapper"><a class="photo-button" href="{{ SITEURL }}/{{ article.archiveloc }}">Photos</a></div>
-      {% endif %}
       {% if article.allpeople is defined %}
       <h5>
         {% for person in article.allpeople %}{% if loop.index != 1 %}, {% endif %}<a href="{{ SITEURL }}/cavers/{{ person.fullname.replace(" ", "%20") }}.html">{{ person.fullname }}</a>{% endfor %}
@@ -26,4 +20,15 @@
       <!--{% include 'includes/disqus.html' %}-->
     </div>
 </div>
+
+{% if article.data is defined %}
+<script style="display: none;" id="metadata" type="application/json">
+  {
+  {% for key in article.data %}
+  {% if loop.index > 1 %},{% endif %}
+  """{{ key }}""":"""{{ article.data[key] }}"""
+  {% endfor %}
+  }
+</script>
+{% endif %}
 {% endblock %}
