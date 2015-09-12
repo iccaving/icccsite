@@ -22,16 +22,20 @@ def isarchive(generator):
                 article.metadata['archiveloc'] = archive_loc + article.photoarchive + '/'
                 article.archiveloc = archive_loc + article.photoarchive + '/'
             archives.append((article.archiveloc, article.title, article.date.strftime('%d-%m-%Y')))
+
+            link = generator.settings["SITEURL"] + '/' + article.archiveloc
+            try:
+                article.data["photolink"] = """<div class="photo-button-wrapper"><a class="photo-button" href='""" + link + """'>Photos</a></div>"""
+            except:
+                article.data = {}
+                article.data["photolink"] = """<div class="photo-button-wrapper"><a class="photo-button" href='""" + link + """'>Photos</a></div>"""
             if 'mainimg' in article.metadata.keys():
                 image = generator.settings["SITEURL"] + '/' + article.archiveloc + article.metadata['mainimg']
-                link = generator.settings["SITEURL"] + '/' + article.archiveloc
                 try:
                     article.data["mainimg"] = """<div class='mainimg'><a href='""" + link + """'><img src='""" + image + """'></a></div>"""
-                    article.data["photolink"] = """<div class="photo-button-wrapper"><a class="photo-button" href='""" + link + """'>Photos</a></div>"""
                 except:
                     article.data = {}
                     article.data["mainimg"] = """<div class='mainimg'><a href='""" + link + """'><img src='""" + image + """'></a></div>"""
-                    article.data["photolink"] = """<div class="photo-button-wrapper"><a class="photo-button" href='""" + link + """'>Photos</a></div>"""
     generator.context['photoarchives'] = archives
 
 

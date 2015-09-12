@@ -8,7 +8,6 @@ Mainimg: yorkshire-2012-09-28-50th-anniversary.jpg
 Thumbl:
 Thumbr:
 Authors: Fiona Hartley, Fiona Hartley,
-Cavepeeps:
 Oldurl: /rcc/caving/yorkshire/yorkshire-2012-09-28-50th-anniversary.php
 Status:
 
