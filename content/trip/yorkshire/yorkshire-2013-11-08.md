@@ -15,6 +15,10 @@ Cavepeeps: DATE=2013-11-09; CAVE=Jingling Pot; PEOPLE=Dave Wilson, Elijah Choi, 
 Oldurl: /rcc/caving/yorkshire/yorkshire-2013-11-08.php
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 Rhys Tyers, Oliver Myerscough, Sam Page, Saber King, Nadine Kalmoni, Clare Tan, Jonny Hardman, Jan Evetts, Niko Kral, Elijah Choi, Peter Fischbacher, Sarah Gian, James O'Hanlon, Tamzin Zawadski, Ben Zelenay, Giulio Deganutti, Sandeep Mavadia, Mehdi Ben Slama, Shed, Kate Smith, Andy Jurd, Mike Foley
 
 On Friday 8th of November, the cavers prepared to head North to chilly depths of Yorkshire. After loading up the minibus with kit and ourselves with ginger beer, we eagerly left London at 7pm. The minibus sped up the highway, with a merry Eli serenading the group with a mixture of Adele and premature Christmas songs. As the ginger beer bottles emptied, the bus filled with laughter and mischief. Finally 6 hours, and one huge Tesco trip later, we arrived at our final destination; NPC; a caving hut in rural Yorkshire, where we unloaded into a fire-lit living room and embarked upon a feast.

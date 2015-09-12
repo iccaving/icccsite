@@ -15,6 +15,9 @@ Cavepeeps: DATE=2012-02-04; CAVE=Jean Pot; PEOPLE=Rhys Tyers, Clare Tan, Konrad 
 Oldurl: /rcc/caving/yorkshire/yorkshire-2012-02-03.php
 Status:
 
+{{ mainimg }}
+#####{{ allpeople }}
+
 ##  Saturday
 
 ###  Jean Pot - Rhys, Clare, Konrad and George Taylor (NPC)

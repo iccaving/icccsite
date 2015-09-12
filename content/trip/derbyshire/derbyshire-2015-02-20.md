@@ -14,6 +14,10 @@ Cavepeeps: DATE=2015-02-21; CAVE=James Hall; PEOPLE=Jack Hare, Rosanna Nichols, 
 Oldurl: /rcc/caving/derbyshire/derbyshire-2015-02-20.php
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 ##Friday
 
 Muddy, snowy Derbyshire trips were not for the faint-hearted. Once again many people bailed out so we were left with ten when we set off from London. Rosanna and I discovered Salmon’s Cavern in the rigging guide, however as it turned out the next day Ben (Salmon) was not feeling well enough to cave. We built structures of jenga pieces before we went to bed.

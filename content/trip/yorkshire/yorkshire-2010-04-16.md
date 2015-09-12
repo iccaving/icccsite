@@ -12,7 +12,11 @@ Cavepeeps: DATE=2010-04-17;CAVE=Brown Hill; PEOPLE=Jarvist Frost, Jana Carga, Wi
            DATE=2010-04-18;CAVE=Brown Hill; PEOPLE=Tetley, James Kirkpatrick;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2010-04-16.php
 Status:
-20TigeR05
+
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 ##  Saturday
 
 ###  Brown Hill: Jarv, Jana, William

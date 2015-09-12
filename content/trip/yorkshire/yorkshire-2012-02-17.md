@@ -12,6 +12,11 @@ Cavepeeps: DATE=2012-02-18; CAVE=Peterson Pot > Mistral Hole; PEOPLE=Clare Tan, 
            DATE=2012-02-18; CAVE=Unknown; PEOPLE=Jarvist Frost, Kate Smith, Jana Carga, Sam Page, Saber King, Fiona Hartley, Sally Dacie, Florian Steiner, Jan Evetts, Alex Herriott, Clement Stal, Mehdi Ben Slama;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2012-02-17.php
 Status:
+
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 ##  Saturday
 
 ###  Peterson Pot —&gt; Mistral: Clare, Rhys, Oliver

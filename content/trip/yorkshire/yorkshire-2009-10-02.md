@@ -15,6 +15,10 @@ Cavepeeps: DATE=2009-10-03;CAVE=Rowten Pot;PEOPLE=James Kirkpatrick, Tim Osborne
 Oldurl: /rcc/caving/yorkshire/yorkshire-2009-10-02.php
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 As usual, our most dangerous moment came on the drive up, rather than caving. After a quick stop at a service on the M6 at 1AM, we had barely got back up to our pootling speed-limited 100km/hr when we slammed into the back of (figuratively speaking) a carriageway covered with blinking hazards. About a dozen emergency vehicles whistled down the hard shoulder over the next half hour, flashing lights blinking from barely 50 cars away. After 90 minutes we slowly started moving off, passing through a single lane glass strewn gap between four totalled cars. One had ripped all four wheels to shreds and ended up flipped in the slow lane, another had torn into the centre reservation and ended up moulded into the crash barriers facing the wrong way...
 
 Arrived at the NPC at a rather late hour - to bed around 4AM.

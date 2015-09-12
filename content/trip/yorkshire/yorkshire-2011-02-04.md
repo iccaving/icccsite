@@ -1,7 +1,7 @@
 Title: Yorkshire III
 Date: 2011-02-04
 Location: yorkshire
-Summary:
+Summary: A rather aquatic weekend in Yorkshire. Incessent rain constrained our choice of cave somewhat, so it was King and Bull Pot that we delved down on Saturday. Continual torrential rain sunk any motivation of Sunday caving, so a day of fettling and an early return to London instead.
 Type: trip
 Photoarchive:
 Mainimg: Jarvist%20Frost%20-%20Canon%20A520%20-%20Wet%20Kingsdale%20-%20IMG_0144.jpg
@@ -13,7 +13,9 @@ Cavepeeps: DATE=2011-02-05; CAVE=Bull Pot; PEOPLE=Fiona Hartley, Clare Tan, Alex
 Oldurl: /rcc/caving/yorkshire/yorkshire-2011-02-04.php
 Status:
 
-###  Clare, Fiona, Will, Simon, Nick, DaveW, Alex, Jarv
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
 
 ##  Friday
 

@@ -14,7 +14,10 @@ Cavepeeps: DATE=2014-03-22; CAVE=Wretched Rabbit; PEOPLE=Jarvist Frost, Daniella
            DATE=2014-03-23; CAVE=Alum Pot; PEOPLE=Rhys Tyers, Jack Hare, Dave Wilson;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2014-03-21.php
 Status:
-Rhys Tyers, Jack Hare, Fiona Hartley, Sam Page, Sarah Gian, Dave Kirkpatrick, Dave Wilson, Andy Jurd, Jarvist Frost, Daniella McManamon
+
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
 
 ##  Friday
 

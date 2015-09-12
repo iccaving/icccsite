@@ -19,6 +19,10 @@ Cavepeeps: DATE=2014-12-31; CAVE=Wretched Rabbit; PEOPLE=Rhys Tyers, Jack Hare, 
 Oldurl: /rcc/caving/yorkshire/yorkshire-2014-winter-tour.php
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 ##Tuesday 30th
 
 There weren’t many of us in the van on the way up, and we packed everything very quickly, leaving us worried that we’d left something behind. We went up the M1, stopping at Northampton to buy all the food for the week and then at Loughborough to pick up Alex, our second driver, who had Melton Mowbray pork pies for the group. We skipped round Leeds and Bradford to grab Fiona, and then finally on to the NPC, where we arrived not too late for a few drinks and brie laden crumpets. Perfect.

@@ -1,4 +1,4 @@
-Title: Yorkshire
+Title: Yorkshire II
 Date: 2007-11-30
 Location: yorkshire
 Summary: Last trip of the Autumn term was a stonker, horrifically wet weekend trip to Yorkshire with killer roads, a leaking roof in the NPC and flooded caves. But we endured and had a damn nice time. Boxhead, Rumbling, Lost Johns' & Rowten all successfully probed, an ULSA birthday party gatecrashed and vast quantities of cake consumed.
@@ -15,7 +15,9 @@ Cavepeeps: DATE=2007-12-01;CAVE=Boxhead Pot; PEOPLE=Tim Osborne, Clewin Griffith
 Oldurl: /rcc/caving/yorkshire/yorkshire-2007-11-30.php
 Status:
 
-###  Jarv, Clew, Le Rik, TomB, James KP, Dave Wilson, Andy Jurd, Lyndon, TimO, Paul H, Jana Carga
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
 
 ##  Saturday
 

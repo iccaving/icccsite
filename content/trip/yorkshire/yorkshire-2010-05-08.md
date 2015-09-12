@@ -9,6 +9,8 @@ Cavepeeps: DATE=2010-05-09;CAVE=Car Pot; PEOPLE=Clare Tan, James Kirkpatrick;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2010-04-16.php
 Status:
 
+#####{{ allpeople }}
+
 ##Saturday
 
 ###Car Pot: James KP, Clare

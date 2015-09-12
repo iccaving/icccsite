@@ -4,9 +4,11 @@ Location: yorkshire
 Summary: The sun was shining, term was ending... time to get back down the Pilgrim's Way and taste Penyghent pot's veritable delights!
 Type: trip
 Authors: Clare Tan,
-Cavepeeps: DATE=2010-06-19;CAVE=Penyghent Pot;PEOPLE= Jarvist Frost, Jan Evetts, Dan Greenwald, Alex Herriott, William French, Clare Tan, Thomas McCarthy-Ward, Andrew 2010-06-18, Sandeep Mavadia, Jim Lee, Andy Jurd, Pete Hambly;
+Cavepeeps: DATE=2010-06-19;CAVE=Penyghent Pot;PEOPLE= Jarvist Frost, Jan Evetts, Dan Greenwald, Alex Herriott, William French, Clare Tan, Thomas McCarthy-Ward, Andrew Booker, Sandeep Mavadia, Jim Lee, Andy Jurd, Pete Hambly;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2010-06-18.php
 Status:
+
+#####{{ allpeople }}
 
 ##  Friday
 

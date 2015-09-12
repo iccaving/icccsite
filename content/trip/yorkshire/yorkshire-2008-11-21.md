@@ -8,10 +8,14 @@ Mainimg: 2008-11-21%20-%20yorkshire%20%2F%20jarvist%20frost%20-%20canon%20g5%20v
 Thumbl: jarvist%20frost%20-%20canon%20g5%20vivitar%20283%20-%20crw_5060%20valhalla%20flashed%20just%20below%20pitch%20photo%20from%20below%20-%20square%20crop--thumb.jpg
 Thumbr: jarvist%20frost%20-%20canon%20g5%20vivitar%20283%20-%20crw_5094%20ben%20ascending%20final%20rotated--thumb.jpg
 Authors: James Kirkpatrick, Jarvist Frost
-Cavepeeps: DATE=2008-11-22; CAVE=Lost Johns' Cave; PEOPLE=James Kirkpatrick, Jana Carga, Paul Hutton, Ben, Alex Herriott, William French, Dave Wilson;
+Cavepeeps: DATE=2008-11-22; CAVE=Lost Johns' Cave; PEOPLE=James Kirkpatrick, Jana Carga, Paul Hutton, Ben Banfield, Alex Herriott, William French, Dave Wilson;
            DATE=2008-11-23; CAVE=Yordas Cave; PEOPLE=James Kirkpatrick, William French, Paul Hutton;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2008-11-21.php
 Status:
+
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
 
 ##  Saturday: Lost Johns'
 

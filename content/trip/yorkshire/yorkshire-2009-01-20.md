@@ -1,5 +1,5 @@
 Title: Yorkshire IV
-Date: 2009-01-20
+Date: 2009-02-20
 Location: yorkshire
 Summary: Ah, the delight of the NPC! This time we had plans for the Allotment, and with a good forecast set off for Juniper Gulf, Christmas Pot and Grange Rigg. Things started to immediately go wrong, most distressing of all being the 4m visibility after the fug descended on the barren and featureless moor. Safe return for all after a i) following a cunningly installed one quid fifty LED back to the gate ii) unintended descent to Clapham iii) GPS pick-me-up from JG. Sunday saw Yordas and Heron being slithered down in Kingsdale - everyone rather tired!
 Type: trip
@@ -15,6 +15,10 @@ Cavepeeps: DATE=2009-01-21; CAVE=Disappointment Pot; PEOPLE=Ludo Lewicki-Garreau
            DATE=2009-01-22; CAVE=Heron Pot; PEOPLE=Paul Hutton, Sandeep Mavadia, Emily Chow, Tim Osborne, Nick;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2009-01-20.php
 Status:
+
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
 
 ##  Saturday - Allotment Spectacular
 

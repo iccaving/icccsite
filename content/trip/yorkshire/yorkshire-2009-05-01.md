@@ -12,7 +12,7 @@ Status:
 
 ##  May Day Long Weekend 1-4th May 2009
 
-###  Jarv, James KP, Leo, James Berg, Andy, Dave W, TimO
+#####{{ allpeople }}
 
 I am writing to you from a train on my way back from the ICCC may bank holiday weekend trip to the ?Yorkshire Dales. I'm aching, my hands feel so raw I have difficulty typing, I'm still mostly filthy but I feel satisfied in a mystical way, reunited with whatever part of me is made happy by caving. There have been aesthetic moments, like gazing at the reflection from my lights in the wet passages of king pot. There is the companionship of a strenuous trip, dividing food out and sharing the load. There are also moments of peace and quiet, begin alone in a passage with no sound bar water trickling down, and moments of exhilaration such as being in Rowten looking down at my companion's lights disappearing into the darkness and knowing with sickening certainty that soon it shall be my turn.
 

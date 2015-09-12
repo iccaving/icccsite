@@ -13,6 +13,10 @@ Cavepeeps: DATE=2009-05-26; CAVE=Swinsto Hole > Simpsons Pot; PEOPLE=Jarvist Fro
 Oldurl: /rcc/caving/yorkshire/yorkshire-2009-05-25.php
 Status:
 
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
 ##  Saturday
 
 ###  Swinsto Hole - Simpson Pot Exchange: Everyone
