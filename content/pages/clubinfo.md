@@ -4,220 +4,62 @@ Authors:
 Location: page
 Type: page
 
-<img align=right src="/caving/natural_born_caver.gif">
-<h2>Information for New Members:</h2>
+## Information for New Members:
 
-<p>
-<ul>
-<li><a href="#about">About ICCC</a></li>
-<li><a href="#sside">Weekly Meetings [Tuesdays in the Union Bar, 7:00pm]</a></li>
-<li><a href="#train">Training [Wednesdays Princes Gardens, 1pm]</a></li>
-<li><a href="#trips">Weekend Trips [Fortnightly during term]</a></li>
-<li><a href="#foreign">Foreign Trips</li>
-<li><a href="#faq">FAQ</a></li>
-<br>
-<li><a href="stores.php">Getting to Stores</a></li>
-<br>
-<li><a href="fresher_first_trip_handout.pdf">Fresher First-Trip Handout (PDF)</a></li>
-</ul>
-</p>
+## About Imperial College Caving Club
 
-<a name="about"></a>
-<h2>About Imperial College Caving Club</h2>
+Imperial College Caving club is a relaxed, easy-going club dedicated to caving and canyoning in the UK and abroad. We go on regular trips during term time, with the emphasis on having fun away from the hassle of lectures and work.
+Founded in 1962, we are well equipped, experienced, and always eager to meet, teach and cave with new members. We have a yearly expedition to Slovenia to discover new cave passages, and we occasionally run expeditions elsewhere, such as to New Zealand and Morocco.
 
-<p>
-<a href="/caving/photo_archive/trips/2005-06-10%20-%20yorkshire/jarvist-IMG_1516.html">
-<img align=left src="/caving/photo_archive/trips/2005-06-10%20-%20yorkshire/jarvist-IMG_1516--thumb.jpg">
-</a>
-Imperial College Caving club is a relaxed, easy-going club dedicated to sports caving and canyoning in the UK and abroad. We go on regular trips, with the emphasis on having fun away from the hassle of lectures and work.</p>
-<p>Founded in <strong>1962</strong>, we are very well equipped and have a huge amount of experience to pass on to new members. We try to go on expedition each summer to discover new cave passage, recent highlights include: Siberia, Alpine France, Slovenia, Cuba, Sardinia, Slovakia, to name but a few.</p>
+## Why Cave?
 
-<strong>Why Join us?</strong>
-<p>
-<a href="/caving/photo_archive/tours/1998%20-%20ethiopia%20-%20jim%20evans/Ethiopia%201998%20-%20Jim%20Evans%20-%20tank.html">
-<img align=left src="/caving/photo_archive/tours/1998%20-%20ethiopia%20-%20jim%20evans/Ethiopia%201998%20-%20Jim%20Evans%20-%20tank--thumb.jpg">
-</a>
-Imperial College London offers the most extensive range of clubs of any student union in the country - so why join this particular outdoor club?
- Well - we're pretty focused on Caving (going underground), with a sideline in Canyoning (abseiling down waterfalls and swimming across drop pools down a ravine) and Via Ferrata (mountaineering with in-situ metal cables instead of bringing your own ropes).</p>
+We mostly focus on caving (going underground), with a sideline in canyoning (abseiling down waterfalls and swimming across drop pools down a ravine) and via ferrata (mountaineering with in-situ metal cables). Caving offers a breathtaking variety of underground wonders, from vast vaulted grooves studded with milk white stalactites, to fast flowing underground streams spraying over cliff edges to form thundering waterfalls. We approach these challenges with good humour and camaraderie - caving is a team sport in which everyone works together to tackle the terrain safely and enjoyably. You don't need to be a particular shape or size to be a caver - over the years we have taken a huge variety of people caving. It isn't necessary to be especially fit, as you'll develop the strength and technique you need for caving by joining our trips.
 
-<p>
-<a href="/caving/photo_archive/tours/2002%20-%20romania%20-%20various/Cristina.Clewin_Griffith.html">
-<img align=right src="/caving/photo_archive/tours/2002%20-%20romania%20-%20various/Cristina.Clewin_Griffith--thumb.jpg">
-</a>
-Caving gets you out of London, doesn't involve sweating on indoor climbing walls and takes you to an entirely different world just below our feet - quite honestly the closest you'll ever come to walking on the moon. Caves have an enormous variety - frozen caves filled with icicles, enormous chambers, ancient formations, underground rivers etc. Similarly, the techniques used to get there are a splendid combination.
-</p>
+## Your First Year Caving
 
-<p>Only while caving can you find yourselves abseiling down into stupendously large stone cathedrals, climbing and scrambling, traversing over enormous pits, crawling through mud and paddling across underground lakes in an inflatable boat - and that's all in one trip! Amid the seemingly serious, there's a great deal of fun to be had. Whether this is due to the caving itself, or the humour of cavers themselves I don't know. Tall tales of caving around a campfire, propping up the Union bar, or the surreal humour of lowering yourself into a frigid pool of water to swim across a lake deep underground - it's entirely different from chatting about lectures or what was on TV last night.</p>
+At the beginning of the year, we offer trips aimed at new cavers, to cave systems that are challenging but offer incredible sights within reach of the complete novice. Back on campus. we begin to train freshers in 'single rope technique', the method we use to descend and ascend safely out of deep cave systems. Building on your new found confidence underground and this training, we begin to look further afield to the deep caves in the north of England. By the end of the first term, you'll be abseiling into caverns five or six stories tall and pushing deeper and further underground than you ever thought possible.
 
-<p>The limestone landscape where we cave is particularly beautiful, and for our explorations we usually get special permission to camp on mountains and in national parks.</p>
+We cement this new found experience with our Winter Tour, a week of caving over the winter break, usually in Yorkshire. In the next term we tackle a variety of exciting and increasingly challenging caves, building your skills and giving you the opportunity to learn advanced skills such as rigging or cooking dinner for twenty hungry cavers. Our Easter Tour is often to some glorious sun-drenched part of Europe, where you can ignore the looming exams by experiencing the best caving the Continent has to offer. After exams are over, we usually squeeze in a short trip back to Wales, where you can astonish yourself with how much easier the caves seem, before we head off for our summer expedition to Slovenia. This is a truly incredible experience which you have building up to all year long - a hollow mountain, filled with undiscovered cave passage hundreds of meters below the earth, just waiting for you to discover.
 
-<p>
-<a href="/caving/photo_archive/slovenia/2006-Yossarian/010-Razor%20Cave/Entrance%20Chamber%204s%20exposure%20200asa%20a520.html">
-<img align=left src="/caving/photo_archive/slovenia/2006-Yossarian/010-Razor%20Cave/Entrance%20Chamber%204s%20exposure%20200asa%20a520--thumb.jpg">
-</a>
-We cave all year round (UK caves are a fairly constant 15C), and you're guaranteed to get some good trips in on the weekend, even if the weather does turn nasty.</p>
+When you return to the UK, you will be an experienced caver - now it's your turn to lead new cavers on their first trip underground, through the same passages you first stepped into only a year ago!
 
-<p>
-<a href="/caving/photo_archive/slovenia/highlights/shed%20tetly%20and%20alva%20at%20the%20hotel%20sysmig%201997%20by%20mark%20evans.html">
-<img align=right src="/caving/photo_archive/slovenia/highlights/shed%20tetly%20and%20alva%20at%20the%20hotel%20sysmig%201997%20by%20mark%20evans--thumb.jpg">
-</a>
-Caving doesn't require obsessive exercise or a particular build, but it's an excellent way of getting and keeping fit. </p>
+## Meetings
 
-<p>Caving is very much a team activity - the more experienced people on a trip can make things easier for the relative novices, and with a club such as ours, new members can quickly find themselves doing significent trips.</p>
+We meet informally every Tuesday evening at the Union bar for a pint and some outlandish tales. At the beginning of the year we usually have a caving helmet with us so new members can find our group. Please stop by and say hello - you can get information and advice on all aspects of caving, and some of it might even be correct.
 
-<p>Join our club and you'll see the whole range of UK caving during the Autumn term, round off your skills over the winter break and tackle the very best Sports Caving challenges in Europe and the UK during Spring and Easter. By the Summer term you'll be ready to start exploring deep cave systems - the very pinnacle  of performance in this activity.</p>
+## Trips
 
-<center><i>"The words which make up the human language are inadequate for those who venture into the depths of the earth."</i> - Jules Verne</center>
+We run trips every two weeks during term time. Trips leave at 6 pm on Friday and return around 11 pm on Sunday. We drive to a caving cottage in a minibus. The caving cottages have bunk rooms, toilets, a kitchen and showers, as well as somewhere to dry your caving kit. We buy loads of food for the weekend on the way there, so you don't need to bring any. If you want to sign up for a trip, come a long on a Tuesday evening to the Union and we'll sort it out for you.
 
-<strong>"The Thirst to be First"</strong>
+## What to Bring
 
-<p>
-<a href="/caving/photo_archive/slovenia/highlights/Clewin_on_Concorde_2004_Photo_by_Jarvist_Frost-mediumquality.html">
-<img align=left src="/caving/photo_archive/slovenia/highlights/Clewin_on_Concorde_2004_Photo_by_Jarvist_Frost-mediumquality--thumb.jpg">
-</a>
-Want to bag an unclimbed peak? Fine. Check it out on 'Googlemaps'; blow your student loan on a long distance flight and take your chances with the weather and with the fate of your Sherpas. You can phone your mum from the top.</p>
+We provide all of the specialist equipment you need to enjoy your caving experience. All you need to do is turn up at the Union wearing some clothes, with a sleeping bag and (optionally) some wash stuff - we stay at caving cottages that usually have showers so you can get clean before returning to civilisation. As you become more experienced you might think about buying your own equipment, and we can offer advice on the best equipment.
 
-<p>
-<a href="/caving/photo_archive/slovenia/highlights/jim%20at%20mig%20country%20sysmig%201996%20by%20stu%20adler.html">
-<img align=right src="/caving/photo_archive/slovenia/highlights/jim%20at%20mig%20country%20sysmig%201996%20by%20stu%20adler--thumb.jpg">
-</a>
-Caving exploration is not like this. There is only one way of discovering what lies beneath, and that is to go there. We don't just venture to extreme places, but bolt and hammer and find our way in, surveying and mapping on the way out. We start not with satellite data and 1:10'000 scale maps, but with a blank sheet of paper.</p>
+## Training
 
-<p>And when underground - there is just you and your friends. Self-reliance and cooperation begin on day one, and go on to form extremely strong relationships.</p>
+Much of our training is inside caves - for the first two trips of the year, the best training can be found inside the cave! We offer training in single rope technique (SRT) every Wednesday afternoon during first term. This is informally known as 'tree training' because we throw a rope over a tree branch in Princes Gardens and show you how to safely ascend and descend a rope. You can then practice these skills on the next weekend trip.
 
-<a name="sside"></a>
-<h2>Weekly Meetings</h2>
-<p>
-<a href="/caving/photo_archive/trips/2004-01-31%20-%20derbyshire%20-%20lyndon/sm_124_2454.html">
-  <img src="union_bar.jpg" height=175 align="right">
-  </a>
-  The club meets every term-time Tuesday night from 7:00pm in the Union bar.<br>
-  At these meetings, we discuss upcoming trips, plan tours to exotic climes, and
-  exchange tall tales of caverns measureless to man.  For a bit of a laugh, excellent
-  anecdotes, plus a few choice ales, come along and meet us.<br>
-  You'll also need to come along to these meetings to book yourself a place on our
-  introductory trips.  Seats in the minibus are limited, so sign up early!
-</p>
+## Locations
 
-<a name="train"></a>
-<h2>Training</h2>
-
-<table width=600>
-<tr>
-  <td><p>
-     All training and equipment is provided by the club. The first few trips of the year won't require a
-     huge amount of rope work, so we'll start with belayed ladders and traverse lines before moving on to
-     SRT (single rope technique). SRT is an extremely safe and lightweight method of tackling vertical caves,
-     but does require a fair bit of practice to master it. However, once learnt, the speed and freedom with which
-     you can tackle vertical potholes is truly liberating. </p>
-  </td>
-  <td rowspan=2 align="bottom">
-    <img src="images/training.jpg" align="right">
-  </td>
-</tr>
-
-<tr>
-  <td>
-    <b><i>Where?</i></b> Prince's Gardens<br>
-    <b><i>When?</i></b> (Probably) Wednesday at 1:00pm, e-mail for confirmation.<br>
-    <b> See you there!</b>
-</tr>
-</table>
-
-<br>
-<a name="trips"></a>
-<h2>Weekend Trips</h2>
-<p>
-  The club organises trips every fortnight during term time.  The first few
-  trips of the year are generally to Wales or the Mendips [Somerset] where we introduce new
-  members to the basics of caving. The caves and mines are generally more horizontal in nature,
-  but which allow one to enjoy some extremely fun &amp; sporting trips, unencumbered with ropes.
-  Later in the term, we travel further afield to the Yorkshire Dales &amp; Derbyshire to build
-  up rope-work skills, and enjoy the best vertical caving in the UK.
-</p>
-
-<p>
-  <b>Wales</b><br>
+### Wales
   South Wales is characterised by its large cave systems, with beautiful formations and
   underground rivers. Beginners trips usually visit Ogof Ffynon Ddu, the deepest cave in
   Britain and over 45km long. There are many trips for all standards.
-</p>
 
-<p>
-  <b>Mendip</b><br>
+### Mendip
   The rolling Mendip Hills in Somerset are home to some of the most interesting caves in
   Britain.  The varied and ever-changing nature of the caves makes this the perfect area
   for both introductory and more arduous trips.
-</p>
-<p>
-  <b>Yorkshire</b><br>
+
+### Yorkshire
   North Yorkshire is the classic caving region in Britain for vertical caving, including
   probably the most famous cave entrance Gaping Gill a massive 110m shaft. The rugged
   beauty of the moors provides a stunning backdrop to an enormous choice of exciting potholes.
   A favourite with existing members for practising rope skills.
-</p>
-
-<p>
-  <b>Cost</b><br>
-  The cost for a usual weekend trip is &pound;35, the first two trips of the year will be subsidised to &pound;15.<br>
-  This includes <b>all</b> caving kit, food and transport for the weekend.<br>
-  All you will need to bring is a sleeping bag and warm clothes. We can even lend you a sleeping bag if you don't have one!
-</p>
-
-<p>
-  <b>Schedule</b><br>
-  We meet in stores at 6pm on the Friday to sort out kit and pack the van.  We normally
-  aim to be back by 11pm on Sunday, having spent two nights at the caving hut.
-</p>
-
-<p>
-  <table>
-    <tr>
-      <td>
-        <b>What to bring</b><br>
-        <ul><li>Walking boots (Not essential)
-          <li>Warm clothes
-          <li>Sleeping Bag
-          <li>Waterproof jacket
-          <li>Money for the pub
-          <li>Camera
-          <li>Toiletries
-        </ul>
-      <td><img src="/caving/wales/wales0704/castle.gif" align="right">
-      </tr>
-    <tr>
-      <td>
-      <td><center><b>Typical Caving Hut</b>
-
-      </center>
-  </table>
-        Nb: This is a rather fine hut in Wales, a far more accurate guide can be found <a href="https://union.ic.ac.uk/rcc/caving/wiki.php?n=Main.HutInformation">Here</a>.
-
-</p>
-
-<p>
-  <b>What not to bring</b><br>
-    <ul><li>Work of any kind</ul>
-</p>
-
-<p>
-  <b>Location</b><br><br>
-  <img src="images/stores.gif" align=left><br><br>
-  Stores is in the back left hand corner<br>
-  of Beit Quad.<br>
-  Go down the metal steps, into the building,<br>
-  then turn left up the stairs, through the<br>
-  door, stores is on the right.
-<br>
-<a href="/caving/stores.php">More detailed directions to stores.</a>
-</p>
-<br><br><br><br><br>
-
-<a name="foreign"></a>
-<h2>Foreign Trips</h2>
-<p>ICCC organises regular trips to the continent, and occasionall beyond. With have a large vested interest in Tolminski Migovec on Slovenia, with over twenty kilometres of passage found over the last two decades. These are organised by the interested parties during the year, come along to a weekly meeting to find out what's on the horizon. We can generally get some sort of funding from national research councils for bona fide research in order to try and keep the cost low enough for the general student.
-</p>
-<p>Also, don't forget to contribute yourself. If there's somewhere that you want to go, and it has limestone with caving potential, we can probably organise something!</p>
+  
+ ### Derbyshire
+ 
+ In the grim, mud clogged darkness of Derbyshire, no one can hear you scream.
 
 <a name="faq"></a>
 <h1>Frequently Asked Questions</h1>
