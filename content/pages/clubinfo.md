@@ -28,7 +28,7 @@ We meet informally every Tuesday evening at the Union bar for a pint and some ou
 
 ## Trips
 
-We run trips every two weeks during term time. Trips leave at 6 pm on Friday and return around 11 pm on Sunday. We drive to a caving cottage in a minibus. The caving cottages have bunk rooms, toilets, a kitchen and showers, as well as somewhere to dry your caving kit. We buy loads of food for the weekend on the way there, so you don't need to bring any. If you want to sign up for a trip, come a long on a Tuesday evening to the Union and we'll sort it out for you.
+We run trips every two weeks during term time. Trips leave at 6 pm on Friday and return around 11 pm on Sunday. We drive to a caving cottage in a minibus. The caving cottages have bunk rooms, toilets, a kitchen and showers, as well as somewhere to dry your caving kit. We buy loads of food for the weekend on the way there, so you don't need to bring any. If you want to sign up for a trip, come along on a Tuesday evening to the Union and we'll sort it out for you.
 
 ## What to Bring
 
