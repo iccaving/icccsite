@@ -454,23 +454,23 @@ a.footer-button:hover {
 .article-img-center {
 	width: calc(100% - 50px);
 	text-align: center;
-	padding: 0 25px;
+	padding: 10px 25px;
 	margin: 0;
 }
 
 .article-img-left {
-	width: 50%;
+	max-width: 50%;
 	float: left;
 	margin: 0;
-	padding: 10px 25px 0 25px;
+	padding: 10px 25px 10px 25px;
 	text-align: center;
 }
 
 .article-img-right {
-	width: 50%;
+	max-width: 50%;
 	float: right;
 	margin: 0;
-	padding: 10px 25px 0 25px;
+	padding: 10px 25px 10px 25px;
 	text-align: center;
 }
 

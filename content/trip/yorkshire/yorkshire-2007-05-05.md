@@ -10,7 +10,7 @@ Thumbr: david%20loeffler%20-%206-magicroundabout-cobweb--thumb.jpg
 Authors: Dave Loeffler
 Cavepeeps: DATE=2007-05-06;CAVE=Meregill Hole; PEOPLE=Dave Loeffler, Jarvist Frost, James Huggett, Thara Supasiti, Tom Brown;
            DATE=2007-05-07; CAVE=Lancaster Hole;PEOPLE=Dave Loeffler, Jarvist Frost, James Huggett, Thara Supasiti, Tom Brown;
-           DATE=2007-05-08; CAVE=ALum Pot;PEOPLE=Dave Loeffler, Thara Supasiti;
+           DATE=2007-05-08; CAVE=Alum Pot;PEOPLE=Dave Loeffler, Thara Supasiti;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2007-05-05.php
 Status:
 
