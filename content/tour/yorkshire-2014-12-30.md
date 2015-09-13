@@ -41,6 +41,7 @@ An epic start to the tour was made by celebrating the New Year with a 10.5 hour 
 
 ####Rosanna
 
+<div class="article-img-left"><a href="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/RhysTyers_DSC_0596.html"><img src="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/RhysTyers_DSC_0596.JPG""></a></div>
 
 The next day, we started slowly, waiting for Chris to arrive on the 1132 at Clapham. It was New Years’ Eve, and our original plan of going for an epic all night caving trip looked significantly less appealing in the cold light of day. We compromised, and decided to head underground around 2pm, and stay in the cave just past midnight. To keep our spirits high and our bodies nourished, we packed a load of ready made sandwiches and a stove with soup and wine to mull, and headed to Easegill.
 
@@ -50,6 +51,7 @@ Souped, sandwiched and well photographed, we headed onwards to reach the Minaret
 
 On the way out, we decided to check out Easter Grotto to kill some time. A bit of dodgy route finding lead me up a rather nasty free climb. I cleverly located a nicer free climb, handily marked by a scratched X in the wall. I encouraged everyone up it before realising the X meant ‘No’ - the ‘correct’ route was marked with a tick, a few metres further along! Still, good practice for everyone, and the straws in the ceiling of Easter Grotto were greatly appreciated.
 
+<div class="article-img-left"><a href="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/RhysTyers_DSC_0651.html"><img src="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/RhysTyers_DSC_0651.JPG"></a></div>
 
 Back in Stock Pot, we made camp in a high level passage out of the wind, and cooked up some mulled wine - I’d brought cinnamon sticks, cheap wine, sugar and cloves, as well as half a nutmeg, and the result was really something. We lit twenty tea lights around us and extinguished our torches as Rhys played the Lion King soundtrack over his Pringles speakers and we all sang along. What a wonderful way to spend NYE! The way out was a bit tough, some of the climbs up Wretched Rabbit proving hard after ten hours underground, but good teamwork (shout out to Chris, whose strong shoulders stoically served as steps) and encouragement got us out around half midnight. It was blowing a gale on the fell with thick mist, and the party was in full swing at Bull pot. Back at the NPC, all was quiet, and we all went to bed pretty quickly.
 
@@ -119,11 +121,13 @@ The lazy/tired contingent of the trip thought that the long walk to Gaping Ghyll
 
 ####Rosanna
 
+<div class="article-img-left"><a href="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/AlexSeaton_IMGP2426.html"><img src="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/AlexSeaton_IMGP2426.jpg"></a></div>
 
 On Friday 2nd, we had a permit for Gaping Ghyll. Lacking the cavers for an exchange, we made it a rigging training trip, down Flood pot by Wade’s entrance. I’d been waiting to do Gaping Ghyll for over a year, and Tanguy was equally eager. It was a beautiful day for the walk up - clear, sunny, but cold enough to prevent too much sweating. Chris rigged the first tight drop followed by a rebelay to a long hang very admirably, and we all followed him down to the drippy passage that followed. Alex took the lead, and after a bit of route finding and exploratory crawls we got to a nice pitch head with am open y-hang, which I advised him on how to rig. He did very well, and was soon off down the cave again. We met another group coming out of Flood who were quite friendly, and we rigged the pitch off of some interesting naturals down through a waterfall to a winding narrow passage.
 
 At this point, I took over the rigging for the big pitch. I took longer than I’d hoped to, with lots of advice on my y-hang, and then getting a little scared at the hanging rebelay. I got back into the swing of things for the two crazy deviations, wildly kicking off the walls to create a spider’s web of rope criss-crossing the shaft. The final deviation hangs you perfectly so that you descend to a ledge off to the side of the shaft, and I landed there and waited for the next person down to check we weren’t meant to go to the bottom. I waited patiently, perfecting my caving zen as various people struggled with the rebelay (my bad rigging? Their bad technique?) and finally as everyone was down I did some push ups and penguin danced myself warm for the push through to the main chamber.
 
+<div class="article-img-left"><a href="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/RhysTyers_DSC_0672.html"><img src="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/RhysTyers_DSC_0672.JPG"></a></div>
 
 It was a surprisingly long way, and the walls were disappointingly well graffitied. I played with breathing down passages to check which way the strong breeze went, and finally entered the main chamber, which was truly stunning. We were here past sunset, so the only light came from our powerful torches playing off the twin cascades that dropped a vast distance to the ground to form a mighty river. Quite overwhelmed by the sight, I stumbled and wandered around until I caught a glimpse of dark blue sky through the hole at the top. Rhys waved my over to a sheltered sand bank and I started making minestrone soup to complement our sandwiches - it was surreal to be cooking in the presence of such overwhelming power, but the soup was so warming and filling that I was happy that we’d stopped.
 
@@ -155,6 +159,7 @@ Gaping Ghyll.! I had heard so much about it in the past year. I suppose I had ca
 
 ###Lost Johns: Rhys, Jack, Alex, Fiona, Chris, Tanguy, William, Dave KP, Rosanna, Katy, Tetley, DW
 
+<div class="article-img-left"><a href="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/JackHare_P1070056.html"><img src="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/JackHare_P1070056.jpg"></a></div>
 
 The group was split into three elite teams to tackle Lost John’s with two early parties rigging Centipede and Dome and a later party following down Centipede. I was in the early Centipede team with Alex, Jack and Rhys. I tried rigging for the first time on the first pitch which was slow but, as no-one died, successful. Rhys then took over the rigging and descending down Centipede’s huge drops was great fun. We then met the Dome team at the top of Candle & Shistol, which Alex rigged. My favourite part of the trip, and probably the week, then came as we conquered Battle-axe Traverse, a fairly tricky rift traverse over a significant drop, and Valhalla, a drop into an enormous cavern, complete with spectacular waterfall. To stagger the exit, Rhys and I turned back at the bottom of Valhalla as the rest of the group continued to Final. I ascended Valhalla with surprising lack of exhaustion and only really slowed when it came to getting back up Centipede, but still no large problems were had and I left the cave feeling we’d had very a successful trip. The evening was spent with the group playing the pot and sling game and the squeeze machine game whilst getting completely wafted. The night of revelry ended with a drunken stroll around the surrounding area which I can barely remember.
 
@@ -162,6 +167,7 @@ The group was split into three elite teams to tackle Lost John’s with two earl
 
 The next day was a caving classic, Lost Johns’. Tetley had arrived, and took Chris on a rigging trip down Dome whilst Rhys and I took Rosanna and Alex to rig Centipede. Rosanna rigged the first short pitch very well, and we dropped down Centipede quickly, picking up the Dome crew who rudely commented on the speed of the rigging in Candle and Schistol. I’d never done Centipede before, having been down Monastery the last two times, but I can’t say I thought it was very interesting. Some complicated exchanges of cavers occurred at the head of the Battleaxe traverse, and we gained Tanguy and lost Tetley. I’d been desperate to try rigging Battleaxe, and it was a real hoot, swinging to the next bolt and clipping in whilst wedging my knees into the wall above the long drop into oblivion. I was sweating profusely as Alex kept pace behind me, but the traverse was not as long as I’d remembered and we were soon at the beautiful y-hang down into Valhalla.
 
+<div class="article-img-left"><a href="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/JackHare_P1070041.html"><img src="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/JackHare_P1070041.jpg"></a></div>
 
 There’s nothing quite like going first on a long drop, and fortunately we had just enough rope, having rigged Battleaxe and Valhalla with just one. At the bottom I waited for the others, and we set off to Final pitch and the main streamway. This was a good little bimble, and at a nasty looking duck upstream we stopped, took a photo and then exited, Tanguy derigging at his usual ridiculous speed.
 
@@ -199,6 +205,7 @@ It was then a slow progress to the surface, but my troubles were not over. As I 
 
 ###Brown Hill: Rhys, Jack
 
+<div class="article-img-left"><a href="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/AlexSeaton_IMGP2497.html"><img src="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/AlexSeaton_IMGP2497.jpg"></a></div>
 
 Jack and Rhys decided they would put themselves through the horrific-sounding Brown Hill cave whilst Tanguy led the more sensible of us down Bull Pot. On leaving the van, Jack found he had forgotten his kneepads and with Brown Hill being a rather more knee-heavy cave than Bull he asked for donations from our group. I complied and was rewarded with Jack’s creativity in sourcing replacement pads which consisted of pieces of chopped up roll mat duct taped to my oversuit decorated with a smiley face on my right knee and ‘I <3 CAVE’ (‘caves’ wouldn’t fit) on my left. With me feeling contentedly stylish the group split and we attempted to make our way to Bull Pot, which we found after about an hour of roaming the hillside. The entrance to the cave was a drop straight into an open shaft which unfortunately put Katy off so she turned back to wait in the bus. After this, Tanguy, Chris, Alex and I continued into the cave which was fairly impressive and Alex and Chris got to do quite a lot of the rigging. Wanting to keep to a turnaround time we turned back before the final pitch and did a tiny exchange at a point where the route split – I went down the more conventional route Chris had rigged and went up through the aptly-named ‘Slot’ which Alex had rigged. We found the others waiting for us back at the bus, Jack and Rhys having conquered Brown Hill and Katy having survived the freezing wait.
 
@@ -214,6 +221,7 @@ We quickly rigged a handline down and Rhys dropped into a really nasty entrance 
 
 The next crawl was lovely in comparison, through to a high aven with a nice waterfall. After this was a rift traverse with a 3 m fre climb down to another rift traverse. Reading the directions off a photograph on my camera proved misleading, and we climbed a really slippery sloping traverse to the roof only to find we were meant to go straight on instead of up. The next section was a nasty crawl traverse, though sensing my weakness Rhys kindly took the fullest rope bag. I practised crawl traversing by falling forwards onto my hands and swinging my legs through and under me, rinse and repeat. Finally we got to the pitch head, which had a short traverse round a corner to a tight and awkward y-hand. Tony’s 8mm rope was much in evidence, as were many encrusted and rusted krabs. Rhys rigged quickly, and whooped at the long drop. I followed, my new descender so full of friction that I had to pull rope through it with both hands to get anywhere at the top. By the bottom it was steaming alarmingly, and I held it away from my oversuit for 30 seconds to let it cool down.
 
+<div class="article-img-left"><a href="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/JackHare_P1070109.html"><img src="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/JackHare_P1070109.jpg"></a></div>
 
 Rhys had rigged the next long drop from a rift traverse. This one was rather wet, and the deviation didn’t seem to make much difference, dragging you directly into the spray the was launched when the waterfall hit a well angled slab. At the bottom I was quick to scurry into the beautifully scalloped streamway. Edging down it we got to the final pitch, a short traverse and a y-hang to a chamber with a foam filled terminal sump. We sat, ate some chocolate bars, relieved ourselves and them began the ascent.
 
@@ -229,6 +237,7 @@ Winter Tour had been far too pleasant. The weather was generally excellent (i.e.
 
 I had done Brown Hill once before, on my first winter tour. My memories of it were mostly of horrified frustration and grim crawling and nearly crying with exhaustion on the way out. I was keen to pit myself against younger me, to see if I could handle it better this time.
 
+<div class="article-img-left"><a href="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/JackHare_P1070081.html"><img src="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/JackHare_P1070081.jpg"></a></div>
 
 We arrived in Kingsdale to find the stream thankfully low and changed into our gear. Jack forgot his knee pads, which are pretty vital in Brown Hill, so he stole some off Rosanna and then mocked her by constructing a pathetic replacement out of duct tape, carry matt and sinister giggling that he called knee pads. With our sabotage to Tanguy’s part complete we set off, tramping across the beck and up East Kingsdale. Our guide consisted of a photo on Jack’s waterproof camera of my phone displaying a scanned in copy of NFTFH. The location was mostly true to the description apart from Mr Cooper apparently having a different idea to us of what “20m from the fence” means (we found it right next to the fence).
 
@@ -240,6 +249,7 @@ Using a dodgy in-situ deviation I managed to somehow skip rigging Mon Petit Pitc
 
 Beyond here the cave is quite pretty and pleasant. We passed a high waterfall aven. There is a moderately arduous crawl traverse before Puit-Ians-Plant (the big pitch) which I didn’t find too troublesome on the way in. Most of the time its possible to wedge the bag and yourself comfortably. Jack found it a bit tougher (I think because his trip the day before had been a fair bit harder than mine) but we were soon at the pitch head. The trip is worth it entirely for this pitch. Impressively large, with a beautiful hang down to a ledge. The second hang is entertaining as the water hits a ledge half way down and completely covers the bottom half with spray, which certainly expedites descending/ascending.
 
+<div class="article-img-left"><a href="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/JackHare_P1070139.html"><img src="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/JackHare_P1070139.jpg"></a></div>
 
 At the bottom, some classic Yorkshire streamway leads to the final little pitch and the sump. The combination of foam covered walls, dark rock, and lack of dry space in the final chamber gives it quite an oppressive air. Jack headed up first and I did the derig. This was fairly fast and pleasant and apart from some impressive knots spontaneously appearing between our rope and the diver’s 8mm there were no problems.
 
@@ -285,11 +295,13 @@ Content with this last trip, we ambled back to the bus, under the strobes of tho
 
 ###Rescue Training: Rhys, Jack, Alex, Fiona, Chris, Tanguy, Tony Seddon
 
+<div class="article-img-left"><a href="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/AlexSeaton_IMGP2572.html"><img src="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/AlexSeaton_IMGP2572.jpg"></a></div>
 
 I woke up under the impression I would be taking part in the rescue training taking place that day so when told that I wasn’t and that DW would be running a trip for me and Katy I instantly regretted the table traversing antics of the previous night. However, we decided to go for an easy cave, Notts II, so this didn’t prove too much of a problem. Notts II is a beautiful streamway which has been linked to the surface by a man-made shaft. This makes for an interesting entrance as you enter through a manhole and proceed by climbing down the scaffolding and ladders scattered down the shaft. After some initial trepidation, Katy descended on a lifeline rigged by DW and I followed on behind. At the streamway we explored both upstream and downstream with both directions having some spectacular formations and chances to get soaked. On returning to the NPC we had another excellent dinner and spent the evening consuming the last of the alcohol. It proved to be a great end to a completely fantastic trip and I returned to London thoroughly wishing I was still underground.
 
 ####Rosanna
 
+<div class="article-img-left"><a href="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/AlexSeaton_IMGP2624.html"><img src="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/AlexSeaton_IMGP2624.jpg"></a></div>
 
 Our final day was cave rescue training with Tony Seddon. I’d been really looking forward to this, and it was excellent. Tony took us to Ingleborough Hall where they have a classroom with anchors and an outdoor SRT tower to practice. We learnt how to built locking pulleys out of SRT equipment we carry, how to raise someone up a rope and then lower them, how to rescue someone stuck on their rope, and how to cut a rope to lower people to the ground if raising them is too dangerous. I feel a lot better about being able to get someone out of a cave if I need to now, though I hope we won’t need these skills any time soon!
 
