@@ -8,8 +8,7 @@ Type: page
 
 ## About Imperial College Caving Club
 
-Imperial College Caving club is a relaxed, easy-going club dedicated to caving and canyoning in the UK and abroad. We go on regular trips during term time, with the emphasis on having fun away from the hassle of lectures and work.
-Founded in 1962, we are well equipped, experienced, and always eager to meet, teach and cave with new members. We have a yearly expedition to Slovenia to discover new cave passages, and we occasionally run expeditions elsewhere, such as to New Zealand and Morocco.
+Imperial College Caving club is a relaxed, easy-going club dedicated to caving and canyoning in the UK and abroad. We go on regular trips during term time, with the emphasis on having fun away from the hassle of lectures and work. Founded in 1962, we are well equipped, experienced, and always eager to meet, teach and cave with new members. We have a yearly expedition to Slovenia to discover new cave passages, and we occasionally run expeditions elsewhere, such as to New Zealand and Morocco.
 
 ## Why Cave?
 
@@ -17,9 +16,9 @@ We mostly focus on caving (going underground), with a sideline in canyoning (abs
 
 ## Your First Year Caving
 
-At the beginning of the year, we offer trips aimed at new cavers, to cave systems that are challenging but offer incredible sights within reach of the complete novice. Back on campus. we begin to train freshers in 'single rope technique', the method we use to descend and ascend safely out of deep cave systems. Building on your new found confidence underground and this training, we begin to look further afield to the deep caves in the north of England. By the end of the first term, you'll be abseiling into caverns five or six stories tall and pushing deeper and further underground than you ever thought possible.
+At the beginning of the year, we offer trips aimed at new cavers, to cave systems that are challenging but offer incredible sights within reach of the complete novice. Back on campus. we begin to train freshers in 'single rope technique', the method we use to descend and ascend safely out of deep cave systems. Building on this training and your new found confidence underground, we begin to look further afield to the deep caves in the north of England. By the end of the first term, you'll be abseiling into caverns five or six stories tall, and pushing deeper and further underground than you ever thought possible.
 
-We cement this new found experience with our Winter Tour, a week of caving over the winter break, usually in Yorkshire. In the next term we tackle a variety of exciting and increasingly challenging caves, building your skills and giving you the opportunity to learn advanced skills such as rigging or cooking dinner for twenty hungry cavers. Our Easter Tour is often to some glorious sun-drenched part of Europe, where you can ignore the looming exams by experiencing the best caving the Continent has to offer. After exams are over, we usually squeeze in a short trip back to Wales, where you can astonish yourself with how much easier the caves seem, before we head off for our summer expedition to Slovenia. This is a truly incredible experience which you have building up to all year long - a hollow mountain, filled with undiscovered cave passage hundreds of meters below the earth, just waiting for you to discover.
+We cement your new experience with our Winter Tour, a week of caving over the winter break, usually in Yorkshire. In the next term we tackle a variety of exciting and increasingly challenging caves, building your skills and giving you the opportunity to learn advanced skills such as rigging or cooking dinner for twenty hungry cavers. Our Easter Tour is often to some glorious sun-drenched part of Europe, where you can ignore the looming exams by experiencing the best caving the Continent has to offer. After exams are over, we usually squeeze in a short trip back to Wales, where you can astonish yourself with how much easier the caves seem, before we head off for our summer expedition to Slovenia. This is a truly incredible experience which you have building up to all year long - a hollow mountain, filled with undiscovered cave passage hundreds of meters below the earth, just waiting for you to discover.
 
 When you return to the UK, you will be an experienced caver - now it's your turn to lead new cavers on their first trip underground, through the same passages you first stepped into only a year ago!
 
@@ -58,170 +57,74 @@ Much of our training is inside caves - for the first two trips of the year, the 
   A favourite with existing members for practising rope skills.
   
  ### Derbyshire
- 
  In the grim, mud clogged darkness of Derbyshire, no one can hear you scream.
 
-<a name="faq"></a>
-<h1>Frequently Asked Questions</h1>
+## Frequently Asked Questions
 
-<ul>
- <li><a href="#why">Why go caving?</a></li>
- <li><a href="#dark">Is it dark?</a></li>
- <li><a href="#light">How will I see where I'm going?</a></li>
- <li><a href="#wet">Will I get wet?</a></li>
- <li><a href="#cold">Will I get cold?</a></li>
- <li><a href="#small">Aren't caves really small?</a></li>
- <li><a href="#stuck">Will I get stuck?</a></li>
- <li><a href="#hurt">Will I get hurt?</a></li>
- <li><a href="#long">How long are caves?</a></li>
- <li><a href="#lost">Will I get lost?</a></li>
- <li><a href="#deep">How deep are caves?</a></li>
- <li><a href="#air">Can I breathe that deep underground? Is there enough air?</a></li>
- <li><a href="#time">How long will I be underground?</a></li>
- <li><a href="#skills">What skills will I need?</a></li>
- <li><a href="#clothes">What clothes will I need for caving?</a></li>
- <li><a href="#foreign">Do you cave outside the UK?</a></li>
- <li><a href="#discover">Will I discover new caves?</a></li>
- <li><a href="#info">Where can I find out more?</a></li>
-</ul>
++ [How will I see where I'm going?](#light)
++ [Will I get wet?](#wet)
++ [Will I get cold?](#cold)
++ [Will I get stuck?](#stuck)
++ [Will I get lost?](#lost)
++ [Can I breathe that deep underground?](#air)
++ [How long will I be underground?](#long)
++ [What skills will I need?](#skills)
++ [What clothes will I need for caving?](#clothes)
++ [Do I have to be an undergraduate or a fresher?](#undergrad)
 
-<h2><a name="why"></a>Why go caving?</h2>
-<p>
-Everyone gives there own reason or combination of reasons...To get
-out of London, to visit different and very beautiful parts of the UK and the world,
-for something different, to see enormous underground caverns, to do
-something challenging, experience the excitement of thundering
-subterranean rivers and waterfalls, meet like-minded people, getting
-out of a cave after a long trip, socialising, forgetting about everyday
-things for a while...etc
-</p>
 
-<h2><a name="dark"></a>Is it dark?
-</h2>
-<p>Yes. Completely.
-</p>
+### <a name="light"></a>How will I see where I'm going?
+The club has a lots of bright helmet mounted LED lights which last over twelve hours underground.
 
-<a name="light"></a><h2>How will I see where I'm going?
-</h2>
-<p>The club has a lots of excellent helmet mounted LED lights which give a powerful spot light and use batteries which
-last over 12hours. But the latest fashion is the Miglite which uses
-Luxeon LEDs; very lightweight, with long duration and a good spot beam.
-</p>
-
-<a name="wet"></a><h2>Are caves wet?
-</h2>
-<p>Most caves are a bit damp and have static pools, many have streams
+### <a name="wet"></a>Are caves wet?
+Most caves are a bit damp and have static pools, many have streams
 and waterfalls, from which you'll get spray. Some caves you have to walk
 along rivers and climb cascades. For those inclined, you can do caves that
  require short sections of swimming + even a little free diving - but these
 trips aren't for everyone!
-</p>
 
-<a name="cold"></a><h2>Will I get cold?
-</h2>
-<p>Yes. Sorry, but inevitably you will be a bit cold, UK caves are
-around 7-10deg, caves in Slovenia 2deg! Some caves non-UK caves ice
-up completely in winter, very very cold - but the ice formations are
-so amazing that you often forget the shivering. Cuba + Mallorcan caves
-are a barmy 20deg - far too hot when climbing. The
-most important thing is to keep moving, and if you feel cold,
+### <a name="cold"></a>Will I get cold?
+Possibly - even though caves in the UK stay at a constant temperature all year round, if you get wet, or if your group moves slowly, you may begin to get cold despite the thermal layers provided.
+The most important thing is to keep moving, and if you feel cold,
 particularly in wet caves, tell the leader and they will head out.
 Beginners trips will usually be in 'dry' caves and not too long.
-</p>
 
-<a name="small"></a><h2>Aren't caves really small?
-</h2>
-<p>Caves come in ALL shapes and sizes. Sa Compana (Mallorca) has a
-chamber the size of four football pitches sitting side by side, with
-a roof about 60m [12 storeys] high. Other caves are only for the very
-very skinny.
-</p>
-
-<a name="stuck"></a><h2>Will I get stuck?
-</h2>
-<p>No. Unless you feel inclined to go through tight caves, there are
+### <a name="stuck"></a>Will I get stuck?
+No. Unless you feel inclined to go through tight caves, there are
 plenty we can show you that are explored by just walking, or crouching.
-</p>
 
-<a name="hurt"></a><h2>Will I get hurt?
-</h2>
-<p>Maybe a bruise or two.
-</p>
-
-<a name="long"></a><h2>How long are caves?
-</h2>
-<p>The longest in the UK is 72Km.
-</p>
-
-<a name="lost"></a><h2>Will I get lost?
-</h2>
-<p>No. Caves can be complicated, but its hard to get lost. The more
-experienced club members lead the trips and know the caves. Whilst its
-easy to get maps and descriptions for caves if you are doing them for
+### <a name="lost"></a>Will I get lost?
+No. Caves can be complicated, but it is hard to get lost. The more
+experienced club members lead the trips and know the caves. We also have maps and descriptions for caves if you are doing them for
 first time.
-</p>
 
-<a name="deep"></a><h2>How deep are caves?
-</h2><p>The deepest in the UK is 300m, and you don't even need to take any
-ropes or ladders to get to the bottom. The deepest cave found during our
-expeditions to Slovenia stops just shy of 1km at 970m.
-</p>
+### <a name="air"></a>Can I breathe that deep underground? 
+Usually, strong drafts ensure a fresh supply of air. We don't go to caves where the air can get stagnant or toxic.
 
-<a name="air"></a><h2>Can I breathe that deep underground? Is there enough air?
-</h2><p>Yes.
-</p>
-
-<a name="time"></a><h2>How long will I be underground?
-</h2>
-<p>Anywhere between 1 to 5 hours normally. For those inclined, we
+### <a name="time"></a> How long will I be underground?
+Anywhere between 1 to 5 hours normally. For those inclined, we
 occasionally run epic UK trips of above 11hrs. During the summer expedition,
 we make a camp deep within the cave, allowing for up to 3 day trips, with
 two 'nights' spent in the perfect darkness.
-</p>
 
-<a name="skills"></a><h2>What skills will I need?
-</h2>
-<p>Most importantly a sense of adventure, in horizontal caves there are
-no technical skills, there are some useful tips for traversing a passage
-or caving safely, but generally you do what works, regardless of how
+### <a name="skills"></a>What skills will I need?
+Most importantly a sense of adventure! In horizontal caves you generally you do what works, regardless of how
 graceful or good it looks. When it comes to climbing a ladder or
 abseiling on a rope, we'll teach you all you need to know and let you
-practice in the Trees + easy caves until you are more confident.
-</p>
+practice in the trees + easy caves until you are more confident.
 
-<a name="clothes"></a><h2>What clothes will I need for caving?
-</h2>
-<p>The club has all the kit you will need to borrow for caving. You wear
+### <a name="clothes"></a>What clothes will I need for caving?
+The club has all the kit you will need to borrow for caving. You wear
 the 'furry' fleece base-layer right against your skin - even when wet, it
-provides thermal insulation. However, its important to avoid Cotton underwear
-+ generally try to keep everything as skimpy as possible - otherwise you'll
-trap a layer of water against your skin. Be warned though,
-we quite often end up changing on the verge of a road!
-</p>
+provides thermal insulation. However, it is best to avoid cotton underwear, and to not wear a t shirt under your furry.
 
-<a name="foreign"></a><h2>Do you cave outside the UK?
-</h2>
-<p>Thats the beauty of caves, they are all over the world. And its our
-mission to continually think up weird and wonderful countries to visit
-under the pretext of caving! Having a central aim when visiting other
-countries is great - because it FORCES you out of the tourist traps +
-into the country proper, and then propels you into some BREATHTAKING
-scenery in order to get to the entrances themselves.
-</p>
+### <a name="undergrad"></a>Do I have to be an undergraduate or a fresher?]
+No, the club is open to all members of the Imperial College Union, regardless of whether you're a final year PhD student or a first year undergrad. If you missed the first few trips of the year, don't worry - you can pick up all the skills you need very quickly. Just get in touch and we'll make sure you can come caving with us.
 
-<a name="discover"></a><h2>Will I discover new caves?
-</h2>
-<p>If you join the Summer expedition to Slovenia you will more than
+### <a name="discover"></a>Will I discover new caves?
+If you join the Summer expedition to Slovenia you will more than
 likely tred where no-one has gone before. Perhaps more poignantly, when you
 discover passageway that reaches a dead-end; you may well be the last person
 to ever visit that particular place in the world.
-</p>
 
-<a name="info"></a><h2>Where can I find out more?
-</h2>
-<p>Here's a good place to start: <a href="http://www.caving.uk.com">www.caving.uk.com</a>.
-</p>
-
-<p style="text-align:right">
-Jan Evetts + Jarvist Frost
-</p>
+#### Jan Evetts, Jarvist Frost and Jack Hare
