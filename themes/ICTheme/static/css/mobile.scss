@@ -111,7 +111,9 @@ a:visited { }
 }
 
 .container {
-  padding: 0px 10px 0px 10px;
+  padding: 0;
+  margin: 0;
+  width: 100%;
 }
 /*Sidebar properties*/
 
@@ -180,7 +182,9 @@ a.footer-button { }
 a.footer-button:visited { }
 
 /*Article and Page Content Styling */
-.article-content { }
+.article-content {
+overflow: hidden;
+ }
 
 .mainimg img {
   width: 100%;
@@ -214,7 +218,7 @@ figcaption {
 	padding: 0px 0px;
 }
 .article-content input {
-	margin: 0;
+	margin: 10px 0;
 }
 .article-content ol,ul {
 	padding: 0px 30px;
@@ -222,6 +226,36 @@ figcaption {
 .article-content h1,h2,h3,h4,h5 {
 	padding: 0px 0px;
 }
+/* Table Stylings */
+.table-container {
+  margin: 0 -10px;
+  overflow-x: auto;
+}
+table.sortable th, table.sortable td {
+	min-width: 6em;
+	text-align: center;
+}
+
+.content table {
+width: 100%;
+}
+
+.article-content table {
+  margin: 0;
+}
+
+table {
+ }
+td, th {
+ }
+ tbody > tr:nth-child(even) {
+ }
+ tbody > tr:nth-child(odd) {
+ }
+ thead > tr {
+ }
+ tbody > tr:hover, tbody > tr:hover a {
+ }
 
 /*Horizontal rule stylings */
 
