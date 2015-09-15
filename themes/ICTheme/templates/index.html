@@ -50,7 +50,7 @@ Imperial College Caving Club
               {% if article.thumbr is defined %}
                 {% if article.thumbr != '' %}
                 <div class="index-thumbr">
-                  <a href="{{ SITEURL }}/{{ article.archiveloc }}?image={{ article.thumbr|replace("--thumb.jpg", ".html") }}"><img alt="Thumbnail of photo from this article" src="{{SITEURL}}/{{ article.archiveloc }}{{ article.thumbr }}"></a>
+                  <a href="{{ SITEURL }}/{{ article.archiveloc }}{{ article.thumbr|replace("--thumb.jpg", ".html") }}"><img alt="Thumbnail of photo from this article" src="{{SITEURL}}/{{ article.archiveloc }}{{ article.thumbr }}"></a>
                 </div>
                 {% endif %}
               {% endif %}

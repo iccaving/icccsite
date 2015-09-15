@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
-{% block head %}<BASE href="{{ SITEURL }}/">{% endblock %}
+{% block head %}<BASE href="{{ SITEURL }}/{{ page.url }}">{% endblock %}
 
 {% block banner %}{{ page.title }}{% endblock banner %}
 

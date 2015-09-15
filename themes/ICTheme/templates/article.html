@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
-{% block head %}<BASE href="{{ SITEURL }}/">{% endblock %}
+{% block head %}<BASE href="{{ SITEURL }}/{{ article.url }}">{% endblock %}
 
 {% block banner %}{{ article.title }} <div class="banner-date">{{ article.date.strftime('%d-%m-%Y') }}</div> {% endblock banner %}
 

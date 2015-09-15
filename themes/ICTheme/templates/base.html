@@ -33,14 +33,17 @@
   </script>
   <!-- Script to ensure banner does not overlap centercol and that the logo is the same height as the banner-->
   <!-- Also ensures that the caver image is a sutiable size for the page (so you dont just see his butt)-->
+  <!-- Also ensures that anchor links are offset so the content isnt under the banner --> 
   <script>
     function bannerresizer() {
       if (!($(window).width() < 750)) {
         $(".center-col").css("margin-top", $(".banner").height());
         $(".logo").css("min-height", $(".banner").height());
         $(".logo img").css("padding-top", ($(".banner").height() - 100) / 2);
+        $(".anchor").css("margin-top", -$(".banner").height())
       } else {
         $(".center-col").css("margin-top", $(".banner").height());
+        $(".anchor").css("margin-top", -$(".banner").height())
       }
     }
 

@@ -4,13 +4,14 @@ Authors:
 Location:
 Type: stickyindex
 
-|Date              | Destination|Hut| Caves |
-|16 - 18th Oct     | Wales| WSG Cottage| OFD |
-|30th Oct - 1st Nov| Wales| WSG Cottage| OFD |
-|13 - 15th Nov     | Yorkshire| NPC Cottage| Kingsdale |
-|27 - 19th Nov     | Yorkshire| Bullpot Farm| Easegill |
-|11 - 13th Dec     | Yorkshire| NPC Cottage| Leck Fell |
-|29th Dec - 5th Jan| Yorkshire| NPC Cottage| All of them! |
+|Date              | Destination| Hut         | Caves        |
+| ---              |  ---       | ---         |  ---         |
+|16 - 18th Oct     | Wales      | WSG Cottage | OFD          |
+|30th Oct - 1st Nov| Wales      | WSG Cottage | OFD          |
+|13 - 15th Nov     | Yorkshire  | NPC Cottage | Kingsdale    |
+|27 - 19th Nov     | Yorkshire  | Bullpot Farm| Easegill     |
+|11 - 13th Dec     | Yorkshire  | NPC Cottage | Leck Fell    |
+|29th Dec - 5th Jan| Yorkshire  | NPC Cottage | All of them! |
 
 ##Fresher Info
 

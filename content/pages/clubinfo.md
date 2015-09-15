@@ -55,7 +55,7 @@ Much of our training is inside caves - for the first two trips of the year, the 
   probably the most famous cave entrance Gaping Gill a massive 110m shaft. The rugged
   beauty of the moors provides a stunning backdrop to an enormous choice of exciting potholes.
   A favourite with existing members for practising rope skills.
-  
+
  ### Derbyshire
  In the grim, mud clogged darkness of Derbyshire, no one can hear you scream.
 
@@ -73,55 +73,55 @@ Much of our training is inside caves - for the first two trips of the year, the 
 + [Do I have to be an undergraduate or a fresher?](#undergrad)
 
 
-### <a name="light"></a>How will I see where I'm going?
+### <a class="anchor" id="light"></a>How will I see where I'm going?
 The club has a lots of bright helmet mounted LED lights which last over twelve hours underground.
 
-### <a name="wet"></a>Are caves wet?
+### <a class="anchor" id="wet"></a>Are caves wet?
 Most caves are a bit damp and have static pools, many have streams
 and waterfalls, from which you'll get spray. Some caves you have to walk
 along rivers and climb cascades. For those inclined, you can do caves that
  require short sections of swimming + even a little free diving - but these
 trips aren't for everyone!
 
-### <a name="cold"></a>Will I get cold?
+### <a class="anchor" id="cold"></a>Will I get cold?
 Possibly - even though caves in the UK stay at a constant temperature all year round, if you get wet, or if your group moves slowly, you may begin to get cold despite the thermal layers provided.
 The most important thing is to keep moving, and if you feel cold,
 particularly in wet caves, tell the leader and they will head out.
 Beginners trips will usually be in 'dry' caves and not too long.
 
-### <a name="stuck"></a>Will I get stuck?
+### <a class="anchor" id="stuck"></a>Will I get stuck?
 No. Unless you feel inclined to go through tight caves, there are
 plenty we can show you that are explored by just walking, or crouching.
 
-### <a name="lost"></a>Will I get lost?
+### <a class="anchor" id="lost"></a>Will I get lost?
 No. Caves can be complicated, but it is hard to get lost. The more
 experienced club members lead the trips and know the caves. We also have maps and descriptions for caves if you are doing them for
 first time.
 
-### <a name="air"></a>Can I breathe that deep underground? 
+### <a class="anchor" id="air"></a>Can I breathe that deep underground?
 Usually, strong drafts ensure a fresh supply of air. We don't go to caves where the air can get stagnant or toxic.
 
-### <a name="time"></a> How long will I be underground?
+### <a class="anchor" id="time"></a> How long will I be underground?
 Anywhere between 1 to 5 hours normally. For those inclined, we
 occasionally run epic UK trips of above 11hrs. During the summer expedition,
 we make a camp deep within the cave, allowing for up to 3 day trips, with
 two 'nights' spent in the perfect darkness.
 
-### <a name="skills"></a>What skills will I need?
+### <a class="anchor" id="skills"></a>What skills will I need?
 Most importantly a sense of adventure! In horizontal caves you generally you do what works, regardless of how
 graceful or good it looks. When it comes to climbing a ladder or
 abseiling on a rope, we'll teach you all you need to know and let you
 practice in the trees + easy caves until you are more confident.
 
-### <a name="clothes"></a>What clothes will I need for caving?
+### <a class="anchor" id="clothes"></a>What clothes will I need for caving?
 The club has all the kit you will need to borrow for caving. You wear
 the 'furry' fleece base-layer right against your skin - even when wet, it
 provides thermal insulation. However, it is best to avoid cotton underwear, and to not wear a t shirt under your furry.
 
-### <a name="undergrad"></a>Do I have to be an undergraduate or a fresher?]
+### <a class="anchor" id="undergrad"></a>Do I have to be an undergraduate or a fresher?]
 No, the club is open to all members of the Imperial College Union, regardless of whether you're a final year PhD student or a first year undergrad. If you missed the first few trips of the year, don't worry - you can pick up all the skills you need very quickly. Just get in touch and we'll make sure you can come caving with us.
 
-### <a name="discover"></a>Will I discover new caves?
+### <a class="anchor" id="discover"></a>Will I discover new caves?
 If you join the Summer expedition to Slovenia you will more than
 likely tred where no-one has gone before. Perhaps more poignantly, when you
 discover passageway that reaches a dead-end; you may well be the last person
