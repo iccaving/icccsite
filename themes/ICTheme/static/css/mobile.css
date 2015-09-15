@@ -106,16 +106,16 @@ body {
 .article-img-right {
   padding: 10px 0px 0px 10px; }
 
-.article-content p, table {
+.article-content p, .article-content table {
   padding: 0px 0px; }
 
 .article-content input {
   margin: 10px 0; }
 
-.article-content ol, ul {
+.article-content ol, .article-content ul {
   padding: 0px 30px; }
 
-.article-content h1, h2, h3, h4, h5 {
+.article-content h1, .article-content h2, .article-content h3, .article-content h4, .article-content h5 {
   padding: 0px 0px; }
 
 /* Table Stylings */
@@ -126,9 +126,6 @@ body {
 table.sortable th, table.sortable td {
   min-width: 6em;
   text-align: center; }
-
-.content table {
-  width: 100%; }
 
 .article-content table {
   margin: 0; }

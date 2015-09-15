@@ -414,13 +414,17 @@ figcaption {
 .photo-button-wrapper {
   text-align: center; }
 
+.anchor {
+  position: absolute; }
+
 /*Table stylings*/
 table.sortable th, table.sortable td {
   min-width: 6em;
   text-align: center; }
 
 .content table {
-  width: 100%; }
+  width: calc(100% + 20px);
+  margin: -10px -10px 0 -10px; }
 
 .article-content table {
   margin: 0 50px; }
