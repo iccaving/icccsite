@@ -6,7 +6,7 @@ Type: page
 
 ## About Imperial College Caving Club
 
-{!"ICCC freshers'' trip 2013" center}("https://union.ic.ac.uk/rcc/caving/photo_archive/trips/2013-10-25%20-%20wales/RhysTyers-DSC_0051.JPG")
+{!"ICCC freshers' trip 2013" center}("https://union.ic.ac.uk/rcc/caving/photo_archive/trips/2013-10-25%20-%20wales/RhysTyers-DSC_0051.JPG")
 
 Imperial College Caving club is a relaxed, easy-going club dedicated to caving and canyoning in the UK and abroad. We go on regular trips during term time, with the emphasis on having fun away from the hassle of lectures and work. Founded in 1962, we are well equipped, experienced, and always eager to meet, teach and cave with new members. We have a yearly expedition to Slovenia to discover new cave passages, and we occasionally run expeditions elsewhere, such as to New Zealand and Morocco.
 
