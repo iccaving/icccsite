@@ -43,7 +43,7 @@ We provide all of the specialist equipment you need to enjoy your caving experie
 
 {!"Tree Training" right}("https://union.ic.ac.uk/rcc/caving/photo_archive/socials/2008%20-%20autumn%20tree%20train/tree%20train%20-%20early%20november%201.jpg")
 
-Much of our training is inside caves - for the first two trips of the year, the best training can be found inside the cave! We offer training in single rope technique (SRT) every Wednesday afternoon during first term. This is informally known as 'tree training' because we throw a rope over a tree branch in Princes Gardens and show you how to safely ascend and descend a rope. You can then practice these skills on the next weekend trip. Check our Facebook group and email list for further details on tree training.
+For the first two trips of the year, the best training we can offer can be found inside a cave! We also provide training in single rope technique (SRT) every Wednesday afternoon during first term. This is informally known as 'tree training' because we throw a rope over a tree branch in Princes Gardens and show you how to safely ascend and descend a rope. You can then practice these skills on the next weekend trip. Check our Facebook group and email list for further details on tree training.
 
 ## Locations
 
