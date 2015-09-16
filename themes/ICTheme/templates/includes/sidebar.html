@@ -11,21 +11,13 @@
     <div class="sidebar-item"><a href="{{ SITEURL }}/pages/calendar.html">Calendar</a></div>
     <div class="sidebar-item"><a href="{{ SITEURL }}/pages/clubinfo.html">Club Info</a></div>
     <div class="sidebar-item"><a href="{{ SITEURL }}/pages/library.html">Library</a></div>
-    <div class="sidebar-item"><a href="{{ SITEURL }}/pages/cont acts.html">Contacts</a></div>
+    <div class="sidebar-item"><a href="{{ SITEURL }}/pages/contacts.html">Contacts</a></div>
     <div class="sidebar-item"><a href="{{ SITEURL }}/pages/awards.html">Awards</a></div>
   </div>
 
   <hr class="hrsidebar">
 
   <div class="sidebar-content-box">
-    <div class="sidebar-item" data-idouter="exped-outer" data-idinner="exped-inner"><a href="#" onclick="return false;">Expeditions</a></div>
-    <div class="sidebar-outer collapsed" id="exped-outer">
-      <div class="sidebar-inner" id="exped-inner">
-        <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/newzealand/">New Zealand 2015</a></div>
-      </div>
-    </div>
-
-
 
     <div class="sidebar-item" data-idouter="trips-outer" data-idinner="trips-inner"><a href="#" onclick="return false;">Trips and Posts</a></div>
     <div class="sidebar-outer collapsed" id="trips-outer">
@@ -55,6 +47,13 @@
       <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} {{ article.date.strftime('%Y') }}</a></div>
       {% endif %} {% endfor %}
     </div>
+  </div>
+</div>
+
+<div class="sidebar-item" data-idouter="exped-outer" data-idinner="exped-inner"><a href="#" onclick="return false;">Expeditions</a></div>
+<div class="sidebar-outer collapsed" id="exped-outer">
+  <div class="sidebar-inner" id="exped-inner">
+    <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/newzealand/">New Zealand 2015</a></div>
   </div>
 </div>
 
