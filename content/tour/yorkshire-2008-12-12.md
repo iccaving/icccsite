@@ -12,7 +12,7 @@ Cavepeeps: DATE=2008-12-12; CAVE=Large Pot; PEOPLE=Andy Jurd, Alex Herriott, Jam
            DATE=2008-12-13; CAVE=Bar Pot; PEOPLE=James Kirkpatrick, Tim Osborne;
            DATE=2008-12-14; CAVE=Bar Pot; PEOPLE=James Kirkpatrick, Tim Osborne;
            DATE=2008-12-15; CAVE=Aquamole Pot; PEOPLE=James Kirkpatrick, Tim Osborne, Alex Herriott;
-           DATE=2088-12-16; CAVE=Lancaster Hole; PEOPLE=Jarvist Frost, James Kirkpatrick, Jana Carga;
+           DATE=2008-12-16; CAVE=Lancaster Hole; PEOPLE=Jarvist Frost, James Kirkpatrick, Jana Carga;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2008-winter-tour.php
 Status:
 
