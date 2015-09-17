@@ -2,17 +2,48 @@
 {% block head %}
 <script src="{{ SITEURL }}/theme/js/sorttable.js"></script>
 <script>
-  $(function() {
-    $('#search').on('input propertychange paste', function() {
-      $('.caver').each(function() {
-        if (!($(this).text().toLowerCase().indexOf($('#search').val().toLowerCase()) >= 0)) {
-          $(this).css('display', 'none');
-        } else {
-          $(this).removeAttr('style');
+//Script that gets url parameters
+var getUrlParameter = function getUrlParameter(sParam) {
+    var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+        sURLVariables = sPageURL.split('&'),
+        sParameterName,
+        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0] === sParam) {
+            return sParameterName[1] === undefined ? true : sParameterName[1];
         }
-      });
-    });
+    }
+};
+// Script that does a very simple search of the table based on the value in
+// the input box
+function search() {
+  $('.caver').each(function() {
+    if (!($(this).text().toLowerCase().indexOf($('#search').val().toLowerCase()) >= 0)) {
+      $(this).css('display', 'none');
+    } else {
+      $(this).removeAttr('style');
+    }
   });
+}
+$(function() {
+  $('#search').on('input propertychange paste', function() {
+    search();
+  });
+});
+$(function() {
+  $('.searchme').click(function() {
+      $('#search').val($(this).text());
+      search();
+    return false;
+  });
+});
+$(window).load(function() {
+  $('#search').val(getUrlParameter('search'));
+  search();
+});
 </script>
 {% endblock %}
 {% block banner %}Cavers{% endblock banner %}
@@ -20,7 +51,7 @@
 <div class="container">
   <div class="article-content">
       <h3>People and the trips they've been on:</h3>
-      <input type="text" id="search">
+      <input type="text" id="search" placeholder="Search...">
       <div class="table-container">
       <table class="sortable">
         <tr>

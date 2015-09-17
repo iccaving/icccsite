@@ -2,6 +2,21 @@
 {% block head %}
 <script src="{{ SITEURL }}/theme/js/sorttable.js"></script>
 <script>
+  //Script that gets url parameters
+  var getUrlParameter = function getUrlParameter(sParam) {
+      var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+          sURLVariables = sPageURL.split('&'),
+          sParameterName,
+          i;
+
+      for (i = 0; i < sURLVariables.length; i++) {
+          sParameterName = sURLVariables[i].split('=');
+
+          if (sParameterName[0] === sParam) {
+              return sParameterName[1] === undefined ? true : sParameterName[1];
+          }
+      }
+  };
   // Script that does a very simple search of the table based on the value in
   // the input box
   function search() {
@@ -20,13 +35,15 @@
   });
   $(function() {
     $('.searchme').click(function() {
-        console.log($('#search').value)
         $('#search').val($(this).text());
         search();
       return false;
     });
   });
-
+  $(window).load(function() {
+    $('#search').val(getUrlParameter('search'));
+    search();
+  });
 </script>
 {% endblock %}
 {% block banner %}Caves{% endblock banner %}
@@ -34,7 +51,7 @@
 <div class="container">
   <div class="article-content">
       <h3>Caves we've been to and the reports:</h3>
-      <input type="text" id="search">
+      <input type="text" id="search" placeholder="Search...">
       <div class="table-container">
       <table class="sortable">
         <tr>
