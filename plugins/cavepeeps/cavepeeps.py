@@ -290,6 +290,7 @@ def generatepersonpage(generator, writer):
     row = namedtuple('row', 'name number recentdate meta')
     people = [row(x, len(cavepeep_person[x][0]), cavepeep_person[x][1], caverbios[x][
         1] if x in caverbios.keys() else None) for x in cavepeep_person.keys()]
+    people = sorted(people, key=lambda tup: tup[2], reverse=True)
     writer.write_file(filename, template, generator.context, people=people)
     # ([ (cave, article, date) ], maxdate)
 
