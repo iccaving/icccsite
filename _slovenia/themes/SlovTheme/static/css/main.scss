@@ -7,14 +7,14 @@ $link-hover: #D46A6A; /*Link hover*/
 $highlight: #AA3939; /*Light Red (Highlighting,)*/
 $links: #A6373F;
 $visited-links: #801515; /*Darker Red (Visited Links)*/
-$dark-background: #2D2D2D; /*Dark grey (Background Colour for Banner/Sidebar/Headers H1)*/
-$header2: #AB3C3C; /* (H2)*/
-$light-background: #AB4444; /*(Highlight colour for Banner/Sidebar/Headers H3/text)*/
+$dark-background: #106040; /*Dark grey (Background Colour for Banner/Sidebar/Headers H1)*/
+$header2: #4AB959; /* (H2)*/
+$light-background: #4AB959; /*(Highlight colour for Banner/Sidebar/Headers H3/text)*/
 $body-background: #999999; /*(Body Background)*/
 $offwhite: #E8E8E8; /*Off White (Backgrounds/ Large Text on dark backgrounds)*/
 $text: #000000; /*Normal text colour*/
 $back-image: "../../assets/bg.png";
-$right-image: "../../assets/jack.png";
+$right-image: "";
 
 @if $colourscheme == light {
 	$link-hover: #D46A6A; /* Pink (Link hover)*/
@@ -39,11 +39,6 @@ html {
 body {
 	background-color: $body-background;
 	color: $text;
-	/*background-image: url(../../assets/nz.svg);
-	background-size: 700px;
-	background-repeat: no-repeat;
-	background-position: right 50px;
-	background-attachment: fixed;*/
 	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 400;
 	font-size: 16px;
 	margin: 0;
@@ -276,7 +271,7 @@ pre {
 
 .sidebar-item a:hover, .sidebar-sub-item a:hover, .sidebar-sub-sub-item a:hover, .sidebar-item:hover, .sidebar-sub-item:hover, .sidebar-sub-sub-item:hover {
 	text-decoration: none;
-	background-color: #A6373F;
+	background-color: #4AB959;
 }
 
 .sidebar-sub-item a:hover {

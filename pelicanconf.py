@@ -43,4 +43,4 @@ FAVICON = "assets/iclogo.png"
 
 DISQUS_SITENAME = u'iccc'
 
-SUBSITES = ["_newzealand"]
+SUBSITES = ["_newzealand", "_slovenia"]

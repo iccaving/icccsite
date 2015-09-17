@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
+{% block head %}<BASE href="{{ SITEURL }}/{{ article.url }}">{% endblock %}
+
+{% block banner %}{{ article.title }} <div class="banner-date">{{ article.date.strftime('%d-%m-%Y') }}</div> {% endblock banner %}
+
+
+{% block content %}
+
+<div class="container">
+  <div class="article-content">
+      {% if article.allpeople is defined %}
+      <h5>
+        {% for person in article.allpeople %}{% if loop.index != 1 %}, {% endif %}<a href="{{ SITEURL }}/cavers/{{ person.fullname.replace(" ", "%20") }}.html">{{ person.fullname }}</a>{% endfor %}
+      </h5>
+      {% endif %}
+
+      {{ article.content }}
+
+      <!--{% include 'includes/disqus.html' %}-->
+    </div>
+</div>
+
+{% if article.data is defined %}
+<script style="display: none;" id="metadata" type="application/json">
+  {
+  {% for key in article.data %}
+  {% if loop.index > 1 %},{% endif %}
+  """{{ key }}""":"""{{ article.data[key] }}"""
+  {% endfor %}
+  }
+</script>
+{% endif %}
+{% endblock %}
