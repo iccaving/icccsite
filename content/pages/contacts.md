@@ -4,8 +4,8 @@ Location: page
 Type: page
 
 Preferably get in contact by email, directed to:-&nbsp;&nbsp;<img src="iccc-email.gif">
-<br><br>
-<p>
+<br>
+Our address is:
 <address>
 Imperial College Caving Club <br>
 Beit Quad <br>
@@ -13,19 +13,42 @@ Prince Consort Road <br>
 South Kensington <br>
 London SW7 2BB
 </address>
-fax. (+44) 20 7594 8065
-</p>
 
-<h2>Committee 2014-2015</h2>
+##Committee 2015-2016
+<div style="text-align: center;"><span>
+<a href="/rcc/caving/photo_archive/mugshots/Jack%20Hare.html">
+<img src="/rcc/caving/photo_archive/mugshots/Jack%20Hare--thumb.jpg">
+</a>
+<a href="/rcc/caving/photo_archive/mugshots/Ben%20Honan.html">
+<img src="/rcc/caving/photo_archive/mugshots/Ben%20Honan--thumb.jpg">
+</a>
+<a href="/rcc/caving/photo_archive/mugshots/James%20O'Hanlon.html">
+<img src="/rcc/caving/photo_archive/mugshots/James%20O'Hanlon--thumb.jpg">
+</a>
+</span></div>
+<dl>
+<dt><b>President:</b></dt><dd> Jack Hare</dd>
+<dt><b>Treasurer:</b></dt><dd> Ben Honan</dd>
+<dt><b>Secretary:</b></dt><dd> James O'Hanlon</dd>
+<br>
+<dt><b>Tackle Master:</b></dt><dd> Peter Ganson</dd>
+<dt><b>Tours Secretary:</b></dt><dd> Cecilia Kan</dd>
+<dt><b>Medical Officer:</b></dt><dd> Pavel Kroupa</dd>
+<dt><b>Social Secretary:</b></dt><dd> David Kirkpatrick</dd>
+</dl>
+
+##Committee 2014-2015
+<div style="text-align: center;"><span>
 <a href="/rcc/caving/photo_archive/mugshots/Tanguy%20Racine.html">
-<img align=left src="/rcc/caving/photo_archive/mugshots/Tanguy%20Racine--thumb.jpg">
+<img src="/rcc/caving/photo_archive/mugshots/Tanguy%20Racine--thumb.jpg">
 </a>
 <a href="/rcc/caving/photo_archive/mugshots/Oliver%20Myerscough.html">
-<img align=left src="/rcc/caving/photo_archive/mugshots/Oliver%20Myerscough--thumb.jpg">
+<img src="/rcc/caving/photo_archive/mugshots/Oliver%20Myerscough--thumb.jpg">
 </a>
 <a href="/rcc/caving/photo_archive/mugshots/Elijah%20Choi.html">
-<img align=left src="/rcc/caving/photo_archive/mugshots/Elijah%20Choi--thumb.jpg">
+<img src="/rcc/caving/photo_archive/mugshots/Elijah%20Choi--thumb.jpg">
 </a>
+</span></div>
 <p>
 <b>President:</b> Tanguy Racine<br>
 <b>Treasurer:</b> Oliver Myerscough<br>
@@ -40,15 +63,17 @@ fax. (+44) 20 7594 8065
 <br>
 
 <h2>Committee 2013-2014</h2>
+<div style="text-align: center;"><span>
 <a href="/caving/photo_archive/mugshots/Rhys%20Tyers.html">
-<img align=left src="/caving/photo_archive/mugshots/Rhys%20Tyers--thumb.jpg">
+<img src="/caving/photo_archive/mugshots/Rhys%20Tyers--thumb.jpg">
 </a>
 <a href="/caving/photo_archive/mugshots/Oliver%20Myerscough.html">
-<img align=left src="/caving/photo_archive/mugshots/Oliver%20Myerscough--thumb.jpg">
+<img src="/caving/photo_archive/mugshots/Oliver%20Myerscough--thumb.jpg">
 </a>
 <a href="/caving/photo_archive/mugshots/Sam%20Page.html">
-<img align=left src="/caving/photo_archive/mugshots/Sam%20Page--thumb.jpg">
+<img src="/caving/photo_archive/mugshots/Sam%20Page--thumb.jpg">
 </a>
+</span></div>
 
 <p>
 <b>President:</b> Rhys Tyers<br>
@@ -63,15 +88,17 @@ fax. (+44) 20 7594 8065
 <br>
 
 <h2>Committee 2012-2013</h2>
+<div style="text-align: center;"><span>
 <a href="/caving/photo_archive/mugshots/Rhys%20Tyers.html">
-<img align=left src="/caving/photo_archive/mugshots/Rhys%20Tyers--thumb.jpg">
+<img  src="/caving/photo_archive/mugshots/Rhys%20Tyers--thumb.jpg">
 </a>
 <a href="/caving/photo_archive/mugshots/Oliver%20Myerscough.html">
-<img align=left src="/caving/photo_archive/mugshots/Oliver%20Myerscough--thumb.jpg">
+<img  src="/caving/photo_archive/mugshots/Oliver%20Myerscough--thumb.jpg">
 </a>
 <a href="/caving/photo_archive/mugshots/Sam%20Page.html">
-<img align=left src="/caving/photo_archive/mugshots/Sam%20Page--thumb.jpg">
+<img  src="/caving/photo_archive/mugshots/Sam%20Page--thumb.jpg">
 </a>
+</span></div>
 
 <dl>
 <dt><strong>President:</strong> </dt><dd><i>Rhys Tyers</i><br>
@@ -86,15 +113,17 @@ Tackle Master - Clare Tan, <br>
 </dt></dl>
 
 <h2>Committee 2011-2012</h2>
+<div style="text-align: center;"><span>
 <a href="/caving/photo_archive/mugshots/Clare%20Tan.html">
-<img align=left src="/caving/photo_archive/mugshots/Clare%20Tan--thumb.jpg">
+<img  src="/caving/photo_archive/mugshots/Clare%20Tan--thumb.jpg">
 </a>
 <a href="/caving/photo_archive/mugshots/Thomas%20MCW.html">
-<img align=left src="/caving/photo_archive/mugshots/Thomas%20MCW--thumb.jpg">
+<img  src="/caving/photo_archive/mugshots/Thomas%20MCW--thumb.jpg">
 </a>
 <a href="/caving/photo_archive/mugshots/Kate%20Smith.html">
-<img align=left src="/caving/photo_archive/mugshots/Kate%20Smith--thumb.jpg">
+<img  src="/caving/photo_archive/mugshots/Kate%20Smith--thumb.jpg">
 </a>
+</span></div>
 <dl>
 <dt><strong>President:</strong> </dt><dd><i>Clare Tan</i><br>
 <dt><strong>Treasurer:</strong></dt> <dd><i>Thomas McCarthy-Ward</i><br>
@@ -109,17 +138,17 @@ Entertaining Officers - Jan and Jana <br>
 </dt></dl>
 
 <h2>Committee 2010-2011</h2>
-
+<div style="text-align: center;"><span>
 <a href="/caving/photo_archive/mugshots/Clare%20Tan.html">
-<img align=left src="/caving/photo_archive/mugshots/Clare%20Tan--thumb.jpg">
+<img  src="/caving/photo_archive/mugshots/Clare%20Tan--thumb.jpg">
 </a>
 <a href="/caving/photo_archive/mugshots/William%20French.html">
-<img align=left src="/caving/photo_archive/mugshots/William%20French--thumb.jpg">
+<img  src="/caving/photo_archive/mugshots/William%20French--thumb.jpg">
 </a>
 <a href="/caving/photo_archive/mugshots/Kate%20Smith.html">
-<img align=left src="/caving/photo_archive/mugshots/Kate%20Smith--thumb.jpg">
+<img  src="/caving/photo_archive/mugshots/Kate%20Smith--thumb.jpg">
 </a>
-
+</span></div>
 <dl>
 <dt><strong>President:</strong> </dt><dd><i>Clare Tan</i><br>
 <dt><strong>Treasurer:</strong></dt> <dd><i>William French</i><br>
@@ -135,7 +164,7 @@ Tea Officer - Steven Pool
 </dt></dl>
 
 <h2>Committee 2009-2010</h2>
-
+<div style="text-align: center;"><span>
 <a href="/caving/photo_archive/mugshots/Paul%20Hutton.html">
 <img  src="/caving/photo_archive/mugshots/Paul%20Hutton--thumb.jpg">
 </a>
@@ -145,6 +174,7 @@ Tea Officer - Steven Pool
 <a href="/caving/photo_archive/mugshots/james%20kirkpatrick.html">
 <img src="/caving/photo_archive/mugshots/james%20kirkpatrick--thumb.jpg">
 </a>
+</div>
 
 <dl>
 <dt><strong>President:</strong> </dt><dd><i>Alex Herriott</i><br>
@@ -157,6 +187,7 @@ Tea Officer - Steven Pool
 </dl>
 
 <h2>Committee 2008-2009</h2>
+<div style="text-align: center;"><span>
 <a href="/caving/photo_archive/mugshots/Paul%20Hutton.html">
 <img  src="/caving/photo_archive/mugshots/Paul%20Hutton--thumb.jpg">
 </a>
@@ -175,6 +206,7 @@ Tea Officer - Steven Pool
 <a href="/caving/photo_archive/mugshots/jamie%20perrelet.html">
 <img src="/caving/photo_archive/mugshots/jamie%20perrelet--thumb.jpg">
 </a>
+</div></span>
 
 <dl>
 <dt><strong>President:</strong> </dt><dd><i>Paul Hutton</i><br>
@@ -312,7 +344,7 @@ Tea Officer - Steven Pool
 
 <h2>List of Presidents from Union Bar Tankard:</h2>
 
-<tl>
+<dl>
 <dt>1962&mdash;1963</dt><dd>"J. Lennon"<br>
 <dt>1963&mdash;1964</dt><dd>"P. Gregory"<br>
 <dt>1964&mdash;1965</dt><dd>"A. Waltham"<br>
@@ -357,4 +389,4 @@ Tea Officer - Steven Pool
 <dt>2003&mdash;2004</dt><dd>"L. Leggate"<br>
 <dt>2004&mdash;2005</dt><dd>"J. Frost"<br>
 <dt>2005&mdash;2006</dt><dd>"J. M. Frost"<br>
-</tl>
+</dl>
