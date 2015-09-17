@@ -6,7 +6,7 @@ Type: page
 
 ## About Imperial College Caving Club
 
-{!"ICCC freshers'' trip 2013" center}("https://union.ic.ac.uk/rcc/caving/photo_archive/trips/2013-10-25%20-%20wales/RhysTyers-DSC_0051.JPG")
+{!"ICCC freshers' trip 2013" center}("https://union.ic.ac.uk/rcc/caving/photo_archive/trips/2013-10-25%20-%20wales/RhysTyers-DSC_0051.JPG")
 
 Imperial College Caving club is a relaxed, easy-going club dedicated to caving and canyoning in the UK and abroad. We go on regular trips during term time, with the emphasis on having fun away from the hassle of lectures and work. Founded in 1962, we are well equipped, experienced, and always eager to meet, teach and cave with new members. We have a yearly expedition to Slovenia to discover new cave passages, and we occasionally run expeditions elsewhere, such as to New Zealand and Morocco.
 
@@ -43,7 +43,7 @@ We provide all of the specialist equipment you need to enjoy your caving experie
 
 {!"Tree Training" right}("https://union.ic.ac.uk/rcc/caving/photo_archive/socials/2008%20-%20autumn%20tree%20train/tree%20train%20-%20early%20november%201.jpg")
 
-Much of our training is inside caves - for the first two trips of the year, the best training can be found inside the cave! We offer training in single rope technique (SRT) every Wednesday afternoon during first term. This is informally known as 'tree training' because we throw a rope over a tree branch in Princes Gardens and show you how to safely ascend and descend a rope. You can then practice these skills on the next weekend trip. Check our Facebook group and email list for further details on tree training.
+For the first two trips of the year, the best training we can offer can be found inside a cave! We also provide training in single rope technique (SRT) every Wednesday afternoon during first term. This is informally known as 'tree training' because we throw a rope over a tree branch in Princes Gardens and show you how to safely ascend and descend a rope. You can then practice these skills on the next weekend trip. Check our Facebook group and email list for further details on tree training.
 
 ## Locations
 
