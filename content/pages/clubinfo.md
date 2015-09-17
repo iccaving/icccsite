@@ -68,6 +68,7 @@ Much of our training is inside caves - for the first two trips of the year, the 
 
 ## Frequently Asked Questions
 
++ [Where is caving stores?](#stores)
 + [How will I see where I'm going?](#light)
 + [Will I get wet?](#wet)
 + [Will I get cold?](#cold)
@@ -79,10 +80,11 @@ Much of our training is inside caves - for the first two trips of the year, the 
 + [What clothes will I need for caving?](#clothes)
 + [Do I have to be an undergraduate or a fresher?](#undergrad)
 
-
+### <a class="anchor" id="stores"></a>Where is caving stores?
+[Follow the directions on this page.]({filename}/pages/stores.md)
 
 ### <a class="anchor" id="light"></a>How will I see where I'm going?
-The club has a lots of bright helmet mounted LED lights which provide light for a long time. 
+The club has a lots of bright helmet mounted LED lights which provide light for a long time.
 
 ### <a class="anchor" id="wet"></a>Are caves wet?
 Most caves are a bit damp and have static pools, many have streams
