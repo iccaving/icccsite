@@ -16,7 +16,7 @@ London SW7 2BB
 
 ##Committee 2015-2016
 <div style="text-align: center;"><span>
-<a href="/rcc/caving/photo_archive/mugshots/Jack%20Hare.html">
+<a href="/rcc/caving/photo_archive/mugshots/James%20O'Hanlon.html">
 <img src="/rcc/caving/photo_archive/mugshots/Jack%20Hare--thumb.jpg">
 </a>
 <a href="/rcc/caving/photo_archive/mugshots/Ben%20Honan.html">
