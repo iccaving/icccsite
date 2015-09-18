@@ -3,7 +3,7 @@ Date: 2010-12-17
 Location: yorkshire
 Summary: Ended up a bit of an epic -- everyone had the latest virus, then a 12hr drive to Yorkshire (8PM to 8AM) due to foolish UK drivers blocking a snowy motorway. Temperature continued to drop, but no snow so we could get the 'bus up into the hills. Minus 10-15 degree changes quick got rather tiring, but we managed to crack off Grange Rigg / Christmas Pot, Lost Johns' Dome+Monastry (excellent route!) & a classic Easegill romp.
 Type: tour
-Photoarchive:
+Photoarchive: photo_archive/tours/2010%20-%20yorkshire%20winter
 Mainimg: yorkshire-2010-winter-tour.jpg
 Thumbl:
 Thumbr:
