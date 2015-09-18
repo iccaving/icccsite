@@ -10,7 +10,7 @@ Thumbr: Jarvist%20Frost%20-%20Powershot%20G5%20-%202010-10-31-14.57.12%20-%20CRW
 Authors: Clare Tan, James Kirkpatrick, Jarvist Frost
 Cavepeeps: DATE=2010-10-30;CAVE=Ireby Fell Cavern;PEOPLE=James Kirkpatrick, Niko Kral, Eric Seidman, Richard Evans, Jonny Hardman;
            DATE=2010-10-30;CAVE=Lost Johns' Cave; PEOPLE=Alex Herriott, Leo Carlin, Zoja Nagurnaja, Mehdi Ben Slama, Lim Kangyu, Jarvist Frost, Clare Tan, Jean Maillard, Clement Tremblay, Ari Whitby, Andrzej Dziadkowiec;
-           DATE=2010-10-31;CAVE=Yordas Cave;PEOPLE=Jarvist Frost, Jean Maillard, Ari Whitby, Clement Tremblay, Lim Kangyu;
+           DATE=2010-10-31;CAVE=Yordas Pot;PEOPLE=Jarvist Frost, Jean Maillard, Ari Whitby, Clement Tremblay, Lim Kangyu;
            DATE=2010-10-31;CAVE=Bull Pot;PEOPLE=James Kirkpatrick, Clare Tan, Eric Seidman, Mehdi Ben Slama, Andrzej Dziadkowiec;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2010-10-29.php
 Status:

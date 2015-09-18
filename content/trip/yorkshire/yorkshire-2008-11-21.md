@@ -9,7 +9,7 @@ Thumbl: jarvist%20frost%20-%20canon%20g5%20vivitar%20283%20-%20crw_5060%20valhal
 Thumbr: jarvist%20frost%20-%20canon%20g5%20vivitar%20283%20-%20crw_5094%20ben%20ascending%20final%20rotated--thumb.jpg
 Authors: James Kirkpatrick, Jarvist Frost
 Cavepeeps: DATE=2008-11-22; CAVE=Lost Johns' Cave; PEOPLE=James Kirkpatrick, Jana Carga, Paul Hutton, Ben Banfield, Alex Herriott, William French, Dave Wilson;
-           DATE=2008-11-23; CAVE=Yordas Cave; PEOPLE=James Kirkpatrick, William French, Paul Hutton;
+           DATE=2008-11-23; CAVE=Yordas Pot; PEOPLE=James Kirkpatrick, William French, Paul Hutton;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2008-11-21.php
 Status:
 

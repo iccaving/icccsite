@@ -10,7 +10,7 @@ Thumbr: James_BergP8031000--thumb.jpg
 Authors: Jarvist Frost, James Kirkpatrick
 Cavepeeps: DATE=2009-10-03;CAVE=Rowten Pot;PEOPLE=James Kirkpatrick, Tim Osborne, Dan Greenwald, Nathan Daniels;
            DATE=2009-10-03;CAVE=Valley Entrance;PEOPLE=Dan Greenwald, Nathan Daniels, James Berg, Leo Carlin;
-           DATE=2009-10-03;CAVE=Yordas Cave;PEOPLE=Jana Carga, Aleeza Janmohamed, Magdaleena Gocek;
+           DATE=2009-10-03;CAVE=Yordas Pot;PEOPLE=Jana Carga, Aleeza Janmohamed, Magdaleena Gocek;
            DATE=2009-10-04;CAVE=Pool Sink;PEOPLE=James Kirkpatrick, William French, Nathan Daniels, James Berg;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2009-10-02.php
 Status:

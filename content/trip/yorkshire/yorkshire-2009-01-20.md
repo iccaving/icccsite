@@ -11,7 +11,7 @@ Authors: Jarvist Frost, Sandeep Mavadia, James Kirkpatrick
 Cavepeeps: DATE=2009-01-21; CAVE=Disappointment Pot; PEOPLE=Ludo Lewicki-Garreau, Jarvist Frost;
            DATE=2009-01-21; CAVE=Christmas Pot; PEOPLE=Paul Hutton, Emily Chow, Sandeep Mavadia, Christoph Aymanns;
            DATE=2009-01-21; CAVE=Grange Rigg Pot; PEOPLE=James Kirkpatrick, William French;
-           DATE=2009-01-22; CAVE=Yordas Cave; PEOPLE=Jarvist Frost, Ludo Lewicki-Garreau Christoph Aymanns;
+           DATE=2009-01-22; CAVE=Yordas Pot; PEOPLE=Jarvist Frost, Ludo Lewicki-Garreau Christoph Aymanns;
            DATE=2009-01-22; CAVE=Heron Pot; PEOPLE=Paul Hutton, Sandeep Mavadia, Emily Chow, Tim Osborne, Nick;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2009-01-20.php
 Status:
