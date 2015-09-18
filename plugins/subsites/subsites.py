@@ -62,6 +62,7 @@ def subsites(pelican_obj):
         # Ensure that the subsite knows its url
         newsettings["SITEURL"] = basesite + \
             "/" + newsettings["SUBSITE_PATH"]
+        newsettings["BASEURL"] = basesite
         # Pelican magic settings checker
         settings = configure_settings(newsettings)
         # This is a bit hacky. It removes the plugin to signal mapping. For
