@@ -1,6 +1,7 @@
 Title: Survey Repository
 Authors:
 Location: page
+Type: page
 
 <h2><a href="/caving/FILES/expeditions/slovenia/MigSurveyData/">Tolminski Migovec Data</a></h2>
 
@@ -29,13 +30,17 @@ For mostly outdated cave registration data, please see <a class="menu" href="/ca
 
 <h2>Drawn Surveys</h2>
 
-<h3>drawn/1970_old slovenian surveys/</h3>
 
+<h3>drawn/1970_old slovenian surveys/</h3>
+<p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1970_old slovenian surveys/M16.tif">drawn/1970_old slovenian surveys/M16.tif</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1970_old slovenian surveys/M2.tif">drawn/1970_old slovenian surveys/M2.tif</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1970_old slovenian surveys/slide10.tif">drawn/1970_old slovenian surveys/slide10.tif</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1970_old slovenian surveys/slide9.tif">drawn/1970_old slovenian surveys/slide9.tif</a><br>
+</p>
+
 <h3>drawn/1995/</h3>
+<p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1995/B9 Jackies Blower.BAK">drawn/1995/B9 Jackies Blower.BAK</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1995/B9 Jackies Blower.cdr">drawn/1995/B9 Jackies Blower.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1995/EUROPE.CDR">drawn/1995/EUROPE.CDR</a><br>
@@ -62,8 +67,10 @@ For mostly outdated cave registration data, please see <a class="menu" href="/ca
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1995/veensurv.BAK">drawn/1995/veensurv.BAK</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1995/veensurv.cdr">drawn/1995/veensurv.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1995/venus.BAK">drawn/1995/venus.BAK</a><br>
-<a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1995/venus.cdr">drawn/1995/venus.cdr</a><br>
+<a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1995/venus.cdr">drawn/1995/venus.cdr</a><br>'
+</p>
 <h3>drawn/1996-scans/</h3>
+<p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1996-scans/M16ENT.TIF">drawn/1996-scans/M16ENT.TIF</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1996-scans/M16ENT2.TIF">drawn/1996-scans/M16ENT2.TIF</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1996-scans/M16entgry.tif">drawn/1996-scans/M16entgry.tif</a><br>
@@ -85,26 +92,36 @@ For mostly outdated cave registration data, please see <a class="menu" href="/ca
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1996-scans/slide4.TIF">drawn/1996-scans/slide4.TIF</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1996-scans/slide9.tif">drawn/1996-scans/slide9.tif</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1996-scans/tolmin.CPT">drawn/1996-scans/tolmin.CPT</a><br>
+</p>
 <h3>drawn/1997/</h3>
+<p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1997/Final97slov_100dpi.TIF">drawn/1997/Final97slov_100dpi.TIF</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1997/Final97slov_100dpi.cpt">drawn/1997/Final97slov_100dpi.cpt</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1997/Sistem Migovec 1997.cdr">drawn/1997/Sistem Migovec 1997.cdr</a><br>
+</p>
 <h3>drawn/1998-scans/</h3>
+<p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1998-scans/Plan/Whole-300dpi1bit2.zip">drawn/1998-scans/Plan/Whole-300dpi1bit2.zip</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1998-scans/elevation/whole-300dpi1bitt.zip">drawn/1998-scans/elevation/whole-300dpi1bitt.zip</a><br>
+</p>
 <h3>drawn/1998/</h3>
+<p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1998/Backup_of_FullSurvey6.cdr">drawn/1998/Backup_of_FullSurvey6.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1998/FullSurvey6.cdr">drawn/1998/FullSurvey6.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1998/FullSurvey6.zip">drawn/1998/FullSurvey6.zip</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1998/Whole-300dpi1bit.zip">drawn/1998/Whole-300dpi1bit.zip</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1998/corel6 for jan/englishsurv.cdr">drawn/1998/corel6 for jan/englishsurv.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1998/corel6 for jan/slovsurvey.cdr">drawn/1998/corel6 for jan/slovsurvey.cdr</a><br>
+</p>
 <h3>drawn/1999/</h3>
+<p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1999/Backup_of_FullSurvey7.cdr">drawn/1999/Backup_of_FullSurvey7.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1999/Backup_of_FullSurvey8.cdr">drawn/1999/Backup_of_FullSurvey8.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1999/FullSurvey7.cdr">drawn/1999/FullSurvey7.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/1999/FullSurvey8.cdr">drawn/1999/FullSurvey8.cdr</a><br>
+</p>
 <h3>drawn/2000/</h3>
+<p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2000/Migovec2000.pdf">drawn/2000/Migovec2000.pdf</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2000/Gardeners World/Backup_of_GWorldPlan2000.cdr">drawn/2000/Gardeners World/Backup_of_GWorldPlan2000.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2000/Gardeners World/Backup_of_Gworld.cdr">drawn/2000/Gardeners World/Backup_of_Gworld.cdr</a><br>
@@ -141,20 +158,30 @@ For mostly outdated cave registration data, please see <a class="menu" href="/ca
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2000/Sysmig/rocknrollElevScale500.cpt">drawn/2000/Sysmig/rocknrollElevScale500.cpt</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2000/Sysmig/rocknrollPlanScale500.CMX">drawn/2000/Sysmig/rocknrollPlanScale500.CMX</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2000/Sysmig/rocknrollPlanScale500.CPT">drawn/2000/Sysmig/rocknrollPlanScale500.CPT</a><br>
+</p>
 <h3>drawn/2001/</h3>
+<p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2001/Gworld2001.cdr">drawn/2001/Gworld2001.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2001/RoystonVasey2001.cdr">drawn/2001/RoystonVasey2001.cdr</a><br>
+</p>
 <h3>drawn/2003/</h3>
+<p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2003/GW2003.cdr">drawn/2003/GW2003.cdr</a><br>
+</p>
 <h3>drawn/2004/</h3>
+<p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2004/Backup_of_GW2004_20041030.cdr">drawn/2004/Backup_of_GW2004_20041030.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2004/GW2004 slov final.pdf">drawn/2004/GW2004 slov final.pdf</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2004/GW2004_20041030.cdr">drawn/2004/GW2004_20041030.cdr</a><br>
+</p>
 <h3>drawn/2005/</h3>
+<p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2005/GW2005.pdf">drawn/2005/GW2005.pdf</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2005/GW2005_20051220cdr.cdr">drawn/2005/GW2005_20051220cdr.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2005/vrtnarija_05.jpg" >drawn/2005/vrtnarija_05.jpg</a><br>
+</p>
 <h3>drawn/2007/</h3>
+<p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2007/2007_survey_data.tgz">drawn/2007/2007_survey_data.tgz</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2007/GW2007.cdr">drawn/2007/GW2007.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2007/gw_2007_en.pdf">drawn/2007/gw_2007_en.pdf</a><br>
@@ -185,16 +212,20 @@ For mostly outdated cave registration data, please see <a class="menu" href="/ca
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2007/2007-exports/sysmig-plan.dxf">drawn/2007/2007-exports/sysmig-plan.dxf</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2007/2007-exports/sysmig-plan.eps">drawn/2007/2007-exports/sysmig-plan.eps</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2007/2007-exports/sysmig-plan.svg" >drawn/2007/2007-exports/sysmig-plan.svg</a><br>
-<h3>drawn/2008/</h3>
+</p>
+<h3>drawn/2008/</h3><p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2008/gw_m2_2008.pdf">drawn/2008/gw_m2_2008.pdf</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2008/gw_m2_2008.svg" >drawn/2008/gw_m2_2008.svg</a><br>
+</p>
 <h3>drawn/2009/</h3>
+<p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2009/gw_2010-01-30.svg" >drawn/2009/gw_2010-01-30.svg</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2009/gw_2010-01-30_printed.pdf">drawn/2009/gw_2010-01-30_printed.pdf</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2009/gw_2010-01-31.png" >drawn/2009/gw_2010-01-31.png</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2009/gw_2010-01-31.svg" >drawn/2009/gw_2010-01-31.svg</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/2009/gw_2010-01-31_leads.pdf">drawn/2009/gw_2010-01-31_leads.pdf</a><br>
-<h3>drawn/logos/</h3>
+</p>
+<h3>drawn/logos/</h3><p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/logos/Baby.cdr">drawn/logos/Baby.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/logos/Backup_of_tonx's modified logo.cdr">drawn/logos/Backup_of_tonx's modified logo.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/logos/Bat.cdr">drawn/logos/Bat.cdr</a><br>
@@ -213,12 +244,15 @@ For mostly outdated cave registration data, please see <a class="menu" href="/ca
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/logos/Pphand.cdr">drawn/logos/Pphand.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/logos/Ppmot4.cdr">drawn/logos/Ppmot4.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/logos/tonx's modified logo.cdr">drawn/logos/tonx's modified logo.cdr</a><br>
-<h3>drawn/map/</h3>
+</p>
+<h3>drawn/map/</h3><p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/map/high mag cave on map.cdr">drawn/map/high mag cave on map.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/map/high mag locations on map.cdr">drawn/map/high mag locations on map.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/map/low mag cave on map.cdr">drawn/map/low mag cave on map.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/map/low mag locations on map.cdr">drawn/map/low mag locations on map.cdr</a><br>
-<h3>drawn/other_caves/</h3>
+</p>
+<h3>drawn/other_caves/</h3><p>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/other_caves/Slov2.cdr">drawn/other_caves/Slov2.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/other_caves/bigcave.cdr">drawn/other_caves/bigcave.cdr</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyDatadrawn/other_caves/venus.cdr">drawn/other_caves/venus.cdr</a><br>
+</p>
