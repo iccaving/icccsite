@@ -34,7 +34,7 @@ London SW7 2BB
 <dt><b>Tackle Master:</b></dt><dd> Peter Ganson</dd>
 <dt><b>Tours Secretary:</b></dt><dd> Cecilia Kan</dd>
 <dt><b>Medical Officer:</b></dt><dd> Pavel Kroupa</dd>
-<dt><b>Social Secretary:</b></dt><dd> David Kirkpatrick</dd>
+<dt><b>Social Secretary:</b></dt><dd> Sarah Gian</dd>
 </dl>
 
 ##Committee 2014-2015
