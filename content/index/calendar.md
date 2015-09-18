@@ -9,7 +9,7 @@ Type: stickyindex
 |16 - 18th Oct     | Wales      | [WSG Cottage](http://www.wsg.org.uk/html/cottage.htm)                                | OFD          |
 |30th Oct - 1st Nov| Wales      | [WSG Cottage](http://www.wsg.org.uk/html/cottage.htm)                                | OFD          |
 |13 - 15th Nov     | Yorkshire  | [NPC Cottage](http://www.northernpennineclub.org.uk/greenclose/greenclose.htm)       | Kingsdale    |
-|27 - 19th Nov     | Yorkshire  | [Bullpot Farm](http://www.rrcpc.org.uk/wordpress/accommodation-booking/bullpot-farm) | Easegill     |
+|27 - 29th Nov     | Yorkshire  | [Bullpot Farm](http://www.rrcpc.org.uk/wordpress/accommodation-booking/bullpot-farm) | Easegill     |
 |11 - 13th Dec     | Yorkshire  | [NPC Cottage](http://www.northernpennineclub.org.uk/greenclose/greenclose.htm)       | Leck Fell    |
 |29th Dec - 5th Jan| Yorkshire  | [NPC Cottage](http://www.northernpennineclub.org.uk/greenclose/greenclose.htm)       | All of them! |
 
