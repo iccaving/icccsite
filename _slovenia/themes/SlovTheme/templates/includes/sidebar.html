@@ -17,9 +17,9 @@
   <hr class="hrsidebar">
 
 <div class="sidebar-content-box">
-  <div class="sidebar-item" data-idouter="exped-outer" data-idinner="exped-inner"><a href="#" onclick="return false;">Expeditions</a></div>
-  <div class="sidebar-outer collapsed" id="exped-outer">
-  <div class="sidebar-inner" id="exped-inner">
+  <div class="sidebar-item" data-idouter="slov-outer" data-idinner="slov-inner"><a href="#" onclick="return false;">Expeditions</a></div>
+  <div class="sidebar-outer collapsed" id="slov-outer">
+  <div class="sidebar-inner" id="slov-inner">
   {% set expedname = {"2015":"Pivo Moz", "2014":"Skozi Zrcalo", "2013":"Z Miga na Kuk", "2012":"Sledi Vetra", "2011":"Izgubljeni Raj", "2010":"Vodna Sled", "2009":"Brezzvezdna Noč", "2008":"Votla Gora ", "2007":"Slovenia", "2006":"Slovenia Recce", "2005":"Slovenia", "2004":"Slovenia", "2003":"Slovenia", "2001":"Slovenia", "2000":"Slovenia"} %}
   {% set year = '' %}
   {% for article in articles %}
@@ -27,9 +27,9 @@
   {% if article.date.strftime('%Y') != year %}
   {% if year != '' %}</div></div>{% endif%}
   {% set year = article.date.strftime('%Y')  %}
-  <div class="sidebar-sub-item" data-idouter="exped-sub-outer-{{ year }}" data-idinner="exped-sub-inner-{{ year }}" data-upidouter="exped-outer" data-upidinner="exped-inner"><a href="#" onclick="return false;">{{ expedname[year] }} {{ year }}</a></div>
-  <div class="sidebar-outer collapsed" id="exped-sub-outer-{{ year }}">
-  <div class="sidebar-inner" id="exped-sub-inner-{{ year }}">
+  <div class="sidebar-sub-item" data-idouter="slov-sub-outer-{{ year }}" data-idinner="slov-sub-inner-{{ year }}" data-upidouter="slov-outer" data-upidinner="slov-inner"><a href="#" onclick="return false;">{{ expedname[year] }} {{ year }}</a></div>
+  <div class="sidebar-outer collapsed" id="slov-sub-outer-{{ year }}">
+  <div class="sidebar-inner" id="slov-sub-inner-{{ year }}">
   {% endif %}
       <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
       {% if article.photoarchive is defined %}<div class="sidebar-sub-sub-item"><a href="{{ BASEURL }}/{{ article.photoarchive }}">{{ year }} Photos</a></div>{% endif %}
