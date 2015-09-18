@@ -53,21 +53,25 @@
       <h3>Caves we've been to and the reports:</h3>
       <input type="text" id="search" placeholder="Search...">
       <div class="table-container">
-      <table class="sortable">
+      <table class="sortable cavetable">
         <tr>
           <th>Cave</th>
           <th>No. of Reports</th>
           <th>Most Recent</th>
-          <th>Region</th>
           <th>System</th>
+          <th>Subregion</th>
+          <th>Region</th>
+          <th>Country</th>
         </tr>
         {% for name, number, recent, meta in caves %}
         <tr class="cave" id="{{ item }}">
           <td><a href="{{ SITEURL }}/caves/{{ name }}.html">{{ name }}</a></td>
           <td class="count">{{ number }}</td>
           <td>{{ recent.strftime('%d-%m-%Y') }}</td>
-          <td>{% if meta.region is defined %}<a class="searchme" href="#">{{ meta.region }}</a>{% endif %}</td>
           <td>{% if meta.system is defined %}<a class="searchme" href="#">{{ meta.system }}</a>{% endif %}</td>
+          <td>{% if meta.region is defined %}<a class="searchme" href="#">{{ meta.subregion }}</a>{% endif %}</td>
+          <td>{% if meta.region is defined %}<a class="searchme" href="#">{{ meta.region }}</a>{% endif %}</td>
+          <td>{% if meta.region is defined %}<a class="searchme" href="#">{{ meta.country }}</a>{% endif %}</td>
         </tr>
         {% endfor %}
       </table>

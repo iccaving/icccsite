@@ -263,7 +263,7 @@ pre {
   width: 100%;
   border-radius: 2px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
-  background-color: rgba(232, 232, 232, 0.83); }
+  background-color: rgba(255, 255, 255, 0.83); }
 
 .content-header {
   display: table;
@@ -435,6 +435,14 @@ table.sortable th, table.sortable td {
 
 .article-content table {
   margin: 0 50px; }
+
+.article-content .cavetable, .article-content .cavertable {
+  margin: 0;
+  width: 100%; }
+
+.table-container {
+  overflow-x: auto;
+  overflow-y: hidden; }
 
 table {
   border-collapse: collapse;
