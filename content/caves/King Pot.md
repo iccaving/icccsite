@@ -1,4 +1,4 @@
 Country: United Kingdom
 Region: Yorkshire
-Subregion: West Kingsdale
+Subregion: East Kingsdale
 System: Kingsdale
