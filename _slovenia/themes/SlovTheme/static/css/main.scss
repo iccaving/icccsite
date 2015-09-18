@@ -1,35 +1,18 @@
 /* IC caving web site style sheet for main pages
 */
 /*Colour Variables:*/
-$colourscheme: dark;
-
-$link-hover: #D46A6A; /*Link hover*/
-$highlight: #AA3939; /*Light Red (Highlighting,)*/
-$links: #A6373F;
-$visited-links: #801515; /*Darker Red (Visited Links)*/
-$dark-background: #106040; /*Dark grey (Background Colour for Banner/Sidebar/Headers H1)*/
-$header2: #4AB959; /* (H2)*/
-$light-background: #4AB959; /*(Highlight colour for Banner/Sidebar/Headers H3/text)*/
+$link-hover: #3BDE59; /*Link hover*/
+$highlight: #4EC5B1; /*Light Red (Highlighting,)*/
+$links: #40B080;
+$visited-links: #3D8E80; /*Darker Red (Visited Links)*/
+$dark-background: #2D2D2D; /*Dark grey (Background Colour for Banner/Sidebar/Headers H1)*/
+$header2: #40B080; /* (H2)*/
+$light-background: #40B080; /*(Highlight colour for Banner/Sidebar/Headers H3/text)*/
 $body-background: #999999; /*(Body Background)*/
 $offwhite: #E8E8E8; /*Off White (Backgrounds/ Large Text on dark backgrounds)*/
 $text: #000000; /*Normal text colour*/
-$back-image: "../../assets/bg.png";
+$back-image: "../../../assets/bg.png";
 $right-image: "";
-
-@if $colourscheme == light {
-	$link-hover: #D46A6A; /* Pink (Link hover)*/
-	$highlight: #AA3939; /*Light Red (Highlighting,)*/
-	$links: #A6373F;
-	$visited-links: #801515; /*Darker Red (Visited Links)*/
-	$dark-background: #143B46; /*Dark Turquoise (Background Colour for Banner/Sidebar/Headers H1)*/
-	$header2: #0D4D4D; /* Turquoise (H2)*/
-	$light-background: #407F7F; /*Light Turquoise (Highlight colour for Banner/Sidebar/Headers H3/text)*/
-	$body-background: #5DACC2; /*Light Blue (Body Background)*/
-	$offwhite: #E8E8E8; /*Off White (Backgrounds/ Large Text on dark backgrounds)*/
-	$text: #000000; /*Normal text colour*/
-	$back-image: "";
-	$right-image: "";
-}
 
 /* Global Page Properties */
 

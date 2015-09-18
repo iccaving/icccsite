@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+SITENAME = u'Migovec Cave Exploration'
+
 PATH = 'content'
 SUBSITE_PATH = 'slovenia'
 

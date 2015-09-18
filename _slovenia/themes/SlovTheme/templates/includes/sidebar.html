@@ -1,7 +1,7 @@
 <div class="sidebar">
   <div class="logo">
     <span style="height: 100%; vertical-align: middle; display: inline-block;"></span><!--Helper span to vertically center image-->
-    <img alt="Imperial College Caving Club logo" src="{{ SITEURL }}/assets/sidebariclogo.png">
+    <img alt="Imperial College Caving Club Migovec Cave exploration logo" src="{{ SITEURL }}/assets/sidebariclogo.png">
   </div>
   <div style="overflow-y: auto; overflow-x: hidden; height: 100%; display: flex; flex-flow: column nowrap;">
 
@@ -9,63 +9,55 @@
 
   <div class="sidebar-content-box">
     <div class="sidebar-item"><a href="{{ SITEURL }}/">Home</a></div>
-    <div class="sidebar-item"><a href="{{ SITEURL }}/pages/calendar.html">Calendar</a></div>
-    <div class="sidebar-item"><a href="{{ SITEURL }}/pages/clubinfo.html">Club Info</a></div>
-    <div class="sidebar-item"><a href="{{ SITEURL }}/pages/contacts.html">Contacts</a></div>
+    <div class="sidebar-item"><a href="{{ SITEURL }}/pages/surveyrepo.html">Survey Repository</a></div>
+    <div class="sidebar-item"><a href="https://github.com/jarvist/migovecsurveydata">Github</a></div>
+    <div class="sidebar-item"><a href="http://migovec.wordpress.com/">Migovec Blog</a></div>
   </div>
 
   <hr class="hrsidebar">
 
-  <div class="sidebar-content-box">
-
-    <div class="sidebar-item" data-idouter="trips-outer" data-idinner="trips-inner"><a href="#" onclick="return false;">Trips</a></div>
-    <div class="sidebar-outer collapsed" id="trips-outer">
-      <div class="sidebar-inner" id="trips-inner">
-        {% set year = '' %} {% for item in yearlist %} {% if item.acyear != year %} {% if year != '' %}
-      </div>
-    </div>
-    {% endif %} {% set year = item.acyear %}
-    <div class="sidebar-sub-item" data-idouter="trips-sub-outer-{{ item.acyear }}" data-idinner="trips-sub-inner-{{ item.acyear }}" data-upidouter="trips-outer" data-upidinner="trips-inner"><a href="#" onclick="return false;">{{ item.acyear }}</a></div>
-    <div class="sidebar-outer collapsed" id="trips-sub-outer-{{ item.acyear }}" style="overflow: hidden;">
-      <div class="sidebar-inner" id="trips-sub-inner-{{ item.acyear }}">
-        <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ item.article.url }}">{{ item.article.title }} ({{ item.article.date.strftime('%b') }} '{{ item.article.date.strftime('%y') }})</a></div>
-        {% else %}
-        <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ item.article.url }}">{{ item.article.title }} ({{ item.article.date.strftime('%b') }} '{{ item.article.date.strftime('%y') }})</a></div>
-        {% endif %} {% endfor %} {% if yearlist|count > 0 %}
-      </div>
-    </div>
-    {% endif %}
-  </div>
-</div>
-
 <div class="sidebar-content-box">
-  <div class="sidebar-item" data-idouter="tours-outer" data-idinner="tours-inner"><a href="#" onclick="return false;">Tours</a></div>
-  <div class="sidebar-outer collapsed" id="tours-outer">
-    <div class="sidebar-inner" id="tours-inner">
-      {% for article in articles %} {% if article.type == 'tour' %}
-      <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} {{ article.date.strftime('%Y') }}</a></div>
-      {% endif %} {% endfor %}
-    </div>
-  </div>
-</div>
-
-<div class="sidebar-item" data-idouter="exped-outer" data-idinner="exped-inner"><a href="#" onclick="return false;">Expeditions</a></div>
-<div class="sidebar-outer collapsed" id="exped-outer">
+  <div class="sidebar-item" data-idouter="exped-outer" data-idinner="exped-inner"><a href="#" onclick="return false;">Expeditions</a></div>
+  <div class="sidebar-outer collapsed" id="exped-outer">
   <div class="sidebar-inner" id="exped-inner">
-    <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/newzealand/">New Zealand 2015</a></div>
-  </div>
-</div>
+  {% set expedname = {"2015":"Pivo Moz", "2014":"Skozi Zrcalo", "2013":"Z Miga na Kuk", "2012":"Sledi Vetra", "2011":"Izgubljeni Raj", "2010":"Vodna Sled", "2009":"Brezzvezdna Noč", "2008":"Votla Gora ", "2007":"Slovenia", "2006":"Slovenia Recce", "2005":"Slovenia", "2004":"Slovenia", "2003":"Slovenia", "2001":"Slovenia", "2000":"Slovenia"} %}
+  {% set year = '' %}
+  {% for article in articles %}
+  {% if article.date.strftime('%Y')|int > 1999 and article.type == "expedition" %}
+  {% if article.date.strftime('%Y') != year %}
+  {% if year != '' %}</div></div>{% endif%}
+  {% set year = article.date.strftime('%Y')  %}
+  <div class="sidebar-sub-item" data-idouter="exped-sub-outer-{{ year }}" data-idinner="exped-sub-inner-{{ year }}" data-upidouter="exped-outer" data-upidinner="exped-inner"><a href="#" onclick="return false;">{{ expedname[year] }} {{ year }}</a></div>
+  <div class="sidebar-outer collapsed" id="exped-sub-outer-{{ year }}">
+  <div class="sidebar-inner" id="exped-sub-inner-{{ year }}">
+  {% endif %}
+      <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
+      {% if article.photoarchive is defined %}<div class="sidebar-sub-sub-item"><a href="{{ BASEURL }}/{{ article.photoarchive }}">{{ year }} Photos</a></div>{% endif %}
+      {% if article.sidebarlink is defined %}<div class="sidebar-sub-sub-item"><a href="{{ BASEURL }}/{{ article.sidebarlink }}">{{ article.sidebarlinktitle }}</a></div>{% endif %}
+  {% endif %}
+  {% endfor %}
+  </div></div></div></div>
 
-
-<div class="sidebar-item"><a href="{{ SITEURL }}/photo_archive/">Photos</a></div>
+  <div class="sidebar-item" data-idouter="1999-outer" data-idinner="1999-inner"><a href="#" onclick="return false;">Early History </a></div>
+  <div class="sidebar-outer collapsed" id="1999-outer">
+  <div class="sidebar-inner" id="1999-inner">
+    <div class="sidebar-sub-item"><a href="/caving/FILES/expedtions/slovenia/slovpre2000/slov_cookbook.pdf">Cookbook</a></div>
+    <div class="sidebar-sub-item"><a href="/caving/FILES/expedtions/slovenia/slovpre2000/1998_scuz_diary.pdf">Scuz's 1998 Diary</a></div>
+    <div class="sidebar-sub-item"><a href="/caving/FILES/expedtions/slovenia/slovpre2000/1998_slov_report.pdf">1998 Report</a></div>
+    <div class="sidebar-sub-item"><a href="/caving/FILES/expedtions/slovenia/slovpre2000/1999_slov_report.pdf">1999 Report</a></div>
+    <div class="sidebar-sub-item"><a href="/caving/FILES/expedtions/slovenia/slovpre2000/1997_slov_report.pdf">1997 Report</a></div>
+  {% for article in articles %}
+  {% if article.date.strftime('%Y')|int < 2000 and article.type == "expedition" %}
+      <div class="sidebar-sub-item"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
+  {% endif %}
+  {% endfor %}
+  </div></div>
 </div>
 
 <hr class="hrsidebar">
 
 <div class="sidebar-content-box">
-  <div class="sidebar-item"><a href="{{ SITEURL }}/caves/">Caves</a></div>
-  <div class="sidebar-item"><a href="{{ SITEURL }}/cavers/">Cavers</a></div>
-  <div class="sidebar-item"><a href="{{ SITEURL }}/pages/library.html">Library</a></div>
+<div class="sidebar-item"><a href="{{ BASEURL }}">Main ICCC Site</a></div>
 </div>
 
 <div id="sidebar-fill" class="sidebar-content-box">

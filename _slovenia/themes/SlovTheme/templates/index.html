@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block banner %}
-Imperial College Caving Club
+Migovec Cave Exploration
 {% endblock banner %}
 
 {% block content %}
@@ -15,66 +15,14 @@ Imperial College Caving Club
                 <div><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
               </div>
             </div>
-            <div class="content">
+            <div class="article-content">
               {{ article.content }}
             </div>
-            <div class="content-footer">
-              <div class="content-footer-center">
-                <a class="footer-button" href="{{ SITEURL }}/{{ article.url }}">More</a>
-              </div>
-            </div>
-          </div>
 
         {% endif %}
       {% endif %}
     {% endfor %}
-    {% for article in articles_page.object_list %}
-      {% if article.type != 'stickyindex' %}
-        <div class="content-box">
-          <div class="content-header">
-            <div class="content-left">
-              <div><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
-            </div>
-            <div class="content-right">
-              <div>{{ article.date.strftime('%d-%m-%Y') }}</div>
-            </div>
-          </div>
-          <div class="content">
-              {% if article.thumbl is defined %}
-                {% if article.thumbl != '' %}
-                <div class="index-thumbl">
-                  <a href="{{ SITEURL }}/{{ article.archiveloc }}{{ article.thumbl|replace("--thumb.jpg", ".html") }}"><img alt="Thumbnail of photo from this article" src="{{SITEURL}}/{{ article.archiveloc }}{{ article.thumbl }}"></a>
-                </div>
-                {% endif %}
-              {% endif %}
-              {% if article.thumbr is defined %}
-                {% if article.thumbr != '' %}
-                <div class="index-thumbr">
-                  <a href="{{ SITEURL }}/{{ article.archiveloc }}{{ article.thumbr|replace("--thumb.jpg", ".html") }}"><img alt="Thumbnail of photo from this article" src="{{SITEURL}}/{{ article.archiveloc }}{{ article.thumbr }}"></a>
-                </div>
-                {% endif %}
-              {% endif %}
-              <div class="content-summary">
-              {{ article.summary }}
-              </div>
-          </div>
-          <div class="content-footer">
-            <div class="content-footer-left">
-              <a class="footer-button" href="{{ SITEURL }}/{{ article.url }}">More</a>
-            </div>
-            <div class="content-footer-right">
-              {% if article.archiveloc is defined %}
-                  <a class="footer-button" href="{{ SITEURL }}/{{ article.archiveloc }}">Photos</a>
-              {% endif %}
-            </div>
-          </div>
-        </div>
-
-      {% endif %}
-    {% endfor %}
   {% endif %}
-
-  {% include 'pagination.html' %}
 
 </div>
 {% endblock content %}
