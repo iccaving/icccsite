@@ -4,7 +4,7 @@ Location: page
 Type: page
 
 Preferably get in contact by email, directed to:-&nbsp;&nbsp;<img src="iccc-email.gif">
-<br>
+
 Our address is:
 <address>
 Imperial College Caving Club <br>
@@ -16,26 +16,54 @@ London SW7 2BB
 
 ##Committee 2015-2016
 <div style="text-align: center;"><span>
-<a href="/rcc/caving/photo_archive/mugshots/James%20O'Hanlon.html">
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Jack%20Hare.html">
 <img src="/rcc/caving/photo_archive/mugshots/Jack%20Hare--thumb.jpg">
 </a>
+<figcaption><strong>President:</strong><br>Jack Hare</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 0;">
 <a href="/rcc/caving/photo_archive/mugshots/Ben%20Honan.html">
 <img src="/rcc/caving/photo_archive/mugshots/Ben%20Honan--thumb.jpg">
 </a>
+<figcaption><strong>Treasurer:</strong><br>Ben Honan</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 0;">
 <a href="/rcc/caving/photo_archive/mugshots/James%20O'Hanlon.html">
 <img src="/rcc/caving/photo_archive/mugshots/James%20O'Hanlon--thumb.jpg">
 </a>
+<figcaption><strong>Secretary:</strong><br>James O'Hanlon</figcaption>
+</figure>
 </span></div>
-<dl>
-<dt><b>President:</b></dt><dd> Jack Hare</dd>
-<dt><b>Treasurer:</b></dt><dd> Ben Honan</dd>
-<dt><b>Secretary:</b></dt><dd> James O'Hanlon</dd>
+
 <br>
-<dt><b>Tackle Master:</b></dt><dd> Peter Ganson</dd>
-<dt><b>Tours Secretary:</b></dt><dd> Cecilia Kan</dd>
-<dt><b>Medical Officer:</b></dt><dd> Pavel Kroupa</dd>
-<dt><b>Social Secretary:</b></dt><dd> Sarah Gian</dd>
-</dl>
+
+<div style="text-align: center;"><span>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Peter%20Ganson.html">
+<img src="/rcc/caving/photo_archive/mugshots/Peter%20Ganson--thumb.jpg">
+</a>
+<figcaption><strong>Tackle Master:</strong><br>Peter Ganson</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Cecilia%20Kan.html">
+<img src="/rcc/caving/photo_archive/mugshots/Cecilia%20Kan--thumb.jpg">
+</a>
+<figcaption><strong>Tours Secretary:</strong><br>Cecilia Kan</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Pavel%20Kroupa.html">
+<img src="/rcc/caving/photo_archive/mugshots/Pavel%20Kroupa--thumb.jpg">
+</a>
+<figcaption><strong>Medical Officer:</strong><br>Pavel Kroupa</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Sarah%20Gian.html">
+<img src="/rcc/caving/photo_archive/mugshots/Sarah%20Gian--thumb.jpg">
+</a>
+<figcaption><strong>Social Secretary:</strong><br>Sarah Gian</figcaption>
+</figure>
+</span></div>
 
 ##Committee 2014-2015
 <div style="text-align: center;"><span>
@@ -55,7 +83,7 @@ London SW7 2BB
 <b>Secretary:</b> Elijah Choi<br>
 <br>
 <b>Tackle Master:</b> Jack Hare<br>
-<b>Tours Secretary</b>: Rhys Tyers
+<b>Tours Secretary</b>: Rhys Tyers<br>
 <b>Medical Officer:</b> William French<br>
 <b>Honorary Morale Officer:</b> David Kirkpatrick<br>
 </p>
