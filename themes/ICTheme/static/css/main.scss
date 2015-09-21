@@ -1,6 +1,6 @@
 /* IC caving web site style sheet for main pages
 */
-/*Colour Variables:*/
+/*-----------------------------Colour and styling Variables-----------------------------*/
 $colourscheme: dark;
 
 $link-hover: #D46A6A; /*Link hover*/
@@ -15,6 +15,9 @@ $offwhite: #E8E8E8; /*Off White (Backgrounds/ Large Text on dark backgrounds)*/
 $text: #000000; /*Normal text colour*/
 $back-image: "../../assets/bg.png";
 $right-image: "../../assets/jack.png";
+
+$header-indent: 25px;
+$content-indent: 50px;
 
 @if $colourscheme == light {
 	$link-hover: #D46A6A; /* Pink (Link hover)*/
@@ -31,7 +34,7 @@ $right-image: "../../assets/jack.png";
 	$right-image: "";
 }
 
-/* Global Page Properties */
+/*-----------------------------Global Page Properties-----------------------------*/
 
 html {
 }
@@ -39,11 +42,6 @@ html {
 body {
 	background-color: $body-background;
 	color: $text;
-	/*background-image: url(../../assets/nz.svg);
-	background-size: 700px;
-	background-repeat: no-repeat;
-	background-position: right 50px;
-	background-attachment: fixed;*/
 	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 400;
 	font-size: 16px;
 	margin: 0;
@@ -53,7 +51,7 @@ body {
 	background-attachment: fixed;
 }
 
-/*Global Text and link properties */
+/*-----------------------------Global Text and link properties-----------------------------*/
 
 p, ul {
 	line-height: 1.5rem;
@@ -116,7 +114,7 @@ pre {
 	overflow: auto;
 }
 
-/* Useful Tags */
+/*-----------------------------Useful Tags-----------------------------*/
 .nodisplay {
 	display: none;
 }
@@ -125,11 +123,20 @@ pre {
 	padding: 0;
 }
 
+.nomargin {
+	margin: 0;
+}
+
 .center {
 	text-align: center;
 }
 
-/* Column Layout */
+.highlight {
+	font-weight: bold;
+	color: $header2;
+}
+
+/*-----------------------------Column Layout-----------------------------*/
 
 .banner {
 	/*min-height: 90px;*/
@@ -232,7 +239,7 @@ pre {
 	margin: 20px auto 20px auto;
 }
 
-/*Sidebar properties*/
+/*-----------------------------Sidebar properties-----------------------------*/
 
 .sidebar {
 	float: left;
@@ -274,9 +281,11 @@ pre {
 	transition-delay: 0s;
 }
 
-.sidebar-item a:hover, .sidebar-sub-item a:hover, .sidebar-sub-sub-item a:hover, .sidebar-item:hover, .sidebar-sub-item:hover, .sidebar-sub-sub-item:hover {
-	text-decoration: none;
-	background-color: #A6373F;
+.sidebar-item, .sidebar-sub-item, .sidebar-sub-sub-item{
+		a:hover, &:hover{
+		text-decoration: none;
+		background-color: #A6373F;
+		}
 }
 
 .sidebar-sub-item a:hover {
@@ -318,7 +327,7 @@ pre {
 	transition: max-height .5s ease;
 	overflow: hidden;
 }
-/* Index Content properties */
+/*-----------------------------Index Content properties-----------------------------*/
 
 .content-box {
 	margin: 0 0 20px 0;
@@ -409,21 +418,20 @@ a.footer-button {
 	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 500;
 	color: $highlight;
 	text-decoration: underline;
-}
+	&:visited {
+		color: $visited-links
+	}
 
-a.footer-button:visited {
-	color: $visited-links
-}
-
-a.footer-button:hover {
-	color: $link-hover
+	&:hover {
+		color: $link-hover
+	}
 }
 
 .paginator {
 	text-align: center;
 }
 
-/*Article and Page Content Styling */
+/*-----------------------------Article and Page Content Styling-----------------------------*/
 .article-content {
 	border-radius: 2px;
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
@@ -431,22 +439,23 @@ a.footer-button:hover {
 	padding: 10px 10px 10px 10px;
 	overflow: auto;
 }
-/*
-.article-content p, .article-content ol, .article-content ul, .article-content dl, .article-content pre, .article-content address {
-	padding: 0 50px;
-}*/
 
 .article-content {
 	p, ol, ul, dl, pre, address {
 		padding: 0 50px;
 	}
+	h1, h2, h3, h4, h5 {
+		padding: 0 25px;
+	}
+	input {
+	 margin: 10px 50px;
+ }
 }
-.article-content input {
-	margin: 10px 50px;
-}
-
-.article-content h1, .article-content h2, .article-content h3, .article-content h4, .article-content h5 {
+.padless {
 	padding: 0 25px;
+}
+.padmore {
+	padding: 0 50px;
 }
 
 .mainimg {
@@ -518,21 +527,27 @@ figcaption {
 	position: absolute;
 }
 
-/*Table stylings*/
+/*-----------------------------Table stylings-----------------------------*/
 table.sortable th, table.sortable td {
 	min-width: 6em;
 	text-align: center;
 }
 
+/*For index on main page*/
+/*Mostly just the calender/agenda*/
 .content table {
 	width: calc(100% + 20px);
 	margin: -10px -10px 0 -10px;
 }
 
+/*For pretty much all other tables*/
 .article-content table {
   margin: 0 50px;
 }
 
+/*For the list of caves/cavers*/
+/*Because they're the main event on their pages it looks*/
+/*nicer this way*/
 .article-content {
 	.cavetable, .cavertable {
 		margin: 0;
@@ -540,6 +555,8 @@ table.sortable th, table.sortable td {
 	}
 }
 
+/*This is so that tables that overflow the article container don't*/
+/*cause the whole article to horizontally scroll, just the table*/
 .table-container {
 	overflow-x: auto;
 	overflow-y: hidden;
@@ -547,9 +564,6 @@ table.sortable th, table.sortable td {
 
 table {
   border-collapse: collapse;
-  /*box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.24);
-  -webkit-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.24);
-  -moz-box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.24);*/
   font-family: Roboto, Tahoma, Arial, sans-serif;
  }
 td, th {
@@ -557,21 +571,29 @@ td, th {
   font-weight: 400;
   text-align: left;
  }
- tbody > tr:nth-child(even) {
-   background-color:#ffffff
+ tbody {
+	  > tr:nth-child(even) {
+   		background-color:#ffffff
+		}
+		> tr:nth-child(odd) {
+	    background-color:#f5f5f5
+	  }
  }
- tbody > tr:nth-child(odd) {
-   background-color:#f5f5f5
+
+ .article-content tbody
+ {
+	 > tr:hover, > tr:hover a {
+		 background-color: #B1474F !important;
+		 color: white;
+	 }
  }
- thead > tr {
+
+thead > tr {
    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
    background-color: #ffffff;
  }
- tbody > tr:hover, tbody > tr:hover a {
-   background-color: #B1474F !important;
-   color: white;
- }
-/*Horizontal rule stylings */
+
+/*-----------------------------Horizontal rule stylings-----------------------------*/
 
 hr.hrstyle {
 	border: 0;
@@ -600,7 +622,7 @@ hr.hrsidebartop {
 	flex: 0 0 auto;
 }
 
-/* Photo page stuff */
+/*-----------------------------Photo page stuff-----------------------------*/
 .currlink, .prevlink, .nextlink {
 	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 500;
 	display: table-cell;
@@ -679,7 +701,8 @@ hr.hrsidebartop {
 	max: 100px;
 }
 
-	/*Screen size stuff*/
+	/*-----------------------------Screen size stuff-----------------------------*/
+
 	/* Below 1500px right-col removed, centre col resized and given some padding against the left col */
 @media screen and (max-width: 1500px) {
 .container {
