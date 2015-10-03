@@ -4,7 +4,7 @@ Location: Yorkshire
 Summary: Our first trip of the year, and time to tackle a tough cave we've had our eyes on for a while - Simpsons-Swinsto
 Type: trip
 Photoarchive:
-Mainimg: DSC_0349.jpg
+Mainimg: DSC_0349.JPG
 Thumbl:  DSC_0359--thumb.jpg
 Thumbr: DSC_0384--thumb.jpg
 Authors: Rhys Tyers, Fiona Hartley
