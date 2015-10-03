@@ -24,7 +24,7 @@ def replacer(value, matchobj):
 def MetaInserter(path, context):
     if "article" in path:
         # Open html file. Check for metadata
-        soup = BeautifulSoup(open(path))
+        soup = BeautifulSoup(open(path), "html.parser")
         if soup.find("script", {"id": "metadata"}) is not None:
             # Extract the metadata and interpret it as a dictionary
             temp = ''

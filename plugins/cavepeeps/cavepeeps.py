@@ -90,7 +90,7 @@ def articlelink(peoplelist, article, generator):
 
     # Make the metadata available to the article template
     # article.peopletrips = article.metadata["peopletrips"] = peopletrips
-    # article.allpeople = article.metadata["allpeople"] = [val for key, val in allpeople.iteritems()]
+    # article.allpeople = article.metadata["allpeople"] = [val for key, val in allpeople.items()]
 
     # The metadata might need to be used to replace a tag in the article
     # so add it to the metadata item that will be available to metainserter
