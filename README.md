@@ -50,6 +50,8 @@ Will stop the sever.
 #Advanced Set Up
 If you want to be able to build and deploy the site yourself look here, otherwise ignore.
 ###Installing Pelican
+First make sure you have python 3. Python 2 will not work, it doesn't do unicode easily so I can't be bothered with it.
+
 Pelican is a python based static site generator. Install it:
 
     pip install pelican
@@ -57,6 +59,10 @@ Pelican is a python based static site generator. Install it:
 Install the Markdown package as that is what the trip reports should be written in:
 
     pip install Markdown
+
+Install BeautifulSoup:
+
+    pip install beautifulsoup4
 
 Firstly run:
 
