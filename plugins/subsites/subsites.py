@@ -69,7 +69,7 @@ def subsites(pelican_obj):
         # reason even in a new pelican object the signals are still mapped
         # to the old plugins.
         # iterate through module's attributes
-        for name, val in signals.__dict__.iteritems():
+        for name, val in signals.__dict__.items():
             if hasattr(val, 'receivers'):
                 val.receivers = {}
         # Set up a pelican class
@@ -83,7 +83,7 @@ def subsites(pelican_obj):
         # Create a new pelican instance for the subsite and run!
         new_pelican_obj = cls(settings)
         new_pelican_obj.run()
-        for name, val in signals.__dict__.iteritems():
+        for name, val in signals.__dict__.items():
             if hasattr(val, 'receivers'):
                 val.receivers = {}
 

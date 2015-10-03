@@ -1,6 +1,7 @@
 #Markdown Extension
 import markdown
 from markdown.inlinepatterns import Pattern
+import logging
 
 image = r'(\{!|\{)(".*?")?.*?((?:[a-z][a-z]+))(\})(\()(".*?")(\))'
 
@@ -22,8 +23,8 @@ class AttrTagPattern(Pattern):
             el.set('src', m.group(7)[1:-1])
             a.set('href', m.group(7)[1:-1])
         elif m.group(2) == '{':
-            el.set('src', self.md.Meta['photoarchive'][0].encode("utf-8") + '/' + m.group(7)[1:-1])
-            a.set('href', self.md.Meta['photoarchive'][0].encode("utf-8") + '/?image=' + m.group(7)[1:-1])
+            el.set('src', self.md.Meta['photoarchive'][0] + '/' + m.group(7)[1:-1])
+            a.set('href', self.md.Meta['photoarchive'][0] + '/?image=' + m.group(7)[1:-1])
         if m.group(4) == 'center':
             figure.set('class', 'article-img-center')
         elif  m.group(4) == 'left':
