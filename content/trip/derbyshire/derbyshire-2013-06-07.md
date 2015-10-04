@@ -9,9 +9,9 @@ Thumbl: Su%20Teh-Derbyshire%20%2856%29--thumb.jpg
 Thumbr: Su%20Teh-Derbyshire%20%2850%29--thumb.jpg
 Authors: Jarvist Frost
 Cavepeeps: DATE=2013-06-08; CAVE=Oxlow Cavern > Maskhill Mine; PEOPLE=Niko Kral, Izi, Saber King, Giulio Deganutti;
-           DATE=2013-06-08; CAVE=Maskhill Mine > Oxlow Cavern; PEOPLE=Oliver Myerscough, Jarvist Frost, David Kirkpatrick, William French;
+           DATE=2013-06-08; CAVE=Maskhill Mine > Oxlow Cavern; PEOPLE=Oliver Myerscough, Jarvist Frost, Dave Kirkpatrick, William French;
            DATE=2013-06-08; CAVE=Oxlow Cavern; PEOPLE=Su Teh;
-           DATE=2013-06-09; CAVE=Peak Cavern; PEOPLE=Giulio Deganutti, Izi, Saber King, Oliver Myerscough, Su Teh, David Kirkpatrick, Jarvist Frost;
+           DATE=2013-06-09; CAVE=Peak Cavern; PEOPLE=Giulio Deganutti, Izi, Saber King, Oliver Myerscough, Su Teh, Dave Kirkpatrick, Jarvist Frost;
 Oldurl: /rcc/caving/derbyshire/derbyshire-2013-06-07.php
 Status:
 

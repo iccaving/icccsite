@@ -13,7 +13,7 @@ Cavepeeps: DATE=2006-12-16; CAVE=County Pot; PEOPLE=Jarvist Frost, Jana Carga, J
            DATE=2006-12-17; CAVE=Lancaster Hole; PEOPLE=Sandeep Mavadia, Ben Banfield, Jana Carga, Thara Supasiti;
            DATE=2006-12-17; CAVE=Top Sink; PEOPLE=Jarvist Frost, Marc Labuhn, Jutta Schnabel;
            DATE=2006-12-18; CAVE=Rowten Pot; PEOPLE=Jarvist Frost, Jana Carga, Thara Supasiti;
-           DATE=2006-12-18; CAVE=Aquamole Pot; PEOPLE=Sandeep Mavadia, Juta Schnabel, Rahel;
+           DATE=2006-12-18; CAVE=Aquamole Pot; PEOPLE=Sandeep Mavadia, Jutta Schnabel, Rahel;
            DATE=2006-12-18; CAVE=Rumbling Hole; PEOPLE=Anne, Ben Banfield, James Kirkpatrick;
            DATE=2006-12-19; CAVE=Yordas Pot; PEOPLE=Jarvist Frost, Jana Carga, Thara Supasiti, Ben Banfield, Rahel;
            DATE=2006-12-19; CAVE=Valley Entrance; PEOPLE=Jarvist Frost, Jana Carga, Thara Supasiti, Ben Banfield, Rahel;

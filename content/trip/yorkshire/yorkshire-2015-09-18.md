@@ -8,9 +8,9 @@ Mainimg: DSC_0349.JPG
 Thumbl:  DSC_0359--thumb.jpg
 Thumbr: DSC_0384--thumb.jpg
 Authors: Rhys Tyers, Fiona Hartley
-Cavepeeps: 	DATE=2015-09-19; CAVE=Swinsto Hole > Simpsons Pot; PEOPLE=Jack Hare, Benjamin Honan, Fiona Hartley, Christina Pickens;
-			DATE=2015-09-19; CAVE=Simpsons Pot > Swinsto Hole; PEOPLE=Rhys Tyers, Oliver Myerscough, William French, Alexander Seaton;
-			DATE=2015-09-20; CAVE=Bullpot of the Witches; PEOPLE=Rhys Tyers, Benjamin Honan, Jack Hare, Christina Pickens;
+Cavepeeps: 	DATE=2015-09-19; CAVE=Swinsto Hole > Simpsons Pot; PEOPLE=Jack Hare, Ben Honan, Fiona Hartley, Christina Pickens;
+			DATE=2015-09-19; CAVE=Simpsons Pot > Swinsto Hole; PEOPLE=Rhys Tyers, Oliver Myerscough, William French, Alex Seaton;
+			DATE=2015-09-20; CAVE=Bullpot of the Witches; PEOPLE=Rhys Tyers, Ben Honan, Jack Hare, Christina Pickens;
 Status:
 
 {{ mainimg }}
