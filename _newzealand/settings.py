@@ -4,14 +4,14 @@ from __future__ import unicode_literals
 
 PATH = 'content'
 SUBSITE_PATH = 'newzealand'
-ROOTDIR = '../'
+ROOTLOC = './'
 
 THEME = 'themes/NZTheme'
 
 STATIC_PATHS = ['assets', 'photo_archive']
 
-PLUGIN_PATHS = ['plugins']
+PLUGIN_PATHS = ['../plugins']
 
-PLUGINS = ['photoarchive', 'saveoldnz', 'inlinephotos']
+PLUGINS = ['photoarchive', 'inlinephotos']
 
 ARTICLE_EXCLUDES = ['oldnz']

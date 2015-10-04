@@ -6,7 +6,7 @@ SITENAME = u'Migovec Cave Exploration'
 
 PATH = 'content'
 SUBSITE_PATH = 'slovenia'
-ROOTDIR = '../'
+ROOTLOC = './'
 
 THEME = 'themes/SlovTheme'
 
