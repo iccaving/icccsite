@@ -236,7 +236,7 @@ pre {
 
 .container {
 	width: 800px;
-	margin: 20px auto 20px auto;
+	margin: 20px auto 20px calc((100vw - 800px)/2 - 220px);;
 }
 
 /*-----------------------------Sidebar properties-----------------------------*/
@@ -573,10 +573,10 @@ td, th {
  }
  tbody {
 	  > tr:nth-child(even) {
-   		background-color:#ffffff
+   		background-color:rgba(255,255,255,0.83);
 		}
 		> tr:nth-child(odd) {
-	    background-color:#f5f5f5
+	    background-color:rgba(245,245,245,0.83);
 	  }
  }
 
@@ -705,21 +705,13 @@ hr.hrsidebartop {
 
 	/* Below 1500px right-col removed, centre col resized and given some padding against the left col */
 @media screen and (max-width: 1500px) {
-.container {
-	padding-left: 5px;
-}
-.center-col {
-	width: calc(100% - 220px);
-}
-.right-col {
-	/*display: none;*/
-}
 }
 
 /* Below 1100px*/
 @media screen and (max-width: 1100px) {
 	.container {
 		width: calc(100% - 20px);
+		margin: 20px auto 20px auto;
 	}
 	.maindisplay {
 		max-width: 100%;
