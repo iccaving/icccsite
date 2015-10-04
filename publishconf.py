@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = '/rcc/caving/topsecret'
+SITEURL = '/rcc/caving'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -20,7 +20,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Needed if the SITEURL is not the root of the website
 # Write how to modify the SITEURL to get to the root
-ROOTLOC = "../"
+ROOTLOC = "/"
 
 
 # Following items are often useful when publishing
