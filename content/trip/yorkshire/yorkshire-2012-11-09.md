@@ -8,8 +8,8 @@ Mainimg: 2012-11-10-12.48.53-JarvistFrost-PowershotG5-IMG_0005-LostJohns.jpg
 Thumbl: 2012-11-10-13.56.50-JarvistFrost-PowershotG5-CRW_0043-LostJohns-Centipede--thumb.jpg
 Thumbr: 2012-11-10-17.49.16-JarvistFrost-PowershotG5-CRW_0117-LostJohns-Monastry--thumb.jpg
 Authors: Caroline Ainsworth, Pierre Blacque
-Cavepeeps: DATE=2012-11-10; CAVE=Lost Johns' Cave; PEOPLE=Jarvist Frost, Clare Tan, Andy Jurd, Fiona Hartley, Rhys Tyers, Oliver Myerscough, Mehdi Ben Slama, Sam Page, Caroline Ainsworth, Pierre Blacque, Sean Peezick, David Kirkpatrick, Catherine Claudet
-           DATE=2012-11-11; CAVE=Notts Pot 2; PEOPLE=Clare Tan, Andy Jurd, Fiona Hartley, Rhys Tyers, Oliver Myerscough, Mehdi Ben Slama, Sam Page, Caroline Ainsworth, Sean Peezick, David Kirkpatrick, Catherine Claudet
+Cavepeeps: DATE=2012-11-10; CAVE=Lost Johns' Cave; PEOPLE=Jarvist Frost, Clare Tan, Andy Jurd, Fiona Hartley, Rhys Tyers, Oliver Myerscough, Mehdi Ben Slama, Sam Page, Caroline Ainsworth, Pierre Blacque, Sean Peezick, Dave Kirkpatrick, Catherine Claudet
+           DATE=2012-11-11; CAVE=Notts Pot 2; PEOPLE=Clare Tan, Andy Jurd, Fiona Hartley, Rhys Tyers, Oliver Myerscough, Mehdi Ben Slama, Sam Page, Caroline Ainsworth, Sean Peezick, Dave Kirkpatrick, Catherine Claudet
 Oldurl: /rcc/caving/yorkshire/yorkshire-2012-11-09.php
 Status:
 

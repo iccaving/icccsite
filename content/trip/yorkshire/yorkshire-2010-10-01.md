@@ -5,7 +5,7 @@ Summary: Beautiful little start to the caving year, with a pre-term trip to the 
 Type: trip
 Authors: Jarv, Jarv, Jarv,
 Cavepeeps: DATE=2010-10-02;CAVE=Bull Pot; PEOPLE=Jarvist Frost, Niko Kral, Alex Herriott;
-           DATE=2010-10-02;CAVE=Jingling Pot; PEOPLE=Kate Smith, Dave Wilson, Pete Hambley;
+           DATE=2010-10-02;CAVE=Jingling Pot; PEOPLE=Kate Smith, Dave Wilson, Pete Hambly;
            DATE=2010-10-02;CAVE=King Pot; PEOPLE=Tetley, Clare Tan, Myles Denton;
            DATE=2010-10-02;CAVE=Marble Steps; PEOPLE=Sandeep Mavadia, Shed, Jan Evetts, Goaty;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2010-10-01.php
