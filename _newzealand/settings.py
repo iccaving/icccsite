@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 PATH = 'content'
 SUBSITE_PATH = 'newzealand'
+ROOTDIR = '../'
 
 THEME = 'themes/NZTheme'
 
