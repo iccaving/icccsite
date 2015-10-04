@@ -37,7 +37,7 @@ Thumbl: filename including extension of image in photoarchive folder to display 
 
 Thumbr: same but the right thumbnail
 
-Author: The authors of the article, seperated by commas e.g. "Stores Gnomes, Stores Mice"
+Authors: The authors of the article, seperated by commas e.g. "Stores Gnomes, Stores Mice"
 
 Cavepeeps: A list of the trips that happened. Normal trips and through trips supported. Format as below:
 DATE=YYYY-MM-DD; CAVE=Cave 1; PEOPLE=Person 1, Person 2, Person 3, Person 4;
