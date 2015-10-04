@@ -55,18 +55,37 @@ Imperial College Caving Club
                 {% endif %}
               {% endif %}
               <div class="content-summary">
-              {{ article.summary }}
+              {% if article.type != 'index' %}{{ article.summary }}{% else %}{{ article.content }}{% endif %}
               </div>
           </div>
           <div class="content-footer">
-            <div class="content-footer-left">
-              <a class="footer-button" href="{{ SITEURL }}/{{ article.url }}">More</a>
-            </div>
-            <div class="content-footer-right">
+            {% if article.type != 'index' %}
               {% if article.archiveloc is defined %}
-                  <a class="footer-button" href="{{ SITEURL }}/{{ article.archiveloc }}">Photos</a>
+              <div class="content-footer-left">
+                <a class="footer-button" href="{{ SITEURL }}/{{ article.url }}">More</a>
+              </div>
+              <div class="content-footer-right">
+                    <a class="footer-button" href="{{ SITEURL }}/{{ article.archiveloc }}">Photos</a>
+              </div>
+              {% else  %}
+              <div class="content-footer-center">
+                <a class="footer-button" href="{{ SITEURL }}/{{ article.url }}">More</a>
+              </div>
               {% endif %}
-            </div>
+            {% else %}
+              {% if article.archiveloc is defined %}
+              <div class="content-footer-left">
+                <a class="footer-button" href="{{ article.link }}">{{ article.linktext }}</a>
+              </div>
+              <div class="content-footer-right">
+                    <a class="footer-button" href="{{ SITEURL }}/{{ article.archiveloc }}">Photos</a>
+              </div>
+              {% else  %}
+              <div class="content-footer-center">
+                <a class="footer-button" href="{{ article.link }}">{{ article.linktext }}</a>
+              </div>
+              {% endif %}
+            {% endif %}
           </div>
         </div>
 
