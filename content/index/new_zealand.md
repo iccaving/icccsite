@@ -8,7 +8,7 @@ Mainimg:
 Thumbl:
 Thumbr:
 Authors:
-Cavepeeps:
 Oldurl:
 Status:
 
+In April 2015, eight cavers from Imperial College Caving club went to the south island of New Zealand to search for new cave systems. Poor weather forced us to abandon our original destination of Mt Owen, and we instead went to Takaka Hill. You can find more information on our expedition on our [subsite](https://union.ic.ac.uk/rcc/caving/newzealand/).
