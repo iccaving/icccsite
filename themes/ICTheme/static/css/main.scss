@@ -704,7 +704,16 @@ hr.hrsidebartop {
 	/*-----------------------------Screen size stuff-----------------------------*/
 
 	/* Below 1500px right-col removed, centre col resized and given some padding against the left col */
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 1400px) {
+	.center-col {
+		width: calc(100% - 220px);
+	}
+	.right-col {
+		display: none;
+	}
+	.container {
+		margin: 20px auto 20px auto;
+	}
 }
 
 /* Below 1100px*/
