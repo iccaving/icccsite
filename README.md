@@ -1,13 +1,22 @@
+#Contents
+* [Basic set-up (linux)](#basic)
+* [Writing Trip Reports (linux)](#write)
+* [Writing Trip Reports (windows)](#winduhs)
+* [Advanced Setup; building the site and uploading](#advanced)
+* [Advanced editing](#change)
+* [Plugins](#plugins)
 Instructions are based on a linux set up but the semantic procedure (if not commands) should be the same. Scroll down for the Windows GUI version.
 
-#Basic set up
+#<a id="basic"></a>Basic set up
 
 Install git! Get yourself a github account. Add yourself (by logging into the iccaving github account) or get someone to add you as a contributer to https://github.com/iccavingrepo/.
 Then set up the repo on your computer.
 
     git clone https://github.com/iccavingrepo/icccsite
 
-#Writing Trip Reports
+Now make sure you've got a good text editor that allows you to select text encoding and line break encoding. For reference the site uses utf-8 and lf (unix) line breaks. This will save a lot of trouble later. For linux, the Gedit editor allows this. I use [atom](atom.io).
+
+#<a id="write"></a>Writing Trip Reports
 First pull the repo so you're up to date. Navigate to the directory then:
 
     git pull
@@ -15,7 +24,7 @@ First pull the repo so you're up to date. Navigate to the directory then:
 Then add your write your trip report as a markdown file (.md extenstion) to the content/ folder. If its a standard post or trip report stick it in the content/articles/ folder. Try to keep to the placename-yyyy-mm-dd.md filename format where possible.
 
 ##File layout
-There is a template.md file in the root of the repo. Copy and paste this and fill it according to the instructions within. If in doubt have a look at an existing article.  
+There is a template.md file in the root of the repo. Copy and paste this and fill it according to the instructions within. If in doubt have a look at an existing article. Make sure to use your nice editor with utf-8 and lf line breaks.
 
 The key points are:
 * There is a set of metadata at the top of each file. Make sure to fill this out
@@ -138,18 +147,18 @@ This will generate the site "locally". Change to the output directory and start 
 
 Navigate to 0.0.0.0:8000 with your web browser to see it. It is likely that images won't show up.
 
-# Windows GUI set up
+#<a id="winduhs"></a>Windows GUI set up
 Shit, that looks well hard. What's a poor Windows user to do? If you prefer clicking to typing, read on.
 
-Get yourself a [github](https://github.com/) account. Then install [Github for Windows](https://desktop.github.com/). Get someone else to add you to the repo. When you launch GitHub, click the + in the top left, then choose iccavingrepo->icccsite. Github will ask you where to download the repo to - I suggest My Documents. It will download all the files. To make a new trip report, copy template.md to the appropriate folder and then rename to something sensible like yorkshire-2015-09-02.md 
+Get yourself a [github](https://github.com/) account. Then install [Github for Windows](https://desktop.github.com/). Get someone else to add you to the repo. When you launch GitHub, click the + in the top left, then choose iccavingrepo->icccsite. Github will ask you where to download the repo to - I suggest My Documents. It will download all the files. To make a new trip report, copy template.md to the appropriate folder and then rename to something sensible like yorkshire-2015-09-02.md
 
 You can then edit them using [MarkdownPad](https://markdownpad.com/download.html). This is cute cos it shows what the text will look like on the right hand page, which is useful for spotting obvious mistakes.
 
-Once you're happy with your trip report, you can commit your change - go to Github, and it should have '1 uncommitted change' in the top bar. Click there, enter a description of your commit, click commit to master, then click sync in the top right. 
+Once you're happy with your trip report, you can commit your change - go to Github, and it should have '1 uncommitted change' in the top bar. Click there, enter a description of your commit, click commit to master, then click sync in the top right.
 
 Building and synchronising the website on Windows is not as straightforwards - if you are capable of doing it, then you're unlikely to be reading this section. The advice for linux below applies.
 
-#Advanced Set Up
+#<a id="advanced"></a>Advanced Set Up
 If you want to be able to build and deploy the site yourself look here, otherwise ignore.
 ###Installing Pelican
 First make sure you have python 3. Python 2 will not work, it doesn't do unicode easily so I can't be bothered with it. If you like you can install virtualenv and then everything is set up in the env/ folder. You can then also use the publish.sh script. Otherwise:
@@ -185,7 +194,26 @@ The photos are a bit more complicated. To do this you will need at least SFTP ac
 * In the relevant article, fill out the relevent metadata. (This can be done before making the folder/uploading photos, the links will just be dead until you do)
 Done.
 
-#Subsites
+#<a id="change"></a>Changing other parts of the site
+Hello awful cavers of the future. So you're sick of the shade of grey I chose for the sidebar? Or you've decided that freshers don't need an FAQ link in the sidebar, they need a gif of some genitals? Well against my better judgement this section is for you.
+
+If it's not the content of a trip report or a page you're trying to change (you can't find it in the md files in articles/ or it appears everywhere, like the header or sidebar) then it's likely its part of the theme of the site. Navigate to 'themes/ICTheme/'. There's two subfolders. "Static" contains the css and javascript files. Templates contains other stuff.
+
+##CSS
+You can change an awful lot of the website just from the CSS. All of the styling stuff is here (colours, fonts, text sizes, layout). I've used the SASS css preprocessor to enable things like variables and nested css selectors which is very handy. So to edit this you should install SASS. Then edit the main.scss file or the mobile.scss file, run sass on it to generate the css file and build the website as normal.
+
+At the moment there are some media queries to change the site for smaller screens and they are included in the main.scss file but when the screen size drops below a certain threshold it loads the mobile.scss file in addition which overrides lots of things. I did this because the mobile site is quite different and it seemed tidier.
+
+##javascript
+There's a couple of JS libraries in use. Jquery, which I don't think anyone using javascript could without. sorttable allows for sortable tables. There's a little readme in the file itself. There's also a cookie library which was mainly used on a custom photo gallery page.
+
+##Templates
+The entire site is based on templates. They use a templating language called Jinja. After reading all of the articles and pages in the website looks at the templates to see how you want the information displayed. Most of them (articles/pages templates) are very much just structural, telling Pelican where to put the information from the articles/pages and containing no content themselves. The main exception to this is the sidebar. The sidebar templates is in the includes/ subdirectory and contains quite a lot of non-autogenerated content. So its a good place to look to change things.
+
+#Plugins<a id="plugins"></a>
+Its possible to write plug ins for pelican that allow you do some pretty awesome things. Here I will document the plug ins active on the IC site.
+
+##Subsites
 There is a plugin that allows subs sites to be added easily (like the NZ or Slov sites). They are treated essentially entirely seperate from the main site so you can have different plugins and completely different themes. Though its probably best just to modfiy the colour scheme slightly :P.
 ###Set up
 It works like the main site. There is a content folder to put articles in, a plug in folder for site specific plugins, a themes folder for a site specific theme. The settings file is a little different. It has to be called "settings.py" and reside in the root of the subsite.
