@@ -3,7 +3,7 @@ Authors:
 Location: page
 Type: page
 
-Preferably get in contact by email, directed to:-&nbsp;&nbsp;<img src="iccc-email.gif">
+Preferably get in contact by email, accessible [here](http://www.google.com/recaptcha/mailhide/d?k=01pKgPf4L76j23E4ymTAu8fw==&c=CoX_UvK7tWMqLjrzhcaEXTCP8fRKKSw-Cl1eAzdIcj4=).
 
 Our address is:
 <address>
