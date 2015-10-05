@@ -1,11 +1,16 @@
 Title: New Zealand
 Date: 2015-05-01
 Photoarchive: /rcc/caving/photo_archive/newzealand/2015-04-02%20-%20New%20Zealand/
+Thumbl: RhysTyers-DSC_0113--thumb.jpg
+Thumbr: TanguyRacine-DSC_0200--thumb.jpg
 Location: New Zealand
-Summary: The report! A full account of what went on, with complete with photos and expedition log book extracts. A rollercoaster of a story in over 30 chapters, crammed with sizzling kiwis.
+Summary: The report! A full account of what went on, complete with photos and expedition log book extracts. A rollercoaster of a story in over 30 chapters, crammed with sizzling kiwis.
 Authors: Rhys Tyers, Jack Hare, Tanguy Racine
 
 #New Zealand Post-expedition Report
+
+{center}("coverpage.png")
+
 Here's our report in full. You can also find it in pdf form [here](/rcc/caving/FILES/expeditions/2015%20-%20new%20zealand/ICCC_TABA_2015_Report.pdf) as well as our photos from the expedition [here](/rcc/caving/photo_archive/newzealand/2015-04-02%20-%20New%20Zealand/).
 
 #Contents
@@ -121,7 +126,12 @@ Power for headtorches, helmet lights, radios and GPS units was provided by non-r
 We adopted the NZ standard of 10 mm diameter bolts. We used galvanized Ramset Trubolts and Petzl hangers. Holes were drilled with Makita DHR164RFJ rotary impact drill with 5000mAh 14.4 V LiPo batteries attached by 1.5m fly leads so they could be stored in a tackle sack away from the drill. We used 10 mm SDS plus Hilti quad flute impact drill bits, which we highly recommend. For feathers and wedges we used custom 16 mm feather and wedge sets and single flute 16 mm SDS plus drill bit.
 
 ##<a class="anchor" id="com"></a>Communications
+
+{center}("CeciliaKan-P4120692.JPG")
+{left}("AlexSeaton-IMGP3679.jpg")
+
 We had a satellite phone lent by the Exploration board. We did not use it to make any calls, but the text message functionality proved useful for contacting local cavers when we were out of cell phone reception. The provision of 900 MHz (long wavelength) 3G cell phone reception even in remote parts of New Zealand allowed us to gather long range weather forecasts, email out updates and contact our local contacts. We had four walkie talkies for use around camp which had an effective range of around 3 km. These were vital for coordinating throughout the day and we highly recommend them to other expeditions.
+
 ##<a class="anchor" id="base"></a>Base Camp
 Our base camp was usually made from multiple tarpaulins hung over ropes tied between tree. We had two 20L Jerry cans for water, which we purified using Micropur powder at 1g/100L. We had a two burner gas stove with a 20kg bottle provided by Kieran Mckay for cooking, augmented by an Optimus Polaris multi-fuel stove burning kerosene.
 ##<a class="anchor" id="org"></a>Organisation

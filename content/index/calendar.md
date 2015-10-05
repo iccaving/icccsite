@@ -16,7 +16,7 @@ Type: stickyindex
 ##Fresher Info
 
 * We have weekly meetings Tuesday 7.00pm in the Union Bar, everyone is welcome.
-* Tree Training (practice rope descending/climbing) on Wednesday at 2pm in Princes Gardens
+* Tree Training (practice rope descending/climbing) on Wednesday at 12pm in Princes Gardens
 * Weekend trips fortnightly during term
 
 Club membership is £24 [(click to buy online)](https://www.imperialcollegeunion.org/shop/club-society-project-products/caving-products/10187/caving-membership-15-16), first two trips of the year are £10 for new members, £35 thereafter. Bring food for the journey up, everything else provided for. [Click here for more information]({filename}/pages/clubinfo.md).
