@@ -1,4 +1,4 @@
-Instructions are based on a linux set up but the semantic procedure (if not commands) should be the same.
+Instructions are based on a linux set up but the semantic procedure (if not commands) should be the same. Scroll down for the Windows GUI version.
 
 #Basic set up
 
@@ -138,6 +138,17 @@ This will generate the site "locally". Change to the output directory and start 
 
 Navigate to 0.0.0.0:8000 with your web browser to see it. It is likely that images won't show up.
 
+# Windows GUI set up
+Shit, that looks well hard. What's a poor Windows user to do? If you prefer clicking to typing, read on.
+
+Get yourself a [github](https://github.com/) account. Then install [Github for Windows](https://desktop.github.com/). Get someone else to add you to the repo. When you launch GitHub, click the + in the top left, then choose iccavingrepo->icccsite. Github will ask you where to download the repo to - I suggest My Documents. It will download all the files. To make a new trip report, copy template.md to the appropriate folder and then rename to something sensible like yorkshire-2015-09-02.md 
+
+You can then edit them using [MarkdownPad](https://markdownpad.com/download.html). This is cute cos it shows what the text will look like on the right hand page, which is useful for spotting obvious mistakes.
+
+Once you're happy with your trip report, you can commit your change - go to Github, and it should have '1 uncommitted change' in the top bar. Click there, enter a description of your commit, click commit to master, then click sync in the top right. 
+
+Building and synchronising the website on Windows is not as straightforwards - if you are capable of doing it, then you're unlikely to be reading this section. The advice for linux below applies.
+
 #Advanced Set Up
 If you want to be able to build and deploy the site yourself look here, otherwise ignore.
 ###Installing Pelican
@@ -146,6 +157,8 @@ First make sure you have python 3. Python 2 will not work, it doesn't do unicode
 Pelican is a python based static site generator. Install it:
 
     pip install pelican
+
+Note that `python -m pip install pelican` might be necessary depending on your `PATH`.
 
 Install the Markdown package as that is what the trip reports should be written in:
 
