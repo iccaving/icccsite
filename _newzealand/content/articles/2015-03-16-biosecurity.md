@@ -2,7 +2,7 @@ Title: Why I am a Biohazard
 Date: 2015-03-16
 Location: Caving Club Stores
 Summary: We turn out to be hazardous material in the eyes of the New Zealand border control. It seems foreign dirt is not something they want on their soil. Unfortunately our kit is mostly comprised of dirt.
-Photoarchive: ../photo_archive/newzealand/2015-03-16%20-%20Biosecurity
+Photoarchive: /rcc/caving/photo_archive/newzealand/2015-03-16%20-%20Biosecurity
 Mainimg: RhysTyers_IMG_20150313_202642.jpg
 Thumbl: RhysTyers_IMG_20150313_203310--thumb.jpg
 Thumbr: RhysTyers_IMG_20150313_202706--thumb.jpg
@@ -16,7 +16,7 @@ As it happens, it is not our devious intentions with regard to their birds that 
 
 {!"Item 2: Delicious bird (Kiwi)" center}("http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TeTuatahianui.jpg/450px-TeTuatahianui.jpg")
 
-Even things such as rucksacks harbour a great deal of deportable material. My rucksack in particular had sands from Italian beaches, gravel from Swiss canyons, soil from Spanish mountains, and a mould carefully grown throughout these travels deeply embedded in it. This is true also of our tents and shoes. If caught carrying some illicit dirty material into the country we could be fined, jailed or forced to inhale the intoxicating musk of the Kakapo as punishment. 
+Even things such as rucksacks harbour a great deal of deportable material. My rucksack in particular had sands from Italian beaches, gravel from Swiss canyons, soil from Spanish mountains, and a mould carefully grown throughout these travels deeply embedded in it. This is true also of our tents and shoes. If caught carrying some illicit dirty material into the country we could be fined, jailed or forced to inhale the intoxicating musk of the Kakapo as punishment.
 
 {!"Item 3: Delicious bird (Moa) - All eaten" center}("http://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Megalapteryx.png/419px-Megalapteryx.png")
 

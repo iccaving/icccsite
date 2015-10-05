@@ -3,7 +3,7 @@ Date: 2012-12-14
 Location: yorkshire
 Summary: Ah, Winter Tour! Recently we've had a lotta lotta snow. This year we had a lotta lotta rain, while the temperature stayed resolutely above freezing. Though this restricted our choice of caves, it meant that at least we didn't have any problems driving to the entrances! <br>The usual mix of hardcore caving, experimental cooking (with the now excellent NPC facilities) and one-on-one tuition of leading and rigging skills was enjoyed by over a dozen cavers who made it along.
 Type: tour
-Photoarchive: photo_archive/tours/2012%20-%20yorkshire%20winter/
+Photoarchive: /rcc/caving/photo_archive/tours/2012%20-%20yorkshire%20winter/
 Mainimg: Izi-Notts1%20-%2010.JPG
 Thumbl: 2012-12-20-20.24.24-Jarvist%20Frost-SK17i%20Phone-DSC_0789--thumb.jpg
 Thumbr: 2012-12-16-12.53.29-Jarvist%20Frost-SK17i%20Phone-DSC_0783--thumb.jpg

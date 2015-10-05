@@ -3,7 +3,7 @@ Date: 2006-12-15
 Location: yorkshire
 Summary: Back from the Yorks winter tour, just in time for Crimbo! <br>Highlight was a great exchange trip down Lost Johns' (Centipede / Dome), with Tuetonic duets while we waited to enjoy the lovely rigging and amazing pitches. Other caves include Aquamole, Rowten, County (to Holbeck Jnct), Lancaster (to Waterfall Chamber), Yordas Pot and Jingling. <br>A few lucky boys and girls got to stay up in Yorks over Christmas, whereupon they found themselves in the middle of a Christmas Day rescue! <br>Read all about it in the 5000 word epic of a report...
 Type: tour
-Photoarchive: photo_archive/tours/2006%20-%20yorkshire%20winter/
+Photoarchive: /rcc/caving/photo_archive/tours/2006%20-%20yorkshire%20winter/
 Mainimg: jarvist_frost-team_lost_johns.jpg
 Thumbl: 2006-yorkshire_winter-jana_carga-IMG_7757--thumb.jpg
 Thumbr: jarvist_frost-team_lost_johns--thumb.jpg
