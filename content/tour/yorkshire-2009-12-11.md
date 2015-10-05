@@ -3,7 +3,7 @@ Date: 2009-12-11
 Location: yorkshire
 Summary: White out! Yorkshire absolutely stunning looking with a good metre of snow up on the Dales. Beautiful caving once underground, but getting the transit up the snowed out roads was impossible. <br>Still, had a great day on Leck fell (walking from Leck) bottoming Notts I and getting some Lost Johns' action in. Monday expedition to Gaping saw a brilliant Bar-Stream-Dis meta exchange; a great day of caving for all involved, no matter what experience.<br>Greenclose was an absolute delight; warm fires, comfy beds, & ace showers.
 Type: tour
-Photoarchive: photo_archive/tours/2009%20-%20yorkshire%20winter
+Photoarchive: /rcc/caving/photo_archive/tours/2009%20-%20yorkshire%20winter
 Authors: Jarvist Frost
 Cavepeeps: DATE=2009-12-12; CAVE=Notts Pot 1; PEOPLE=Jarvist Frost, Andy Jurd, Alex Herriott, William French, Jana Carga, Nathan Daniels, Ste, James Berg, Dave Wilson, Martin McGowan, Tetley, Clare Tan;
            DATE=2009-12-14; CAVE=Bar Pot; PEOPLE=William French;

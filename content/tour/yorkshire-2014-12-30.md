@@ -3,7 +3,7 @@ Date: 2014-12-30
 Location: Yorkshire
 Summary: We've survived another year of caving and what better way to cap it off than a week in beautiful Yorkshire? This winter tour saw us welcoming the New Year in Easegill, some classic Lost John's action, a trip to the ever-impressive Gaping Ghyll, and a rope rescue training sesh to finish!
 Type: tour
-Photoarchive: photo_archive/tours/2014%20-%20yorkshire%20winter
+Photoarchive: /rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter
 Mainimg: RhysTyers_DSC_0678.JPG
 Thumbl: RhysTyers_DSC_0607--thumb.jpg
 Thumbr: AlexSeaton_IMGP2402--thumb.jpg

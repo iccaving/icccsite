@@ -23,7 +23,7 @@ class AttrTagPattern(Pattern):
             a.set('href', m.group(7)[1:-1])
         elif m.group(2) == '{':
             el.set('src', self.md.Meta['photoarchive'][0] + '/' + m.group(7)[1:-1])
-            a.set('href', self.md.Meta['photoarchive'][0] + '/?image=' + m.group(7)[1:-1])
+            a.set('href', self.md.Meta['photoarchive'][0] + '/' + m.group(7)[1:-1])
         if m.group(4) == 'center':
             figure.set('class', 'article-img-center')
         elif  m.group(4) == 'left':

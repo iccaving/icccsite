@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 {% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
-{% block head %}<BASE href="{{ SITEURL }}/">{% endblock %}
+{% block head %}<BASE href="{{ SITEURL }}/{{ article.url }}">{% endblock %}
 
 {% block banner %}{{ article.title }} <div class="banner-date">{{ article.date.strftime('%d-%m-%Y') }}</div> {% endblock banner %}
 
@@ -13,9 +13,9 @@
         {% if article.mainimg != '' %}
           {% if article.archiveloc %}
             <div class="mainimg">
-              <a href="{{ SITEURL }}/{{ article.archiveloc }}"><img src="{{SITEURL}}/{{ article.archiveloc }}{{ article.mainimg}}"></a>
+              <a href="{{ article.archiveloc }}"><img src="{{ article.archiveloc }}{{ article.mainimg}}"></a>
             </div>
-            <div class="photo-button-wrapper"><a class="photo-button" href="{{ SITEURL }}/{{ article.archiveloc }}">Photos</a></div>
+            <div class="photo-button-wrapper"><a class="photo-button" href="{{ article.archiveloc }}">Photos</a></div>
           {% endif %}
         {% endif %}
       {% endif %}

@@ -3,7 +3,7 @@ Date: 2008-12-12
 Location: yorkshire
 Summary: Our Winter tour to Yorkshire was a densely packed week of some of the best caving on offer in the UK. We had deep rope trips, novel exploration by the boys with the Bosch GBH aid climbing their way up a 10m chimney above a 35m pitch (alas, the chimney led not to Santa, but to a choked bedding plane), epic expeds through the might of the Easegill system, decadent consumption of roast dinners and the usual caving hut shenanigans.
 Type: tour
-Photoarchive: photo_archive/tours/2008%20-%20yorkshire%20winter/
+Photoarchive: /rcc/caving/photo_archive/tours/2008%20-%20yorkshire%20winter/
 Mainimg: jarvist%20frost%20-%20canon%20g5%20-%20flood-stream%20exchange%20gaping%20gill%20-%20gaping%20gill%20main%20chamber%20waterfall%20andy%20jurd%20with%20flash2-sqaurecrop.jpg
 Thumbl: jarvist%20frost%20-%20canon%20g5%20-%20flood-stream%20exchange%20gaping%20gill%20-%20gaping%20gill%20main%20chamber%20waterfall%20andy%20jurd%20with%20flash2-sqaurecrop--thumb.jpg
 Thumbr: jarvist%20frost%20-%20canon%20g5%20-%20flood-stream%20exchange%20gaping%20gill%20-%20andy%20rigging%20middle%20pitch%20stream-longshot--thumb.jpg

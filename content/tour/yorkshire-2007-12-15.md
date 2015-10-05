@@ -3,7 +3,7 @@ Date: 2007-12-15
 Location: rccyorkshire
 Summary: There will come a time during the next week when you will ask yourself:<br>"Just what have I done in these last few days before Christmas?" <br>The answer: Rat Hole <-> Stream (GG), County Pot <-> Lancaster Hole (EG), Lost Johns', Ireby Fell (ladders), Notts I (Anderson's route + Acrobat series?), Swinstow / Valley Ent
 Type: tour
-Photoarchive: photo_archive/tours/2007%20-%20yorkshire%20winter/
+Photoarchive: /rcc/caving/photo_archive/tours/2007%20-%20yorkshire%20winter/
 Mainimg: jana%20carga%20-%20canon%20eos%20350d%20-follow%20the%20ice%20path%20to%20the%20moon%20-%20ingleborough.jpg
 Thumbl: IMG_0082--thumb.jpg
 Thumbr: IMG_0083--thumb.jpg

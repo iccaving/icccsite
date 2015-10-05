@@ -43,14 +43,14 @@ Imperial College Caving Club
               {% if article.thumbl is defined %}
                 {% if article.thumbl != '' %}
                 <div class="index-thumbl">
-                  <a href="{{ SITEURL }}/{{ article.archiveloc }}{{ article.thumbl|replace("--thumb.jpg", ".html") }}"><img alt="Thumbnail of photo from this article" src="{{SITEURL}}/{{ article.archiveloc }}{{ article.thumbl }}"></a>
+                  <a href="{{ article.archiveloc }}{{ article.thumbl|replace("--thumb.jpg", ".html") }}"><img alt="Thumbnail of photo from this article" src="{{ article.archiveloc }}{{ article.thumbl }}"></a>
                 </div>
                 {% endif %}
               {% endif %}
               {% if article.thumbr is defined %}
                 {% if article.thumbr != '' %}
                 <div class="index-thumbr">
-                  <a href="{{ SITEURL }}/{{ article.archiveloc }}{{ article.thumbr|replace("--thumb.jpg", ".html") }}"><img alt="Thumbnail of photo from this article" src="{{SITEURL}}/{{ article.archiveloc }}{{ article.thumbr }}"></a>
+                  <a href="{{ article.archiveloc }}{{ article.thumbr|replace("--thumb.jpg", ".html") }}"><img alt="Thumbnail of photo from this article" src="{{ article.archiveloc }}{{ article.thumbr }}"></a>
                 </div>
                 {% endif %}
               {% endif %}

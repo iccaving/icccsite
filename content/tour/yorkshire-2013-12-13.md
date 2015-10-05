@@ -3,7 +3,7 @@ Date: 2013-12-13
 Location: yorkshire
 Summary: A classic winter tour, full of debauchery, rain, and van breakdowns. Also some caving. We visited Notts, Lost John's, Rowten, and Easegill. A walk up Ingleborough for good measure too!
 Type: tour
-Photoarchive: photo_archive/tours/2013%20-%20yorkshire%20winter/
+Photoarchive: /rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/
 Mainimg: RhysTyers28.jpg
 Thumbl: Tetley02--thumb.jpg
 Thumbr: JackHare16--thumb.jpg

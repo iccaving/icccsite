@@ -2,7 +2,7 @@ Title: Modifying drills to take external batteries
 Date: 2015-03-15
 Location: Caving Club Stores
 Summary: I spent Sunday evening modifying a Makita drill to use an external battery. The drill is slightly different from the one we already had, and after a bit of experimental soldering, it seems to be working fine. I'm posting this guide in case it helps anyone else wanting to modify one of these drills.
-Photoarchive: ../photo_archive/newzealand/2015-03-15%20-%20Drill%20Modification
+Photoarchive: /rcc/caving/photo_archive/newzealand/2015-03-15%20-%20Drill%20Modification
 Mainimg: IMG_20150315_190658.jpg
 Thumbl: 2015-03-15--thumb.jpg
 Thumbr: IMG_20150315_190041--thumb.jpg

@@ -3,7 +3,7 @@ Date: 2011-12-16
 Location: yorkshire
 Summary: Cracking winter tour, we seemed to have the Dales to ourselves. The NPC was empty: we turned up at 2am, all was dark and we thought no one was there, but Dave and Tetley were, tucked up in their beds. The massive oven was put to good use churning out roast dinner after roast dinner. Weather was fairly kind for once, sub zero with snow on the first weekend (but still driveable), a fairly smooth thaw followed by warm foggy weather.
 Type: tour
-Photoarchive: photo_archive/tours/2011%20-%20yorkshire%20winter
+Photoarchive: /rcc/caving/photo_archive/tours/2011%20-%20yorkshire%20winter
 Mainimg: PC170014.JPG
 Thumbl: PC170015--thumb.jpg
 Thumbr: PC180027--thumb.jpg

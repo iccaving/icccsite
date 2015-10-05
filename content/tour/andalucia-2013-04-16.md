@@ -3,7 +3,7 @@ Date: 2013-04-16
 Location: andalucia
 Summary:  The ICCC once again leaves the confines of Yorkshire! We headed out to Andalucia in Spain for a week of caving, canyoning, via ferrata and most importantly; wine. We succesfully completed 3 caves, including 1 to a depth of 300metres. We traversed several via ferrata routes, a sport sure to return in future tours. And we had a go at 1 canyon. All the time making new friends amongst the local cavers.
 Type: tour
-Photoarchive: photo_archive/tours/2013%20-%20andalucia/
+Photoarchive: /rcc/caving/photo_archive/tours/2013%20-%20andalucia/
 Mainimg: DSC_0809.jpg
 Thumbl: DSC_0468--thumb.jpg
 Thumbr: DSC_0806--thumb.jpg

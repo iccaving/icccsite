@@ -18,11 +18,6 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
-# Needed if the SITEURL is not the root of the website
-# Write how to modify the SITEURL to get to the root
-ROOTLOC = "/"
-
-
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
