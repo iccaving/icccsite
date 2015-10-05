@@ -186,6 +186,8 @@ This will build the site and output it to the output folder. To push the site to
 
     rsync -avz -e "ssh -p 10022" --chmod=ug+rwx,o-wx,o+r output/ username@dougal.union.ic.ac.uk:/home/www/htdocs/rcc/caving
 
+Note that the easiest way to do this on Windows involves Cygwin, and so is not easy by any stretch of the imagination.
+
 ##Photos
 The photos are a bit more complicated. To do this you will need at least SFTP access.
 * Make folder in appropriate location in photo_archive. e.g "/home/www/htdocs/rcc/caving/photo_archive/region/YYYY-MM-DD%20-%20Placename". Note: %20 is just a space character. Your sftp client can probably handle spaces.
