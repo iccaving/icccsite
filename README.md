@@ -5,6 +5,7 @@
 * [Advanced Setup; building the site and uploading](#advanced)
 * [Advanced editing](#change)
 * [Plugins](#plugins)
+
 Instructions are based on a linux set up but the semantic procedure (if not commands) should be the same. Scroll down for the Windows GUI version.
 
 #<a id="basic"></a>Basic set up
