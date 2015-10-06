@@ -500,12 +500,12 @@ a.footer-button {
 
 .article-img-left img {
 	max-width: 100%;
-	max-height: 300px;
+	max-height: 400px;
 }
 
 .article-img-right img {
 	max-width: 100%;
-	max-height: 300px;
+	max-height: 400px;
 }
 
 figcaption {
@@ -705,7 +705,7 @@ hr.hrsidebartop {
 	/*-----------------------------Screen size stuff-----------------------------*/
 
 	/* Below 1500px right-col removed, centre col resized and given some padding against the left col */
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1300px) {
 	.center-col {
 		width: calc(100% - 220px);
 	}
