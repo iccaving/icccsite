@@ -1,3 +1,6 @@
+AddType video/mp4  .mp4
+AddType video/webm .webm
+
 {% for item in oldurls %}
 Redirect 301 {{ item[0] }} {{ item[1] }}
 {% endfor %}
