@@ -1,6 +1,15 @@
+#Ensure correct mime types
 AddType video/mp4  .mp4
 AddType video/webm .webm
 
+#Redirect from old style report to new style report
 {% for item in oldurls %}
 Redirect 301 {{ item[0] }} {{ item[1] }}
 {% endfor %}
+
+RewriteEngine On
+RewriteBase /rcc/caving/
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{DOCUMENT_ROOT}/rcc/caving/old/$1 -f
+RewriteRule ^(.*)$ old/$1 [L]
