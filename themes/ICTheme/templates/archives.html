@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Archives - {{ SITENAME }}{% endblock %}
+{% block head %}<BASE href="{{ SITEURL }}/archives.html">{% endblock %}
+
+{% block banner %}ICCC Archives{% endblock banner %}
+
+
+{% block content %}
+<div class="container">
+  <div class="article-content">
+    <h1>Full list of all articles</h1>
+      <dl>
+      {% for article in dates %}
+          <dt>{{ article.locale_date }}</dt>
+          <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+      {% endfor %}
+      </dl>
+
+      <!--{% include 'includes/disqus.html' %}-->
+    </div>
+</div>
+{% endblock %}
