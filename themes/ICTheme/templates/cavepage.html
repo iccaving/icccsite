@@ -67,7 +67,7 @@
         <tr class="cave" id="{{ item }}">
           <td><a href="{{ SITEURL }}/caves/{{ name }}.html">{{ name }}</a></td>
           <td class="count">{{ number }}</td>
-          <td>{{ recent.strftime('%d-%m-%Y') }}</td>
+          <td style="min-width: 6em;">{{ recent.strftime('%d-%m-%Y') }}</td>
           <td>{% if meta.system is defined %}<a class="searchme" href="#">{{ meta.system }}</a>{% endif %}</td>
           <td>{% if meta.region is defined %}<a class="searchme" href="#">{{ meta.subregion }}</a>{% endif %}</td>
           <td>{% if meta.region is defined %}<a class="searchme" href="#">{{ meta.region }}</a>{% endif %}</td>
