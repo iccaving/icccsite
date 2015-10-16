@@ -530,8 +530,11 @@ figcaption {
 
 /*-----------------------------Table stylings-----------------------------*/
 table.sortable th, table.sortable td {
-	min-width: 6em;
+	min-width: 4em;
 	text-align: center;
+}
+table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
+    content: " \25B4\25BE" 
 }
 
 /*For index on main page*/
