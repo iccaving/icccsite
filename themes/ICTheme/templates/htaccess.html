@@ -12,4 +12,4 @@ RewriteBase /rcc/caving/
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{DOCUMENT_ROOT}/rcc/caving/old/$1 -f
-RewriteRule ^(.*)$ old/$1 [L]
+RewriteRule ^(.*)$ old/$1 [L,R=301]
