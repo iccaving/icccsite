@@ -184,7 +184,7 @@ pre {
 
 .logo {
 	text-align: center;
-	display: table-cell;
+	display: block;
 	min-height: 104px;
 	height: 104px;
 }
@@ -385,11 +385,13 @@ pre {
 .index-thumbl {
 	float: left;
 	margin-right: 10px;
+	max-width: 220px;
 }
 
 .index-thumbr {
 	float: right;
 	margin-left: 10px;
+	max-width: 220px;
 }
 .content-footer {
 	width: 100%;
@@ -534,7 +536,7 @@ table.sortable th, table.sortable td {
 	text-align: center;
 }
 table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
-    content: " \25B4\25BE" 
+    content: " \25B4\25BE"
 }
 
 /*For index on main page*/
