@@ -1,20 +1,22 @@
-Title: Yorkshire 2
+Title: Yorkshire II
 Date: 2015-11-27
 Location: Yorkshire
-Summary: Yorkshire 1 was sadly cancelled, so this was our first SRT trip of the year, to the massive and varied Easegill System in Yorkshire, staying at Bullpot Farm.
+Summary: Yorkshire I was sadly cancelled, so this was our first SRT trip of the year, to the massive and varied Easegill System in Yorkshire, staying at Bullpot Farm.
 Type: trip
-Photoarchive:
+Photoarchive: /rcc/caving/photo_archive/trips/2015-11-27%20-%20yorkshire
 Mainimg: 1b.jpg
 Thumbl:  1o--thumb.jpg
 Thumbr: 1q--thumb.jpg
 Authors: Nuria Devos, Finbarr Fallon
-Cavepeeps: 	DATE=2015-09-19; CAVE=Lancaster Hole > Wretched Rabbit; PEOPLE=Tanguy Racine, Nuria Devos, Arun Paul, James Perry, Cecilia Kan;
-			DATE=2015-09-19; CAVE=County Pot; PEOPLE=Jack Hare, Ramon Winterhalder, Floris Wu, Bhavik Lodhia, Ben Honan;
-			DATE=2015-09-20; CAVE=Lancaster Hole; PEOPLE=Fiona Hartley, Max Hörmann, Arianna Renzini, Alex Seaton, Finbarr Fallon;
+Cavepeeps: 	DATE=2015-11-28; CAVE=Lancaster Hole > Wretched Rabbit; PEOPLE=Tanguy Racine, Nuria Devos, Arun Paul, James Perry, Cecilia Kan;
+			DATE=2015-11-28; CAVE=County Pot; PEOPLE=Jack Hare, Ramon Winterhalder, Floris Wu, Bhavik Lodhia, Ben Honan;
+			DATE=2015-11-28; CAVE=Lancaster Hole; PEOPLE=Fiona Hartley, Max Hörmann, Arianna Renzini, Alex Seaton, Finbarr Fallon;
 Status:
 
 {{ mainimg }}
 #####{{ allpeople }}
+
+### Photos by Finbarr Fallon
 
 ## Friday
 
@@ -30,15 +32,22 @@ After a long day of lectures, it was finally half past 5 and, thus, time to go c
 
 ### Lancaster Hole: Fiona, Max, Arianna, Alex and Fin
 
-An early start the next morning involved a 15 minute walk across the scenic moors, however the gale like wind and heavy rain made this a somewhat chilly endeavour and by the time I arrived I was already shivering from cold. The entrance to the cave system, Lancaster Hole, was a small concrete shaft penetrating the ground vertically. Peering into the shaft one could only make out the first 20 feet downwards, which consisted of a tight cylindrical rock chasm.             
+An early start the next morning involved a 15 minute walk across the scenic moors, however the gale like wind and heavy rain made this a somewhat chilly endeavour and by the time I arrived I was already shivering from cold. The entrance to the cave system, Lancaster Hole, was a small concrete shaft penetrating the ground vertically. Peering into the shaft one could only make out the first 20 feet downwards, which consisted of a tight cylindrical rock chasm.   
+
+{"A tight knit group" left}("1d.jpg")          
 
 Alex was first to enter followed by Arianna. Then my go, and my first use of SRT in a cave! I rigged in and popped into the pipe which led to a rebelay about 10 foot down. Luckily Fiona was on hand to shout instructions down the pipe as I had never done a rebelay before...having clipped into the next section one descended about 20 feet more where the cave shaft  suddenly expanded.
 
 At this point one had to do a mini traverse and rebelay on a rather small ledge. The drop into the darkness below was over 100ft and I was worried of this traverse and rebelay on my own, but Arianna boss moded it ahead of me. With Shia in my head screaming JUST DO IT I reattached myself kicked off the  tiny ledge and luckily I had done the descender right and didn't fall to my death (unlike Max who at the same point forgot the braking crab...which Fiona pointed out at the last second... phew ) . The free hanging descent down all the way was satisfying and I met up with the others at the bottom.
+
+{"Cave Section X" right}("1f.jpg")          
+
                                          
 Following this ropey ordeal we finally had some horizontal exploring and quickly navigated to the beautiful section of cave called X (Ed: Not sure) where we observed large stalactites and took some photos. We then proceeded to X (Ed: Stake pot?) where we met up with Tanguys group who were stopping for lunch. Our aim for the day was to exit out Wretched Rabbit and we continued towards there, spurred on by the echoes of tanguys recorder. There were some short descents involving a hanging rebelay, which went well and we passed directly under a group from another university descending from Something Pot.
 
 A little after this we ate lunch and then came to a small valley which involved some very fun traversing and clipped in freeclimbing, but it took quite a while for the whole group to cross this section. At this point following  a discussion with our leaders and another university group we decided to return back the way we came instead of going to wretched rabbit (of which we didn't really know the way) else we might miss our call out.
+
+{"Exiting the cave" left}("1r.jpg")          
 
 So we returned back to Lancaster hole, getting a little confused for directions here and there but finally made our way back to the hole. We began the long ascent back up- the final pitch was quite tiring and the traverse and rebelay scared me again (first time ascending in a cave and a million times bigger than the tree). I was incredibly relieved to get to the surface, although it was crazy cold and I had to jump up and down for about 40 minutes to stay warm until the rest were out.
 
@@ -48,7 +57,7 @@ A great trip, although the big pitch scared me, and I don’t really like ropes.
 
 #### Fin
 
-## Lancaster Hole to Wretched Rabbit: Tanguy, Arun, James, Cecilia and Nuria
+### Lancaster Hole to Wretched Rabbit: Tanguy, Arun, James, Cecilia and Nuria
 
 After a full British breakfast and making lots of sandwiches, we changed into our caving suits. We were split into teams and Jack gave us a quick explanation on how to do a rebelay or a deviation. 
 
@@ -66,9 +75,9 @@ We walked back, again in this cold and rainy English weather. At some point, we 
 
 #### Nuria
 
-# Sunday
+## Sunday
 
-## Dossing: Everyone
+### Dossing: Everyone
 
 On Sunday I woke up feeling surprisingly good (even though I had the usual bruises around my knees and elbows). I was ready to go caving again but while I was putting my kit on, Jack came in to give us some sad news... We were not going caving today because it was too crowded... However, the day had just begun and we still could do a lot of things!
 
