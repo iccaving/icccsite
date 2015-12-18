@@ -76,3 +76,8 @@ Icy airs and fog forms, plants suddenly lit by gentle LED. Icy gate and step qui
 
 ## Sunday
 
+## Executive summary
+
+"I went into lost Johns, it was quite wet, but not too wet thankfully, on Sunday I went to notts 2, the scaffolding was fun"
+
+#### Will
