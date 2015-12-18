@@ -59,7 +59,20 @@ It was slow going on the way out, but I was proud of the novices for handling th
 
 At the top we met up with Jarv's team heading over the top of us, and then after a short wait Ben caught up and we headed out together, meeting the front half of our group as we went. We returned last, changed in short order and drove back singing 'On the Surface Once Again'.
 
-At the NPC, I cooked up a huge shakshuka with help from most of the club. It's a spicy tomato stew with eggs poached in it, very quick and extremely tasty.
+At the NPC, I cooked up a huge shakshuka with help from most of the club. It's a spicy tomato stew with eggs poached in it, very quick and extremely tasty.  
+> ### Cavers' Shakshuka (serves 16)
+> 
+> - 8 red onions, sliced
+> - 2 bulbs garlic, mashed
+> - 8 bell peppers, sliced
+> - 4 chilli peppers, sliced with seeds
+> - 6 cans tomatoes
+> - 1 tube tomato purée
+> - Smoked paprika
+> - Chilli powder
+> - Cumin
+>
+> Fry the onions and garlic with salt, adding the chillis and bell peppers when soft. Added chopped tomatoes and purée, simmer, adding spice to taste. Made an indentation in the stew, crack eggs into from some height so that they penetrate deeper into the stew. Cover and leave to simmer until egg white is cooked. Serve with crusty bread, cous cous and plain yoghurt.
 
 #### Jack
 
@@ -94,8 +107,20 @@ Icy airs and fog forms, plants suddenly lit by gentle LED. Icy gate and step qui
 
 ## Sunday
 
-## Executive summary
+### Executive summary
 
 "I went into lost Johns, it was quite wet, but not too wet thankfully, on Sunday I went to notts 2, the scaffolding was fun"
 
 #### Will
+
+### Somewhat expanded report
+
+Notts 2 is just a blast. You park right next to the entrance, stroll confidently over, flip the lid off and tell some terrified fresher to lead the way through an Esheresque nightmare of scaffolding, dodgy ladders, electrical wiring, breeze blocks, expanding foam and sodden boards. It's great fun to do the entrance series without using the ladders, especially on the way up. I followed up near the back, and was surprised to find that everyone made it to the dropping cavern just after the dodgy downclimb.
+
+We'd expected the streamway to be too flooded for us to enter, but the water was quite low, with only ominous clumps of foam hanging from the walls three metres up. I'm convinced they were from the flooding yesterday. We made good progress up the streamway, with various novices taking the lead, and I took a huge number of photos, some of which were almost good.
+
+The pretties at the end were even better than I remember, including some superb straws and curtains (even a yellow striped curtain?!). On the way back, we moved quickly under Layla's guidance, arriving back to the minibus in time to whizz to the NPC for crumpets, fruitcake, mince pies and hosing the sheep shit off the tarpaulin.
+
+What a glorious weekend.
+
+#### Jack
