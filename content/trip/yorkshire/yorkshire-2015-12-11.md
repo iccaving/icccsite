@@ -115,7 +115,7 @@ Icy airs and fog forms, plants suddenly lit by gentle LED. Icy gate and step qui
 
 ### Somewhat expanded report
 
-Notts 2 is just a blast. You park right next to the entrance, stroll confidently over, flip the lid off and tell some terrified fresher to lead the way through an Esheresque nightmare of scaffolding, dodgy ladders, electrical wiring, breeze blocks, expanding foam and sodden boards. It's great fun to do the entrance series without using the ladders, especially on the way up. I followed up near the back, and was surprised to find that everyone made it to the dropping cavern just after the dodgy downclimb.
+Notts 2 is just a blast. You park right next to the entrance, stroll confidently over, flip the lid off and tell some terrified fresher to lead the way through an Esheresque nightmare of scaffolding, dodgy ladders, electrical wiring, breeze blocks, expanding foam and sodden boards. It's great fun to do the entrance series without using the ladders, especially on the way up. I followed up near the back, and was surprised to find that everyone made it to the dripping cavern just after the dodgy down climb.
 
 We'd expected the streamway to be too flooded for us to enter, but the water was quite low, with only ominous clumps of foam hanging from the walls three metres up. I'm convinced they were from the flooding yesterday. We made good progress up the streamway, with various novices taking the lead, and I took a huge number of photos, some of which were almost good.
 
