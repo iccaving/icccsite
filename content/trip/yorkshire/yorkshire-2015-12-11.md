@@ -35,8 +35,6 @@ We were waiting for Will to arrive at Clapham on the train, so I briefly demonst
 
 Gosh, it is a godawful place. The sleet came across the fell at Mach 3, completely horizontal. We swung the minibus round to present a broadside to the wind, causing it to rock alarmingly as we desperately changed. Around an hour later, we screamed at each other about tackle sacks until it was time to enter the cave.
 
-
-
 #### Jack
 
 (*) I got the full story on the tube on Sunday night. He'd vomited only once, for sure, but in his old bedroom at his family home, all over the bed and onto the carpet. Since he had to leave to catch the dawn train, he left it uncleaned and emailed his parents, who were leaving themselves that day on holiday, to prewarn them. Truly a caving god amongst us mere mortals.
