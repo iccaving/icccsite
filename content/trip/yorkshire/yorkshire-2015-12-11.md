@@ -1,12 +1,12 @@
 Title: Yorkshire III
-Date: 2015-12-21
+Date: 2015-12-11
 Location: Yorkshire
-Summary: Y
+Summary: A glorious weekend of caving, with two classic trips to Lost Johns' and Notts II. Torrential rain made the route through Monastery impassable, but we had a complex and rewarding exchange deep inside the bowels of the earth, before emerging to a new caving meal, shakshuka. Sunday saw us in Notts II, which was surprisingly unflooded.
 Type: trip
 Photoarchive: 
-Mainimg: 
-Thumbl:  
-Thumbr: 
+Mainimg: JH_Y3_15_8299.JPG
+Thumbl:  JH_Y3_15_8287--thumb.jpg
+Thumbr: JH_Y3_15_8314--thumb.jpg
 Authors: Jack Hare
 Cavepeeps: 	DATE=2015-12-12; CAVE=Lost Johns' Cave; PEOPLE=Jack Hare, Oliver Myerscough, Ben Honan, Peter Ganson, Alex Seaton, Jarvist Frost, William French, Nuria Devos, Arianna Renzini, Max Hörmann, Layla Aston, Kenneth Tan, Bhavik Lodhia, Dave Wilson, Edith Huebner, Isha Shaz;
 			DATE=2015-12-13; CAVE=Notts Pot 2; PEOPLE=Jack Hare, Peter Ganson, Alex Seaton,  William French, Nuria Devos,  Max Hörmann, Layla Aston, Kenneth Tan,  Edith Huebner, Isha Shaz;
@@ -24,6 +24,10 @@ Another weekend, another quick swing by Leamington Spa to collect Alex, who'd be
 Morrisons was amazing. The big yellow glow so near the train station, our promised land of cut price delights, shelves stacked with all a hungry caver could ever need. We shall never darken the corridors of Tesco again.
 
 #### Jarv
+
+This was the third time I was going on a caving trip. However, when I got into the minibus, I felt as excited as if it were my first time. After a long journey to Clapham (Yorkshire) we finally arrived at the famous NPC cottage (which was said to be the spiritual home of the imperial caving club). Everyone was quite tired, so after drinking some tea, we went to sleep.
+
+#### Nuria
 
 ## Saturday
 
@@ -103,6 +107,20 @@ Icy airs and fog forms, plants suddenly lit by gentle LED. Icy gate and step qui
 
 #### Jarv
 
+On Saturday morning, the snow welcomed us. Normally I would have said: “Wow! It looks beautiful! I love snow!” However, the thought that in a few hours I would have to change in my caving suit outside, stopped me from celebrating. 
+
+After breakfast we did some quick review on how to do a rebelay or a deviation and then we set off to the cave (Lost John’s). Changing outside was quite grim but, because of the fact that when we started changing we were warm, it wasn’t too bad.
+
+I was supposed to go, together with Oliver, Alex, Kenneth and Will down Dome and Sink. We started our day walking through the streamway until we reached a long descent which also had a deviation. My first deviation!!!! After successfully completing it, we went down even more, while singing the Titanic song. In fact, the song fitted perfectly well because as we went down, we found more and more water until at some point our path was blocked by it. So we decided to go back and try to find another group. My first ascend began with a little shower due to the presence of a waterfall, but after the first meters it was over. First ascend in a cave successfully completed!!! 
+
+After a while we found Jarvist’s group and after discussing what we were going to do, I continued with Jarvist, Arianna, Kenneth and Will. We walked for a bit, made some funny pictures and then decided to make our way out of the cave through Centipede. We had to wait for a while because there were still some people ascending the (40 m long?) pitch. But Arianna and I found the solution to avoid getting too cold (or at least to forget how cold it was): we started singing songs from The Beatles!! Finally, it was my turn to ascend. Though tiring, it was really cool to go up for such a long time. Picking one of Arianna’s kneepads on my way, I continued until I reached another group. I waited a bit for Jarvist (because I wasn’t sure I would be able to find my way out) and then we walked with him until we were on the surface once again. 
+
+It took me a long time to change into my clothes because my hands were so cold I sometimes couldn’t feel them. However, instead of complaining I suddenly started laughing out loud! 
+
+Back in the comfortably warm cottage, we had some really nice cous-cous with vegetables and eggs cooked by Jack. There were no caving games this night, but some of us played our own games: first Rummi and then... Twister!!!!
+
+#### Nuria
+
 ## Sunday
 
 ### Executive summary
@@ -111,7 +129,7 @@ Icy airs and fog forms, plants suddenly lit by gentle LED. Icy gate and step qui
 
 #### Will
 
-### Somewhat expanded report
+### Somewhat expanded reports
 
 Notts 2 is just a blast. You park right next to the entrance, stroll confidently over, flip the lid off and tell some terrified fresher to lead the way through an Esheresque nightmare of scaffolding, dodgy ladders, electrical wiring, breeze blocks, expanding foam and sodden boards. It's great fun to do the entrance series without using the ladders, especially on the way up. I followed up near the back, and was surprised to find that everyone made it to the dripping cavern just after the dodgy down climb.
 
@@ -122,3 +140,9 @@ The pretties at the end were even better than I remember, including some superb 
 What a glorious weekend.
 
 #### Jack
+
+On Sunday we went to see Notts II, an incredibly beautiful cave. Some time ago, people could only access it by diving, but then someone had the great idea to dig an entrance which didn’t involve getting that wet. This entrance was literally a hole in the ground with lots of ladders and metal bars. It looked like an Escher painting! When we were all down, we walked until a big chamber and made a group photo there. We continued then through the streamway, making a lot of beautiful pictures of the amazing formations we saw in the cave.
+This time, when we got out, it wasn’t that cold and we still had some daylight, so changing was a bit easier. 
+We had some crumpets for lunch, packed everything and started our way back to London again.
+
+#### Nuria
