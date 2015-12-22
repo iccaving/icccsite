@@ -1,0 +1,76 @@
+2015/11/05 12:03:36 [5119] building file list
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/.": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] .d..tp..... ./
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/articles": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/assets": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/author": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/cavers": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/caves": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/feeds": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/newzealand": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/newzealand/articles": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/newzealand/assets": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/newzealand/author": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/newzealand/drafts": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/newzealand/feeds": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/newzealand/pages": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/newzealand/photo_archive": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/newzealand/theme": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/newzealand/theme/css": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/newzealand/theme/fonts": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/newzealand/theme/js": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/pages": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/photo_archive": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/slovenia": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/slovenia/articles": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/slovenia/assets": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/slovenia/author": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/slovenia/feeds": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/slovenia/pages": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/slovenia/photo_archive": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/slovenia/theme": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/slovenia/theme/css": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/slovenia/theme/fonts": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/slovenia/theme/js": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/theme": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/theme/css": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/theme/fonts": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] rsync: failed to set times on "/home/www/htdocs/rcc/caving/theme/js": Operation not permitted (1)
+2015/11/05 12:03:38 [5119] .d..t...... articles/
+2015/11/05 12:03:38 [5119] .d..t...... assets/
+2015/11/05 12:03:38 [5119] .d..t...... author/
+2015/11/05 12:03:38 [5119] .d..t...... cavers/
+2015/11/05 12:03:38 [5119] .d..t...... caves/
+2015/11/05 12:03:38 [5119] .d..t...... feeds/
+2015/11/05 12:03:38 [5119] .d..tp..... newzealand/
+2015/11/05 12:03:38 [5119] .d..t...... newzealand/articles/
+2015/11/05 12:03:38 [5119] .d..t...... newzealand/assets/
+2015/11/05 12:03:38 [5119] .d..t...... newzealand/author/
+2015/11/05 12:03:38 [5119] .d..t...... newzealand/drafts/
+2015/11/05 12:03:38 [5119] .d..t...... newzealand/feeds/
+2015/11/05 12:03:38 [5119] .d..t...... newzealand/pages/
+2015/11/05 12:03:38 [5119] .d..t...... newzealand/photo_archive/
+2015/11/05 12:03:38 [5119] .d..t...... newzealand/theme/
+2015/11/05 12:03:38 [5119] .d..t...... newzealand/theme/css/
+2015/11/05 12:03:38 [5119] .d..t...... newzealand/theme/fonts/
+2015/11/05 12:03:38 [5119] .d..t...... newzealand/theme/js/
+2015/11/05 12:03:38 [5119] .d..t...... pages/
+2015/11/05 12:03:38 [5119] .d..tp..... photo_archive/
+2015/11/05 12:03:38 [5119] .d..t...... slovenia/
+2015/11/05 12:03:38 [5119] .d..t...... slovenia/articles/
+2015/11/05 12:03:38 [5119] .d..t...... slovenia/assets/
+2015/11/05 12:03:38 [5119] .d..t...... slovenia/author/
+2015/11/05 12:03:38 [5119] .d..t...... slovenia/feeds/
+2015/11/05 12:03:38 [5119] .d..t...... slovenia/pages/
+2015/11/05 12:03:38 [5119] .d..t...... slovenia/photo_archive/
+2015/11/05 12:03:38 [5119] .d..t...... slovenia/theme/
+2015/11/05 12:03:38 [5119] .d..t...... slovenia/theme/css/
+2015/11/05 12:03:38 [5119] .d..t...... slovenia/theme/fonts/
+2015/11/05 12:03:38 [5119] .d..t...... slovenia/theme/js/
+2015/11/05 12:03:38 [5119] .d..t...... theme/
+2015/11/05 12:03:38 [5119] .d..t...... theme/css/
+2015/11/05 12:03:38 [5119] .d..t...... theme/fonts/
+2015/11/05 12:03:38 [5119] .d..t...... theme/js/
+2015/11/05 12:03:38 [5119] sent 22,166 bytes  received 4,018 bytes  1,805.79 bytes/sec
+2015/11/05 12:03:38 [5119] total size is 43,906,582  speedup is 1,676.85
+2015/11/05 12:03:38 [5119] rsync error: some files/attrs were not transferred (see previous errors) (code 23) at main.c(1183) [sender=3.1.0]
