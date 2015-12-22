@@ -9,8 +9,9 @@ def getoldurl(generator):
     for article in generator.articles:  # Loop through articles
         # If the article has the oldurl metadata
         if 'oldurl' in article.metadata.keys():
-            oldurls.append(
-                (article.metadata['oldurl'], generator.settings["SITEURL"] + "/" + article.url))
+            if article.metadata['oldurl'] is not '':
+                oldurls.append(
+                    (article.metadata['oldurl'], generator.settings["SITEURL"] + "/" + article.url))
     generator.context['oldurls'] = oldurls
 
 
