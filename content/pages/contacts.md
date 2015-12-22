@@ -63,6 +63,12 @@ London SW7 2BB
 </a>
 <figcaption><strong>Social Secretary:</strong><br>Sarah Gian</figcaption>
 </figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Tanguy%20Racine.html">
+<img src="/rcc/caving/photo_archive/mugshots/Tanguy%20Racine--thumb.jpg">
+</a>
+<figcaption><strong>The Shadow Cabinet:</strong><br>Tanguy Racine</figcaption>
+</figure>
 </span></div>
 
 ##Committee 2014-2015
