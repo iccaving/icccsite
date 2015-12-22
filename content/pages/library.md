@@ -29,6 +29,14 @@ This award is for most creative use of a bodily fluid. The award consists of <st
 
 <a onClick="$('#awards').toggleClass('nodisplay'); return false;">Show Recipients</a>
 <div id="awards" class="nodisplay";">
+<h2>2014</h2>
+<h3>For Evans' Sake: <i>James O'Hanlon</i></h3>
+<p>
+A dedicated boy determined to put blood, sweat and tears into the pursuit of caving. Unfortunately literally by grating a large portion of his finger into the cheese subsequently served on a freshers trip in Wales.</p>
+<h3>Herman Herz:<i> Rhys Tyers </i></h3>
+<p>
+At -850m and after a long trip to Colorado Sump (Duck) Rhys made the error of standing on a rock. The large door sized slab of rock tipped over a ledge, taking Rhys with it. The ground was fortunately only half a metre away and the rock which should have continued its rotation and squished Rhys against the wall stopped perfectly vertically.
+</p>
 <h2>2013</h2>
 <h3>For Evans' Sake: <i>Chris Keeley</i></h3>
 <p>
