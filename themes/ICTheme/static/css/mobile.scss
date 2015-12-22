@@ -25,6 +25,10 @@ a:visited { }
 /* Useful Tags */
 .nodisplay { }
 
+.mobile {
+  display: inline-block;
+}
+
 /* Column Layout */
 
 .banner {
@@ -103,7 +107,7 @@ a:visited { }
 
 .center-col {
     float: none;
-    margin: 80px 0 0 0;
+    margin: 86px 0 0 0;
     width: 100%
 }
 
@@ -112,7 +116,7 @@ a:visited { }
 }
 
 .container {
-  padding: 0;
+  padding: 7px 0 0 0;
   margin: 0;
   width: 100%;
 }
@@ -184,7 +188,12 @@ a.footer-button:visited { }
 
 /*Article and Page Content Styling */
 .article-content {
-overflow: hidden;
+  margin: 0 10px;
+  overflow: hidden;
+ }
+
+ .mainimg {
+ 	padding: 0;
  }
 
 .mainimg img {
