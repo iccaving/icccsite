@@ -107,7 +107,7 @@ a:visited { }
 
 .center-col {
     float: none;
-    margin: 86px 0 0 0;
+    margin: 75px 0 0 0;
     width: 100%
 }
 
@@ -256,6 +256,7 @@ table.sortable th, table.sortable td {
 table {
  }
 td, th {
+  padding: 0.3rem;
  }
  tbody > tr:nth-child(even) {
  }
