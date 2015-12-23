@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg: JH_Y3_15_8299.JPG
 Thumbl:  JH_Y3_15_8287--thumb.jpg
 Thumbr: JH_Y3_15_8314--thumb.jpg
-Authors: Jack Hare
+Authors: Jack Hare, Jarvist Frost, Nuria Devos, Max Hörmann, Bhavik Lodhia
 Cavepeeps: 	DATE=2015-12-12; CAVE=Lost Johns' Cave; PEOPLE=Jack Hare, Oliver Myerscough, Ben Honan, Peter Ganson, Alex Seaton, Jarvist Frost, William French, Nuria Devos, Arianna Renzini, Max Hörmann, Layla Aston, Kenneth Tan, Bhavik Lodhia, Dave Wilson, Edith Huebner, Isha Shaz;
 			DATE=2015-12-13; CAVE=Notts Pot 2; PEOPLE=Jack Hare, Peter Ganson, Alex Seaton,  William French, Nuria Devos,  Max Hörmann, Layla Aston, Kenneth Tan,  Edith Huebner, Isha Shaz;
 Status:
@@ -121,6 +121,28 @@ Back in the comfortably warm cottage, we had some really nice cous-cous with veg
 
 #### Nuria
 
+We arrived around midnight in the hut in Yorkshire. It was a great hut we had for our own. I went to bed soon. Saturday morning we had a great ICCC breakfast with eggy fried bread, beans, würstel and I think mushrooms and toilet afterwards. I put on the ferry and wetsocks already in the hut and then we drove to the cave. It was even colder than two weeks before at the Lancaster hole entry. So we were really glad after entering the cave. Lost John's is amazing. You walk into it through a small river. This is a beautiful entry. So much more beautiful than a gully. After a small traverse in the beginning our groups splitted up. I was with Arianna and Bhavik. Our leader was caving veteran Jarvist. We started with a small 3 meter pitch after a short traverse. It was nice to start with something easy. After that we had to pass a longer rigged traverse. At its end was a pitch. The abseiling was interrupted by one deviation which probably was there because of a ledge. I was a few times to high to undo the crab, but in the end managed to do it. Down the pitch I was eased. We waited for Bhavik. Suddenly we heard a bang and a scream. We were really worried what happened to Bhavik. 
+
+He felt down on the ledge. Something went wrong when he did the abseiling. Jarv went up to him and we were glad to hear that he was physically fine. But of course he was really shocked and I was as well. 
+
+When we went down dome I tried to be even more vigilant while rigging my descender. The abseiling itself was fine. What I really don't like is the waiting. You stand close to an abyss, look down the pitch and wait for going down. It's bad cause you can't do anything. The deviation was again easy. This time I used my long cowstails and put it in the myon to make it easier. 
+
+I went through the dome window. This is really cool. Abseiling into a window. In the end the rope is horizontally and one can pull oneself with the rope into the window. I made the mistake to not hardlock my descender while doing this. So I droped down a little bit but it wasn't bad. 
+
+We couldn't go down much deeper in the cave because of the high water level. I went out with the first group. From now on Olly was my new leader, another caving veteran. He helped me when I got stuck in the end after ascending all the way up centipede. I ascended too high – bad – and couldn't undo my jammers. Luckily Olly build a loop for me to step in and  I could release myself. 
+
+The sky was really beautiful. It is always a nice moment when you come out the cave again. We were the first at the minibus and put on our warm dry clothes. We enjoyed ourselves sitting inside the minibus when the next groups arrived and had to get rid off their caving equipment. 
+
+#### Max
+
+Through the darkness, the path was bleak. Specks of light refelecting off droplets of water raining down from the limestone ceiling above gave hope in the treacherous road ahead. Ropes rigged and deviations set, the time to venture forth had come. 
+
+Descending into the abyss, disaster struck. As my right foot hit the ground, my foot became perpendicular to my leg. As I reached down the anticipation grew. Upon discovering that my Wellington boot had simply become dislodged and prasing gods I didnt even know, I proceeded on the perilous journey ahead. After many more descents, the time to return surface had come.
+
+As the journey came to an end, the stars of the Yorkshire night sky greeted us. Yorkshire, I will be back!
+
+#### Bhavik
+
 ## Sunday
 
 ### Executive summary
@@ -146,3 +168,13 @@ This time, when we got out, it wasn’t that cold and we still had some daylight
 We had some crumpets for lunch, packed everything and started our way back to London again.
 
 #### Nuria
+
+Notts 2 on Sunday was great as well. An artificial entry built to a cave which was only discovered by cave diving. Nice! 
+
+I felt like a miner when I went down the shaft. At the bottom we followed the streamway. The cave was beautiful and we saw beautiful stones, while calcite and white foam. The foam was above our head level, probably showing the water level of Saturday. Going up was easy and straightforward.
+
+We got back to the hut and packed stuff. I tried Soreen during the drive. It is really disgusting and awful. Bhavik made me jealous with his stories of excursions to the Arctic, Saudi-Arabia and the Alps.
+
+All in all I really enjoyed this caving trip and got more confident with SRT technique.
+
+#### Max

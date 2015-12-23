@@ -7,7 +7,7 @@ Photoarchive: /rcc/caving/photo_archive/trips/2015-11-27%20-%20yorkshire
 Mainimg: 1b.jpg
 Thumbl:  1o--thumb.jpg
 Thumbr: 1q--thumb.jpg
-Authors: Nuria Devos, Finbarr Fallon
+Authors: Nuria Devos, Finbarr Fallon, Max Hörmann
 Cavepeeps: 	DATE=2015-11-28; CAVE=Lancaster Hole > Wretched Rabbit; PEOPLE=Tanguy Racine, Nuria Devos, Arun Paul, James Perry, Cecilia Kan;
 			DATE=2015-11-28; CAVE=County Pot; PEOPLE=Jack Hare, Ramon Winterhalder, Floris Wu, Bhavik Lodhia, Ben Honan;
 			DATE=2015-11-28; CAVE=Lancaster Hole; PEOPLE=Fiona Hartley, Max Hörmann, Arianna Renzini, Alex Seaton, Finbarr Fallon;
@@ -27,6 +27,10 @@ After an exceedingly long drive, we arrived around 1 am at Bullpot farm, I shall
 After a long day of lectures, it was finally half past 5 and, thus, time to go caving!!! I grabbed my stuff and went to stores. This time I already knew some people from my previous trip to Wales, but I was also glad to see some new faces. We loaded the mini-van and set off as soon as we could. On our way we stopped to do some shopping and grab some dinner, as our expected arrival time was really late (1:30). We arrived at the hut and try to find some space to sleep, which was a bit difficult because it was really crowded.
 
 #### Nuria
+
+It was a relaxed drive during which Tanguy explained to me the meaning of the French national anthem and how caves in Yorkshire formed. We arrived some minutes after midnight in the caving hut where a lot of people stayed for the weekend. So it was quite cosy in the sleeping rooms. I soon got to bed. Saturday morning we had the usual eggy fried bread breakfast with lot of cinnamon and sugar. I ate a lot. The day before I also ate a lot at Burger King. Chicken Big King and Long Deluxe Cheeseburger for 4 pounds, which is good value for the money. 
+
+#### Max
 
 ## Saturday
 
@@ -56,6 +60,24 @@ We had been underground about 10 hours I think, which went super quick, we got b
 A great trip, although the big pitch scared me, and I don’t really like ropes.
 
 #### Fin
+
+We made ourselves ready for the cave. A lot of people struggled putting on their kit, me as well. After we all finished Jack showed us how to deal with rebeleys and how to put the rope through the descender, the breaking crap, hardlock, softlock and so on. It was a lot to memorize, when you see it the first time, but all of it was important for safety in a cave. So that's why there's tree training !
+
+The entry to Lancaster hole is terrifying. It's looks like a gully! Everybody is going into the hole, so I think: “Why not? Can't be too bad!“ The weather was windy, rainy and really cold. Because Tanguy wasn't able to find Lancaster hole, our group, which was led by Fiona and Alex, went in at first. Alex started, then Arianna, Finn and then me. I put the rope wrong through the descender at first. There's a big difference doing it at tree training with no frozen hands and no fear. So before going in a cave I really think it's good to be able to put the rope through the descender properly blindfolded. Fiona supervised me and everything was fine for the start. The first rebeley comes about 2 m below the entry and with Fionas help I could do it. 
+
+Then for the second one, maybe 5 metres below the entry and one where you can stand on a ledge, I got insecure. It was already dark and my lights didn't work well. So I asked Fiona, who then started to scream something about my breaking crap. I got confused. I understood something is wrong but didn't really know what to do. I looked down the ledge and saw that it's going down a lot of metres. I realized, if I fall down there this is the end. From this moment on for me caving was and is a dangerous sport. People might tell you everything is secure and I think they are right – but only if you are not making mistakes with the technical stuff. I didn't  know exactly what I had to do while I was standing on the ledge. I got angst-ridden which isn't a help. Luckily there was Fiona who knew what she was doing. She told me to put on the cowstails. Then she came down and helped me. It was good she came down cause I didn't use my breaking crab for the abseiling from the first to the second rebeley. Doing the same on a rope 30 metres over the ground would have been dangerous. She helped me getting over the second rebeley and I got down to Finn, Alex and Arianna. They had to wait quite a while for me. Even worse was the situation for Tanguy's group. They had to wait outside in the cold Yorkshire weather.
+
+After going down Lancaster hole I realized that I need a toilet. All the food in me created a constant pressure with only one way to be released. But there was no possibility because it is not good to shit in a cave. So this was bad. Always go to a toilet before going down a cave. You can enjoy your time in the cave much more then. Also people told me that on my helmet it is written dodgy. In my Germanness I didn't get the meaning of that. But as the lights didn't work how they should, dodgy helmets are definitely not the best to choose. 
+
+We met Tanguy's group after a while. He played flute and was relaxed. I asked myself who he only can be that relaxed. For the next pitch I joined Tanguy's group because they took an easier way than my group. After descending down I used the moment for a piss. The pressure inside me lowered down to a tolerable level. 
+
+We met other cavers, they told us how long our planed way might take and we decided to turn around. We saw fancy stalagmites and stalagtites and in the end had to get up Lancaster hole again.
+
+This was scary again, though less than going down for me. Alex ascended at first. Fiona and Finn got out before me, because they were cold and so would reach the warm hut earlier. But they didn't know the way. So when I was on the surface once again I saw three freezing people. Despite his cold hands and fingers Finn did a really good job and made nice pictures of everyone.  
+
+Back in the hut, the food was already prepared. It was a good curry. I enjoyed it. But before it I enjoyed the bathroom facilities of the hut. The usual caving games followed. Nuria of course won all of them. Hanging on a table with only one hand on it she had time to smile and make her hair with the other hand. Amazing.
+
+#### Max
 
 ### Lancaster Hole to Wretched Rabbit: Tanguy, Arun, James, Cecilia and Nuria
 
@@ -88,3 +110,9 @@ After this, we set off to London. In the last bit of our journey we drank some r
 This was my second caving trip and despite the grim weather, I enjoyed it and had as much fun as in my first trip. Looking forward to Yorkshire III!!!!!!
 
 #### Nuria
+
+Next day caving was cancelled because another group already went down the same cave.
+
+We drove home making one stop in Illingdon to get a good tea and sweets. For me it was a scary trip with many strong impressions. Maybe because it was so scary  I think I learnt a lot.
+
+#### Max
