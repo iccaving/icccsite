@@ -5,7 +5,7 @@ Type: index
 Link: /rcc/caving/slovenia/
 Linktext: Slovenia Subsite
 
-<a href="/caving/old/slovenia/slov2012/gw_2012-11-08-working_copy-extended-elevation.pdf"><img alt="" src="/caving/old/slovenia/slov2012/gw_2012-11-08-working_copy-extended-elevation.jpg" style="float: right;"></a>
+<a href="/caving/old/slovenia/slov2012/gw_2012-11-08-working_copy-extended-elevation.pdf"><img alt="Image of cave Extended Elevation survey" src="/caving/old/slovenia/slov2012/gw_2012-11-08-working_copy-extended-elevation.jpg" style="float: right;"></a>
 
  Gathering together all the various results of our summer expedition is taking a long time—the complexity of the total, now connected, system is requiring a lot of effort to produce a survey on the same projection. We have thousands of photos to edit & select from, hundreds of expedition reports & stories to gather. However, motivated by some immoveable deadlines, we have managed to get together a provisional written report (as submitted to our Union as our summer tour report), and produced a provisional Extended-Elevation survey (with Slovene labels, for submission to the Jamar magazine).
 
