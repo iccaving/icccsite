@@ -15,7 +15,7 @@ Status:
 
 <div class="mainimg">
 <a href="http://picasaweb.google.com/andyjurd/LuxmoreCaves1516Oct10#">
-<img width="384" height="512" src="newzealand-2010-10-15.jpg"></a>
+<img width="384" height="512" src="https://lh3.googleusercontent.com/-Bq1oFdiSRF0/TL0Q1PjuAbI/AAAAAAAANKQ/g7-8naAfOpo/s640-Ic42/RIMG0016.JPG"></a>
 </div>
 
 Kitlist:
