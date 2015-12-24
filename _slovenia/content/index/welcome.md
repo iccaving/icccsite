@@ -53,6 +53,6 @@ Buy it from LULU.com</a> at the cost price of ~8 squid 45 pennies (including P&a
 <br>
 <br><a href="/caving/FILES/expeditions/slovenia/hollowmountain/hollowmountain/dec07-BOTH_COVERS_LULU_300DPI.pdf">300dpi PDF of wrap-around cover (56MB)</a>
 
-For cave data, please see [The Caves of Migovec]({filename}).
+For cave data, please see [the Github Repo.](https://github.com/jarvist/migovecsurveydata)
 
 ####Jarvist Frost
