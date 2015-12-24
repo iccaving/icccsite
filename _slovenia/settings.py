@@ -6,12 +6,11 @@ SITENAME = u'Migovec Cave Exploration'
 
 PATH = 'content'
 SUBSITE_PATH = 'slovenia'
-ROOTLOC = './'
 
 THEME = 'themes/SlovTheme'
 
 STATIC_PATHS = ['assets', 'photo_archive']
 
-PLUGIN_PATHS = ['plugins']
+PLUGIN_PATHS = ['../plugins']
 
 PLUGINS = ['photoarchive', 'inlinephotos']
