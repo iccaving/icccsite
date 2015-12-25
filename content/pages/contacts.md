@@ -3,9 +3,13 @@ Authors:
 Location: page
 Type: page
 
+##Addresses
+
 Preferably get in contact by email, accessible [here](http://www.google.com/recaptcha/mailhide/d?k=01pKgPf4L76j23E4ymTAu8fw==&c=CoX_UvK7tWMqLjrzhcaEXTCP8fRKKSw-Cl1eAzdIcj4=).
 
-Our address is:
+You can find us on facebook [here](https://www.facebook.com/groups/imperialcaving/).
+
+Our physical address is:
 <address>
 Imperial College Caving Club <br>
 Beit Quad <br>
