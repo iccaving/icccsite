@@ -337,7 +337,6 @@ pre {
 .content-box {
 	margin: 0 0 20px 0;
 	width: 100%;
-	border-radius: 2px;
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
 	background-color: $transwhite;
 }
@@ -577,7 +576,7 @@ table {
   font-family: Roboto, Tahoma, Arial, sans-serif;
  }
 td, th {
-  padding: 0.7rem;
+  padding: 0.5rem;
   font-weight: 400;
   text-align: left;
  }
