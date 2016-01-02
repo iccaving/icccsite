@@ -18,22 +18,32 @@ Status:
 
 ##Tuesday 29th
 
-We drove to Yorkshire. It was rather boring and involved a lot of M1 action. While driving, we were phoned by Ben who had broken himself mountain biking.
+We drove to Yorkshire. It was rather boring and involved a lot of M1 action.
+While driving, we were phoned by Ben who had broken himself mountain biking.
 
 ##Wednesday 30th
 
-### King Pot: Jarv, Will Scott, Kenneth, William French
+### King Pot: Jarv, Will Scott, Kenneth Tan, William French
+### Jingling Pot: Jack, Rhys, Catalina, Kelvin Choi, Christina Pickings
+### Rowten: Tanguy, Ishia, Edith, Alex Seaton
 
 ## Thursday 31st
 
-### Lancs -> Spiral WR: Jarv, Alex Seaton, 
+### Lancs -> Spiral WR: Jarv, Alex Seaton, Tanguy
+
+(Nb: Tanguy did Lancs -> Count, Edith came out spiral).
+
+### WR -> County: 
+### County --> WR: 
 
 ## Friday 1st
 ### Gaping Gill exchange (Flood, Bar, Stream)
 
+### Stream: Jarv, Edith (in), Alex Seaton, 
+
 ## Saturday 2nd
 ### Sell Gill: Jack Hare, 
-### Bull pot (Kingsdale): Alex Seaton
+### Bull pot (Kingsdale): Alex Seaton, 
 
 ## Sunday 3rd
 
