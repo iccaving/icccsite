@@ -35,7 +35,7 @@ This was the third time I was going on a caving trip. However, when I got into t
 
 I rose early and almost collided with Nuria and Arianna coming up the stairs - they had decided to launch a joint expedition to the loo. A classic caving breakfast ensued, but it turned out we'd forgotten to buy any baked beans! Fortunately, Jarv found a box with some of his old food in, and as the beans were less than two years out of date we went for them. Delicious.
 
-We were waiting for Will to arrive at Clapham on the train, so I briefly demonstrated a deviation to our new cavers, followed by my Drill Sergeant impression as they practised hard locking. We grabbed a bedraggled looking Will, who defensively told us he'd only vomited once this morning (*), and set off to Leck Fell.
+We were waiting for our final member to arrive at Clapham on the train, so I briefly demonstrated a deviation to our new cavers, followed by my Drill Sergeant impression as they practised hard locking. We grabbed the bedraggled looking straggler, who defensively told us that he'd only vomited once this morning (*), and set off to Leck Fell.
 
 Gosh, it is a godawful place. The sleet came across the fell at Mach 3, completely horizontal. We swung the minibus round to present a broadside to the wind, causing it to rock alarmingly as we desperately changed. Around an hour later, we screamed at each other about tackle sacks until it was time to enter the cave.
 
