@@ -46,6 +46,13 @@ After picking up Alex, we drove diagonally to catch the M6 west of Stoke-on-Tren
 
 #### Tanguy
 
+
+What to say about this winter tour? In some ways it was quite different from the others I’ve attended. For one thing it was first time I’ve ever caved on three consecutive days apart from at underground camp in Sardinia in 2014. No, I don't recognise myself either! Is ‘new year, new you’ actually possible?
+
+Nah...
+
+#### Fiona
+
 ##Wednesday 30th
 
 ### King Pot: Jarv, Will Scott, Kenneth Tan, William French
@@ -104,6 +111,14 @@ During a very animated conversation about cave exploration, the summers in Slove
 
 ### Stream: Jarv, Edith (in), Alex Seaton, 
 
+### Jinglng Pot: Fiona, Dave W
+
+New Year’s Day marked the first time for years I was remotely willing to do a Gaping Gill entrance again. However, Dave Wilson offered another option: practise rigging in Jingling Pot. I accepted immediately. I rigged Little Gully into Lateral Cleft and down to the bottom of the main shaft, with Dave on hand behind me teaching and advising. I found leaning out over the empty space of the Jingling shaft hanging on my own descender and alpine butterflies a bit nerve wracking, to be honest. Otherwise it was good fun.
+
+We decided final wasn’t worth the effort and headed out, Dave derigging in the fading sunlight.  A fun and interesting trip -- by far the most technical rigging I've ever done (which isn’t saying much, but still). I hope to remember at least some of what I learned for next time.
+
+#### Fiona
+
 ## Saturday 2nd
 ### Sell Gill: Jack Hare, 
 
@@ -123,7 +138,21 @@ Back at the NPC, a monumental vegetable roast cooked by Jarv was awaiting us, wh
 
 ### Bull pot (Kingsdale): Alex Seaton, 
 
+### Heron Pot: Fiona and the NPC
+
+On ICCC’s rest day I went to Heron Pot with NPC members. I’d never been there before and Clive Westlake wanted to take some photos of the large pitch. I couldn’t pass up the chance to get nice photographic evidence of me in a cave. Also I’d already visited the caves IC was considering.
+
+Clive and Geoff said some have described East Kingsdale caves as “juvenile to the point of delinquency”, so I didn’t know quite what to expect. Heron is easy, good fun, and much prettier than I expected. The streamway is quite decorated. We took the high level route to avoid the waterfalls. Quite literally in the middle of the traverse the screw gate karabiner of my long cowstail jammed shut, preventing me from moving to the pitch head. Eventually* the dynamic rope of my cowstail was retied around a new krab. Freed from my temporary perch in the roof, we carried on.
+
+At the bottom of the pitch we continued downstream until the roof lowers. It’s possible to crawl through water towards the lower entrance into Gaze Gill. Clive and Geoff looked at me as if to say ‘go for it’ but I declined, and modelled for photos of the main pitch. Maybe one of Clive’s photos will even come out looking okay after a digital touchup. I’d love to do the pull-through trip down to Gaze Gill someday.
+
+*No amount of weight could persuade the krab to open, nor did initial bashes against the rock. On the way out Geoff managed to open it by banging it hard against the cave wall, and advised further lubrication of the gate. Fnarr fnarr.
+
+#### Fiona
+
 ## Sunday 3rd
+
+### Bullpot: Tanguy, Kenneth, Fiona, Edith and Kelvin
 
 Winter Tour was slowly creeping to its end, and Sunday was our last SRT trip. As our contingent of cavers had been purged during the weekend, only two teams remained, one going to Rowten Pot – Jack, Christina, Catalina and Alex- while I took Kenneth and Edith with Fiona and Kelvin to Bull Pot to practise rigging.
  
@@ -137,6 +166,14 @@ Back at the bus, we took off our wet gear for the last time before driving back 
  
 #### Tanguy
 
+DKP was suitably disappointed to see me going caving on Sunday. I’m almost ashamed of myself. I looked at the grim weather and for some reason thought ‘oh yes, I'll go caving in that’ as opposed to my normal Sunday attitude of ‘nahhhh I’m all right just sitting here thanks’. I’m not sure if this advantage of doing easy caves is actually good thing.
+
+I tagged along to Bull Pot, where Tanguy could teach Edith and Kenneth how to rig. The most interesting part for me was that I hadn’t been back to Bull since my very first SRT trip there nearly five years ago. I wondered how much easier I would find it. The answer is much, but for the most part the trip was an exercise in keeping warm in wet gear. Tactics including running to the Turbary Road and back while waiting to descend the entrance, ascending and descending the entrance pitch while waiting for the traverse to be rigged, and doing the traverse a few times while rigging proceeded somewhere in front of me.
+
+Kenneth said the bottom of the third pitch was dry. This alleged dry pitch didn’t look dry to me or Tanguy. It turned out he meant in comparison to Sell Gill wet route. Fair enough, but I was still happy not to go down and instead head out with the unneeded rope bag, leading Kenneth and Edith down the hill to the van. Fortunately the others had also bailed from Rowten so there wasn’t much waiting and we headed back for a long evening of food and drink in an abandoned Greenclose.
+
+#### Fiona
+
 ## Monday 4th
 
 ### Rescue practice with Tony Seddon
@@ -146,6 +183,18 @@ The last full day of the tour was dedicated to rescue training in the Ingleborou
 Our last dinner was a Shaksuka cooked by Jack, accompanied by vast amounts of bacon in onion gravy.
 
 #### Tanguy
+
+### A walk up Ingleborough: Fiona and Chrissie
+
+While the others were doing rescue training, Chrissie and I walked from Clapham up into the cloud sitting on Ingleborough. A shooting party had assembled on the track, decked out in the strange traditional garb I associate with the telly rather than real life (until now), and offered us a free brace of pheasants. Sadly, we declined.
+
+At the top we each ate an apple pie to celebrate the glorious view of a cloud from the inside, and took a selfie because I’m young at heart, honest. Then we headed down. Given the limited visibility we gave up on finding the path to Newby. Once out of the cloud we had a good time examining Gaping Gill from the top, spotting the p-bolts for rigging the main shaft, and looking at some other entrances (Rat, Wade’s, Bar, Small Mammal) to the system. This walk is a good way to spend a day, especially when you spend most of the time talking about caving.
+
+Later I found that people who chuck rocks down Gaping Gill are derogatorily described as “idiot tourists” by the CNCC rigging guide. Imagine prussicking up or abseiling down the glorious main shaft, minding your own business, only to be hit by a rock thrown from far above you by some ignorant twit. Idiot doesn’t quite cover it.
+
+With this detached written reassurance that I’m not an idiot, and four days of activity behind me, my winter tour ended on a satisfying note.
+
+#### Fiona
  
 ## Tuesday 5th January 2016
 The time to leave had finally arrived, so we packed up the kit, and gave the NPC a good clean. I cooked some pasta with mustard and cream sauce, and finished the salami in a meaty pizza, after which we drove to Lancaster to pick up Ben and started the long journey home. There was a moment of silence as we all acknowledged this was the en…
