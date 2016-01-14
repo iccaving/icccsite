@@ -74,8 +74,9 @@ def parse_metadata(metadata, article):
 
 
 def articlelink(peoplelist, article, generator):
-    # Function to link articles with lists of people that relate to the trips
-    # in that article
+    # Function to create lists of people on individual trips
+    # and making those lists available to the article
+
     peopletrips = {}
     allpeople = set()
     for item in peoplelist:
@@ -88,17 +89,13 @@ def articlelink(peoplelist, article, generator):
             peopletrips[tripid] = [fullname]
         allpeople.add(fullname)
 
-    # Make the metadata available to the article template
-    # article.peopletrips = article.metadata["peopletrips"] = peopletrips
-    # article.allpeople = article.metadata["allpeople"] = [val for key, val in allpeople.items()]
 
-    # The metadata might need to be used to replace a tag in the article
-    # so add it to the metadata item that will be available to metainserter
     outallpeople = ''
     for index, person in enumerate(allpeople):
         if index > 0:
             outallpeople += ', '
         outallpeople += """<a href='""" + generator.settings["SITEURL"] + """/cavers/""" + person.replace(" ", "%20") + """.html'>""" + person + """</a>"""
+
     outpeopletrips = {}
     for key in peopletrips:
         outpeopletrips[key] = ''
@@ -107,6 +104,8 @@ def articlelink(peoplelist, article, generator):
                 outpeopletrips[key] += ', '
             outpeopletrips[key] += """<a href='""" + generator.settings["SITEURL"] + """/cavers/""" + person.replace(" ", "%20") + """.html'>""" + person + """</a>"""
 
+    # The metadata might need to be used to replace a tag in the article
+    # so add it to the metadata item that will be available to metainserter
     try:
         article.data["allpeople"] = outallpeople
         for key in outpeopletrips:
