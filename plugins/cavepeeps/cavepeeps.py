@@ -81,8 +81,7 @@ def articlelink(peoplelist, article, generator):
     allpeople = set()
     for item in peoplelist:
         fullname = item.person
-        tripid = item.date.strftime('%Y-%m-%d') + '-' + item.cave.translate(
-            {ord(c): None for c in string.punctuation}).replace(' ', '-')
+        tripid = 'DATE=' + item.date.strftime('%Y-%m-%d') + '; CAVE=' + item.cave + ';'
         if tripid in peopletrips.keys():
             peopletrips[tripid].append(fullname)
         else:
