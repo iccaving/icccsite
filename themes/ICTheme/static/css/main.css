@@ -125,11 +125,10 @@ pre {
   font-size: 3rem;
   font-family: Roboto, Tahoma, Arial, sans-serif;
   font-weight: 900;
-  padding: 15px 0 15px 20px;
   color: #E8E8E8;
   display: table-cell;
   width: 100%;
-  vertical-align: top; }
+  vertical-align: middle; }
 
 .banner-title-logo {
   display: none; }
@@ -365,8 +364,6 @@ a.footer-button:hover {
   padding: 0 50px; }
 .article-content h1, .article-content h2, .article-content h3, .article-content h4, .article-content h5 {
   padding: 0 25px; }
-.article-content input {
-  margin: 10px 50px; }
 
 .padless {
   padding: 0 25px; }
