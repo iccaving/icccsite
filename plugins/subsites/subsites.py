@@ -52,6 +52,7 @@ def subsites(pelican_obj):
     basesite = basesettings["SITEURL"]
     # Run through the list of subsites
     for subsite in basesettings["SUBSITES"]:
+        logging.debug('Subsite {}: Started.'.format(subsite.replace('_', '').capitalize()))
         # Turn the settings file into a dictionary and make the relative paths
         # absolute
         newsettings = relativise_path(
@@ -86,7 +87,7 @@ def subsites(pelican_obj):
         for name, val in signals.__dict__.items():
             if hasattr(val, 'receivers'):
                 val.receivers = {}
-
+        logging.debug('Subsite {}: Completed.'.format(subsite.replace('_', '').capitalize()))
 
 def register():
     signals.finalized.connect(subsites)
