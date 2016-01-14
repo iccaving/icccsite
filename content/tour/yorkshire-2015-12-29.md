@@ -1,12 +1,12 @@
 Title: Yorkshire Winter Tour
-Date: 2014-12-29
+Date: 2015-12-29
 Location: Yorkshire
-Summary: We went caving in Yorkshire over New Year.
+Summary: We went caving in Yorkshire over New Year, visiting Kingsdale, Ease Gill, Gaping Ghyll and even as far east as Sell Gill. We ended the week with a cave rescue training day.
 Type: tour
 Photoarchive: /rcc/caving/photo_archive/tours/2015%20-%20yorkshire%20winter
-Mainimg: 
-Thumbl: 
-Thumbr: 
+Mainimg: JH_WT_15_8455.jpg
+Thumbl: JH_WT_15_8469--thumb.jpg
+Thumbr: JH_WT_15_8493--thumb.jpg
 Authors: Jarvist Frost
 Cavepeeps: DATE=2015-12-30; CAVE=King Pot; PEOPLE=Jarvist Frost, Will Scott, Kenneth Tan, William French;
 			DATE=2015-12-30; CAVE=Jingling Pot; PEOPLE=Jack Hare, Rhys Tyers, Catalina Garcia Botero, Kelvin Choi, Christina Pickens;
@@ -21,11 +21,10 @@ Cavepeeps: DATE=2015-12-30; CAVE=King Pot; PEOPLE=Jarvist Frost, Will Scott, Ken
 			DATE=2016-01-01; CAVE=Bar Pot > Bar Pot; PEOPLE= Isha Shaz;
 			DATE=2016-01-01; CAVE=Stream Pot > Stream Pot; PEOPLE= Jarvist Frost, Alex Seaton, Kelvin Choi;
 			DATE=2016-01-01; CAVE=Jingling Pot; PEOPLE= Fiona Hartley, Dave Wilson;
-			DATE=2016-01-02; CAVE=Sell Gill; PEOPLE= Jack Hare, Tanguy Racine, Kenneth Tan, James Nichols;
+			DATE=2016-01-02; CAVE=Sell Gill; PEOPLE=Jack Hare, Tanguy Racine, Kenneth Tan, James Nichols;
 			DATE=2016-01-02; CAVE=Bull Pot; PEOPLE= Alex Seaton, William French, Rosanna Nichols, Catalina Garcia Botero;
 			DATE=2016-01-03; CAVE=Rowten Pot; PEOPLE= Jack Hare, Alex Seaton, Catalina Garcia Botero, Christina Pickens;
 			DATE=2016-01-03; CAVE=Bull Pot; PEOPLE= Tanguy Racine, Fiona Hartley, Edith Huebner, Kenneth Tan, Kelvin Choi;
-
 Status:
 
 {{ mainimg }}
@@ -33,9 +32,6 @@ Status:
 #####{{ allpeople }}
 
 ##Tuesday 29th
-
-We drove to Yorkshire. It was rather boring and involved a lot of M1 action.
-While driving, we were phoned by Ben who had broken himself mountain biking.
 
 Having just flown back from Brittany via Paris the day before, I eagerly packed my caving equipment and a collection of clothes I’d need to survive for one week at the Northern Pennine Club cottage. At 12.pm, I entered Beit Quad heavily laden, ready for action. All cavers arrived on time, and after two hours of efficient packing, the minibus was loaded to the brim.
  
@@ -122,6 +118,7 @@ At Stop Pot, we paused to wait for the County Pot group, lighting a single candl
 ### County Pot to Wretched Rabbit: 
 
 ## Friday 1st
+
 ### Gaping Gill exchange (Flood, Bar, Stream)
 
 The first trip of the New Year was to be to the King of all caverns, Gaping Ghyll’s main chamber.
@@ -160,9 +157,8 @@ Tanguy's gallettes and crepes were delicious, especially the gammon!
 
 #### Jack
 
-### Stream: Jarv, Edith (in), Alex Seaton,
 
-### Jinglng Pot: Fiona, Dave W
+### Jingling Pot: Fiona, Dave W
 
 New Year’s Day marked the first time for years I was remotely willing to do a Gaping Gill entrance again. However, Dave Wilson offered another option: practise rigging in Jingling Pot. I accepted immediately. I rigged Little Gully into Lateral Cleft and down to the bottom of the main shaft, with Dave on hand behind me teaching and advising. I found leaning out over the empty space of the Jingling shaft hanging on my own descender and alpine butterflies a bit nerve wracking, to be honest. Otherwise it was good fun.
 
@@ -171,7 +167,7 @@ We decided final wasn’t worth the effort and headed out, Dave derigging in the
 #### Fiona
 
 ## Saturday 2nd
-### Sell Gill: Jack Hare, 
+### Sell Gill:
 
 After three days of straight caving, and no real plan for the day until late in the morning, I was feeling quite tired, but still longed to do something new.  We decided to cater for Rosannah’s dad James, a rock climber, who wanted to try out SRT. Sell Gill cave provided two different trips: a rigger’s day out in a sporty wet route, and a more relaxed novice trip down the fossil route. Both passages joined at the bottom and led to a bigger cavern followed by a cobbled stream.
  
@@ -191,7 +187,7 @@ James was a good novice - a little nervous, but clearly competent and quick to l
 
 #### Jack
 
-### Bull pot (Kingsdale): Alex Seaton
+### Bull Pot
 
 ### Heron Pot: Fiona and the NPC
 
