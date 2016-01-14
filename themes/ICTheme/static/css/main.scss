@@ -171,12 +171,12 @@ pre {
 .banner-title {
 	font-size: 3rem;
 	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 900;
-	padding: 15px 0 15px 20px;
+	//padding: 15px 0 15px 20px;
 	color: $offwhite;
 
 	display: table-cell;
 	width: 100%;
-	vertical-align: top;
+	vertical-align: middle;
 }
 
 .banner-title-logo {
@@ -455,7 +455,6 @@ a.footer-button {
 		padding: 0 25px;
 	}
 	input {
-	 margin: 10px 50px;
  }
 }
 .padless {
