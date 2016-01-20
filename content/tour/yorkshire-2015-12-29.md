@@ -56,6 +56,8 @@ I love you, Biere Continentale. You make Biere D'or taste good. I bought half a 
 
 ##Wednesday 30th
 
+{{2015-12-30-King-Pot}} 
+
 ### King Pot: Jarv, Will Scott, Kenneth Tan, William French
 
 I was curious to see if a fresher who had never done SRT before would survive King Pot. Apparently, it is possible. i saw Will a few hours later, and he didn't seem that traumatised. 
