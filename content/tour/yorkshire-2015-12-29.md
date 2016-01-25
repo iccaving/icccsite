@@ -43,7 +43,6 @@ After picking up Alex, we drove diagonally to catch the M6 west of Stoke-on-Tren
 
 #### Tanguy
 
-
 What to say about this winter tour? In some ways it was quite different from the others I’ve attended. For one thing it was first time I’ve ever caved on three consecutive days apart from at underground camp in Sardinia in 2014. No, I don't recognise myself either! Is ‘new year, new you’ actually possible?
 
 Nah...
@@ -54,6 +53,14 @@ I love you, Biere Continentale. You make Biere D'or taste good. I bought half a 
 
 #### Jack
 
+I hadn’t been caving for a while. That is to say that it had been almost two months since my one and only caving trip to OFD on Wales 2. Unfortunately, I had been unable to go on any of the other Yorkshire trips, so I had eagerly signed up for the Winter Tour quite a while before.
+
+A short stroll across Beit Quad got me to stores quite early, so I was able to nab some shiny new kit as Jack had suggested. With my recently repaired yellow PVC oversuit, upgraded bison helmet (this was my excuse for not taking part in the Helmet challenges) and the baffling assortment of SRT gear, I felt like a real caver.
+Not much to report on the way up. Without wanting to cause great upset among the club I have to admit I was quite enjoying the red African sunset wine. That was until Christina voiced the opinion that it tasted like marmite which sort of ruined it for me.
+Soup was followed by bed, and I lay awake for a while wondering what the next few days would have in store. Lots of toilet breaks as it would turn out, but that’s just something you have to deal with if you choose to drink Biere Continentale. The caving was really good as well.
+
+#### Will Scott
+
 ##Wednesday 30th
 
 {{2015-12-30-King-Pot}} 
@@ -63,6 +70,24 @@ I love you, Biere Continentale. You make Biere D'or taste good. I bought half a 
 I was curious to see if a fresher who had never done SRT before would survive King Pot. Apparently, it is possible. i saw Will a few hours later, and he didn't seem that traumatised. 
 
 #### Jack
+
+We started the day with a nice cook up. Dangling round the table too long, led Jack to ask the obvious question to us freshers naïve enough to mill around the table – “ would you like to wash up?” To which the only answer is of course “Yes your presidency” with a suitable amount of trembling.
+By the time this was finished the groups had been decided. I would go down King Pot with Jarvist, William and Kenneth. For some reason, Jack thought this was quite funny. A short drive got us to the start point. Remembering the half forgotten ritual, I put on my caving kit with the significant addition of the SRT stuff.
+
+The walk up started quite pleasantly and then led up a steep grassy climb. I asked Jarvis about the cave: “one of the best in Yorkshire” he replied.  Outside the cave, which was just a hole in the ground, William asked “So you haven’t done SRT before?” with his eyebrows raised. And when I brought up the matter with Jarvist his only reply was “should be interesting…” Doubts began to form.
+
+To improve morale, previous exploits of the ICCC to King Pot were retold at this point but not wanting to let down enthusiastic freshers everywhere, I soldiered on. I am struggling now to remember what the cave was like. There were definitely tight squeezes. I haven’t been able to forget the T-shaped passage just yet. There was also a lot of fumbling about with SRT equipment on my part. With hindsight, and actually doing some more potholing, I realise the pitches were pretty awkward too.  
+
+But what Jarvist said when we walked up the hill was right – the best part is the variation – you’re continually active and changing what you’re doing, between crawling, walking, climbing, falling, wading, squeezing and more crawling – King Pot has got it all.
+Still though, I was relieved to reach the daylight again, though by the time we were out, the Sun was long gone.
+
+The walk back seemed longer than I remembered. A combination of sliding, slipping and stumbling got us down the slopes, through the farm and then back onto the road where we had started the day. Finally approaching the minibus a large silhouette, soon to be confirmed as Jack, came to meet us.  “How was the trip?” he called. William answered first “Uneventful”, mine that it was great.
+
+Jarvist was a brilliant guide, I felt safe the whole time, despite it being quite a serious cave. William was incredibly patient as I fumbled with my SRT gear, ascending and descending. And Kenneth, another fresher – though with some SRT experience, completely destroyed the cave taking it in his stride. What a great start to the Winter tour!
+
+The only other thing that I would like to stress is that no-one, unfortunately, was able to complete the three table traverse that evening.
+ 
+#### Will Scott
 
 ### Rowten: Tanguy, Isha, Edith, Alex Seaton
 
