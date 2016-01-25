@@ -114,6 +114,14 @@ I've been using:
 
 Which becomes header 5 as there is no styling by default on the list (other than being links).
 
+Also you can easily print lists of people on a specific trip by copying and pasting what you wrote in the cavepeeps metadata! For example:
+
+    {{ DATE=2016-01-01; CAVE=Jingling Pot; }}
+
+Again, thats just a list of plain links so format it nicely:
+
+    ###{{ DATE=2016-01-01; CAVE=Jingling Pot; }}
+
 There is a plugin active to allow easy inline posting of images. Similar to the way links work in standard markdown:
 
     {"Caption Goes Here Or Not" left}("filename.jpg")
