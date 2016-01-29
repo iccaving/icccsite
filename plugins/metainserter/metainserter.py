@@ -8,24 +8,6 @@ import json
 import codecs
 import os
 
-
-def replacer(value, matchobj):
-    out = ''
-    # Format the metadata for output to the file
-    if matchobj.group(2) == "allpeople":
-        for index, person in enumerate(ast.literal_eval(value)):
-            if index > 0:
-                out += ', '
-            out += """<a href="/cavers/""" + \
-                person.replace(" ", "%20") + """.html">""" + \
-                person + """</a>"""
-    elif matchobj.group(2) == "mainimg":
-        out += """<div class='mainimg'><a href='""" + \
-            os.path.split(
-                value)[0] + """'><img src='""" + value + """'></a></div>"""
-    return out
-
-
 def MetaInserter(path, context):
     if "article" in path:
         # Open html file. Check for metadata
@@ -54,10 +36,12 @@ def MetaInserter(path, context):
                 # If the tag is on a line on its own then markdown will wrap it
                 # with p tags so the first substituion tests for those and
                 # removes the p tags
+                htmlkey = key.replace(">", "&gt;")
+                #html = re.sub(
+                #    r'(<p>\s*?{{\s*?)(' + htmlkey + r')(\s*?}}\s*?</p>)', metadata[key], html)
                 html = re.sub(
-                    '(<p>\s*?{{\s*?)(' + key + ')(\s*?}}\s*?</p>)', metadata[key], html)
-                html = re.sub(
-                    '({{\s*?)(' + key + ')(\s*?}})', metadata[key], html)
+                    r'({{\s*?)(' + htmlkey + r')(\s*?}})', metadata[key], html)
+
             with codecs.open(path, 'w', 'utf-8') as f:
                 f.write(html)
 
