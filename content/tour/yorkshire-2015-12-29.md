@@ -18,7 +18,7 @@ Cavepeeps: DATE=2015-12-30; CAVE=King Pot; PEOPLE=Jarvist Frost, Will Scott, Ken
 			DATE=2016-01-01; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE= Tanguy Racine, Kenneth Tan, Rosanna Nichols;
 			DATE=2016-01-01; CAVE=Stream Pot > Bar Pot; PEOPLE= Edith Huebner;
 			DATE=2016-01-01; CAVE=Flood Entrance Pot > Bar Pot; PEOPLE= Jack Hare, Celia Tinsley, Rhys Tyers;
-			DATE=2016-01-01; CAVE=Bar Pot > Bar Pot; PEOPLE= Isha Shaz;
+			DATE=2016-01-01; CAVE=Bar Pot; PEOPLE= Isha Shaz;
 			DATE=2016-01-01; CAVE=Stream Pot > Stream Pot; PEOPLE= Jarvist Frost, Alex Seaton, Kelvin Choi;
 			DATE=2016-01-01; CAVE=Jingling Pot; PEOPLE= Fiona Hartley, Dave Wilson;
 			DATE=2016-01-02; CAVE=Sell Gill; PEOPLE=Jack Hare, Tanguy Racine, Kenneth Tan, James Nichols;
@@ -34,11 +34,11 @@ Status:
 ##Tuesday 29th
 
 Having just flown back from Brittany via Paris the day before, I eagerly packed my caving equipment and a collection of clothes I’d need to survive for one week at the Northern Pennine Club cottage. At 12.pm, I entered Beit Quad heavily laden, ready for action. All cavers arrived on time, and after two hours of efficient packing, the minibus was loaded to the brim.
- 
+
 On the way to pick up Alex Seaton at the ‘Link Hotel’ near Nottingham, we stopped at Milton Keynes’ Morrison’s to acquire the food necessary to our trip. Careful planning of the meals saw different teams going off in different directions to pick up the ingredients. Rhys was duly appointed OC Drinks consumption and disappeared. Forty minutes later, no less than five trolleys converged towards the check out. Vast amounts of Biere Continentale filled Rhys’s trolley, and the double cream kept coming. A very special South African wine was also purchased and immediately relegated to the rank of sour swill.
- 
+
 On the road, Jack suddenly received a call from a private number, and upon discovering Ben was on the other end of the line, duly reminded him how foreign this made him look. A few seconds later Jack let us know that Ben had had a biking accident during the day and made his way to hospital to have his shoulder checked.
- 
+
 After picking up Alex, we drove diagonally to catch the M6 west of Stoke-on-Trent, looking to avoid flooded roads. We checked in a half-full NPC at 10.pm; Jarv set about to cook a quick cabbage soup with hand crushed peppers. This turned out to be a very tasty snack, appreciated by all.   
 
 #### Tanguy
@@ -63,11 +63,9 @@ Soup was followed by bed, and I lay awake for a while wondering what the next fe
 
 ##Wednesday 30th
 
-{{2015-12-30-King-Pot}} 
+### King Pot: {{ DATE=2015-12-30; CAVE=King Pot; }}
 
-### King Pot: Jarv, Will Scott, Kenneth Tan, William French
-
-I was curious to see if a fresher who had never done SRT before would survive King Pot. Apparently, it is possible. i saw Will a few hours later, and he didn't seem that traumatised. 
+I was curious to see if a fresher who had never done SRT before would survive King Pot. Apparently, it is possible. i saw Will a few hours later, and he didn't seem that traumatised.
 
 #### Jack
 
@@ -86,26 +84,26 @@ The walk back seemed longer than I remembered. A combination of sliding, slippin
 Jarvist was a brilliant guide, I felt safe the whole time, despite it being quite a serious cave. William was incredibly patient as I fumbled with my SRT gear, ascending and descending. And Kenneth, another fresher – though with some SRT experience, completely destroyed the cave taking it in his stride. What a great start to the Winter tour!
 
 The only other thing that I would like to stress is that no-one, unfortunately, was able to complete the three table traverse that evening.
- 
+
 #### Will Scott
 
-### Rowten: Tanguy, Isha, Edith, Alex Seaton
+### Rowten: {{ DATE=2015-12-30; CAVE=Rowten Pot; }}
 
 After a full English breakfast, Jack, Jarv and I concocted a plan for the day. We had total freedom of the Kingsdale caves and decided to lead three trips: Jingling to refresh or introduce SRT, Rowten to perfect it, King pot to sacrifice the Freshers to the caving gods.
- 
+
 Shortly after midday, all 14 people were changing in their dry and fresh caving garments. I led Edith, Alex and Isha up towards Rowten pot in the drizzle and started rigging the Eyehole entrance I had not been down since the final SRT trip of 2013. Descending onto the half-familiar rock bridge and traversing on the left hand wall to the broad ledge overlooking the main shaft brought back memories of the awe and amazement of the young fresher who once descended in the pothole. Edith’s light appeared from the top, and she joined me on the ledge where we started looking for cave worms.
- 
+
 After a time, it became apparent that Isha was having difficulty passing the second rebelay underneath the lip of rock of the entrance. Alex did a wonderful job of instructing her how to get untangled from the tricky rebelay. By the time she was free, I advised her to go back to the minibus and get warm, as she had spent over an hour in the open shaft.
- 
+
 Alex then joined Edith and I on the ledge, so we carried on, rigging the cleft underneath the ledge, and down the very impressive main shaft. Landing on the elevated platform, I rigged the way through the boulder-strewn floor, next to the waterfall that carried a consequent amount of water. I landed in a dry alcove by a small stream inlet; past the ‘Y’-hang bolts of the fly over route. I waited there for Edith, and then Alex. We had a small chocolate and water break and started the way out. Alex derigged, while Edith slowly but surely prussiked up the main hang. Having ascended to the top of the main shaft first, I found a good position on the traverse, and turned my helmet light off to admire the dancing shadows projected by the other cavers.
- 
+
 As we emerged, a lone light bobbing up and down came towards us. Jarv had come to make sure we were all safely out. There was talk of an advanced kitchen party cooking burritos… In the minibus, haggard cavers were starting to recuperate from the King Pot trip.
- 
+
 #### Tanguy
 
-### Jingling Pot: Jack, Rhys, Catalina, Kelvin Choi, Christina Pickings
+### Jingling Pot: {{ DATE=2015-12-30; CAVE=Jingling Pot; }}
 
-I like Jingling. It's got a lot of variety twisted into a series of short pitches, but the daylight from the top enables you to appreciate the scale of the place. We had two freshers who hadn't done SRT before (the third, Will Scott, was sent to King Pot as part of a twisted experiment) so I grabbed Rhys to help me show them the ropes. Literally. Chrissie came along to rig the long hang. 
+I like Jingling. It's got a lot of variety twisted into a series of short pitches, but the daylight from the top enables you to appreciate the scale of the place. We had two freshers who hadn't done SRT before (the third, Will Scott, was sent to King Pot as part of a twisted experiment) so I grabbed Rhys to help me show them the ropes. Literally. Chrissie came along to rig the long hang.
 
 The weather was grim, so as I rigged under the dripping ledge, Rhys and the others huddled in the little entrance rift. I got through, and much to my chagrin was quickly caught by the freshers. They were quite good. Rhys and I herded them over the tight ledge crawl, and then over the big swing out over the abyss, and into the window at the side of the main shaft. There's a tight pitch head at the bottom, which everyone did quite well at, and an almost trivial deviation that requires no effort, but is still an excellent introduction for the uninitiated.
 
@@ -118,23 +116,23 @@ The trip back was quick and uneventful - we used the NPC's bothy bag on the surf
 
 ## Thursday 31st
 
-### Lancaster Hole to Spiral Stairacase WR:
+### Lancaster Hole to Spiral Stairacase WR: {{ DATE=2015-12-31; CAVE=Lancaster Hole > Wretched Rabbit; }}
 
 Jack, Rhys and Ben took the minibus to look for the bike left on the mountain trail in the morning while the rest of us prepared sandwiches for the upcoming epic underground trip to Easegill. Jarv proposed to lead a trip in Lancaster hole and we assigned Jack and Rhys as the respective Wretched Rabbit and County trip leaders.
- 
+
 I cooked up some egg-fried rice just as the bike seekers came back empty handed. Stomachs full, we drove towards Bullpot farm. All the kit bags were unloaded on the muddy gravel road, and wetsocks lay on the ground when it was discovered that the batteries had been left back at the NPC. Jack and Jarv drove back there to retrieve them while the others huddled in the dinner room of Bullpot farm. A few games of ‘Twenty Questions’ later, the minibus arrived and we changed into very slightly fragrant caving garment. All kitted up, Jarv, Will Scott, Alex and I set off across the moor to the concreted entrance of Lancaster hole.
- 
+
 Across Bridge Hall, we climbed up to look at the Colonnades, then turned around and raced down Kath’s way and Bill Taylor’s passage, only to meet Dave, Clive and Dewi at the junction with Montagu East. After exchanging a few words about the water levels in the main drain, we carried on across Fall Pot and down Stake pot into the streamway. It was fast flowing and numbingly cold but no higher than thigh deep. The sporting meanders and plunge pools were a good fun to cross, but the passage came to a timely end in a disorienting boulder choke. Jarv found a large gastropod as wide as 20cm in a breakdown chamber. A couple of constrictions later, we were out in the vast boulder collapse of Oxbow corner.
- 
+
 We then proceeded to the Minarets and the vastness of Corne’s Cavern, where I had wished to take photographs. Due to a pre-flash triggering the firefly before the shutter was open, I was unable to take any good ones. Jarv had brought his small camera with him and therefore took the pictures instead. We slowly moved forward to Snail Cavern where the muffled voices of the other two groups were heard. Bringing the procession to a halt, we all paused and posed for a group photo, and turned around to have soup and sandwiches by candlelight in the Minarets.
- 
+
 The food and hot drinks were a memorable addition to an already epic traverse so far. I volunteered to accompany Jack’s group out County pot, a part of the cave I had not visited in a long time, if at all for some of the passages linking Four Ways chamber to the lower streamway. We passed Poetic Justice, the climb out of Oxford circus and turned right at confusion corner to reach the bottom of the first pitch.
- 
+
 We were out in time for the New Year celebrations back at the NPC where vast amounts of cider and south african swill were mulled, thus greatly improving their taste.
 
 #### Tanguy
 
-### Wretched Rabbit to County Pot: 
+### Wretched Rabbit to County Pot: {{ DATE=2015-12-31; CAVE=Wretched Rabbit > County Pot; }}
 
 Ben had left his bike on the trail when he crashed, and Rhys, Kelvin and I went to retrieve it. It was a glorious day for a walk, windy and sunny and the path was excellent. Rhys regaled us with a long description of his travels, and the time flew by. We walked two and a half miles, far further than Ben could have been, but we wanted to be thorough. Though there were bike tracks in abundance, we could not find the bike. Back at the minibus, we counselled Ben to call the police.
 
@@ -142,33 +140,33 @@ We returned to find everything ready for the New Years Eve Trip. Tanguy, Alex an
 
 At Stop Pot, we paused to wait for the County Pot group, lighting a single candle and sharing a bar of chocolate. Rhys soon arrived, and we moved together towards the Minarets. Far sooner than I though possible we met Jarv's group, who had sped through the system and met us just at the end of the long fossil passage. After a delightful candlelit dinner of soup and sandwiches, we made our way out. We tackled Poetic Justice with ease, but arrived last to Bullpot Farm, from where we dragged the others out to head back to the NPC for mulled wine, mulled cider, Christmas puddings and prossecco (courtesy of the NPC)
 
-### County Pot to Wretched Rabbit: 
+### County Pot to Wretched Rabbit: {{ DATE=2015-12-31; CAVE=County Pot > Wretched Rabbit; }}
 
 ## Friday 1st
 
 ### Gaping Gill exchange (Flood, Bar, Stream)
 
 The first trip of the New Year was to be to the King of all caverns, Gaping Ghyll’s main chamber.
- 
+
 On a chilly but dry morning, we changed into our increasingly fragrant caving garments  and walked from Clapham up the slopes of Ingleborough towards the windswept expanse of moorland where the entrances of Bar, Flood and Stream lay. I clambered down in the shake hole of Bar pot where the constricted first pitch took off.  Having resolved the flash problem of my camera, I took a few photos of Isha and Kenneth descending the first shaft. We regrouped there and slid down the Greasy Slab, under a rock bridge, down an additional boulder slope until I saw a profusion of bolts protecting a downclimb before the second pitch take off. At the bottom of this large 30m drop joining into a large rift passage, I heard a faint rope free echoing from afar. Recognising that it was Jack’s voice, I set off to meet him in South East chamber, a mere half-minute away. The groups joined, and crawled, stooped and then walked towards the main chamber.
- 
+
 A multitude of well fed waterfalls draped the far wall, the chamber as impressive as the first time I saw it. We stopped for chocolate and water on the sandy banks at the north west end of the cavern, after which Rhys and Will Scott were kind enough to hold slave flashes almost right underneath the waterfalls to light up this graceful display of cascading droplets. After a group photo, Kenneth, Rosannah and Will French lead the way back towards Flood entrance, while the other group explored the nearby passages. We met Jarv’s group coming from Stream entrance en-route to South East chamber, and discussed the three-way exchange.
- 
+
 I derriged the pitches of Flood entrance and we were out on the moor once again, facing a long walk down to Clapham. We passed the impressive Trow Gill cliffs on the way, and arrived minutes after the group which had exited via Bar pot. As the third group was expected much later, an advanced kitchen party was formed and I cooked up galettes and crêpes- a traditional breton dish of savoury buckweat pancakes and sweet thin pancakes.
- 
+
 During a very animated conversation about cave exploration, the summers in Slovenia were eventually brought up providing us with ample opportunity to reminisce about exaggerated tales of past glory etc… I could not help but note that Will French was reading the adequate Decline and Fall of the Roman Empire by Gibbons.
 
 #### Tanguy
 
-### Flood to Bar:
+### Flood to Bar: {{ DATE=2016-01-01; CAVE=Flood Entrance Pot > Bar Pot; }}
 
-My memories of Gaping Ghyll are bad. A long series of tough pitches, lots of waiting around and an unforgiving main chamber. So I was pleasantly surprised to find that this trip was nothing of the sort. With Will Scott right behind me, I sped through the rigging, quickly getting to the huge South East Chamber. 
+My memories of Gaping Ghyll are bad. A long series of tough pitches, lots of waiting around and an unforgiving main chamber. So I was pleasantly surprised to find that this trip was nothing of the sort. With Will Scott right behind me, I sped through the rigging, quickly getting to the huge South East Chamber.
 
 I found the deviations entertaining - hard lock, big swing, pull yourself along the wall, hook a hand into the nook, clip the in-situ tat, job's a carrot. On the way down I remembered to look for the window into which I had to swing - in the end I had to descend below it, hard lock and free climb up because I couldn't get the swing into it.
 
 At the bottom, I heard Tanguy and ey-oh'd him over. He rigged a traverse line around the slightly terrifying drop to meet us, and his team quickly followed. We told the freshers to follow the draft, but couldn't remember which way it went, leading Will Scott to dive down a truly grim crawl with deep water before I managed to call him back. When we got out, the others had gone, so we checked a few leads, finding another window out onto the South East chamber, before finding the others.
 
-It's really quite a lot of passage to the main chamber, but boy is it worth it. Standing near the tallest fall you can just catch a glimpse of the bruised purple sky, darkening far above, as the spray lashes a chill into your bones. It is an incredible place to be, unbelievably large. 
+It's really quite a lot of passage to the main chamber, but boy is it worth it. Standing near the tallest fall you can just catch a glimpse of the bruised purple sky, darkening far above, as the spray lashes a chill into your bones. It is an incredible place to be, unbelievably large.
 
 I stayed with the others for a while before getting bored, and free climbed a truly dodgy route on the far side of the chamber. At the top, I found a passage leading downwards, with an iron ladder installed. I am not clear where it went, but I was a bit sketched out and retreated to find the others had moved to the other side of the chamber without noticing I'd gone. Reassuring.
 
@@ -185,7 +183,7 @@ Tanguy's gallettes and crepes were delicious, especially the gammon!
 #### Jack
 
 
-### Jingling Pot: Fiona, Dave W
+### Jingling Pot: {{ DATE=2016-01-01; CAVE=Jingling Pot; }}
 
 New Year’s Day marked the first time for years I was remotely willing to do a Gaping Gill entrance again. However, Dave Wilson offered another option: practise rigging in Jingling Pot. I accepted immediately. I rigged Little Gully into Lateral Cleft and down to the bottom of the main shaft, with Dave on hand behind me teaching and advising. I found leaning out over the empty space of the Jingling shaft hanging on my own descender and alpine butterflies a bit nerve wracking, to be honest. Otherwise it was good fun.
 
@@ -194,18 +192,18 @@ We decided final wasn’t worth the effort and headed out, Dave derigging in the
 #### Fiona
 
 ## Saturday 2nd
-### Sell Gill:
+### Sell Gill: {{ DATE=2016-01-02; CAVE=Sell Gill; }}
 
 After three days of straight caving, and no real plan for the day until late in the morning, I was feeling quite tired, but still longed to do something new.  We decided to cater for Rosannah’s dad James, a rock climber, who wanted to try out SRT. Sell Gill cave provided two different trips: a rigger’s day out in a sporty wet route, and a more relaxed novice trip down the fossil route. Both passages joined at the bottom and led to a bigger cavern followed by a cobbled stream.
- 
+
 Jack, Kenneth, James and I set off in James’s car to Horton in Ribblesdale, nestled in a valley I’d never seen before (there are many of them!). The clouds hung low on Ingleborough and Pen-y-Ghent on either side. Arriving at the car park, Jack noticed he hadn’t packed his oversuit, so we drove back to the NPC to retrieve it. Upon returning, claims were made that my helmet was left in the minibus. It was indeed.
- 
+
 Our image well glossed over by this great display of competence, we drove to Ribblesdale again, got changed into our slightly damp and really fragrant caving garments, and followed the Pennine Way towards the north looking for Sell Gill cave.  After what seemed to be more than a kilometre there were still no signs of cave entrances, so we carried on up, until we reached the top of the scar, where a junction leads off to the summit of Pen-y-Ghent. There we met walkers, whose OS map we had a look at and found out there are several Pennine Way paths, and that we were indeed off the mark. Cutting across on the well maintained three peaks path, we rejoined the western branch of the Pennine way, turned south and in ravine, found the two entrances to Sell Gill.
- 
+
 Kenneth and I went down the active Goblin Route with its varied rebelays and interesting crawl connecting two shafts. As I arrived at the bottom of the main shaft, mere metres away from a loud waterfall, Jack was rigging the last drop of the Fossil Route. This convenient timing meant we explored the lower streamway together and took a few long exposure shots in the main cavern.  We then proceeded to an exchange, James and I going up the dry route, while Jack and Kenneth went up Goblin’s.
- 
+
 Both groups emerged at the surface within minutes of each other, and soon we were going down the hill back towards the lights of Horton in Ribblesdale. This was a cracking short trip which I would certainly do again to train the riggers in the club.
- 
+
 Back at the NPC, a monumental vegetable roast cooked by Jarv was awaiting us, which we all ate eagerly. The NPC was packed as this was the first Saturday of the month, but Alex – who had led a separatist trip to Bull Pot with unsuspecting cavers – managed to park the minibus in the crowded carpark.
 
 #### Tanguy
@@ -214,7 +212,7 @@ James was a good novice - a little nervous, but clearly competent and quick to l
 
 #### Jack
 
-### Bull Pot
+### Bull Pot: {{ DATE=2016-01-02; CAVE=Bull Pot; }}
 
 ### Heron Pot: Fiona and the NPC
 
@@ -224,24 +222,24 @@ Clive and Geoff said some have described East Kingsdale caves as “juvenile to 
 
 At the bottom of the pitch we continued downstream until the roof lowers. It’s possible to crawl through water towards the lower entrance into Gaze Gill. Clive and Geoff looked at me as if to say ‘go for it’ but I declined, and modelled for photos of the main pitch. Maybe one of Clive’s photos will even come out looking okay after a digital touchup. I’d love to do the pull-through trip down to Gaze Gill someday.
 
-*No amount of weight could persuade the krab to open, nor did initial bashes against the rock. On the way out Geoff managed to open it by banging it hard against the cave wall, and advised further lubrication of the gate. Fnarr fnarr.
+*No amount of weight could persuade the krab to open, nor did initial bashes against the rock. On the way out Geoff managed to open it by banging it hard against the cave wall, and advised further lubrication of the gate. Fnarr fnarr.*
 
 #### Fiona
 
 ## Sunday 3rd
 
-### Bullpot: Tanguy, Kenneth, Fiona, Edith and Kelvin
+### Bullpot: {{ DATE=2016-01-03; CAVE=Bull Pot; }}
 
 Winter Tour was slowly creeping to its end, and Sunday was our last SRT trip. As our contingent of cavers had been purged during the weekend, only two teams remained, one going to Rowten Pot – Jack, Christina, Catalina and Alex- while I took Kenneth and Edith with Fiona and Kelvin to Bull Pot to practise rigging.
- 
+
 Back on the Kingsdale road, in the midst of appalling weather conditions, we all changed in damp and very fragrant caving garments.  I also noticed that the holes in my wetsocks which I had patched had burst open again. Eventually we were all ready to climb up to the Turbary lane, off which the West Kingsdale caves are found.
- 
+
 Keeping to the lee side of the stonewall, we avoided the worst of the wind, but not the squelch of wellies sinking into ankle deep mud. Soon we were standing on the pavement around the entrance pitch. I supervised Edith’s rigging from there, and before too long we were at the bottom of the pitch, and tackled the traverse leading to the second pitch head. This obstacle was passed without too much difficulty, and leaping over the Slot we stood in the dry traverse leading to the third pitch.
- 
+
 At this point Kenneth took up the rigging, with a beautiful bowline-on-the-bight ‘Y’-hang, followed by a deviation. This dropped into a ‘waterfall’, that is to say standing at the bottom was wet, draughty and cold. I urged Kenneth, Edith and Kelvin to climb back up. Fiona wisely decided not to chance the waterfall descent and within moments we were all making our way out. Kelvin and I  passed by Rowten Pot on the trudge back to the minibus where we saw Christina and Alex on the first pitch.
- 
+
 Back at the bus, we took off our wet gear for the last time before driving back to the cottage, where all cars and members had vanished. Only Jarv and Will French remained, and they were about to leave too. Edith took the lead in the kitchen and prepared a mountain of Morrisons’ finest sausages with an apple and red cabbage stew. On the side, a good dollop of mustard and potato mash rewarded the hardy cavers who remained on the trip.
- 
+
 #### Tanguy
 
 DKP was suitably disappointed to see me going caving on Sunday. I’m almost ashamed of myself. I looked at the grim weather and for some reason thought ‘oh yes, I'll go caving in that’ as opposed to my normal Sunday attitude of ‘nahhhh I’m all right just sitting here thanks’. I’m not sure if this advantage of doing easy caves is actually good thing.
@@ -252,7 +250,7 @@ Kenneth said the bottom of the third pitch was dry. This alleged dry pitch didn�
 
 #### Fiona
 
-### Rowten Pot: Jack, Catalina, Chrissie and Alex
+### Rowten Pot: {{ DATE=2016-01-03; CAVE=Rowten Pot; }}
 
 A reasonable question to ask is why we went to the same caves several times on this trip. Firstly, it was very wet. There just aren't that many caves doable in that weather. Secondly, we wanted to cave in small groups, but only had one minibus, which meant going to places where there were plenty of caves close together, which Kingsdale excels at. Hearing about Rowten from Tanguy gave me a powerful desire to give it a go, and Alex kindly agreed to show me the way.
 
@@ -266,7 +264,7 @@ From the Y-hang a third of the way down I was already unconvinced, and I dropped
 
 I took the 70m that was meant for the pitched after and quickly rereigged down to the bottom. I couldn't see the way on through the vast boulder choke, and the water flowed deep and swift around me from every direction. I made my way behind the lee of a boulder, tied a fig 8 in the rope and clipped in, giving Alex the all clear to descend. Standing in the huge chamber, lashed by spray, I repacked the 30 m rope that I had just derigged, and Alex arrived to show me the way on, on the other side of the boulder field. Bag over my shoulder, I carefully picked my way over the top of two waterfalls, completely unsecured, until I found a higher P-bolt in the wall and rigged a quick traverse round to the next pitch.
 
-The water here was truly impressive - a straight tube that plunged perfectly into the darkness. I grabbed the 30 m, and rigged it down, dropping quickly to the bottom, always a scant meter from the flow of the water that drove sheets of spray over me. At the bottom I could see no way on, and I felt a tug on the rope. Fearing Alex had decided to descend (he assures me he didn't - by the time I am quite sketched out, so I can see myself over reacting to the water grabbing the rope) I picked my way again across a fast flowing stretch of water that lead to another deep waterfall. I spotted a dry alcove to the right, and rigged a traverse line over. 
+The water here was truly impressive - a straight tube that plunged perfectly into the darkness. I grabbed the 30 m, and rigged it down, dropping quickly to the bottom, always a scant meter from the flow of the water that drove sheets of spray over me. At the bottom I could see no way on, and I felt a tug on the rope. Fearing Alex had decided to descend (he assures me he didn't - by the time I am quite sketched out, so I can see myself over reacting to the water grabbing the rope) I picked my way again across a fast flowing stretch of water that lead to another deep waterfall. I spotted a dry alcove to the right, and rigged a traverse line over.
 
 One by one we arrived at the bottom. Alex claimed the water was two or three times more than earlier in the week - this simultaneously made me feel better for my fear, but also obviously worse cos the water levels were so high. Catalina was elated by the waterfalls and couldn't see why I wasn't overjoyed. Chrissie seemed stoic. I decided we should turn round - I couldn't see the way on, I wasn't feeling up to the rigging and we'd mucked up the ropes already. Alex agreed to derig, which lead to a very protracted discussion about who should carry which bags of rope out when, After a good twenty minutes we had it sorted, so I quickly made my way upwards, warming up with some explosive rope walking.
 
@@ -279,7 +277,7 @@ The depths of Rowten have not yet been reached by this generation of Imperial Ca
 ### Rescue practice with Tony Seddon
 
 The last full day of the tour was dedicated to rescue training in the Ingleborough hall outdoor training centre with Tony Seddon. The day began with a discussion on rescue rigging,  followed by an indoor practical session aimed at the assembly, operation and release of pulley-jammers. We then moved to the SRT tower to put the counterweight hauling systems into practice. We could thus assess for ourselves the efficiency of each set-up. This also enabled Edith, Catalina and Kenneth to rig for themselves. Each person had the opportunity to rescue and be rescued several times, and, among other skills, the ascent-to-descent changeover and down prussiking techniques were particularly practised. Towards the end of the session, the SRT standards and confidence of Winter Tour freshers had significantly improved.
- 
+
 Our last dinner was a Shaksuka cooked by Jack, accompanied by vast amounts of bacon in onion gravy.
 
 #### Tanguy
@@ -295,13 +293,12 @@ Later I found that people who chuck rocks down Gaping Gill are derogatorily desc
 With this detached written reassurance that I’m not an idiot, and four days of activity behind me, my winter tour ended on a satisfying note.
 
 #### Fiona
- 
+
 ## Tuesday 5th January 2016
 The time to leave had finally arrived, so we packed up the kit, and gave the NPC a good clean. I cooked some pasta with mustard and cream sauce, and finished the salami in a meaty pizza, after which we drove to Lancaster to pick up Ben and started the long journey home. There was a moment of silence as we all acknowledged this was the en…
- 
+
 ‘Sooo, guys… did you pack my bike?’
- 
+
 The end.
 
 #### Tanguy
-
