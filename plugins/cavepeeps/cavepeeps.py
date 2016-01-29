@@ -6,6 +6,8 @@ import logging
 import string
 import sys
 
+# =====================Functions============================
+
 
 def parse_metadata(metadata, article):
     # Create array of people, caves they have been to and the articles that the
@@ -38,8 +40,10 @@ def parse_metadata(metadata, article):
             try:
                 item_type, item_values = item.split('=')
             except ValueError:
-                logging.critical("Error with the cavepeep metadata. Check that there are semicolons between DATE=, CAVE=, PEOPLE= (not colons) and that there are equals after each.")
-                logging.critical(str(article.title) + ' ' + str(article.date.strftime('%Y-%m-%d')))
+                logging.critical(
+                    "Error with the cavepeep metadata. Check that there are semicolons between DATE=, CAVE=, PEOPLE= (not colons) and that there are equals after each.")
+                logging.critical(
+                    str(article.title) + ' ' + str(article.date.strftime('%Y-%m-%d')))
                 sys.exit()
             if item_type == 'DATE':
                 item_date = datetime.strptime(item_values, '%Y-%m-%d')
@@ -48,10 +52,11 @@ def parse_metadata(metadata, article):
                 # normally be just cavename or
                 # Entrancecave > Exitcave but in fact should work for
                 # an arbitrary sequence of cave names.
-                item_caves = item_values.split('>')
-                item_caves = item_caves if type(
-                    item_caves) is list else [item_caves]
-                item_caves = [x.strip() for x in item_caves]
+                item_caves = item_values
+                #item_caves = item_values.split('>')
+                # item_caves = item_caves if type(
+                #    item_caves) is list else [item_caves]
+                #item_caves = '>'.join([x.strip() for x in item_caves])
             elif item_type == 'PEOPLE':
                 # Ensure the people are in a list
                 item_people = item_values.split(',')
@@ -62,13 +67,14 @@ def parse_metadata(metadata, article):
         if item_date is not None and item_caves is not None and item_people is not None:
             # If we have all the required data then append it to the
             # big list. Each entry has one date so no need to loop over it
-            for cave in item_caves:
-                for person in item_people:
-                    cavepeep.append(
-                        row(item_date, cave, person, article))
+            for person in item_people:
+                cavepeep.append(
+                    row(item_date, item_caves, person, article))
         else:
-            logging.critical("Error with the cavepeep metadata. Are DATE, PEOPLE, CAVE present and spelt correctly? If there's no cavepeep data please delete the row from the metadata.")
-            logging.critical(str(article.title) + ' ' + str(article.date.strftime('%Y-%m-%d')))
+            logging.critical(
+                "Error with the cavepeep metadata. Are DATE, PEOPLE, CAVE present and spelt correctly? If there's no cavepeep data please delete the row from the metadata.")
+            logging.critical(
+                str(article.title) + ' ' + str(article.date.strftime('%Y-%m-%d')))
             sys.exit()
     return cavepeep
 
@@ -81,27 +87,38 @@ def articlelink(peoplelist, article, generator):
     allpeople = set()
     for item in peoplelist:
         fullname = item.person
-        tripid = 'DATE=' + item.date.strftime('%Y-%m-%d') + '; CAVE=' + item.cave + ';'
+        # Create unique id for trip (essentially a copy/paste of the metadata)
+        # An use this to identify a list of people on that trip
+        tripid = 'DATE=' + \
+            item.date.strftime('%Y-%m-%d') + '; CAVE=' + item.cave + ';'
         if tripid in peopletrips.keys():
             peopletrips[tripid].append(fullname)
         else:
             peopletrips[tripid] = [fullname]
+        # Also create a list of everyone on any trip
         allpeople.add(fullname)
 
-
+    # Create the all people list HTML which will replace the all people tag
+    # in an article
     outallpeople = ''
     for index, person in enumerate(allpeople):
         if index > 0:
             outallpeople += ', '
-        outallpeople += """<a href='""" + generator.settings["SITEURL"] + """/cavers/""" + person.replace(" ", "%20") + """.html'>""" + person + """</a>"""
+        outallpeople += """<a href='""" + \
+            generator.settings["SITEURL"] + """/cavers/""" + \
+            person.replace(" ", "%20") + """.html'>""" + person + """</a>"""
 
+    # Create the lists of people on indiviudial trips HTML
     outpeopletrips = {}
     for key in peopletrips:
         outpeopletrips[key] = ''
         for index, person in enumerate(peopletrips[key]):
             if index > 0:
                 outpeopletrips[key] += ', '
-            outpeopletrips[key] += """<a href='""" + generator.settings["SITEURL"] + """/cavers/""" + person.replace(" ", "%20") + """.html'>""" + person + """</a>"""
+            outpeopletrips[key] += """<a href='""" + generator.settings["SITEURL"] + \
+                """/cavers/""" + \
+                person.replace(" ", "%20") + """.html'>""" + \
+                person + """</a>"""
 
     # The metadata might need to be used to replace a tag in the article
     # so add it to the metadata item that will be available to metainserter
@@ -114,6 +131,9 @@ def articlelink(peoplelist, article, generator):
         article.data["allpeople"] = outallpeople
         for key in outpeopletrips:
             article.data[key] = outpeopletrips[key]
+
+#======================MAIN==========================
+
 
 def cavepeeplinker(generator):
     cavepeep = []
@@ -169,18 +189,7 @@ def cavepeeplinker(generator):
         else:
             flag = False
 
-    # Find the most recent article's date
-    for cave in cavepeep_cave:
-        maxdate = datetime.strptime('1900-01-01', '%Y-%m-%d')
-        for art, date in cavepeep_cave[cave]:
-            if maxdate < date:
-                maxdate = date
-        # For each person now the dictionary will give a tuple containg a list (of tuples) of the article,
-        # cave name and date, and the most recent article
-        cavepeep_cave[cave] = (cavepeep_cave[cave], maxdate)
-
     logging.debug("Cavepeeps: cavepeep_cave assembled")
-
     # Add the dictionaries to the global context (makes them accessible to
     # other plugins and the templates)
     generator.context['cavepeep_cave'] = cavepeep_cave
@@ -228,33 +237,54 @@ def constructbios(generator):
 
 def generatecavepages(generator, writer):
     # For every cave generate a page listing the articles that mention it
-    template = generator.get_template('cavepages')
-    for cave in generator.context['cavepeep_cave']:
-        cavebio = ''
-        cavemeta = ''
-        if cave in generator.context['cavebios']:
-            # If a description is available for the cave retrieve it.
-            logging.debug("Bio generated for " + cave)
-            cavebio = generator.context['cavebios'][cave][0]
-            cavemeta = generator.context['cavebios'][cave][1]
-        filename = 'caves/' + str(cave) + '.html'
-        writer.write_file(filename, template, generator.context, cavename=cave,
-                          articles=generator.context['cavepeep_cave'][cave][0], bio=cavebio, meta=cavemeta)
-        # cavepeep(cave) = ([(article, date)], maxdate)
-
-
-def generatecavepage(generator, writer):
-    # Generate a page linking to all the cave pages
-    template = generator.get_template('cavepage')
+    row = namedtuple('row', 'filename cavebio cavemeta articles')
+    cavepages = {}
     cavebios = generator.context['cavebios']
     cavepeep_cave = generator.context['cavepeep_cave']
-    filename = 'caves/index.html'
-    # Make a nice data strcuture for the template to access
-    row = namedtuple('row', 'name number recentdate meta')
-    caves = [row(x, len(cavepeep_cave[x][0]), cavepeep_cave[x][1], cavebios[x][
-        1] if x in cavebios.keys() else None) for x in cavepeep_cave.keys()]
-    writer.write_file(filename, template, generator.context, caves=caves)
+    template = generator.get_template('cavepages')
 
+    # ==========Write the individual cave pages================
+    for cave in cavepeep_cave:
+        # If it was a through trip then the 'cave' string will be
+        # 'cave1 > cave2' and we want the trip report link to appear on both
+        # cave pages
+        for entrance in cave.split('>'):
+            entrance = entrance.strip()
+
+            # Cave_peep cave is sorted by 'trip' so through trips count uniquely
+            # Now we seperate them and so we must ensure that there are no
+            # duplicate entries by using a dictionary
+            if entrance not in cavepages.keys():
+                cavebio = ''
+                cavemeta = ''
+                if entrance in cavebios:
+                    # If a description is available for the cave retrieve it.
+                    logging.debug("Bio generated for " + entrance)
+                    cavebio = cavebios[entrance][0]
+                    cavemeta = cavebios[entrance][1]
+                filename = 'caves/' + str(entrance) + '.html'
+                cavepages[entrance] = (row(filename, cavebio, cavemeta,
+                                           cavepeep_cave[cave]))
+            else:
+                # If the cave was added previously then we add just to the list
+                # of articles it already has.
+                cavepages[entrance].articles.extend(
+                    cavepeep_cave[cave])
+
+    for entrance, page in cavepages.items():
+        writer.write_file(page.filename, template, generator.context,
+                          cavename=entrance,
+                          articles=sorted(page.articles, key=lambda x: x.date, reverse=True),
+                          bio=page.cavebio, meta=page.cavemeta)
+
+    # ==========Write the index of caves================
+    row = namedtuple('row', 'name number recentdate meta')
+    # Refactor into useful format for index
+    # Columns: Cave Name, Number of reports for that cave, the most recent report date, the metadata for that cave
+    caves = [row(x, len(cavepages[x].articles), max([y[1] for y in cavepages[x].articles]), cavebios[x][1] if x in cavebios.keys() else None) for x in cavepages.keys()]
+    template = generator.get_template('cavepage')
+    filename = 'caves/index.html'
+    writer.write_file(filename, template, generator.context, caves=sorted(caves, key=lambda x: x.name))
 
 def generatepersonpages(generator, writer):
     # For each person generate a page listing the caves they have been in and the article that
@@ -276,7 +306,9 @@ def generatepersonpages(generator, writer):
             cavermeta = generator.context['caverbios'][person][1]
         filename = 'cavers/' + person + '.html'
         writer.write_file(filename, template, generator.context, personname=person,
-                          articles=generator.context['cavepeep_person'][person][0], bio=caverbio, meta=cavermeta, authoredarticles=authoredarticles)
+                          articles=generator.context['cavepeep_person'][person][0],
+                          bio=caverbio, meta=cavermeta,
+                          authoredarticles=authoredarticles)
 
 
 def generatepersonpage(generator, writer):
@@ -300,6 +332,6 @@ def register():
     signals.article_generator_finalized.connect(constructbios)
     # Run after the articles have been written
     signals.article_writer_finalized.connect(generatecavepages)
-    signals.article_writer_finalized.connect(generatecavepage)
+    #signals.article_writer_finalized.connect(generatecavepage)
     signals.article_writer_finalized.connect(generatepersonpages)
     signals.article_writer_finalized.connect(generatepersonpage)
