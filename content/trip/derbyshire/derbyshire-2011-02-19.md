@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg: Jana%20Carga%20-%20Canon%20A520%20-%20Giants%20-%20IMG_0154.jpg
 Thumbl: Simon%20Nouis%20-%20P2190012--thumb.jpg
 Thumbr: Gergely%20Ambrus%20-%20IMG_3770_2--thumb.jpg
-Authors: Jana Carga, 
+Authors: Jana Carga,
 Oldurl: /rcc/caving/derbyshire/derbyshire-2011-02-19.php
 Status:
 
