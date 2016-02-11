@@ -6,6 +6,7 @@ import logging
 import string
 import sys
 import re
+import copy
 
 # =====================Functions============================
 
@@ -273,11 +274,14 @@ def generatecavepages(generator, writer):
                     if 'location' in cavemeta.keys():
                         data['map'] = """<div class="padmore"><iframe width="100%" height="450" frameborder="0" style="border:0" allowfullscreen src="https://www.google.com/maps/embed/v1/search?q=""" + \
                             re.sub(r',\s*', "%2C", cavemeta['location'].strip(
-                            )) + """&key=AIzaSyB03Nzox4roDjtKoddF9xFcYsvm4vi26ig" allowfullscreen></iframe></div>"""
+                            )) + """&maptype=satellite&key=AIzaSyB03Nzox4roDjtKoddF9xFcYsvm4vi26ig" allowfullscreen></iframe></div>"""
+                    else:
+                        if 'map' in data.keys():
+                            del data['map']
 
                 filename = 'caves/' + str(entrance) + '.html'
                 cavepages[entrance] = (row(filename, cavebio, cavemeta,
-                                           cavepeep_cave[cave], data))
+                                           cavepeep_cave[cave], copy.deepcopy(data)))
             else:
                 # If the cave was added previously then we add just to the list
                 # of articles it already has.
