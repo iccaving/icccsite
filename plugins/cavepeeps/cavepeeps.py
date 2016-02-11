@@ -5,6 +5,7 @@ from datetime import date, datetime
 import logging
 import string
 import sys
+import re
 
 # =====================Functions============================
 
@@ -229,16 +230,18 @@ def constructbios(generator):
         for afile in filenames:
             content = readers.read_file(dirpath, afile).content
             metadata = readers.read_file(dirpath, afile).metadata
-            cavebios[os.path.splitext(afile)[0]] = (content, namedtuple(
-                'metadata', [x for x in metadata.keys()])(*[metadata[x] for x in metadata.keys()]))
+            # cavebios[os.path.splitext(afile)[0]] = (content, namedtuple(
+            #    'metadata', [x for x in metadata.keys()])(*[metadata[x] for x in metadata.keys()]))
+            cavebios[os.path.splitext(afile)[0]] = (content, metadata)
     generator.context['cavebios'] = cavebios
     logging.debug("Cavepeep: Cave bios assembled")
 
 
 def generatecavepages(generator, writer):
     # For every cave generate a page listing the articles that mention it
-    row = namedtuple('row', 'filename cavebio cavemeta articles')
+    row = namedtuple('row', 'filename cavebio cavemeta articles data')
     cavepages = {}
+    data = {}
     cavebios = generator.context['cavebios']
     cavepeep_cave = generator.context['cavepeep_cave']
     template = generator.get_template('cavepages')
@@ -262,9 +265,19 @@ def generatecavepages(generator, writer):
                     logging.debug("Bio generated for " + entrance)
                     cavebio = cavebios[entrance][0]
                     cavemeta = cavebios[entrance][1]
+
+                    # Adds a 'map' entry to the dictionary that will be passed
+                    # to the metainserter plugin. This places and embedded
+                    # google map of the coords specified in the location
+                    # metadata
+                    if 'location' in cavemeta.keys():
+                        data['map'] = """<div class="padmore"><iframe width="100%" height="450" frameborder="0" style="border:0" allowfullscreen src="https://www.google.com/maps/embed/v1/search?q=""" + \
+                            re.sub(r',\s*', "%2C", cavemeta['location'].strip(
+                            )) + """&key=AIzaSyB03Nzox4roDjtKoddF9xFcYsvm4vi26ig" allowfullscreen></iframe></div>"""
+
                 filename = 'caves/' + str(entrance) + '.html'
                 cavepages[entrance] = (row(filename, cavebio, cavemeta,
-                                           cavepeep_cave[cave]))
+                                           cavepeep_cave[cave], data))
             else:
                 # If the cave was added previously then we add just to the list
                 # of articles it already has.
@@ -274,17 +287,22 @@ def generatecavepages(generator, writer):
     for entrance, page in cavepages.items():
         writer.write_file(page.filename, template, generator.context,
                           cavename=entrance,
-                          articles=sorted(page.articles, key=lambda x: x.date, reverse=True),
-                          bio=page.cavebio, meta=page.cavemeta)
+                          articles=sorted(
+                              page.articles, key=lambda x: x.date, reverse=True),
+                          bio=page.cavebio, meta=page.cavemeta, data=page.data)
 
     # ==========Write the index of caves================
     row = namedtuple('row', 'name number recentdate meta')
     # Refactor into useful format for index
-    # Columns: Cave Name, Number of reports for that cave, the most recent report date, the metadata for that cave
-    caves = [row(x, len(cavepages[x].articles), max([y[1] for y in cavepages[x].articles]), cavebios[x][1] if x in cavebios.keys() else None) for x in cavepages.keys()]
+    # Columns: Cave Name, Number of reports for that cave, the most recent
+    # report date, the metadata for that cave
+    caves = [row(x, len(cavepages[x].articles), max([y[1] for y in cavepages[x].articles]), cavebios[
+                 x][1] if x in cavebios.keys() else None) for x in cavepages.keys()]
     template = generator.get_template('cavepage')
     filename = 'caves/index.html'
-    writer.write_file(filename, template, generator.context, caves=sorted(caves, key=lambda x: x.name))
+    writer.write_file(filename, template, generator.context,
+                      caves=sorted(caves, key=lambda x: x.name))
+
 
 def generatepersonpages(generator, writer):
     # For each person generate a page listing the caves they have been in and the article that
@@ -306,7 +324,8 @@ def generatepersonpages(generator, writer):
             cavermeta = generator.context['caverbios'][person][1]
         filename = 'cavers/' + person + '.html'
         writer.write_file(filename, template, generator.context, personname=person,
-                          articles=generator.context['cavepeep_person'][person][0],
+                          articles=generator.context[
+                              'cavepeep_person'][person][0],
                           bio=caverbio, meta=cavermeta,
                           authoredarticles=authoredarticles)
 
@@ -332,6 +351,6 @@ def register():
     signals.article_generator_finalized.connect(constructbios)
     # Run after the articles have been written
     signals.article_writer_finalized.connect(generatecavepages)
-    #signals.article_writer_finalized.connect(generatecavepage)
+    # signals.article_writer_finalized.connect(generatecavepage)
     signals.article_writer_finalized.connect(generatepersonpages)
     signals.article_writer_finalized.connect(generatepersonpage)

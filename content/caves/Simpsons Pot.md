@@ -6,9 +6,7 @@ Location: 54.195655,-2.467111
 
 ###Location
 
-<div class="padmore">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d737.9214050697951!2d-2.471283583953919!3d54.19263078348647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTTCsDExJzMzLjUiTiAywrAyOCcxNC43Ilc!5e1!3m2!1sen!2sus!4v1451738171433" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
+{{ map }}
 
 Simpsons is located in West Kingsdale. It is in the field directly opposite from Braida Garth farm. There is a gate that will allow you to walk directly up into this field.
 
