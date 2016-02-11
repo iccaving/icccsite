@@ -9,7 +9,7 @@ import codecs
 import os
 
 def MetaInserter(path, context):
-    if "article" in path:
+    if "article" in path or "caves" in path:
         # Open html file. Check for metadata
         # logging.critical(str(path))
         soup = BeautifulSoup(open(path), "html.parser")

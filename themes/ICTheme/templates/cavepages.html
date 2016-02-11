@@ -39,4 +39,16 @@
 
   </div>
 </div>
+
+{% if data is defined %}
+<script style="display: none;" id="metadata" type="application/json">
+  {
+  {% for key in data %}
+  {% if loop.index > 1 %},{% endif %}
+  """{{ key }}""":"""{{ data[key] }}"""
+  {% endfor %}
+  }
+</script>
+{% endif %}
+
 {% endblock %}
