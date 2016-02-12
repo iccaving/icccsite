@@ -9,7 +9,7 @@ Thumbl: David%20Loeffler%20-%20Notts%20II%20-%20blackstal--thumb.jpg
 Thumbr: Bruno%20Rinvolucri%203--thumb.jpg
 Authors: Jarvist Frost, Sandeep Mavadia
 Cavepeeps: DATE=2007-01-20; CAVE=Valley Entrance; PEOPLE=Jarvist Frost, An VDP, Andy Jurd;
-           DATE=2007-01-20; CAVE=Swinsto Hole; PEOPLE=Dave Loeffler, Jutta Schnabel, Thara Supasiti, Sandeep Mavadia, arc Labuhn;
+           DATE=2007-01-20; CAVE=Swinsto Hole; PEOPLE=Dave Loeffler, Jutta Schnabel, Thara Supasiti, Sandeep Mavadia, Marc Labuhn;
            DATE=2007-01-20; CAVE=Jingling Pot; PEOPLE=Dave Wilson, Joe King, Ben Banfield, GOF, James Huggett;
            DATE=2007-01-21; CAVE=Notts Pot 2; PEOPLE=Dave Loeffler, James Huggett, Joe King, Sandeep Mavadia, GOF, Ben Banfield;
            DATE=2007-01-21; CAVE=XXX Pot; PEOPLE=Jarvist Frost, Andy Jurd, Jutta Schnabel, Thara Supasiti;
