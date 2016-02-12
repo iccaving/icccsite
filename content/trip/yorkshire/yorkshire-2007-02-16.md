@@ -8,7 +8,7 @@ Mainimg: Tharatorn%20Supasiti%20-%20P2180012.JPG
 Thumbl: Tharatorn%20Supasiti%20-%20P2170003--thumb.jpg
 Thumbr: Tharatorn%20Supasiti%20-%20P2180012--thumb.jpg
 Authors: Jarvist Frost, Thara Supasiti, Clewin Griffith,
-Cavepeeps: DATE=2007-02-17; CAVE=Notts Pot 1; PEOPLE=Jarvist Frost, Shed, Clewin Griffiths, James Huggett, Sandeep Mavadia, Paul Hutton, An, Dave Wilson, Jay, Gerardo, Thara Supasiti, Tim, Tom Brown;
+Cavepeeps: DATE=2007-02-17; CAVE=Notts Pot 1; PEOPLE=Jarvist Frost, Shed, Clewin Griffiths, James Huggett, Sandeep Mavadia, Paul Hutton, Anne VDP, Dave Wilson, Jay, Gerardo, Thara Supasiti, Tim, Tom Brown;
            DATE=2007-02-18; CAVE=Lost Johns' Cave; PEOPLE=Shed, Clewin Griffiths, Sandeep Mavadia, Paul Hutton, Tim, Tom Brown, Gerardo, Thara Supasiti;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2007-02-16.php
 Status:

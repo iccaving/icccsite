@@ -12,7 +12,7 @@ Cavepeeps: DATE=2006-12-09; CAVE=Giant's Hole; PEOPLE=Jarvist Frost, Adam;
            DATE=2006-12-09; CAVE=James Hall; PEOPLE=Dan Greenwald, Clewin Griffiths, Mark, Thara Supasiti, Tim Osborne;
            DATE=2006-12-09; CAVE=Maskhill Mine; PEOPLE=Dave Wilson, Jana Carga, James Huggett, Jutta Schnabel, Tom Brown, Ben Banfield;
            DATE=2006-12-09; CAVE=Oxlow Cavern; PEOPLE=Dave Wilson, Jana Carga, James Huggett, Jutta Schnabel, Tom Brown, Ben Banfield;
-           DATE=2006-12-10; CAVE=P8; PEOPLE=Jarvist Frost, Clewin Griffiths, James Huggett, Tom Brown, Ben Banfield, Adam.
+           DATE=2006-12-10; CAVE=P8; PEOPLE=Jarvist Frost, Clewin Griffiths, James Huggett, Tom Brown, Ben Banfield, Adam;
            DATE=2006-12-10; CAVE=Nettle Pot; PEOPLE=Dave Wilson, Jana Carga, Tim Osborne, Jutta Schnabel, Thara Supasiti;
 Oldurl: /rcc/caving/derbyshire/derbyshire-2006-12-08.php
 Status:
