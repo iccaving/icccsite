@@ -31,7 +31,8 @@ def replace(file_path, metaitem, pattern, subst, just_checking):
 
 def find(begin_date_object, end_date_object, metaitem, metaold, metanew, just_checking):
     md = markdown.Markdown(extensions=['markdown.extensions.meta'])
-    for root, dirs, files in os.walk('../content/trip/wales'):
+    replacepath = os.path.abspath(sys.argv[1]).strip()
+    for root, dirs, files in os.walk(replacepath):
         for article in files:
             path = os.path.join(root, article)
             with open(path, 'r') as text:
@@ -47,6 +48,12 @@ def find(begin_date_object, end_date_object, metaitem, metaold, metanew, just_ch
 #==============================================================================
 #====================================MAIN======================================
 #==============================================================================
+
+if len(sys.argv) != 2:
+    print("Error: Wrong number of arguments")
+    print("This script takes directory path as its sole argument")
+    sys.exit()
+
 print("What date range should be considered?")
 valid = False
 while not valid:
@@ -88,7 +95,7 @@ while not valid:
     if replace_now == 'y':
         find(begin_date_object, end_date_object, metaitem, metaold, metanew, False)
         sys.exit()
-    elif just_checking == 'n':
+    elif replace_now == 'n':
         sys.exit()
     else:
         print("Type 'y' or 'n'.")
