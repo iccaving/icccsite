@@ -7,6 +7,7 @@ from datetime import datetime
 import re
 import sys
 
+
 def replace(file_path, metaitem, pattern, subst, just_checking):
     # Create temp file
     fh, abs_path = mkstemp()
@@ -29,6 +30,7 @@ def replace(file_path, metaitem, pattern, subst, just_checking):
     remove(file_path)
     move(abs_path, file_path)
 
+
 def find(begin_date_object, end_date_object, metaitem, metaold, metanew, just_checking):
     md = markdown.Markdown(extensions=['markdown.extensions.meta'])
     replacepath = os.path.abspath(sys.argv[1]).strip()
@@ -49,27 +51,40 @@ def find(begin_date_object, end_date_object, metaitem, metaold, metanew, just_ch
 #====================================MAIN======================================
 #==============================================================================
 
-if len(sys.argv) != 2:
+if len(sys.argv) < 2:
     print("Error: Wrong number of arguments")
-    print("This script takes directory path as its sole argument")
+    print("This script takes directory path as its first argument")
     sys.exit()
 
-print("What date range should be considered?")
-valid = False
-while not valid:
-    begin_date_string = input("Enter the beginnining date <YYYY-MM-DD>: ")
-    begin_date_object = datetime.strptime(begin_date_string, '%Y-%m-%d')
+begin_date_string = "0001-01-01"
+end_date_string = "9999-12-31"
+metaitem = None
+metaold = None
+metanew = None
 
-    end_date_string = input("Enter the end date <YYYY-MM-DD>: ")
-    end_date_object = datetime.strptime(end_date_string, '%Y-%m-%d')
+if len(sys.argv) > 2:
+    for i in range(2, len(sys.argv)):
+        if sys.argv[i] == "--start":
+            begin_date_string = sys.argv[i + 1]
+        if sys.argv[i] == "--end":
+            end_date_string = sys.argv[i + 1]
+        if sys.argv[i] == "--meta":
+            metaitem = sys.argv[i + 1]
+        if sys.argv[i] == "--pattern":
+            metaold = sys.argv[i + 1]
+        if sys.argv[i] == "--sub":
+            metanew = sys.argv[i + 1]
 
-    if begin_date_object < end_date_object:
-        valid = True
+if metaitem is None or metaold is None or metanew is None:
+    print("Enter metadata section [--meta <metadata section>], pattern [--pattern <pattern>] and substitution [--sub <substitution>]")
+    sys.exit()
 
+begin_date_object = datetime.strptime(begin_date_string, '%Y-%m-%d')
+end_date_object = datetime.strptime(end_date_string, '%Y-%m-%d')
 
-metaitem = input("Enter the metadata key are you replacing a member of: ")
-metaold = input("Enter the value you would replaced: ")
-metanew = input("Enter the replacement value: ")
+if not begin_date_object < end_date_object:
+    print("Enter valid dates <YYYY-MM-DD>, end after start")
+    sys.exit()
 
 print("You would like '" + metaold + "' replaced with '" +
       metanew + "' in the '" + metaitem + "' section of metadata.")
@@ -93,7 +108,8 @@ valid = False
 while not valid:
     replace_now = input("Replace now? <y/n>: ")
     if replace_now == 'y':
-        find(begin_date_object, end_date_object, metaitem, metaold, metanew, False)
+        find(begin_date_object, end_date_object,
+             metaitem, metaold, metanew, False)
         sys.exit()
     elif replace_now == 'n':
         sys.exit()
