@@ -12,6 +12,7 @@ def replace(file_path, metaitem, pattern, subst, just_checking):
     # Create temp file
     fh, abs_path = mkstemp()
     needs_replacing = False
+    pattern = re.escape(pattern)
     with open(abs_path, 'w') as new_file:
         with open(file_path) as old_file:
             for line in old_file:
@@ -24,7 +25,10 @@ def replace(file_path, metaitem, pattern, subst, just_checking):
                     # Always check if there's a match so we have something to
                     # print
                     if re.search(pattern, line) is not None:
-                        print("Match in: " + file_path)
+                        print("=========Match=========")
+                        print("Path: " + file_path)
+                        print("Line: " + line)
+                        print("=======================")
                     # If we're not just checking (we're actually replacing)
                     if not just_checking:
                         # Do the replacing, write the new line to the new file
@@ -33,7 +37,9 @@ def replace(file_path, metaitem, pattern, subst, just_checking):
                         # that we did
                         if re.search(pattern, line) is not None:
                             needs_replacing = True
+                            print("=======================")
                             print("Replaced")
+                            print("=======================")
                 else:
                     new_file.write(line)
                 # Make sure we know what the last metadata section was
