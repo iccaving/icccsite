@@ -4,13 +4,17 @@ Location: Yorkshire
 Summary:
 Type: trip
 Photoarchive:
-Mainimg:
-Thumbl:  
-Thumbr:
-Authors: Nuria Devos, Tanguy Racine
-Cavepeeps: 	DATE=2015-12-12; CAVE=Notts Pot 1; PEOPLE=Jack Hare, Oliver Myerscough, Tanguy Racine, Peter Ganson, Rhys Tyers, Sam Page, Nuria Devos, Clara Rodríguez Fernández, Layla Aston, Kenneth Tan, Kevin Li, Kelvin Choi, Carrie Chen, Nicola McCallion, Dave Wilson;
-			DATE=2015-12-13; CAVE=Aquamole Pot; PEOPLE=Rhys Tyers, Peter Ganson, Kelvin Choi;
-Status: Draft
+Mainimg: TR_Y4_16_0403.jpg
+Thumbl:  TR_Y4_16_0438--thumb.jpg
+Thumbr: TR_Y4_16_0322--thumb.jpg
+Authors: Nuria Devos, Tanguy Racine, Jack Hare
+Cavepeeps: 	DATE=2016-02-06; CAVE=Notts Pot 1; PEOPLE=Jack Hare, Oliver Myerscough, Tanguy Racine, Peter Ganson, Rhys Tyers, Sam Page, Nuria Devos, Clara Rodríguez Fernández, Layla Aston, Kenneth Tan, Kevin Li, Kelvin Choi, Carrie Chen, Nicola McCallion, Dave Wilson;
+			DATE=2016-02-07; CAVE=Aquamole Pot; PEOPLE=Rhys Tyers, Peter Ganson, Kelvin Choi;
+			DATE=2016-02-07; CAVE=Bull Pot; PEOPLE=Jack Hare, Kenneth Tan, Kevin Li;
+			DATE=2016-02-07; CAVE=Jingling Pot; PEOPLE=Oliver Myerscough, Sam Page, Layla Aston, Nicola McCallion, Carrie Chen, Dave Wilson;
+			DATE=2016-02-07; CAVE=Shuttleworth Pot; PEOPLE=Tanguy Racine, Nuria Devos, Clara Rodríguez Fernández;
+					
+Status:
 
 {{ mainimg }}
 #####{{ allpeople }}
@@ -21,7 +25,11 @@ As usual, on Friday I went to stores to start packing everything into the minibu
 
 #### Nuria
 
+Packing was quick, and the road was fine. I found a huge Morrison's at Banbury along the M40, which I can see being a favourite. As soon as I got inside, a baker pushing a huge trolley of bread asked me if I wanted any baguettes, as they were going to thrown away. At 9p each, I grabbed nine, much to her astonishment. The rest of the journey was easy - we arrived to find the car park at the NPC quite full, but only DW was still awake.
+
 ## Saturday
+
+### Notts 1 Pot: Everyone!
 
 |     Route     |                          Down                          | Up                                            |
 |:-------------:|:------------------------------------------------------:|-----------------------------------------------|
@@ -64,7 +72,33 @@ Following a contour towards the farm lead us nicely to the minibus, where we cha
 
 #### Tanguy
 
+What an exciting trip! We had two people new to SRT, one of whom had never been in a cave, so we carefully divided the groups to minimise the incompetence. The bags were all labelled, the plan was in place, and I'd even agreed with Tanguy that his group would form the first wave whilst we huddled in the minibus. In intervals of around ten minutes I persuaded other groups to get ready, but such was the general level of competence that the other three groups set off at almost the same time.
+
+Oli got ahead of us, and lead his group obviously the wrong way, so we waved him back. Then the three groups trudged across the blasted feel, looking for holes in the ground as it pissed it down. It took about an hour to find the entrance, which was far further north than we had decided. Rhys reckons heading to Notts 2 and then following the dry valley is a pretty infallible way of finding Notts 1.
+
+At the entrance, our group was last to go in, so we got a bit cold, but at least our novices got many opportunities to watch other people descend. Carrie didn't seem to have many problems with the first pitch, so I crawled through the stream (the only grim bit of the cave) to the tight and short drop. Fumbling my free climb, I tripped and launched myself head first towards the rocks below. Fortunately I caught myself at the last minute, because it could have been quite serious. I quickly sorted myself out before Carrie arrived - nothing reassures novices like incompetent leadership.
+
+The rigging down Centre is really good fun - the first pitch I rigged with a deviation off the top flake, which was a little controversial (tough for short people) but I reckon a rebelay there would have been worse. It's a beautiful long drop down, and Carrie was down quickly. I pushed forwards, rigging slowly to keep the group together, until we got to a slightly unpleasant hanging rebelay which I had not remembered from previously. I made a few mistakes with it, and eventually left it as 'good enough', a mistake as it turned out.
+
+Below that I left too little rope for the traverse to the pitch, which came back to haunt me later as well. The next few pitches are superb - the obviously hole below needs to be avoided, so the solution is to kick off whilst descending, flinging you out away from the wall and down into the next shaft. I heard voices nearby, and decided to press on to meet up with the others, finding Rhys and a few others down there. At this point it was obvious Carrie was far behind, so I turned round to find her.
+
+She was stuck at the rebelay. I couldn't really work out what was going on, so I free climbed up most of the pitch to get closer. I could now talk to Sam, and saw that there was a lot of spare rope from a traverse line just by him. He dropped the rope down towards me, and few through as much slack as possible. It was still slightly out of reach, so I freeclimbed higher, adopted a dodgy stance, clipped in my hand jammer and just got my chest jammer on a few centimetres above the end of the rope.
+
+Now I could prussik up to Carrie. She'd got the rope from the rebelay wrapped round her descender, but it wasn't too bad - I talked her through doing a midrope change over to her ascenders, and after a few false starts she was off again. I switched to the main rope and went by her. At this point she obviously felt confident enough not to wait for Sam to check her descender, because she was right behind me all the way to the bottom.
+
+Whilst standing there, we realised Layla was stuck, and we sang Disney songs to keep her spirits up. I was bending over and fiddling with my bag when something light hit me on the head. Assuming it was just someone brushing passed me, I ignored it, but as I stood up, a chunk of Layla's hair slid off my helmet! I put it in a tackle sack and it hasn't been seen since. Happy hunting!
+
+A complicated discussion about derigging ensued. I went to check out the continuation, a lovely rift traverse high up in the ceiling. There wasn't time for everyone to do it, so only Oli, Kelvin and Peter went down the pitched. Eventually we swapped the groups up and I headed out with Nicola up Left/Twilight. This is another superb route - I could see Nuria derigging through the windows that lead to Adamson, and I enjoyed the huge but slightly scary traverse round before the final pitch. 
+
+The top of the Left route is quite tricky to get up. It's a tight rift, with no foot holds, and the traverse line leads up at too shallow an angle for jammers to be useful. I struggled up, and Nicola really wasn't having a good time with it. There's actually a bolt just above the pitch head which is meant for the traverse line for Twilight, which leads off up an oxbow. I derigged the end of the traverse line and dropped it down so that Nicola could prussik up it - I highly recommend this to others rigging the Left route.
+
+On the surface we followed our noses back to the minibus, eventually finding a convenient gate. DW took an advanced party of choppers back, and when we arrived I quickly made shakshuka (not a very good one, sorry guys) and Kevin made an incredible beef and celery dish.
+
+#### Jack
+
 ## Sunday
+
+### Shuttleworth Pot
 
 After some breakfast I was ready and excited to go caving again. I was going to visit Shuttleworth with Tanguy, Clara and three members of another caving club: Clive, Olivia and Gene. After walking through the wind and fields of Yorkshire for a bit, we found the entrance. We went down, passing a deviation and two rebelays until we arrived at the bottom. Once there, we just had to walk through a horizontal passage. I was really impressed by the beauty of this cave!! Incredible formations, helictites and at the end a whole curtain of really long straws!!! We stopped there for a while to take some pictures and then headed back. Once in the hut we quickly ate some crumpets with cheese and then set off to London again.
 
@@ -79,3 +113,19 @@ The choke lead to a large breakdown chamber, with an alcove of stunning straws b
 Another great trip under the belt!
 
 #### Tanguy
+
+### Bull Pot: Jack, Kevin, Kenneth
+
+Having got rid of a fifth of the club to go to Shuttleworth with the NPC, I turned my attention to the remainder. Kenneth and Peter wanted to learn to rig, so Rhys and I volunteered to take them and one other, whilst Oli and Sam took the rest to Jingling with DW. I hadn't been to Bull Pot in a while - the memorial plaque at the top is sobering. Kenneth quickly and competently rigged the entrance pitch and I follow him down, assuming Kevin would be fine. He was.
+
+The high traverse that follows is an excellent bit of practice - hard lock the descender, tie the alpine butterfly, put it in, switch to cowstails and then take out the slack. Not always necessary when you can swing on your cowstails without rigging your descender, but it seems like best practice and Kenneth got good at feeding the rope through. I became a bit concerned that his alpine butterflies weren't, but after a few checks I decided they were just being pulled into an odd shape when Kenneth fed the rope through.
+
+At the bottom of the second pitch I wasn't sure of the way - Kenneth took the oxbow as a traverse, and got to the pitch head. He reminded me that when he'd done Bull pot on winter tour that this pitch had been very wet. I responded that this would be good practice then, and he cheerfully set off, only to find he didn't have enough rope. Back he came, and I realised that the slot in the floor that we'd stepped over was probably Slot Route. We rigged a massive and hilarious y-hang from bolts three metres apart, and Kenneth set off, finding a rebelay with a nice ledge half way down. Kevin was keeping up well, so I set off after Kenneth.
+
+Third pitch has a nice traverse to start that quickly loses its foot holds. You can see the waterfall below you, so I explained to Kenneth how to rig deviations, and to Kevin how to pass them. Kenneth found the first dev and put in a sling - as he descended I realised it was too long and didn't deviate enough. Kenneth was hanging right in the waterfall, so I encouraged him to go straight down to avoid getting too wet. I went down and halved the length of the sling, and Kenneth followed after some fun with the deviation.
+
+At the bottom, Kenneth explained that he had wanted to put in the second deviation, but didn't cos I told him to go down instead - my bad. I went up first and put the dev in, which definitely helped with the water. Kevin had a lot of fun with the deviations, pushing his hand jammer right up into the krab and making it very hard to take off, but eventually he got to the rop and a very cold Kenneth began to derig.
+
+We sped out of the cave, Kenneth hot on our heels, and out into the glorious sunshine. Just kidding - it was at least daylight. Back to the NPC, crumpets and home. Glorious.
+
+#### Jack
