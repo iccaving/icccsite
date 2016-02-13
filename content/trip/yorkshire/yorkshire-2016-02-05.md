@@ -1,7 +1,7 @@
 Title: Yorkshire IV
 Date: 2016-02-05
 Location: Yorkshire
-Summary: A superb weekend of SRT -  a complex 4-way exchange in Notts 1 went off with only two hitches, and on Sunday we had four separate trips, with rigging practice, photography and a classic bit of Jingling.
+Summary:
 Type: trip
 Photoarchive:
 Mainimg: TR_Y4_16_0403.jpg
@@ -14,6 +14,8 @@ Cavepeeps: 	DATE=2016-02-06; CAVE=Notts Pot 1; PEOPLE=Jack Hare, Oliver Myerscou
 			DATE=2016-02-07; CAVE=Jingling Pot; PEOPLE=Oliver Myerscough, Sam Page, Layla Aston, Nicola McCallion, Carrie Chen, Dave Wilson;
 			DATE=2016-02-07; CAVE=Shuttleworth Pot; PEOPLE=Tanguy Racine, Nuria Devos, Clara Rodríguez Fernández;
 					
+Status:
+
 {{ mainimg }}
 #####{{ allpeople }}
 
@@ -24,6 +26,8 @@ As usual, on Friday I went to stores to start packing everything into the minibu
 #### Nuria
 
 Packing was quick, and the road was fine. I found a huge Morrison's at Banbury along the M40, which I can see being a favourite. As soon as I got inside, a baker pushing a huge trolley of bread asked me if I wanted any baguettes, as they were going to thrown away. At 9p each, I grabbed nine, much to her astonishment. The rest of the journey was easy - we arrived to find the car park at the NPC quite full, but only DW was still awake.
+
+#### Jack
 
 ## Saturday
 
