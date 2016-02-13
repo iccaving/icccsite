@@ -1,7 +1,7 @@
 Title: Yorkshire IV
 Date: 2016-02-05
 Location: Yorkshire
-Summary:
+Summary: A superb weekend of SRT -  a complex 4-way exchange in Notts 1 went off with only two hitches, and on Sunday we had four separate trips, with rigging practice, photography and a classic bit of Jingling.
 Type: trip
 Photoarchive:
 Mainimg: TR_Y4_16_0403.jpg
@@ -14,8 +14,6 @@ Cavepeeps: 	DATE=2016-02-06; CAVE=Notts Pot 1; PEOPLE=Jack Hare, Oliver Myerscou
 			DATE=2016-02-07; CAVE=Jingling Pot; PEOPLE=Oliver Myerscough, Sam Page, Layla Aston, Nicola McCallion, Carrie Chen, Dave Wilson;
 			DATE=2016-02-07; CAVE=Shuttleworth Pot; PEOPLE=Tanguy Racine, Nuria Devos, Clara Rodríguez Fernández;
 					
-Status:
-
 {{ mainimg }}
 #####{{ allpeople }}
 
