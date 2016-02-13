@@ -1,7 +1,7 @@
 Title: Yorkshire IV
 Date: 2016-02-05
 Location: Yorkshire
-Summary:
+Summary: A superb weekend of SRT -  a complex 4-way exchange in Notts 1 went off with only two hitches, and on Sunday we had four separate trips, with rigging practice, photography and a classic bit of Jingling.
 Type: trip
 Photoarchive:
 Mainimg: TR_Y4_16_0403.jpg
@@ -13,7 +13,7 @@ Cavepeeps: 	DATE=2016-02-06; CAVE=Notts Pot 1; PEOPLE=Jack Hare, Oliver Myerscou
 			DATE=2016-02-07; CAVE=Bull Pot; PEOPLE=Jack Hare, Kenneth Tan, Kevin Li;
 			DATE=2016-02-07; CAVE=Jingling Pot; PEOPLE=Oliver Myerscough, Sam Page, Layla Aston, Nicola McCallion, Carrie Chen, Dave Wilson;
 			DATE=2016-02-07; CAVE=Shuttleworth Pot; PEOPLE=Tanguy Racine, Nuria Devos, Clara Rodríguez Fernández;
-					
+
 Status:
 
 {{ mainimg }}
@@ -90,7 +90,7 @@ Now I could prussik up to Carrie. She'd got the rope from the rebelay wrapped ro
 
 Whilst standing there, we realised Layla was stuck, and we sang Disney songs to keep her spirits up. I was bending over and fiddling with my bag when something light hit me on the head. Assuming it was just someone brushing passed me, I ignored it, but as I stood up, a chunk of Layla's hair slid off my helmet! I put it in a tackle sack and it hasn't been seen since. Happy hunting!
 
-A complicated discussion about derigging ensued. I went to check out the continuation, a lovely rift traverse high up in the ceiling. There wasn't time for everyone to do it, so only Oli, Kelvin and Peter went down the pitched. Eventually we swapped the groups up and I headed out with Nicola up Left/Twilight. This is another superb route - I could see Nuria derigging through the windows that lead to Adamson, and I enjoyed the huge but slightly scary traverse round before the final pitch. 
+A complicated discussion about derigging ensued. I went to check out the continuation, a lovely rift traverse high up in the ceiling. There wasn't time for everyone to do it, so only Oli, Kelvin and Peter went down the pitched. Eventually we swapped the groups up and I headed out with Nicola up Left/Twilight. This is another superb route - I could see Nuria derigging through the windows that lead to Adamson, and I enjoyed the huge but slightly scary traverse round before the final pitch.
 
 The top of the Left route is quite tricky to get up. It's a tight rift, with no foot holds, and the traverse line leads up at too shallow an angle for jammers to be useful. I struggled up, and Nicola really wasn't having a good time with it. There's actually a bolt just above the pitch head which is meant for the traverse line for Twilight, which leads off up an oxbow. I derigged the end of the traverse line and dropped it down so that Nicola could prussik up it - I highly recommend this to others rigging the Left route.
 
