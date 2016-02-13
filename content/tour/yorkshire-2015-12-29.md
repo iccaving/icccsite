@@ -9,12 +9,12 @@ Thumbl: JH_WT_15_8469--thumb.jpg
 Thumbr: JH_WT_15_8493--thumb.jpg
 Authors: Jarvist Frost
 Cavepeeps: DATE=2015-12-30; CAVE=King Pot; PEOPLE=Jarvist Frost, Will Scott, Kenneth Tan, William French;
-			DATE=2015-12-30; CAVE=Jingling Pot; PEOPLE=Jack Hare, Rhys Tyers, Catalina Garcia Botero, Kelvin Choi, Christina Pickens;
+			DATE=2015-12-30; CAVE=Jingling Pot; PEOPLE=Jack Hare, Rhys Tyers, Catalina Garcia, Kelvin Choi, Christina Pickens;
 			DATE=2015-12-30; CAVE=Rowten Pot; PEOPLE=Tanguy Racine, Isha Shaz, Edith Huebner, Alex Seaton;
 			DATE=2015-12-31; CAVE=Lancaster Hole > Wretched Rabbit; PEOPLE=Jarvist Frost, Alex Seaton, Will Scott;
 			DATE=2015-12-31; CAVE=Lancaster Hole > County Pot; PEOPLE=Tanguy Racine;
 			DATE=2015-12-31; CAVE=County Pot > Wretched Rabbit; PEOPLE= Rhys Tyers, Isha Shaz, Edith Huebner, Kelvin Choi, William French;
-			DATE=2015-12-31; CAVE=Wretched Rabbit > County Pot; PEOPLE= Jack Hare, Rosanna Nichols, Kenneth Tan, Catalina Garcia Botero;
+			DATE=2015-12-31; CAVE=Wretched Rabbit > County Pot; PEOPLE= Jack Hare, Rosanna Nichols, Kenneth Tan, Catalina Garcia;
 			DATE=2016-01-01; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE= Tanguy Racine, Kenneth Tan, Rosanna Nichols;
 			DATE=2016-01-01; CAVE=Stream Pot > Bar Pot; PEOPLE= Edith Huebner;
 			DATE=2016-01-01; CAVE=Flood Entrance Pot > Bar Pot; PEOPLE= Jack Hare, Celia Tinsley, Rhys Tyers;
@@ -22,8 +22,8 @@ Cavepeeps: DATE=2015-12-30; CAVE=King Pot; PEOPLE=Jarvist Frost, Will Scott, Ken
 			DATE=2016-01-01; CAVE=Stream Pot > Stream Pot; PEOPLE= Jarvist Frost, Alex Seaton, Kelvin Choi;
 			DATE=2016-01-01; CAVE=Jingling Pot; PEOPLE= Fiona Hartley, Dave Wilson;
 			DATE=2016-01-02; CAVE=Sell Gill; PEOPLE=Jack Hare, Tanguy Racine, Kenneth Tan, James Nichols;
-			DATE=2016-01-02; CAVE=Bull Pot; PEOPLE= Alex Seaton, William French, Rosanna Nichols, Catalina Garcia Botero;
-			DATE=2016-01-03; CAVE=Rowten Pot; PEOPLE= Jack Hare, Alex Seaton, Catalina Garcia Botero, Christina Pickens;
+			DATE=2016-01-02; CAVE=Bull Pot; PEOPLE= Alex Seaton, William French, Rosanna Nichols, Catalina Garcia;
+			DATE=2016-01-03; CAVE=Rowten Pot; PEOPLE= Jack Hare, Alex Seaton, Catalina Garcia, Christina Pickens;
 			DATE=2016-01-03; CAVE=Bull Pot; PEOPLE= Tanguy Racine, Fiona Hartley, Edith Huebner, Kenneth Tan, Kelvin Choi;
 Status:
 
