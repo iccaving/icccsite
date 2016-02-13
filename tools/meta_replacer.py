@@ -13,6 +13,8 @@ def replace(file_path, metaitem, pattern, subst, just_checking):
     fh, abs_path = mkstemp()
     needs_replacing = False
     pattern = re.escape(pattern)
+    match = False
+    match_text = "=========Match=========\nPath: " + file_path + "\n"
     with open(abs_path, 'w') as new_file:
         with open(file_path) as old_file:
             for line in old_file:
@@ -25,10 +27,8 @@ def replace(file_path, metaitem, pattern, subst, just_checking):
                     # Always check if there's a match so we have something to
                     # print
                     if re.search(pattern, line) is not None:
-                        print("=========Match=========")
-                        print("Path: " + file_path)
-                        print("Line: " + line)
-                        print("=======================")
+                        match = True
+                        match_text = match_text + "Line: " + re.sub(pattern, r'\033[4m\033[1m\033[92m\g<0>\033[0m', line.strip()) + "\n"
                     # If we're not just checking (we're actually replacing)
                     if not just_checking:
                         # Do the replacing, write the new line to the new file
@@ -37,9 +37,7 @@ def replace(file_path, metaitem, pattern, subst, just_checking):
                         # that we did
                         if re.search(pattern, line) is not None:
                             needs_replacing = True
-                            print("=======================")
-                            print("Replaced")
-                            print("=======================")
+                            match_text = match_text + "Replaced\n"
                 else:
                     new_file.write(line)
                 # Make sure we know what the last metadata section was
@@ -47,6 +45,9 @@ def replace(file_path, metaitem, pattern, subst, just_checking):
                     prevline = line
 
     close(fh)
+    if match:
+        match_text = match_text + "=======================\n"
+        print(match_text)
     # If we didn't replace anything in the file we don't replace the file itself
     # this stops git flagging up unchanged but touched files as different
     if needs_replacing:
@@ -60,21 +61,27 @@ def find(begin_date_object, end_date_object, metaitem, metaold, metanew, just_ch
     # Walk through directoy
     for root, dirs, files in os.walk(replacepath):
         for article in files:
-            path = os.path.join(root, article)
-            with open(path, 'r') as text:
-                # Get the metadata from the file
-                md.convert(text.read())
-                # Check if file contains metadata section of interest and is
-                # within specified date range
-                possibleypresent = metaitem.lower() in md.Meta.keys()
-                notbefore = datetime.strptime(
-                    md.Meta['date'][0], '%Y-%m-%d') > begin_date_object
-                notafter = datetime.strptime(
-                    md.Meta['date'][0], '%Y-%m-%d') < end_date_object
-            # If the metadata suggests this is a file of interest then delve
-            # into it
-            if possibleypresent and notbefore and notafter:
-                replace(path, metaitem, metaold, metanew, just_checking)
+            if os.path.splitext(article)[1] == ".md":
+                path = os.path.join(root, article)
+                with open(path, 'r') as text:
+                    # Get the metadata from the file
+                    md.convert(text.read())
+                    # Check if file contains metadata section of interest and is
+                    # within specified date range
+                    possibleypresent = metaitem.lower() in md.Meta.keys()
+                    try:
+                        notbefore = datetime.strptime(
+                            md.Meta['date'][0], '%Y-%m-%d') > begin_date_object
+                        notafter = datetime.strptime(
+                            md.Meta['date'][0], '%Y-%m-%d') < end_date_object
+                    except:
+                        notbefore = True
+                        notafter = True
+
+                # If the metadata suggests this is a file of interest then delve
+                # into it
+                if possibleypresent and notbefore and notafter:
+                    replace(path, metaitem, metaold, metanew, just_checking)
 
 #==============================================================================
 #====================================MAIN======================================
