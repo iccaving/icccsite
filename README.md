@@ -5,6 +5,7 @@
 * [Advanced Setup; building the site and uploading](#advanced)
 * [Advanced editing](#change)
 * [Plugins](#plugins)
+* [Tools](#tools)
 
 Instructions are based on a linux set up but the semantic procedure (if not commands) should be the same. Scroll down for the Windows GUI version.
 
@@ -70,9 +71,9 @@ Each entry should be on a new line and lines after the first 1 should be indente
 ##Special pages/posts
 
 ###Announcments/info posts
-Announcments (or info posts or whatever) on the main page with the type 'index' can also have the following metadata:
+Announcements (or info posts or whatever) on the main page with the type 'index' can also have the following metadata (in addition to the article metadata above):
 
-*Link*: To set the a custom link from the announcmenet.
+*Link*: To set the a custom link from the announcement.
 
 *Linktext*: What the link text should be.
 
@@ -90,12 +91,17 @@ The site generator generates a list of all the caves that are mentioned in the c
 
 *System*: Cave system that the cave is part of. I've so far been using this as a "you might be able to do exchanges" type of signal. i.e easegill is seperate from the three counties system despite being connected underwater.
 
+*Location*: The location of the cave in decimal degrees e.g "52.134534, -2.134532". Just get it off google.
+
 Below the metadata you can write whatever you want in markdown/html and it will appear at the top of the cave's page, above the trip listings.
 
 ###People pages
 Similar to the cave pages. There is no specific metadata here so write what you want.
 
-###In page tags
+##In page tags
+
+###Articles
+
 There are a couple of tags/markdown shortcuts you can place in any article in addition to the standard markdown syntax.
 
 If you have defined a mainimg in your article metadata then to position the mainimg in the page use:
@@ -131,6 +137,14 @@ Within the curly braces on the left there is a caption in quotes, this is option
 If you want to link to images outside of the photoarchive then put an exclamation mark after the first curly brace:
 
     {!"Caption Goes Here Or Not" left}("www.external.com/image.jpg")
+
+###Cave pages
+
+The cave pages currently have 1 tag you can use:
+
+    {{ map }}
+
+If you have specified the location metadata then this will insert a Google Maps embed centered on the cave.
 
 ##Finishing
 Save your .md file. Track the file in git:
@@ -169,7 +183,7 @@ Building and synchronising the website on Windows is not as straightforwards - i
 
 #<a id="advanced"></a>Advanced Set Up
 If you want to be able to build and deploy the site yourself look here, otherwise ignore.
-###Installing Pelican
+##Installing Pelican
 First make sure you have python 3. Python 2 will not work, it doesn't do unicode easily so I can't be bothered with it. If you like you can install virtualenv and then everything is set up in the env/ folder. You can then also use the publish.sh script. Otherwise:
 
 Pelican is a python based static site generator. Install it:
@@ -195,6 +209,20 @@ This will build the site and output it to the output folder. To push the site to
     rsync -avz -e "ssh -p 10022" --chmod=ug+rwx,o-wx,o+r output/ username@dougal.union.ic.ac.uk:/home/www/htdocs/rcc/caving
 
 Note that the easiest way to do this on Windows involves Cygwin, and so is not easy by any stretch of the imagination.
+
+###Virtual environments are your friend
+Don't mess up your beautiful clean python install by installing all of that ^ crap. Just use the virtualenv helpfully placed in the repo for you.
+
+To switch to it and get python3, pelican, markdown, bs4 etc on your path:
+
+     source env/bin/activate
+
+Now building the site should just work. And to get out of the virtualenv:
+
+     deactivate
+
+Don't pip install or anything like that while in the virtualenv unless you know what you're doing.
+
 
 ##Photos
 The photos are a bit more complicated. To do this you will need at least SFTP access.
@@ -246,3 +274,17 @@ This should point to the folder that your markdown files are in.
 This should be the name of the subdirectory you want the site to reside in once its published.
 
 All other settings are optional and will default to the main site's settings. All of the file paths in this settings file will be relative to the file itself (i.e not the main site root). Useful settings to change might be the THEME, PLUGINS, PLUGIN_PATHS or STATIC_PATHS which will copy directories in the subsites content folder into the subsites output (just like for the main site).
+
+#Tools<a id="tools"></a>
+
+##meta_replacer.py
+
+Tool that will run through the metadata of any articles below a specififed directory and do substitutions on that meta data. Good for, fixing peoples names in the past without actually digging through all the articles or maybe you've spelt someones name wrong 4 trips in a row.
+
+    python meta_replacer.py path/to/articles/ --meta <metadatasection> --pattern <what do you want replaced> --sub <replace with> --start <earliest articles to consider> --end <latest articles to consider>
+
+The start and end dates are in the format YYYY-MM-DD and are optional, not specifying them will result in all articles being looked at. Example usage:
+
+    python meta_replacer.py content/trips/ --meta Cavepeeps --pattern "An VDP" --sub "Anne VDP"
+
+The script will offer to list the affected articles and affected lines in those articles before it does any replacing so don't worry about experimenting (also git will save you probably).
