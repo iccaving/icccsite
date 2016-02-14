@@ -1,4 +1,4 @@
-#Markdown Extension
+# Markdown Extension
 import markdown
 from markdown.inlinepatterns import Pattern
 
