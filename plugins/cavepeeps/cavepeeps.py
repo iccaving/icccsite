@@ -328,11 +328,9 @@ def generatepersonpages(generator, writer):
             cavermeta = generator.context['caverbios'][person][1]
         filename = 'cavers/' + person + '.html'
         writer.write_file(filename, template, generator.context, personname=person,
-                          articles=generator.context[
-                              'cavepeep_person'][person][0],
+                          articles=sorted(generator.context['cavepeep_person'][person][0], key=lambda x: x.date, reverse=True),
                           bio=caverbio, meta=cavermeta,
                           authoredarticles=authoredarticles)
-
 
 def generatepersonpage(generator, writer):
     # Create a page listing all the people pages
