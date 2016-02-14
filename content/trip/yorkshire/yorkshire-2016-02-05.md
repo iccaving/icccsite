@@ -14,8 +14,6 @@ Cavepeeps: 	DATE=2016-02-06; CAVE=Notts Pot 1; PEOPLE=Jack Hare, Oliver Myerscou
 			DATE=2016-02-07; CAVE=Jingling Pot; PEOPLE=Oliver Myerscough, Sam Page, Layla Aston, Nicola McCallion, Carrie Chen, Dave Wilson;
 			DATE=2016-02-07; CAVE=Shuttleworth Pot; PEOPLE=Tanguy Racine, Nuria Devos, Clara Rodríguez Fernández;
 
-Status:
-
 {{ mainimg }}
 #####{{ allpeople }}
 
