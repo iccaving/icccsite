@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg: JackHare-P1030063.jpg
 Thumbl: JackHare-P1020956--thumb.jpg
 Thumbr: JackHare-P1020956--thumb.jpg
-Authors: William,  Jack, William, Jarv 'Still not Drowned' Frost,
+Authors: William French,  Jack Hare, William French, Jarvist Frost
 Cavepeeps: DATE=2014-02-21; CAVE=Top Sink > Cow Pot; PEOPLE=Jarvist Frost, James Kirkpatrick, Giulio Deganutti, Tanguy Racine;
            DATE=2014-02-21; CAVE=Lancaster Hole > Wretched Rabbit; PEOPLE=Dave Wilson, Karim Elbakary, Ben Zelenay, Sophie Larnaudie;
            DATE=2014-02-21; CAVE=Cow Pot > Lancaster Hole; PEOPLE=Rhys Tyers, Dave Kirkpatrick, William French, Melanie Singh, Peter Fishbasher;
