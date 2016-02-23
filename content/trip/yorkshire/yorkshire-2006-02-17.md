@@ -3,10 +3,12 @@ Date: 2006-02-17
 Location: yorkshire
 Summary: Stonking weekend up in Yorks. Three trips down Gaping on Saturday; two trips up on Kingsdale on the Sunday &amp; an almighty kit fest in Bernies.
 Type: trip
-Photoarchive: 
-Mainimg: IMGP1047.JPG
-Thumbl: /caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1051--thumb.jpg
-Thumr:/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1061--thumb.jpg
+Photoarchive: IMGP1047.JPG
+Thumbl: IMGP1051--thumb.jpg
+Thumbr:IMGP1061--thumb.jpg
+Cavepeeps: DATE=2006-02-16; CAVE=Stream Passage Pot; PEOPLE=Jarvist Frost, Lyndon Leggate, Sandeep Mavadia;
+	   DATE=2006-02-17; CAVE=Jingling Pot; PEOPLE=Jan Evetts, Tom Brown, Rik Venn, Sandeep Mavadia;
+Authors: Jarvist Frost
 Oldurl:/caving/yorkshire/yorkshire-2006-02-17.php
 
 
@@ -17,7 +19,9 @@ Oldurl:/caving/yorkshire/yorkshire-2006-02-17.php
 
 ### Stream - Gaping Ghyll: Jarv, Lyndon, Deep
 
-[ ![A photo](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1049--thumb.jpg)](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1049.html) There
+[ ![A photo](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1049--
+thumb.jpg)
+](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1049.html) There
 comes a time in every man's life when he is suddenly faced by a question of
 just what in hells name he is doing. For me this came as I abseiled down the
 Steel pipe entrance shaft to Stream. We had wandered over Lekk fell for a good
@@ -30,7 +34,9 @@ circle of sky shrink to a pinprick as I abseiled down something barely bigger
 than my shoulders belayed to a rotting wooden post all seemed rather perverse
 - why on earth was I going underground again?
 
-[ ![A photo](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1052--thumb.jpg)](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1052.html) But of
+[ ![A photo](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1052--
+thumb.jpg)
+](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1052.html) But of
 course, a few minutes later I was back into my stride. There is something very
 particular about leading at the front of a trip, though the caves in the UK
 are extremely well explored, you can't help but think you're finding this for
@@ -63,7 +69,9 @@ fast &amp; hard by the time it reaches you, inevitably forcing itself down the
 back of your oversuit &amp; jarring you to the core! But I guess after all
 those damsel daydreams, a cold shower is called for.
 
-[ ![A photo](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1059--thumb.jpg)](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1059.html) Quick
+[ ![](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1059--
+thumb.jpg)
+](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1059.html) Quick
 dash to try and meet Bar Pot lads, when in a chamber faced with either sliding
 between rocks to your right or continuing along what becomes an ever deepening
 canal, go for the rock - the canal leads nowhere &amp; will merely fill your
@@ -91,7 +99,9 @@ lake - stars fantastically clear. Back in time to quickly change beside the
 frozen-up minibus, before rescuing the others from the pub &amp; attempting an
 ad-hoc defrosting of the windshield before returning to the NPC.
 
-[ ![A photo](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1063--thumb.jpg)](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1063.html) Curry
+[ ![A photo](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1063--
+thumb.jpg)
+](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1063.html) Curry
 was on the menu, and everything was going so well until Lyndon made the
 mistake of taking counsel from Sandeep on the subject of how much chilli
 powder to add. It was barely edible for the rest of us, though we struggled on
@@ -112,7 +122,9 @@ Deep
 
 ### Not the Waterfalls Walk &amp; Bernies: Everyone Else
 
-[ ![A photo](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1046--thumb.jpg)](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1046.html)
+[ ![A photo](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1046--
+thumb.jpg)
+](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1046.html)
 Disgusted at the horror of having to pay over three quid each to walk the
 Waterfalls with car-loads of fat Americans for whome the walk truly was
 'Warning: Extremely Strenuous', we set off up a footpath towards Kingsdale.
