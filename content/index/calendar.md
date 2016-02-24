@@ -1,4 +1,4 @@
-Title: Calendar Autumn 2015
+Title: Calendar Spring/Summer 2016
 Date: 2015-09-14
 Authors:
 Location:
@@ -6,8 +6,7 @@ Type: stickyindex
 
 |Date              | Destination                          | Hut                                                                                  | Caves                                  |
 | ---              |  ---                                 | ---                                                                                  |  ---                                   |
-|22nd - 24th Jan| [Mendip](caves?search=Mendip)  | [Wessex](http://wessex-cave-club.org/wiki/doku.php?id=visit_us)     | [Swildon's](https://union.ic.ac.uk/rcc/caving/caves/Swildon's%20Hole.html) |
-|5th - 7th Feb| [Yorkshire](caves?search=Yorkshire)  | [NPC Cottage](http://www.northernpennineclub.org.uk/greenclose/greenclose.htm)       | [Notts Pot](caves?search=Notts Pot) |
-|19th - 21st Feb| [Yorkshire](caves?search=Yorkshire)  | [NPC Cottage](http://www.northernpennineclub.org.uk/greenclose/greenclose.htm)       | Vespers and Spectacle |
-|4th - 6th March| [Yorkshire](caves?search=Yorkshire)  | [NPC Cottage](http://www.northernpennineclub.org.uk/greenclose/greenclose.htm)       | Boxhead and It's a Cracker |
+
+|11th - 13th March| [Yorkshire](caves?search=Yorkshire)  | [NPC Cottage](http://www.northernpennineclub.org.uk/greenclose/greenclose.htm)       | Vespers and Spectacle|
 |10th - 12th June| [Wales](caves?search=Wales)  | [Whitewalls](http://www.chelseaspelaeo.org.uk/cottage.htm)       | [Agen Allwedd](caves?search=Agen) |
+|7th July - 7th August| [Slovenia!](chttps://union.ic.ac.uk/rcc/caving/slovenia/)  | [Tolminski Migovec](https://union.ic.ac.uk/rcc/caving/slovenia/)       | Pri Madonna |
