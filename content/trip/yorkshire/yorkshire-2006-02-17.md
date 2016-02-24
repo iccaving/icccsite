@@ -69,7 +69,7 @@ fast &amp; hard by the time it reaches you, inevitably forcing itself down the
 back of your oversuit &amp; jarring you to the core! But I guess after all
 those damsel daydreams, a cold shower is called for.
 
-[ ![](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1059--
+[ ![A photo](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1059--
 thumb.jpg)
 ](/caving/photo_archive/trips/2006-02-17%20-%20yorkshire/IMGP1059.html) Quick
 dash to try and meet Bar Pot lads, when in a chamber faced with either sliding
@@ -77,7 +77,6 @@ between rocks to your right or continuing along what becomes an ever deepening
 canal, go for the rock - the canal leads nowhere &amp; will merely fill your
 wellies with rather unpleasent brown water! Ahem. Got to the main chamber with
 no sign of Bar party; so marvelled at the constantly-snaking waterfall
-crashing down from the heavens, stood in a dead sheep before retreating to eat
 a Christmas pudding at the far-warmer Bar T-junction. The main chamber is
 truly impressive; the largest in Britain and with a beautiful boulder-strewn
 floor. It gives off the feeling of intruding on some Suburbia-living giant's
