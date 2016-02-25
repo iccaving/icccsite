@@ -11,8 +11,10 @@
     <h1>Full list of all articles</h1>
       <dl>
       {% for article in dates %}
-          <dt>{{ article.locale_date }}</dt>
-          <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+          {% if article.unlisted is not defined %}
+              <dt>{{ article.locale_date }}</dt>
+              <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+          {% endif %}
       {% endfor %}
       </dl>
 
