@@ -68,6 +68,8 @@ Each entry should be on a new line and lines after the first 1 should be indente
 
 *Status*: Set this to "draft" if you don't want it to appear on the site yet or delete entirely/set to "published" if you do
 
+*Unlisted*: Just include this if you want the article to get published but not appear on the index, sidebar or archive page (accessible by direct link only essentially).
+
 ##Special pages/posts
 
 ###Announcments/info posts
