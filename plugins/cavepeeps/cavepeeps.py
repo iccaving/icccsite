@@ -141,7 +141,7 @@ def cavepeeplinker(generator):
     cavepeep = []
     for article in generator.articles:  # Loop through articles
         # If the article has the cavepeeps metadata
-        if 'cavepeeps' in article.metadata.keys():
+        if 'cavepeeps' in article.metadata.keys() and 'unlisted' not in article.metadata.keys():
             # Parse metadata and return a list where each item contains a date,
             # cave, caver, and article reference
             cavepeep_partial = parse_metadata(
