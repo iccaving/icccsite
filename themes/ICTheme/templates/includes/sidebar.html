@@ -41,7 +41,7 @@
   <div class="sidebar-item" data-idouter="tours-outer" data-idinner="tours-inner"><a href="#" onclick="return false;">Tours</a></div>
   <div class="sidebar-outer collapsed" id="tours-outer">
     <div class="sidebar-inner nodisplay" id="tours-inner">
-      {% for article in articles %} {% if article.type == 'tour' %}
+      {% for article in articles %} {% if article.type == 'tour' and article.unlisted is not defined %}
       <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} {{ article.date.strftime('%Y') }}</a></div>
       {% endif %} {% endfor %}
     </div>
