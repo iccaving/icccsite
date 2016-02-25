@@ -13,7 +13,6 @@ Cavepeeps: 	DATE=2016-02-20; CAVE=It's a Cracker > Boxhead Pot; PEOPLE=Jack Hare
 Status:
 Unlisted:		
 
-{{ mainimg }}
 #####{{ allpeople }}
 
 This is an account of CRO incident 9/2016.
