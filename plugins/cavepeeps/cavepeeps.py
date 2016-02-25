@@ -148,6 +148,12 @@ def cavepeeplinker(generator):
                 article.metadata['cavepeeps'], article)
             articlelink(cavepeep_partial, article, generator)
             cavepeep += cavepeep_partial
+        if 'cavepeeps' in article.metadata.keys() and 'unlisted' in article.metadata.keys():
+            # Parse metadata and return a list where each item contains a date,
+            # cave, caver, and article reference DO NOT ADD TO MAIN CAVEPEEPS
+            # dictionary
+            cavepeep_partial = parse_metadata(article.metadata['cavepeeps'], article)
+            articlelink(cavepeep_partial, article, generator)
     cavepeep.sort(key=lambda tup: tup.person)  # Sort the list by person name
     cavepeep_person = OrderedDict()
     # Add the entries to an ordered dictionary so that for each person
