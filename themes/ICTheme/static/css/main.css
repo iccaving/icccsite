@@ -449,7 +449,7 @@ table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sor
 /*For the list of caves/cavers*/
 /*Because they're the main event on their pages it looks*/
 /*nicer this way*/
-.article-content .cavetable, .article-content .cavertable {
+.article-content .widetable {
   margin: 0;
   width: 100%; }
 

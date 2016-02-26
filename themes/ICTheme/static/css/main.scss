@@ -558,7 +558,7 @@ table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sor
 /*Because they're the main event on their pages it looks*/
 /*nicer this way*/
 .article-content {
-	.cavetable, .cavertable {
+	.widetable {
 		margin: 0;
 		width: 100%
 	}

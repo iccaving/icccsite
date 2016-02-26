@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg: DSC_0292.jpg
 Thumbl: DSC_0311--thumb.jpg
 Thumbr: DSC_0254--thumb.jpg
-Authors: Sam,
+Authors: Sam Page
 Cavepeeps: DATE=2013-03-09; CAVE=Pippikin Pot > Wretched Rabbit; PEOPLE=Sam Page, Andy Jurd, Jonny Hardman
            DATE=2013-03-09; CAVE=Wretched Rabbit; PEOPLE=Clare Tan, Kate Smith, Su Teh, Rozzie O'Driscoll, Sam (Rozzie)
            DATE=2013-03-09; CAVE=Cow Pot; PEOPLE=Rhys Tyers, Oliver Myerscough, Dave Kirkpatrick;

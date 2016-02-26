@@ -4,22 +4,22 @@
 {% block content %}
 <div class="container">
   <div class="article-content">
-    <div class="content">
-      <table class="sortable">
+      <table class="sortable widetable">
         <tr>
           <th>Report</th>
           <th>Date</th>
         </tr>
         {% for article in articles %}
-        <tr>
-          <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-            <br>
-          </td>
-          <td>{{ article.date.strftime('%d-%m-%Y') }}</td>
-        </tr>
+          {% if article.unlisted is not defined %}
+          <tr>
+            <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+              <br>
+            </td>
+            <td>{{ article.date.strftime('%d-%m-%Y') }}</td>
+          </tr>
+          {% endif %}
         {% endfor %}
       </table>
-    </div>
   </div>
 </div>
 {% endblock %}
