@@ -1,10 +1,10 @@
-Title: Yorks AGM IV 
+Title: Yorks AGM IV
 Date: 2005-06-10
 Location: yorkshire
 Summary: Absolutely Brillo weekend down Bullpot. Shed was woken up at 4am by a poor CUCC lass dry retching in her sleeping bag after drinking a mite too much Absinthe. Fresher bimble from County to Wretched Rabbit in Easegill, big exchange up on the Allotment and then shopping at Bernie's and pull throughs in Swinstow/Simpsons on the Sunday. Shed had a little difficulty passing the Letterbox, allowing time for the two parties to meet up in the main chamber below and entertain themselves with camera flashes; before a storming zoom out of Valley Entrance to achieve our call-out.<br>Changing in the afternoon sun was lovely; anyone who says that caving is better in the winter should be taken outside and shot in the snow!
 Type: trip
-Photoarchive: 
-Mainimg: evetts22_Jan-BottomOfLongKinEast.JPG 
+Photoarchive:
+Mainimg: evetts22_Jan-BottomOfLongKinEast.JPG
 Thumbl: evetts36_Deep-Swinstow1stPitch--thumb.jpg
 Thumbr:jarvist-IMG_1533--thumb.jpg
 Cavepeeps: DATE=2005-06-11; CAVE=County Pot > Wretched Rabbit; PEOPLE=Dave Wilson, Jarvist Frost, Arun, Gerardo, Helen;
@@ -14,7 +14,7 @@ Cavepeeps: DATE=2005-06-11; CAVE=County Pot > Wretched Rabbit; PEOPLE=Dave Wilso
 	   DATE=2005-06-12; CAVE=Rowten Pot; PEOPLE=Andy Jurd, Colm;
 	   DATE=2005-06-12; CAVE=Simpsons Pot > Valley Entrance; PEOPLE=Clewin Griffiths, Helen, Jo King, Shed;
 	   DATE=2005-06-12; CAVE=Swinsto Hole > Valley Entrance; PEOPLE=Jarvist Frost, Dave, Jan Evetts, Sandeep Mavadia;
-Authors: Andy Jurd, Jarvist Frost;
+Authors: Andy Jurd, Jarvist Frost
 Oldurl:/caving/yorkshire/yorkshire-2005-06-10.php
 
 ### Simpson Pot -&gt; Valley Entrance: Clewin, Helen, Jo, Shed
@@ -202,4 +202,3 @@ Andy Jurd
 * * *
 
 ](/caving/photo_archive/trips/2005-06-10%20-%20yorkshire/dirindex.html)
-

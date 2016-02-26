@@ -3,7 +3,7 @@ Date: 2010-10-01
 Location: yorkshire
 Summary: Beautiful little start to the caving year, with a pre-term trip to the wonders of the Yorkshire Dales. Nice solid trips down King Pot and Marble Steps, and a bit of doube-cave rig and derig practice for some of the 2nd years in Bullpot + Jingling, via the really quite nice new P-bolt lateral route. Appalling weather, play was rained off on Sunday.
 Type: trip
-Authors: Jarv, Jarv, Jarv,
+Authors: Jarvist Frost
 Cavepeeps: DATE=2010-10-02;CAVE=Bull Pot; PEOPLE=Jarvist Frost, Niko Kral, Alex Herriott;
            DATE=2010-10-02;CAVE=Jingling Pot; PEOPLE=Kate Smith, Dave Wilson, Pete Hambly;
            DATE=2010-10-02;CAVE=King Pot; PEOPLE=Tetley, Clare Tan, Myles Denton;

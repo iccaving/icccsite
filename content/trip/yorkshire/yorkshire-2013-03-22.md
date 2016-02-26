@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg: Guilio-DSC07988.JPG
 Thumbl: Guilio-DSC07938--thumb.jpg
 Thumbr: Guilio-DSC07911--thumb.jpg
-Authors: Fiona,
+Authors: Fiona Hartley,
 Cavepeeps: DATE=2013-03-23; CAVE=Shuttleworth Pot; PEOPLE=Tetley, Rhys Tyers, Clare Tan, Oliver Myerscough, Sam Page, Fiona Hartley, Dave Kirkpatrick, Giulio Deganutti, Tim Osborne, Andy Jurd, Dave Wilson;
            DATE=2013-03-24; CAVE=Great Douk Cave; PEOPLE=Rhys Tyers, Tim Osborne, Oliver Myerscough, Fiona Hartley, Sam Page, Andy Jurd, Giulio Deganutti
 Oldurl: /rcc/caving/yorkshire/yorkshire-2013-03-22.php

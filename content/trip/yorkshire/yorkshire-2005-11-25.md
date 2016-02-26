@@ -1,4 +1,4 @@
-Title: Yorks II 
+Title: Yorks II
 Date: 2005-11-25
 Location: yorkshire
 Summary: Desperate to go deep again, ICCC returned to Yorkshire. Frigging freezing; but Yorks managed to avoid the snow that was falling across North Wales & Cornwall. Alas, no photos, but a fine report instead.
@@ -6,7 +6,7 @@ Type: trip
 Thumbl: /caving/photo_archive/trips/2004-11-05%20-%20yorkshire%20fireworks%20-%20jan/DSCF0004--thumb.jpg
 Thumbr:/caving/photo_archive/trips/2004-11-26%20-%20yorkshire%20-%20jan/Photo38.sunday_farm.janevetts--thumb.jpg
 Authors: Sandeep Mavadia, Dave Loeffler
-Cavepeeps: DATE=2005-11-26; CAVE=Long Kin West, PEOPLE=Dave Wilson, Clewin Griffiths, Rik Venn, Jo King, Sandeep Mavadia, Dave Loeffler;
+Cavepeeps: DATE=2005-11-26; CAVE=Long Kin West; PEOPLE=Dave Wilson, Clewin Griffiths, Rik Venn, Jo King, Sandeep Mavadia, Dave Loeffler;
 	   DATE=2005-11-27; CAVE=Heron Pot; PEOPLE=Dave Wilson, Clewin Griffiths, Rik Venn, Jo King, Sandeep Mavadia, Dave Loeffler;
 Oldurl:/caving/yorkshire/yorkshire-2005-11-25.php
 
@@ -114,4 +114,3 @@ Dave L.
 No One Yet
 
 * * *
-
