@@ -17,7 +17,7 @@ Unlisted:
 
 This is an account of CRO incident 9/2016. We are extremely grateful to the CRO and the police for finding our friends and leading them to safety.
 
-[Boxhead Rigging Guide]{http://www.pdf-archive.com/2016/02/21/boxhead-topo-jan-2016/}, [It's a Cracker Rigging Guide]{http://www.pdf-archive.com/2015/04/12/topo-cracker-apr-2015/}
+[Boxhead Rigging Guide](http://www.pdf-archive.com/2016/02/21/boxhead-topo-jan-2016/), [It's a Cracker Rigging Guide](http://www.pdf-archive.com/2015/04/12/topo-cracker-apr-2015/)
 
 ## Saturday
 
