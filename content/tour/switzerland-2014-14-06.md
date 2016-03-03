@@ -1,4 +1,4 @@
-Title: Switzerland Summer Tour
+Title: Switzerland
 Date: 2014-09-14
 Location: switzerland
 Summary: Canyoning! Like caving without the roof. With rope, wetsuits and a bumper book of canyons in Ticino we travelled to Northern Italy and Southern Switzerland for aquatic fun. A very succesfuly trip seeing 5 trips to 4 canyons, a lot of olive and bread eaten and only 1 hire car totalled.
