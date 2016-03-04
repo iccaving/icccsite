@@ -116,7 +116,7 @@ a:visited { }
 }
 
 .container {
-  padding: 7px 0 0 0;
+  padding: 0;
   margin: 0;
   width: 100%;
 }
@@ -188,7 +188,8 @@ a.footer-button:visited { }
 
 /*Article and Page Content Styling */
 .article-content {
-  margin: 0 10px;
+  margin: 0;
+  padding: 10px 20px;
   overflow: hidden;
  }
 
