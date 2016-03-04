@@ -1,8 +1,8 @@
 /* IC caving web site style sheet for main pages
 */
 /*-----------------------------Colour and styling Variables-----------------------------*/
-$colourscheme: dark;
 
+/* Colours */
 $link-hover: #D46A6A; /*Link hover*/
 $highlight: #AA3939; /*Light Red (Highlighting,)*/
 $links: #A6373F;
@@ -12,28 +12,27 @@ $header2: #AB3C3C; /* (H2)*/
 $light-background: #AB4444; /*(Highlight colour for Banner/Sidebar/Headers H3/text)*/
 $body-background: #999999; /*(Body Background)*/
 $offwhite: #E8E8E8; /*Off White (Backgrounds/ Large Text on dark backgrounds)*/
-$transwhite: rgba(255, 255, 255, 0.83); /*Article backgrounds*/
+$transwhite: rgba(255, 255, 255, 0.83); /*Index item backgrounds*/
+$white: rgb(255, 255, 255); /*Article backgrounds*/
 $text: #000000; /*Normal text colour*/
+
+/* Images */
 $back-image: "../../assets/bg.jpg";
 $right-image: "../../assets/jack.png";
 
+/* Indents */
 $header-indent: 25px;
 $content-indent: 50px;
 
-@if $colourscheme == light {
-	$link-hover: #D46A6A; /* Pink (Link hover)*/
-	$highlight: #AA3939; /*Light Red (Highlighting,)*/
-	$links: #A6373F;
-	$visited-links: #801515; /*Darker Red (Visited Links)*/
-	$dark-background: #143B46; /*Dark Turquoise (Background Colour for Banner/Sidebar/Headers H1)*/
-	$header2: #0D4D4D; /* Turquoise (H2)*/
-	$light-background: #407F7F; /*Light Turquoise (Highlight colour for Banner/Sidebar/Headers H3/text)*/
-	$body-background: #5DACC2; /*Light Blue (Body Background)*/
-	$offwhite: #E8E8E8; /*Off White (Backgrounds/ Large Text on dark backgrounds)*/
-	$text: #000000; /*Normal text colour*/
-	$back-image: "";
-	$right-image: "";
-}
+/* Fonts */
+$sans: Roboto, Tahoma, Arial, sans-serif;
+$serif: "Roboto Slab", "Times New Roman", Times, serif;
+$h2weight: 500;
+$h3weight: 400;
+$h4weight: 400;
+$h5weight: 400;
+$textweight: 300;
+
 
 /*-----------------------------Global Page Properties-----------------------------*/
 
@@ -43,7 +42,8 @@ html {
 body {
 	background-color: $body-background;
 	color: $text;
-	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 400;
+	font-family: $serif;
+	font-weight: $textweight;
 	font-size: 16px;
 	margin: 0;
 	overflow-x: hidden;
@@ -59,35 +59,40 @@ p, ul {
 }
 
 h1 {
-	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 700;
+	font-family: $sans;
+	font-weight: 700;
 	font-size: 2rem;
 	color:	$dark-background;
 	margin: 1rem 0;
 	}
 
 h2 {
+	font-family: $sans;
 	font-size: 1.5rem;
-	font-weight: bold;
+	font-weight: $h2weight;
 	color: $header2;
 	margin: 1rem 0;
 	}
 
 h3 {
+	font-family: $sans;
 	font-size: 1.125rem;
-	font-weight: 400;
+	font-weight: $h3weight;
 	color: $light-background;
 	margin: 1rem 0;
 	}
 h4 {
+	font-family: $sans;
 	font-size: 1rem;
-	font-weight: bold;
+	font-weight: $h4weight;
 	color: $light-background;
 	margin: 1rem 0;
 	text-align: right;
 }
 h5 {
+	font-family: $sans;
 	font-size: 1rem;
-	font-weight: bold;
+	font-weight: $h5weight;
 	color: $light-background;
 	margin: 1rem 0;
 }
@@ -170,8 +175,8 @@ pre {
 
 .banner-title {
 	font-size: 3rem;
-	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 900;
-	//padding: 15px 0 15px 20px;
+	font-family: $sans;
+	font-weight: 900;
 	color: $offwhite;
 
 	display: table-cell;
@@ -262,7 +267,8 @@ pre {
 }
 
 .sidebar-content-box {
-	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 500;
+	font-family: $sans;
+	font-weight: 500;
 	font-size: 0.8rem;
 	flex: 0 0 auto;
 }
@@ -299,20 +305,24 @@ pre {
 }
 
 .sidebar-sub-item a:hover {
-	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 400;
+	font-family: $sans;
+	font-weight: 400;
 }
 .sidebar-item a {
-	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 500;
+	font-family: $sans;
+	font-weight: 500;
 	padding: 10px 0 10px 20px;
 }
 
 .sidebar-sub-item a {
-	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 400;
+	font-family: $sans;
+	font-weight: 400;
 	padding: 10px 0 10px 35px;
 }
 
 .sidebar-sub-sub-item a {
-	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 100;
+	font-family: $sans;
+	font-weight: 100;
 	padding: 10px 0 10px 50px;
 }
 
@@ -362,7 +372,8 @@ pre {
 .content-left a {
 	color: $offwhite;
 	text-decoration: none;
-	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 700;
+	font-family: $sans;
+	font-weight: 700;
 }
 
 .content-right {
@@ -373,7 +384,8 @@ pre {
 	padding: 10px 10px 10px 10px;
 	background-color: $light-background;
 	color: $offwhite;
-	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 500;
+	font-family: $sans;
+	font-weight: 500;
 }
 
 .content {
@@ -434,7 +446,8 @@ pre {
 
 a.footer-button {
 	padding: 5px 5px 5px 5px;
-	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 500;
+	font-family: $sans;
+	font-weight: 500;
 	color: $highlight;
 	text-decoration: underline;
 	&:visited {
@@ -453,7 +466,7 @@ a.footer-button {
 /*-----------------------------Article and Page Content Styling-----------------------------*/
 .article-content {
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
-	background-color: $transwhite;
+	background-color: $white;
 	padding: 10px 10px 10px 10px;
 	overflow: auto;
 }
@@ -588,7 +601,7 @@ table {
  }
 td, th {
   padding: 0.5rem;
-  font-weight: 400;
+  font-weight: $textweight;
   text-align: left;
  }
  tbody {
@@ -600,6 +613,7 @@ td, th {
 	  }
  }
 
+/*
  .article-content tbody
  {
 	 > tr:hover, > tr:hover a {
@@ -607,7 +621,7 @@ td, th {
 		 color: white;
 	 }
  }
-
+*/
 thead > tr {
    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
    background-color: #ffffff;
