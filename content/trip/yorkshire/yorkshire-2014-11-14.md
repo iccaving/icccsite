@@ -38,7 +38,7 @@ On Saturday we were split into teams. My team (Jack, Oliver, Sam, Thomas and me)
 
 ####Bogdan
 
-Alexander Seaton Yorkshire I began with a gruelling test of my commitment to caving. Just as Odysseus' resolve was tested by the sirens, the Korean society's giant and delicious looking pile of food lay enticing me nearby as we packed the minibus. Despite this (and even without needing to be strapped to the minibus) I stood by my decision to spend my weekend cold and damp in a cave. Thus having had my willpower drained completely, the six hour drive up to Yorkshire serenaded by Ollie and his rendition of “I want to know what love is” was vital for restoring my passion for caving.
+Yorkshire I began with a gruelling test of my commitment to caving. Just as Odysseus' resolve was tested by the sirens, the Korean society's giant and delicious looking pile of food lay enticing me nearby as we packed the minibus. Despite this (and even without needing to be strapped to the minibus) I stood by my decision to spend my weekend cold and damp in a cave. Thus having had my willpower drained completely, the six hour drive up to Yorkshire serenaded by Ollie and his rendition of “I want to know what love is” was vital for restoring my passion for caving.
 
 We rose unnaturally early on Saturday and were treated to a lavish breakfast of scrambled eggs, greasy sausages and Tesco's Everyday Value baked beans (a British delicacy). This put to rest any lingering thoughts I may have had about Korean food. I eagerly wolfed it down and proceeded to prepare myself physically and mentally for the day's caving. Due to the large number of people on the trip and the abundance of caves nearby we divided ourselves into four groups, mine made up of Ben, Sarah, William and Rhys Gordon-Levitt. Having begun relatively flawlessly, things took a turn for the worse as we drove towards the cave with my realisation that I was missing a couple of vital pieces of safety equipment: chocolate and a set of 'cows' tails'. Having not previously come across the latter I was relieved to discover that their manufacture didn't involve animal cruelty - the procedure involves plenty of anaesthetic. Fortunately the presence of a Co-op en-route combined with Rhys and Jack's ingenuity and sacrifice, in this case unfortunately lacking anaesthetic, solved both of these problems. Finally prepared, we set off up the valley on foot towards the cave.
 
@@ -48,7 +48,7 @@ We took a short break to eat some of our chocolate and to take some photos. Then
 
 On returning I made myself useful in the kitchen where with Jack and Jarv's instruction we cooked up a feast worthy of.. ..well, a group of hungry and tired cavers. Following this delicious meal the important business of caving games for which we were joined by the Newcastle's caving club (UNCC). The games began with classics such as the table traverse and the 'pot and sling' game and progressed to more exotic games including the body traverse (about which James was somewhat worryingly enthusiastic) and a game of UNCC's invention involving the connection of random body parts between random people. Highlights of the night (for me at least) included Rhys and I gazing deep into each others souls to calibrate ourselves for our pot and sling attempt, Cecilia and Sarah's death-defying body traverses around James and of course the body connecting game in which I became perhaps a little too well acquainted with Ben's crotch.
 
-###Alex
+####Alex
 
 ##  Sunday
 

@@ -4,7 +4,7 @@ Location: yorkshire
 Summary: A pre-term trip to Yorkshire to hone our leadership and teamworking skills. Saturday saw the smaller cave connoisseurs of the group head to trapdoor with its ominously named squeezes; The Ripper, The Gripper and The Stripper. A less masochistic group did SRT practice in Ireby Fell. On Sunday Alum was the cave of choice to enjoy the sunshine.
 Type: trip
 Photoarchive:
-Mainimg: yorkshire-2014-09-19.jpg
+Mainimg: 1_DSC_0089--orig.jpg
 Thumbl: 2_DSC_0136_Alum--thumb.jpg
 Thumbr: 2_DSC_0136_Alum--thumb.jpg
 Authors: Fiona Hartley, Rhys Tyers
