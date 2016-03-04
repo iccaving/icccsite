@@ -175,6 +175,7 @@ Tackle Meister - Jonny Hardman, <br>
 Entertaining Officers - Jan and Jana <br>
 </dt></dl>
 
+<!--
 <h2>Committee 2010-2011</h2>
 <div style="text-align: center;"><span>
 <a href="/caving/photo_archive/mugshots/Clare%20Tan.html">
@@ -346,25 +347,28 @@ Tea Officer - Steven Pool
 <dt><b>Treasurer</b> </dt><dd><i>Rik Venn</i><br>
 <dt><b>Secretary</b></dt><dd><i>Chris Rogers</i><br>
 </dl>
+-->
 
 <h2>Hall of Fame:</h2>
 
-<table>
-<tr><th>Year<th>President<th>Treasurer<th>Secretary<th>Tackle Officer
-<tr><th>2007-2008<th>Jarvist Frost<th>Benjamin Banfield<th>Paul Hutton<th>James Huggett
-<tr><th>2006-2007<th>Sandeep Mavadia<th>David Loeffler<th>Daniel Greenwald<th>-
-<tr><th>2005-2006<th>Jarvist Frost<th>Daniel Greenwald<th>Sandeep Mavadia<th>Chris Rogers (Expo Sec), Richard Venn (Social Sec)
-<tr><th>2004-2005<th>Jarvist Frost<th>Stephanie Klecha<th>Chris Rogers<th>Sandeep Mavadia
-<tr><th>2003-2004<th>Lyndon Leggate<th>Richard Venn<th>Colm Carrol<th>-
-<tr><th>2002-2003<th>Andy Jurd<th>Lyndon Leggate<th>?<th>?
-<tr><th>2001-2002<th>Tom Ayles<th>?<th>?<th>?
-<tr><th>2000-2001<th>Ben Ogbourne<th>Andy Jurd<th>?<th>?
-<tr><th>1999-2000<th>Jan Evetts<th>Tom Ayles<th>?<th>Andy Jurd
-<tr><th>1998-1999<th>Colm Carrol<th>Ben Ogbourne<th>?<th>?
-<tr><th>1997-1998<th>Tim Wright (Shed)<th>Mike Rogerson (Goaty)<th>Clewing Griffiths (Clue)<th>Jan Evetts (Jesus)
-<tr><th>1996-1997<th>Paul Wilcox (Cox)<th>Antthony Woods (Pants)<th>Kathryn Atherton (TW)<th>Tim Wright (Shed)
-<tr><th>1995-1996<th>Tony Hayden (Tonx)<th>Paul Wilcox (Bond)<th>Kathryn Atherton<th>Mark Evans, Jim Evans, Chris Roberts, Sarah Wingrove
-</table>
+| Year      | President         | Treasurer             | Secretary                | Other Officers |
+|:---------:|:-----------------:|:---------------------:|:------------------------:|:--------------:|
+| 2010-2011 | Clare Tan         | William French        | Kate Smith               | Jana Carga (Foreign Sec),<br/>Myles Denton (Medical Ofc.),<br/>Nikolas Kral (Health and Safety Ofc.),<br/>Jean Maillard (Tackle Master),<br/>Thomas McCarthy-Ward (Chef),<br/>Steven Pool (Tea Ofc.) |
+| 2009-2010 | Alex Herriott     | William French        | Paul Hutton              | Jarvist Frost (Meets Sec),<br/>James Kirkpatrick (Foriegn Sec) |
+| 2008-2009 | Paul Hutton       | Ben Banfield          | Jarvist Frost            | Tom Jenkins (Tackle Master),<br/>Jamie Perrelet (Social Sec),<br/>James Kirkpatrick (Foriegn Sec) |
+| 2007-2008 | Jarvist Frost     | Benjamin Banfield     | Paul Hutton              | James Huggett (Tackle Master)  |
+| 2006-2007 | Sandeep Mavadia   | David Loeffler        | Daniel Greenwald         | -              |
+| 2005-2006 | Jarvist Frost     | Daniel Greenwald      | Sandeep Mavadia          | Chris Rogers (Expo Sec),<br/>Richard Venn (Social Sec) |
+| 2004-2005 | Jarvist Frost     | Stephanie Klecha      | Chris Rogers             | Sandeep Mavadia (Tackle Master) |
+| 2003-2004 | Lyndon Leggate    | Richard Venn          | Colm Carrol              | - |
+| 2002-2003 | Andy Jurd         | Lyndon Leggate        | ?                        | ? |
+| 2001-2002 | Tom Ayles         | ?                     | ?                        | ? |
+| 2000-2001 | Ben Ogbourne      | Andy Jurd             | ?                        | ? |
+| 1999-2000 | Jan Evetts        | Tom Ayles             | ?                        | Andy Jurd (Tackle Master) |
+| 1998-1999 | Colm Carrol       | Ben Ogbourne          | ?                        | ? |
+| 1997-1998 | Tim Wright (Shed) | Mike Rogerson (Goaty) | Clewing Griffiths (Clue) | Jan Evetts (Jesus)(Tackle Master) |
+| 1996-1997 | Paul Wilcox (Cox) | Antthony Woods (Pants)| Kathryn Atherton (TW)    | Tim Wright (Shed)(Tackle Master) |
+| 1995-1996 | Tony Hayden (Tonx)| Paul Wilcox (Bond)    | Kathryn Atherton         | Mark Evans,<br/>Jim Evans ,<br/>Chris Roberts,<br/>Sarah Wingrove |
 
 <h2>1993-4 Club Exec: (ICCC Journal 18)</h2>
 <table>
