@@ -29,16 +29,17 @@ def MetaInserter(path, context):
             [empty_tag.extract() for empty_tag in empty_tags]
 
             html = soup.prettify()
+
+            # This gets rid of the paragraph tags that markdown places round our
+            # tags
+            html = re.sub(r'<p>\s*?(({{\s*?\w*\s*?}}\s*)*)\s*?</p>', '\g<1>', html)
+
             for key in metadata:
                 # For each key in the metadata check if there is an appropriate tag in
                 # in the rest of the file and if there is replace the tag with
                 # the data
-                # If the tag is on a line on its own then markdown will wrap it
-                # with p tags so the first substituion tests for those and
-                # removes the p tags
+
                 htmlkey = key.replace(">", "&gt;")
-                #html = re.sub(
-                #    r'(<p>\s*?{{\s*?)(' + htmlkey + r')(\s*?}}\s*?</p>)', metadata[key], html)
                 html = re.sub(
                     r'({{\s*?)(' + htmlkey + r')(\s*?}})', metadata[key], html)
 
