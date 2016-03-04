@@ -318,12 +318,15 @@ pre {
 .index-thumbl {
   float: left;
   margin-right: 10px;
-  max-width: 220px; }
+  max-width: 225px; }
 
 .index-thumbr {
   float: right;
   margin-left: 10px;
-  max-width: 220px; }
+  max-width: 225px; }
+
+.index-thumbl img, .index-thumbr img {
+  max-width: 225px; }
 
 .content-footer {
   width: 100%;
