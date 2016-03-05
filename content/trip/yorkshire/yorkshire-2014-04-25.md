@@ -6,7 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: SandeepMavadia-IMGP0009.JPG
 Authors: Rhys Tyers, Tanguy Racine, Fiona Hartley, Jack Hare
-Cavepeeps: 	DATE=2014-04-26; CAVE=King Photos; PEOPLE=Rhys Tyers, Jack Hare, Fiona Hartley, Tanguy Racine, Sandeep Mavadia, William French, Giulio Deganutti;
+Cavepeeps: 	DATE=2014-04-26; CAVE=King Pot; PEOPLE=Rhys Tyers, Jack Hare, Fiona Hartley, Tanguy Racine, Sandeep Mavadia, William French, Giulio Deganutti;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2014-04-25.php
 
 {{ mainimg }}

@@ -9,8 +9,8 @@ Thumbl:jarvist%20frost%20-%20canon%20g5%20-%20kingsdale%20sunday%20pose--thumb.j
 Authors: Jarvist Frost
 Cavepeeps: DATE=2009-11-14;CAVE=County Pot;PEOPLE=Jarvist Frost, Steven Pool, Mustafa, Kate, Alex Herriott;
            DATE=2009-11-14;CAVE=Wretched Rabbit;PEOPLE=Dave Wilson, William French, James Berg, Aleeza Janmohamed, Jean Maillard, Yvonne;
-           DATE=2009-11-14;CAVE=Lanacaster Hole;PEOPLE=James Kirkpatrick, Jana Carga, Thomas McCarthy-Ward, Niko Kral, Clare Tan;
-           DATE=2009-11-15;CAVE=Yordas;PEOPLE=James Kirkpatrick, James Berg, Jean Maillard, Clare Tan, Thomas McCarthy-Ward;
+           DATE=2009-11-14;CAVE=Lancaster Hole;PEOPLE=James Kirkpatrick, Jana Carga, Thomas McCarthy-Ward, Niko Kral, Clare Tan;
+           DATE=2009-11-15;CAVE=Yordas Pot;PEOPLE=James Kirkpatrick, James Berg, Jean Maillard, Clare Tan, Thomas McCarthy-Ward;
            DATE=2009-11-15;CAVE=Bull Pot;PEOPLE=Jarvist Frost, Jana Carga, William French, Aleeza Janmohamed, Steven Pool;
            DATE=2009-11-15;CAVE=Aquamole Pot;PEOPLE=Dave Wilson, Alex Herriott, Yvonne, Mustafa;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2009-11-13

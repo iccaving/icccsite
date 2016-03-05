@@ -16,10 +16,10 @@ Cavepeeps: DATE=2015-12-30; CAVE=King Pot; PEOPLE=Jarvist Frost, Will Scott, Ken
 			DATE=2015-12-31; CAVE=County Pot > Wretched Rabbit; PEOPLE= Rhys Tyers, Isha Shaz, Edith Huebner, Kelvin Choi, William French;
 			DATE=2015-12-31; CAVE=Wretched Rabbit > County Pot; PEOPLE= Jack Hare, Rosanna Nichols, Kenneth Tan, Catalina Garcia;
 			DATE=2016-01-01; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE= Tanguy Racine, Kenneth Tan, Rosanna Nichols;
-			DATE=2016-01-01; CAVE=Stream Pot > Bar Pot; PEOPLE= Edith Huebner;
+			DATE=2016-01-01; CAVE=Stream Passage Pot > Bar Pot; PEOPLE= Edith Huebner;
 			DATE=2016-01-01; CAVE=Flood Entrance Pot > Bar Pot; PEOPLE= Jack Hare, Celia Tinsley, Rhys Tyers;
 			DATE=2016-01-01; CAVE=Bar Pot; PEOPLE= Isha Shaz;
-			DATE=2016-01-01; CAVE=Stream Pot > Stream Pot; PEOPLE= Jarvist Frost, Alex Seaton, Kelvin Choi;
+			DATE=2016-01-01; CAVE=Stream Passage Pot > Stream Passage Pot; PEOPLE= Jarvist Frost, Alex Seaton, Kelvin Choi;
 			DATE=2016-01-01; CAVE=Jingling Pot; PEOPLE= Fiona Hartley, Dave Wilson;
 			DATE=2016-01-02; CAVE=Sell Gill; PEOPLE=Jack Hare, Tanguy Racine, Kenneth Tan, James Nichols;
 			DATE=2016-01-02; CAVE=Bull Pot; PEOPLE= Alex Seaton, William French, Rosanna Nichols, Catalina Garcia;
