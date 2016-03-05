@@ -3,10 +3,6 @@ Date: 2016-02-19
 Location: Yorkshire
 Summary: On Saturday we had eventful exchange between It's a Cracker and Boxhead Pot, with a splinter team heading to Rowten. On Sunday we braved the strong streamway in Notts II.
 Type: trip
-Photoarchive:
-Mainimg: 
-Thumbl:  
-Thumbr: 
 Authors: Arun Paul, Rhys Tyers, Jack Hare
 Cavepeeps: 	DATE=2016-02-20; CAVE=It's a Cracker > Boxhead Pot; PEOPLE=Jack Hare, Will Scott, Edith Huebner, Kenneth Tan;
 				DATE=2016-02-20; CAVE=Boxhead Pot > It's a Cracker; PEOPLE=Rhys Tyers, Kevin Li, Cecilia Kan, Arun Paul, Dave Kirkpatrick;
@@ -14,11 +10,13 @@ Cavepeeps: 	DATE=2016-02-20; CAVE=It's a Cracker > Boxhead Pot; PEOPLE=Jack Hare
 				DATE=2016-02-21; CAVE=Notts Pot 2; PEOPLE=Jack Hare, Rhys Tyers, Kevin Li, Kenneth Tan, Edith Huebner, Arun Paul;
 Status:			
 
+<div class='center'><h1>Report</h1></div>
+
 #####{{ allpeople }}
 
 ## Friday
 
-Arrived in stores at 6ish to pack up the van. Only 12 of us on this trip so we threw all the kit on the back three seats and didn’t have to faff with the roof rack. Drove to Telford, picked up Dave, eventually found the Tescos, bought everything but milk, continued to Yorkshire, arrived at the NPC (first time for me) and I promptly fell asleep having had a late night on Thursday. 
+Arrived in stores at 6ish to pack up the van. Only 12 of us on this trip so we threw all the kit on the back three seats and didn’t have to faff with the roof rack. Drove to Telford, picked up Dave, eventually found the Tescos, bought everything but milk, continued to Yorkshire, arrived at the NPC (first time for me) and I promptly fell asleep having had a late night on Thursday.
 
 #### Arun
 
@@ -74,8 +72,8 @@ I dropped the last 10m hang and amongst the wind and spray at the bottom it was 
 
 Woke up reasonably, headed downstairs and there were a handful awake, but not Jack! We started to cook breakfast as people slowly joined us. I was feeling pretty tired but still wanted to go caving. It was decided that a group of 8 of us were going to walk through Notts 2.
 
-I was leading pretty much the entire way. Having never been into Notts 2 before I was impressed at the tangle of scaffold in the entrance. The streamway when we got to it was higher than anyone had seen it before, at parts above my waist and frequently halfway up my thighs. The water was increasingly harder to get through, and was tiring. We stopped to take a break when I noticed a rope, used as a handline up to one side with a sign saying ‘flood bypass route’. We went up to investigate and after Jack required pulling back out of a slick, muddy crawl we thought it may actually be a bypass for the flood water itself. We proceed, but eventually decided to return as the water was beginning to make it unreasonable to continue. The way back down the streamway and to the surface was uneventful but for one part when my legs were swept from under me and it took me for about a 5m water slide before I managed to get a hold to pull myself up. Undamaged but considerably wetter. 
+I was leading pretty much the entire way. Having never been into Notts 2 before I was impressed at the tangle of scaffold in the entrance. The streamway when we got to it was higher than anyone had seen it before, at parts above my waist and frequently halfway up my thighs. The water was increasingly harder to get through, and was tiring. We stopped to take a break when I noticed a rope, used as a handline up to one side with a sign saying ‘flood bypass route’. We went up to investigate and after Jack required pulling back out of a slick, muddy crawl we thought it may actually be a bypass for the flood water itself. We proceed, but eventually decided to return as the water was beginning to make it unreasonable to continue. The way back down the streamway and to the surface was uneventful but for one part when my legs were swept from under me and it took me for about a 5m water slide before I managed to get a hold to pull myself up. Undamaged but considerably wetter.
 
-We found Cecilia asleep in the minivan as she had been unable to cave with us (forgot her helmet), changed, headed to the NPC where we ate, tidied up and left just before 4. 
+We found Cecilia asleep in the minivan as she had been unable to cave with us (forgot her helmet), changed, headed to the NPC where we ate, tidied up and left just before 4.
 
 #### Arun

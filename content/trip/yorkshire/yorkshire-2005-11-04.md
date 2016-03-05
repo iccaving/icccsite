@@ -8,7 +8,7 @@ Mainimg: sandeep_IMGP0979.JPG
 Thumbl: sandeep_IMGP0977--thumb.jpg
 Thumbr: sandeep_IMGP0986--thumb.jpg
 Authors: Sandeep Mavadia, Jan Evetts
-Cavepeeps:DATE=2005-11-05; CAVE=Taham Wife Hole; PEOPLE=Jan Evetts, Dave Loeffler, Clewin Griffiths, Rik Venn, Jarvist Frost;
+Cavepeeps:DATE=2005-11-05; CAVE=Tatham Wife Hole; PEOPLE=Jan Evetts, Dave Loeffler, Clewin Griffiths, Rik Venn, Jarvist Frost;
           DATE=2005-11-05; CAVE=Stream Passage Pot; PEOPLE=Andy Jurd, Joe King, Anne VDP, Sandeep Mavadia;
           DATE=2005-11-06; CAVE=Bull Pot; PEOPLE=Sandeep Mavadia, Dave Loeffler, Trev, Hannah;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2005-11-04.php
