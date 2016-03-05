@@ -32,12 +32,14 @@
           <th>Date</th>
         </tr>
         {% for article in authoredarticles %}
-        <tr>
-          <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-            <br>
-          </td>
-          <td>{{ article.date.strftime('%d-%m-%Y') }}</td>
-        </tr>
+          {% if article.unlisted is not defined %}
+          <tr>
+            <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+              <br>
+            </td>
+            <td>{{ article.date.strftime('%d-%m-%Y') }}</td>
+          </tr>
+          {% endif %}
         {% endfor %}
       </table>
       {% endif %}
