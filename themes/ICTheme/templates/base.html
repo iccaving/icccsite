@@ -28,6 +28,21 @@
       $('div.banner').click(function() {
         if ($(window).width() < 750) {
             $('div.left-col').toggleClass("left-col-show");
+            if ($('div.left-col').hasClass("left-col-show")) {
+              $('div.sidebar-closer').css("display", "block");
+            }
+            else {
+              $('div.sidebar-closer').css("display", "none");
+            }
+            $('body').css("scroll-y", "hidden")
+        }
+      });
+    });
+    $(function() {
+      $('div.sidebar-closer').click(function() {
+        if ($(window).width() < 750) {
+            $('div.left-col').removeClass("left-col-show");
+            $('div.sidebar-closer').css("display", "none");
             $('body').css("scroll-y", "hidden")
         }
       });
@@ -112,6 +127,8 @@
   </div>
 
   <div style="clear: both;"></div>
+
+  <div class="sidebar-closer mobile"></div>
 
   <div class="center-col">
     {% block content %} {% endblock %}
