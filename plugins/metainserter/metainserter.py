@@ -21,7 +21,7 @@ def MetaInserter(path, context):
             metadata = ast.literal_eval(temp.strip())
 
             # Remove the metadata so it doesn't appear on the live site
-            [x.extract() for x in soup.findAll("span", {"id": "metadata"})]
+            [x.extract() for x in soup.findAll("script", {"id": "metadata"})]
 
             # Clean up empty tags often left by markdown
             empty_tags = soup.findAll(lambda tag: tag.name == 'p' and not tag.contents and (
