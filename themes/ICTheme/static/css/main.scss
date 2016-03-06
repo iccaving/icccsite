@@ -391,30 +391,33 @@ pre {
 }
 
 .content {
-	width: calc(100% - 20px);
-	padding: 10px 10px 0 10px;
+	display: table;
+	width: 100%;
 }
 
 .content-summary {
-	padding: 0 10px;
+	padding: 0 15px;
 	vertical-align: top;
+	display: table-cell;
+	vertical-align: middle;
 }
 
 .content-summary p {
-	margin: 0;
-	padding: 5px;
+	margin: 15px 0;
 }
 
 .index-thumbl {
-	float: left;
-	margin-right: 10px;
 	max-width: 225px;
+	padding: 10px 0 0 10px;
+	display: table-cell;
+	vertical-align: middle;
 }
 
 .index-thumbr {
-	float: right;
-	margin-left: 10px;
+	padding: 10px 10px 0 0;
 	max-width: 225px;
+	display: table-cell;
+	vertical-align: middle;
 }
 
 .index-thumbl, .index-thumbr {
@@ -571,8 +574,7 @@ table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sor
 /*For index on main page*/
 /*Mostly just the calender/agenda*/
 .content table {
-	width: calc(100% + 20px);
-	margin: -10px -10px 0 -10px;
+	width: 100%;
 }
 
 /*For pretty much all other tables*/
@@ -583,11 +585,9 @@ table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sor
 /*For the list of caves/cavers*/
 /*Because they're the main event on their pages it looks*/
 /*nicer this way*/
-.article-content {
-	.widetable {
-		margin: 0;
-		width: 100%
-	}
+.widetable {
+	margin: 0    !important;
+	width: 100%  !important;
 }
 
 /*This is so that tables that overflow the article container don't*/
