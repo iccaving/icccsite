@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block head %}
 <script src="{{ SITEURL }}/theme/js/sorttable.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
+<script src="{{ SITEURL }}/theme/js/Chart.min.js"></script>
 {% endblock %}
 {% block banner %}{{ personname }}{% endblock banner %}
 {% block content %}
@@ -78,7 +78,6 @@ $(function() {
     });
 
     rawData = rawData.reverse();
-    //console.log(rawData);
 
     var firstDate = rawData[0];
     var currDate = rawData[0];
@@ -90,12 +89,8 @@ $(function() {
 
     var i = 0;
     while (i < rawData.length) {
-    	console.log(currDate)
       var label = currDate.getMonth() + 1 + "-" + currDate.getFullYear();
-      console.log("----------------------------" + label + "--------------------------");
-      console.log(currDate.getMonth() + "-" + currDate.getFullYear() + " = " + rawData[i].getMonth() + "-" + rawData[i].getFullYear() + "?")
       if (currDate.getMonth() == rawData[i].getMonth() && currDate.getFullYear() == rawData[i].getFullYear()) {
-        console.log("TRUE");
         if (labels[labels.length - 1] == label) {
           data[data.length - 1] = data[data.length - 1] + 1;
         }
@@ -106,8 +101,6 @@ $(function() {
         i++;
       }
       else {
-      	console.log("False");
-
       	currDate.setMonth(currDate.getMonth() + 1, 1);
         if (!(labels[labels.length - 1] == label)) {
           labels.push(label);
@@ -117,39 +110,34 @@ $(function() {
     }
 
 
-    reduceFactor = Math.floor(labels.length / 45);
-
-    if (reduceFactor > 1) {
-    	for (var n = 0; n < labels.length; n++) {
-    		if ((n % reduceFactor) > 0) {
-        	labels[n] = "";
-        }
-    	}
-    }
-
     var chartData = {
       labels: labels,
       datasets: [
         {
-          label: "activity",
-          fillColor: "#AB4444",
-          strokeColor: "rgba(220,220,220,0.8)",
-          highlightFill: "rgba(220,220,220,0.75)",
-          highlightStroke: "rgba(220,220,220,1)",
+          label: "Caving Activity",
+          backgroundColor: "#AB4444",
+          borderWidth: -2,
+          hoverBackgroundColor: "#D46A6A",
           data: data
         }
       ]
     }
     var options = {
-      maintainAspectRatio: false,
-      barShowStroke : false,
-      scaleShowHorizontalLines: true,
-      scaleShowVerticalLines: false,
-      barValueSpacing : 1,
+    			fontFamily: "Roboto, Tahoma, Arial, sans-serif",
+          scales: {
+        		xAxes: [{
+            	categoryPercentage: 1,
+          		barPercentage: 1,
+        	}],
+          }
     }
 
-    var ctx = $("#activityChart").get(0).getContext("2d");
-    var myNewChart = new Chart(ctx).Bar(chartData, options);
+    var ctx = $("#activityChart");
+    var myBarChart = new Chart(ctx,{
+      type: 'bar',
+      data: chartData,
+      options: options
+    });
   });
 });
 </script>
