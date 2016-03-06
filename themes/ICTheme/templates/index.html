@@ -47,6 +47,9 @@ Imperial College Caving Club
                 </div>
                 {% endif %}
               {% endif %}
+              <div class="content-summary">
+              {% if article.type != 'index' %}{{ article.summary }}{% else %}{{ article.content }}{% endif %}
+              </div>
               {% if article.thumbr is defined %}
                 {% if article.thumbr != '' %}
                 <div class="index-thumbr">
@@ -54,9 +57,6 @@ Imperial College Caving Club
                 </div>
                 {% endif %}
               {% endif %}
-              <div class="content-summary">
-              {% if article.type != 'index' %}{{ article.summary }}{% else %}{{ article.content }}{% endif %}
-              </div>
           </div>
           <div class="content-footer">
             {% if article.type != 'index' %}
