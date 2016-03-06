@@ -1,12 +1,23 @@
-{% extends "base.html" %} {% block head %}
+{% extends "base.html" %}
+{% block head %}
 <script src="{{ SITEURL }}/theme/js/sorttable.js"></script>
-{% endblock %} {% block banner %}{{ personname }}{% endblock banner %} {% block content %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
+{% endblock %}
+{% block banner %}{{ personname }}{% endblock banner %}
+{% block content %}
 <div class="container">
   <div class="article-content">
 
       {{ bio }}
 
       <h3>Trips attended</h3>
+
+      <p>
+      <a id="showButton" onClick="$('#activityChart').toggleClass('nodisplay'); $('#showButton').toggleClass('nodisplay'); $('#hideButton').toggleClass('nodisplay'); return false;">Show Chart</a>
+      <a id="hideButton" class="nodisplay" onClick="$('#activityChart').toggleClass('nodisplay'); $('#showButton').toggleClass('nodisplay'); $('#hideButton').toggleClass('nodisplay'); return false;">Hide Chart</a>
+      </p>
+      <canvas id="activityChart" class="nodisplay" style="margin: 0; width: 100%; height: 400px;"></canvas>
+
       <table class="sortable widetable">
         <tr>
           <th>Report</th>
@@ -34,7 +45,7 @@
         {% for article in authoredarticles %}
           {% if article.unlisted is not defined %}
           <tr>
-            <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+            <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></p>
               <br>
             </td>
             <td>{{ article.date.strftime('%d-%m-%Y') }}</td>
@@ -46,4 +57,100 @@
 
   </div>
 </div>
+
+<script>
+
+$(function() {
+  $('#showButton').click(function() {
+
+    $("#activityChart").removeClass('nodisplay');
+
+    var data = [];
+    var labels = []
+    var rawData = [];
+    var splitDate;
+    var reformDate;
+
+    $(".article-content table:nth-of-type(1) tr td:nth-of-type(3)").each(function() {
+       splitDate = $( this ).text().split("-")
+       reformDate= splitDate[2] + "-" + splitDate[1] + "-" + splitDate[0];
+      rawData.push(new Date(reformDate));
+    });
+
+    rawData = rawData.reverse();
+    //console.log(rawData);
+
+    var firstDate = rawData[0];
+    var currDate = rawData[0];
+    var lastDate = new Date(rawData[rawData.length -1].setMonth(rawData[rawData.length - 1].getMonth() + 1));
+
+
+    labels.push(currDate.getMonth() + 1 + "-" + currDate.getFullYear());
+    data.push(0);
+
+    var i = 0;
+    while (i < rawData.length) {
+    	console.log(currDate)
+      var label = currDate.getMonth() + 1 + "-" + currDate.getFullYear();
+      console.log("----------------------------" + label + "--------------------------");
+      console.log(currDate.getMonth() + "-" + currDate.getFullYear() + " = " + rawData[i].getMonth() + "-" + rawData[i].getFullYear() + "?")
+      if (currDate.getMonth() == rawData[i].getMonth() && currDate.getFullYear() == rawData[i].getFullYear()) {
+        console.log("TRUE");
+        if (labels[labels.length - 1] == label) {
+          data[data.length - 1] = data[data.length - 1] + 1;
+        }
+        else {
+          labels.push(label);
+          data.push(1);
+        }
+        i++;
+      }
+      else {
+      	console.log("False");
+
+      	currDate.setMonth(currDate.getMonth() + 1, 1);
+        if (!(labels[labels.length - 1] == label)) {
+          labels.push(label);
+          data.push(0);
+        }
+      }
+    }
+
+
+    reduceFactor = Math.floor(labels.length / 45);
+
+    if (reduceFactor > 1) {
+    	for (var n = 0; n < labels.length; n++) {
+    		if ((n % reduceFactor) > 0) {
+        	labels[n] = "";
+        }
+    	}
+    }
+
+    var chartData = {
+      labels: labels,
+      datasets: [
+        {
+          label: "activity",
+          fillColor: "#AB4444",
+          strokeColor: "rgba(220,220,220,0.8)",
+          highlightFill: "rgba(220,220,220,0.75)",
+          highlightStroke: "rgba(220,220,220,1)",
+          data: data
+        }
+      ]
+    }
+    var options = {
+      maintainAspectRatio: false,
+      barShowStroke : false,
+      scaleShowHorizontalLines: true,
+      scaleShowVerticalLines: false,
+      barValueSpacing : 1,
+    }
+
+    var ctx = $("#activityChart").get(0).getContext("2d");
+    var myNewChart = new Chart(ctx).Bar(chartData, options);
+  });
+});
+</script>
 {% endblock %}
