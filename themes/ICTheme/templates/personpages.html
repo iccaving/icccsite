@@ -16,7 +16,7 @@
       <a id="showButton" onClick="$('#activityChart').toggleClass('nodisplay'); $('#showButton').toggleClass('nodisplay'); $('#hideButton').toggleClass('nodisplay'); return false;">Show Chart</a>
       <a id="hideButton" class="nodisplay" onClick="$('#activityChart').toggleClass('nodisplay'); $('#showButton').toggleClass('nodisplay'); $('#hideButton').toggleClass('nodisplay'); return false;">Hide Chart</a>
       </p>
-      <canvas id="activityChart" class="nodisplay" style="margin: 0; width: 100%; height: 400px;"></canvas>
+      <canvas id="activityChart" height="500" class="nodisplay" style="margin: 0; width: 100%"></canvas>
 
       <table class="sortable widetable">
         <tr>
@@ -25,14 +25,15 @@
           <th>Date</th>
         </tr>
         {% for cave, article, date in articles %}
+        {% set cavelist = cave.split('>')[1:] %}
+        {% set cave = cave.split('>')[0] %}
         <tr>
           <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-            <br>
           </td>
-          <td>{{ cave }}</td>
+          <td><a href="{{ SITEURL }}/caves/{{ cave|e|trim }}.html">{{ cave }}</a>{% for extracave in cavelist %} > <a href="{{ SITEURL }}/caves/{{ extracave|e|trim }}.html">{{ extracave }}</a>{% endfor %}</td>
           <td>{{ date.strftime('%d-%m-%Y') }}</td>
         </tr>
-        {% endfor %}
+      {% endfor %}
       </table>
 
       {% if authoredarticles is defined and authoredarticles is not none %}
@@ -45,9 +46,7 @@
         {% for article in authoredarticles %}
           {% if article.unlisted is not defined %}
           <tr>
-            <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></p>
-              <br>
-            </td>
+            <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></td>
             <td>{{ article.date.strftime('%d-%m-%Y') }}</td>
           </tr>
           {% endif %}
@@ -83,13 +82,51 @@ $(function() {
     var currDate = rawData[0];
     var lastDate = new Date(rawData[rawData.length -1].setMonth(rawData[rawData.length - 1].getMonth() + 1));
 
-
-    labels.push(currDate.getMonth() + 1 + "-" + currDate.getFullYear());
+    switch(currDate.getMonth()) {
+      case 8:
+      case 9:
+      case 10:
+      case 11:
+        labels.push("Autumn " + currDate.getFullYear());
+        break;
+      case 0:
+      case 1:
+      case 2:
+      case 3:
+        labels.push("Spring " + currDate.getFullYear());
+        break;
+      case 4:
+      case 5:
+      case 6:
+      case 7:
+        labels.push("Summer " + currDate.getFullYear());
+        break;
+    }
     data.push(0);
 
     var i = 0;
     while (i < rawData.length) {
-      var label = currDate.getMonth() + 1 + "-" + currDate.getFullYear();
+      var label;
+      switch(currDate.getMonth()) {
+        case 8:
+        case 9:
+        case 10:
+        case 11:
+          label = "Autumn " + currDate.getFullYear();
+          break;
+        case 0:
+        case 1:
+        case 2:
+        case 3:
+          label = "Spring " + currDate.getFullYear();
+          break;
+        case 4:
+        case 5:
+        case 6:
+        case 7:
+          label = "Summer " + currDate.getFullYear();
+          break;
+      }
       if (currDate.getMonth() == rawData[i].getMonth() && currDate.getFullYear() == rawData[i].getFullYear()) {
         if (labels[labels.length - 1] == label) {
           data[data.length - 1] = data[data.length - 1] + 1;
@@ -98,6 +135,7 @@ $(function() {
           labels.push(label);
           data.push(1);
         }
+
         i++;
       }
       else {
@@ -124,6 +162,7 @@ $(function() {
     }
     var options = {
     			fontFamily: "Roboto, Tahoma, Arial, sans-serif",
+          maintainAspectRatio: true,
           scales: {
         		xAxes: [{
             	categoryPercentage: 1,
