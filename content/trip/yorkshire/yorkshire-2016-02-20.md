@@ -4,8 +4,8 @@ Location: Yorkshire
 Summary:
 Type: trip
 Authors: Arun Paul, Cecilia Kan, Rhys Tyers
-Cavepeeps: 	DATE=2016-02-20; CAVE=It's a Cracker > Boxhead Pot; PEOPLE=Jack Hare, Will Scott, Edith Huebner, Kenneth Tan;
-			DATE=2016-02-20; CAVE=Boxhead Pot > It's a Cracker; PEOPLE=Rhys Tyers, Kevin Li, Cecilia Kan, Arun Paul, Dave Kirkpatrick;
+Cavepeeps: 	DATE=2016-02-20; CAVE=It's A Cracker > Boxhead Pot; PEOPLE=Jack Hare, Will Scott, Edith Huebner, Kenneth Tan;
+			DATE=2016-02-20; CAVE=Boxhead Pot > It's A Cracker; PEOPLE=Rhys Tyers, Kevin Li, Cecilia Kan, Arun Paul, Dave Kirkpatrick;
 Status:
 Unlisted:		
 
