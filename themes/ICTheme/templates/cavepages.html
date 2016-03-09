@@ -30,7 +30,6 @@
         {% for article, date in articles %}
         <tr>
           <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-            <br>
           </td>
           <td>{{ date.strftime('%d-%m-%Y') }}</td>
         </tr>
