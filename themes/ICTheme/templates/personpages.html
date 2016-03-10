@@ -13,10 +13,12 @@
       <h3>Trips attended</h3>
 
       <p>
-      <a id="showButton" onClick="$('#activityChart').toggleClass('nodisplay'); $('#showButton').toggleClass('nodisplay'); $('#hideButton').toggleClass('nodisplay'); return false;">Show Chart</a>
-      <a id="hideButton" class="nodisplay" onClick="$('#activityChart').toggleClass('nodisplay'); $('#showButton').toggleClass('nodisplay'); $('#hideButton').toggleClass('nodisplay'); return false;">Hide Chart</a>
+      <a id="showButton" onClick="$('#activityChart').toggleClass('nodisplay'); $('#chartContainer').toggleClass('nodisplay'); $('#showButton').toggleClass('nodisplay'); $('#hideButton').toggleClass('nodisplay'); return false;">Show Chart</a>
+      <a id="hideButton" class="nodisplay" onClick="$('#activityChart').toggleClass('nodisplay'); $('#chartContainer').toggleClass('nodisplay'); $('#showButton').toggleClass('nodisplay'); $('#hideButton').toggleClass('nodisplay'); return false;">Hide Chart</a>
       </p>
-      <canvas id="activityChart" height="500" class="nodisplay" style="margin: 0; width: 100%"></canvas>
+      <div id="chartContainer" class="nodisplay" style="margin: 0; width: 100%; height: 400px;">
+        <canvas id="activityChart" class="nodisplay"></canvas>
+      </div>
 
       <table class="sortable widetable">
         <tr>
@@ -62,7 +64,8 @@
 $(function() {
   $('#showButton').click(function() {
 
-    $("#activityChart").removeClass('nodisplay');
+    //$("#activityChart").removeClass('nodisplay');
+    //$("#chartContainer").removeClass('nodisplay');
 
     var data = [];
     var labels = []
@@ -162,7 +165,8 @@ $(function() {
     }
     var options = {
     			fontFamily: "Roboto, Tahoma, Arial, sans-serif",
-          maintainAspectRatio: true,
+          responsive: true,
+          maintainAspectRatio: false,
           scales: {
         		xAxes: [{
             	categoryPercentage: 1,
