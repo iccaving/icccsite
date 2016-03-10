@@ -71,11 +71,6 @@ London SW7 2BB
 </a>
 <figcaption><strong>Secretary:</strong><br>James O'Hanlon</figcaption>
 </figure>
-</span></div>
-
-<br>
-
-<div style="text-align: center;"><span>
 <figure style="display: inline-block; margin: 0;">
 <a href="/rcc/caving/photo_archive/mugshots/Peter%20Ganson.html">
 <img src="/rcc/caving/photo_archive/mugshots/Peter%20Ganson--thumb.jpg">
@@ -131,8 +126,6 @@ London SW7 2BB
 <b>Honorary Morale Officer:</b> David Kirkpatrick<br>
 </p>
 
-<br>
-
 <h2>Committee 2013-2014</h2>
 <div style="text-align: center;"><span>
 <a href="/caving/photo_archive/mugshots/Rhys%20Tyers.html">
@@ -145,7 +138,6 @@ London SW7 2BB
 <img src="/caving/photo_archive/mugshots/Sam%20Page--thumb.jpg">
 </a>
 </span></div>
-
 <p>
 <b>President:</b> Rhys Tyers<br>
 <b>Treasurer:</b> Oliver Myerscough<br>
@@ -155,8 +147,6 @@ London SW7 2BB
 <b>Medical Officer:</b> Saber King<br>
 <b>Health + Safety Officer:</b> David Kirkpatrick<br>
 </p>
-
-<br>
 
 <h2>Committee 2012-2013</h2>
 <div style="text-align: center;"><span>
@@ -208,201 +198,135 @@ Tackle Meister - Jonny Hardman, <br>
 Entertaining Officers - Jan and Jana <br>
 </dt></dl>
 
-<!--
-<h2>Committee 2010-2011</h2>
-<div style="text-align: center;"><span>
-<a href="/caving/photo_archive/mugshots/Clare%20Tan.html">
-<img  src="/caving/photo_archive/mugshots/Clare%20Tan--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/William%20French.html">
-<img  src="/caving/photo_archive/mugshots/William%20French--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Kate%20Smith.html">
-<img  src="/caving/photo_archive/mugshots/Kate%20Smith--thumb.jpg">
-</a>
-</span></div>
-<dl>
-<dt><strong>President:</strong> </dt><dd><i>Clare Tan</i><br>
-<dt><strong>Treasurer:</strong></dt> <dd><i>William French</i><br>
-<dt><strong>Club Secretary:</strong></dt> <dd><i>Kate Smith</i><br>
-<dt>
-<strong>Internal Positions:</strong>
-Foreign Secretary - Jana Carga,<br>
-Medical Officer - Myles Denton, <br>
-Health &amp; Safety Officer - Nikolas Kral,<br>
-Tackle / Stores Officer - Jean Maillard, <br>
-Chef - Thomas Jude McCarthy-Ward, <br>
-Tea Officer - Steven Pool
-</dt></dl>
-
-<h2>Committee 2009-2010</h2>
-<div style="text-align: center;"><span>
-<a href="/caving/photo_archive/mugshots/Paul%20Hutton.html">
-<img  src="/caving/photo_archive/mugshots/Paul%20Hutton--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Jarvist%20Frost.html">
-<img  src="/caving/photo_archive/mugshots/Jarvist%20Frost--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/james%20kirkpatrick.html">
-<img src="/caving/photo_archive/mugshots/james%20kirkpatrick--thumb.jpg">
-</a>
-</div>
-
-<dl>
-<dt><strong>President:</strong> </dt><dd><i>Alex Herriott</i><br>
-<dt><strong>Treasurer:</strong></dt> <dd><i>William French</i><br>
-<dt><strong>Club Secretary:</strong></dt> <dd><i>Paul Hutton</i><br>
-<br>
-<dt><strong>Foreign Secretary:</strong></dt> <dd><i>James Kirkpatrick</i><br>
-<dt><strong>Meets Secretary:</strong></dt> <dd><i>Jarvist Frost</i><br>
-<dt><strong>Tackle Meister:</strong></dt> <dd><i>Keen Fresher (your name here...)</i><br>
-</dl>
-
-<h2>Committee 2008-2009</h2>
-<div style="text-align: center;"><span>
-<a href="/caving/photo_archive/mugshots/Paul%20Hutton.html">
-<img  src="/caving/photo_archive/mugshots/Paul%20Hutton--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Ben%20Banfield.html">
-<img  src="/caving/photo_archive/mugshots/Ben%20Banfield--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Jarvist%20Frost.html">
-<img  src="/caving/photo_archive/mugshots/Jarvist%20Frost--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/tom%20jenkins.html">
-<img src="/caving/photo_archive/mugshots/tom%20jenkins--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/james%20kirkpatrick.html">
-<img src="/caving/photo_archive/mugshots/james%20kirkpatrick--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/jamie%20perrelet.html">
-<img src="/caving/photo_archive/mugshots/jamie%20perrelet--thumb.jpg">
-</a>
-</div></span>
-
-<dl>
-<dt><strong>President:</strong> </dt><dd><i>Paul Hutton</i><br>
-<dt><strong>Treasurer:</strong></dt> <dd><i>Ben Banfield</i><br>
-<dt><strong>Club Secretary:</strong></dt> <dd><i>Jarvist Frost</i><br>
-<br>
-<dt><strong>Foreign Secretary:</strong></dt> <dd><i>James Kirkpatrick</i><br>
-<dt><strong>Social Secretary:</strong></dt> <dd><i>Jamie Perrelet</i><br>
-<dt><strong>Tackle Meister:</strong></dt> <dd><i>Tom Jenkins</i><br>
-</dl>
-
-<h2>Committee 2007-2008</h2>
-<a href="/caving/photo_archive/mugshots/Jarvist%20Frost.html">
-<img  src="/caving/photo_archive/mugshots/Jarvist%20Frost--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Ben%20Banfield.html">
-<img  src="/caving/photo_archive/mugshots/Ben%20Banfield--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Paul%20Hutton.html">
-<img  src="/caving/photo_archive/mugshots/Paul%20Hutton--thumb.jpg">
-</a>
-<dl>
-<dt><strong>President:</strong> </dt><dd><i>Jarvist Frost</i><br>
-<dt><strong>Treasurer:</strong></dt> <dd><i>Ben Banfield</i><br>
-<dt><strong>Secretary:</strong></dt> <dd><i>Paul Hutton</i><br>
-</dl>
-
-<h2>Committee 2006-2007</h2>
-<a href="/caving/photo_archive/mugshots/Sandeep%20Mavadia.html">
-<img  src="/caving/photo_archive/mugshots/Sandeep%20Mavadia--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/David%20Loeffler.html">
-<img src="/caving/photo_archive/mugshots/David%20Loeffler--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Dan%20Greenwald.html">
-<img  src="/caving/photo_archive/mugshots/Dan%20Greenwald--thumb.jpg">
-</a>
-<dl>
-<dt>
-<b>President</b> </dt><dd> <i>Sandeep Mavadia</i><br>
-<dt><b>Treasurer</b><dd><i>David Loeffler</i>
-<dt><b>Secretary</b> <dd> <i>Daniel Greenwald</i>
-</dl>
-</p>
-
-
-<h2>Committee 2005-2006</h2>
-<a href="/caving/photo_archive/mugshots/Jarvist%20Frost.html">
-<img  src="/caving/photo_archive/mugshots/Jarvist%20Frost--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Dan%20Greenwald.html">
-<img  src="/caving/photo_archive/mugshots/Dan%20Greenwald--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Sandeep%20Mavadia.html">
-<img  src="/caving/photo_archive/mugshots/Sandeep%20Mavadia--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Chris%20Rogers%20%5BChris%20the%20Cruel%5D.html">
-<img  src="/caving/photo_archive/mugshots/Chris%20Rogers%20%5BChris%20the%20Cruel%5D--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Richard%20Venn%20%5BRik%5D.html">
-<img src="/caving/photo_archive/mugshots/Richard%20Venn%20%5BRik%5D--thumb.jpg"></a>
-<dl>
- <dt>
-  <b>President</b> </dt><dd> <i>Jarvist Frost</i><br>
-  <dt><b>Treasurer</b> <dd> <i>Daniel Greenwald</i>
-  <dt><b>(Club) Secretary</b><dd><i>Sandeep Mavadia</i>
-  <dt><b>(Expedition) Secretary</b> <dd> <i>Chris Rogers</i>
-  <dt><b>(Social &amp; Drinking) Secretary</b> <dd> <i> Richard (Rik) Venn</i>
-</dl>
-
-<h2>Committee 2004-2005</h2>
-<a href="/caving/photo_archive/mugshots/Jarvist%20Frost.html">
-<img  src="/caving/photo_archive/mugshots/Jarvist%20Frost--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Stephanie%20Klecha.html">
-<img  src="/caving/photo_archive/mugshots/Stephanie%20Klecha--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Chris%20Rogers%20%5BChris%20the%20Cruel%5D.html">
-<img  src="/caving/photo_archive/mugshots/Chris%20Rogers%20%5BChris%20the%20Cruel%5D--thumb.jpg">
-</a>
-<dl>
- <dt><b>President</b> </dt><dd> <i>Jarvist Frost</i><br>
- <dt><b>Treasurer</b> <dd> <i>Stephanie Klecha</i>
- <dt><b>Secretary</b><dd><i>Chris Rogers</i>
-</dl>
-
-<h2>Committee 2003-2004</h2>
-<a href="/caving/photo_archive/mugshots/Lyndon%20Leggate.html">
-<img src="/caving/photo_archive/mugshots/Lyndon%20Leggate--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Richard%20Venn%20%5BRik%5D.html">
-<img src="/caving/photo_archive/mugshots/Richard%20Venn%20%5BRik%5D--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Chris%20Rogers%20%5BChris%20the%20Cruel%5D.html">
-<img src="/caving/photo_archive/mugshots/Chris%20Rogers%20%5BChris%20the%20Cruel%5D--thumb.jpg">
-</a>
-<dl>
-<dt><b>President</b> </dt><dd><i>Lyndon Leggate</i><br>
-<dt><b>Treasurer</b> </dt><dd><i>Rik Venn</i><br>
-<dt><b>Secretary</b></dt><dd><i>Chris Rogers</i><br>
-</dl>
--->
-
 <h2>Hall of Fame:</h2>
+<div class="table-container">
 
-| Year      | President         | Treasurer             | Secretary                | Other Officers |
-|:---------:|:-----------------:|:---------------------:|:------------------------:|:--------------:|
-| 2010-2011 | Clare Tan         | William French        | Kate Smith               | Jana Carga (Foreign Sec),<br/>Myles Denton (Medical Ofc.),<br/>Nikolas Kral (Health and Safety Ofc.),<br/>Jean Maillard (Tackle Master),<br/>Thomas McCarthy-Ward (Chef),<br/>Steven Pool (Tea Ofc.) |
-| 2009-2010 | Alex Herriott     | William French        | Paul Hutton              | Jarvist Frost (Meets Sec),<br/>James Kirkpatrick (Foriegn Sec) |
-| 2008-2009 | Paul Hutton       | Ben Banfield          | Jarvist Frost            | Tom Jenkins (Tackle Master),<br/>Jamie Perrelet (Social Sec),<br/>James Kirkpatrick (Foriegn Sec) |
-| 2007-2008 | Jarvist Frost     | Benjamin Banfield     | Paul Hutton              | James Huggett (Tackle Master)  |
-| 2006-2007 | Sandeep Mavadia   | David Loeffler        | Daniel Greenwald         | -              |
-| 2005-2006 | Jarvist Frost     | Daniel Greenwald      | Sandeep Mavadia          | Chris Rogers (Expo Sec),<br/>Richard Venn (Social Sec) |
-| 2004-2005 | Jarvist Frost     | Stephanie Klecha      | Chris Rogers             | Sandeep Mavadia (Tackle Master) |
-| 2003-2004 | Lyndon Leggate    | Richard Venn          | Colm Carrol              | - |
-| 2002-2003 | Andy Jurd         | Lyndon Leggate        | ?                        | ? |
-| 2001-2002 | Tom Ayles         | ?                     | ?                        | ? |
-| 2000-2001 | Ben Ogbourne      | Andy Jurd             | ?                        | ? |
-| 1999-2000 | Jan Evetts        | Tom Ayles             | ?                        | Andy Jurd (Tackle Master) |
-| 1998-1999 | Colm Carrol       | Ben Ogbourne          | ?                        | ? |
-| 1997-1998 | Tim Wright (Shed) | Mike Rogerson (Goaty) | Clewing Griffiths (Clue) | Jan Evetts (Jesus)(Tackle Master) |
-| 1996-1997 | Paul Wilcox (Cox) | Antthony Woods (Pants)| Kathryn Atherton (TW)    | Tim Wright (Shed)(Tackle Master) |
-| 1995-1996 | Tony Hayden (Tonx)| Paul Wilcox (Bond)    | Kathryn Atherton         | Mark Evans,<br/>Jim Evans ,<br/>Chris Roberts,<br/>Sarah Wingrove |
-
+<table class="widetable">
+<thead>
+<tr>
+<th>Year</th>
+<th>President</th>
+<th>Treasurer</th>
+<th>Secretary</th>
+<th>Other Officers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2010-2011</td>
+<td>Clare Tan</td>
+<td>William French</td>
+<td>Kate Smith</td>
+<td>Jana Carga (Foreign Sec),<br/>Myles Denton (Medical Ofc.),<br/>Nikolas Kral (Health and Safety Ofc.),<br/>Jean Maillard (Tackle Master),<br/>Thomas McCarthy-Ward (Chef),<br/>Steven Pool (Tea Ofc.)</td>
+</tr>
+<tr>
+<td>2009-2010</td>
+<td>Alex Herriott</td>
+<td>William French</td>
+<td>Paul Hutton</td>
+<td>Jarvist Frost (Meets Sec),<br/>James Kirkpatrick (Foriegn Sec)</td>
+</tr>
+<tr>
+<td>2008-2009</td>
+<td>Paul Hutton</td>
+<td>Ben Banfield</td>
+<td>Jarvist Frost</td>
+<td>Tom Jenkins (Tackle Master),<br/>Jamie Perrelet (Social Sec),<br/>James Kirkpatrick (Foriegn Sec)</td>
+</tr>
+<tr>
+<td>2007-2008</td>
+<td>Jarvist Frost</td>
+<td>Benjamin Banfield</td>
+<td>Paul Hutton</td>
+<td>James Huggett (Tackle Master)</td>
+</tr>
+<tr>
+<td>2006-2007</td>
+<td>Sandeep Mavadia</td>
+<td>David Loeffler</td>
+<td>Daniel Greenwald</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2005-2006</td>
+<td>Jarvist Frost</td>
+<td>Daniel Greenwald</td>
+<td>Sandeep Mavadia</td>
+<td>Chris Rogers (Expo Sec),<br/>Richard Venn (Social Sec)</td>
+</tr>
+<tr>
+<td>2004-2005</td>
+<td>Jarvist Frost</td>
+<td>Stephanie Klecha</td>
+<td>Chris Rogers</td>
+<td>Sandeep Mavadia (Tackle Master)</td>
+</tr>
+<tr>
+<td>2003-2004</td>
+<td>Lyndon Leggate</td>
+<td>Richard Venn</td>
+<td>Colm Carrol</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2002-2003</td>
+<td>Andy Jurd</td>
+<td>Lyndon Leggate</td>
+<td>?</td>
+<td>?</td>
+</tr>
+<tr>
+<td>2001-2002</td>
+<td>Tom Ayles</td>
+<td>?</td>
+<td>?</td>
+<td>?</td>
+</tr>
+<tr>
+<td>2000-2001</td>
+<td>Ben Ogbourne</td>
+<td>Andy Jurd</td>
+<td>?</td>
+<td>?</td>
+</tr>
+<tr>
+<td>1999-2000</td>
+<td>Jan Evetts</td>
+<td>Tom Ayles</td>
+<td>?</td>
+<td>Andy Jurd (Tackle Master)</td>
+</tr>
+<tr>
+<td>1998-1999</td>
+<td>Colm Carrol</td>
+<td>Ben Ogbourne</td>
+<td>?</td>
+<td>?</td>
+</tr>
+<tr>
+<td>1997-1998</td>
+<td>Tim Wright (Shed)</td>
+<td>Mike Rogerson (Goaty)</td>
+<td>Clewing Griffiths (Clue)</td>
+<td>Jan Evetts (Jesus)(Tackle Master)</td>
+</tr>
+<tr>
+<td>1996-1997</td>
+<td>Paul Wilcox (Cox)</td>
+<td>Antthony Woods (Pants)</td>
+<td>Kathryn Atherton (TW)</td>
+<td>Tim Wright (Shed)(Tackle Master)</td>
+</tr>
+<tr>
+<td>1995-1996</td>
+<td>Tony Hayden (Tonx)</td>
+<td>Paul Wilcox (Bond)</td>
+<td>Kathryn Atherton</td>
+<td>Mark Evans,<br/>Jim Evans ,<br/>Chris Roberts,<br/>Sarah Wingrove</td>
+</tr>
+</tbody>
+</table>
+</div>
 <h2>1993-4 Club Exec: (ICCC Journal 18)</h2>
 <table>
 <tr><th>Fascist Dictator:<th>James Evans

@@ -122,28 +122,28 @@ pre {
 
 /*-----------------------------Useful Tags-----------------------------*/
 .nodisplay {
-	display: none;
+	display: none !important;
 }
 
 .nopad {
-	padding: 0;
+	padding: 0 !important;
 }
 
 .nomargin {
-	margin: 0;
+	margin: 0 !important;
 }
 
 .center {
-	text-align: center;
+	text-align: center !important;
 }
 
 .highlight {
-	font-weight: bold;
-	color: $header;
+	font-weight: bold !important;
+	color: $header !important;
 }
 
 .mobile {
-	display: none;
+	display: none !important;
 }
 
 /*-----------------------------Column Layout-----------------------------*/
