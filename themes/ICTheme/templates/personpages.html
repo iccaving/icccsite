@@ -8,6 +8,10 @@
 <div class="container">
   <div class="article-content">
 
+      <div class="personimg">
+      <a href="{{ SITEURL }}/photo_archive/mugshots/{{ personname }}.html"><img onerror='this.style.display = "none"' src="{{ SITEURL }}/photo_archive/mugshots/{{ personname }}.jpg" type="image/jpg"></a>
+      </div>
+
       {{ bio }}
 
       <h3>Trips attended</h3>
@@ -159,7 +163,7 @@ $(function() {
           backgroundColor: "#AB4444",
           borderWidth: -2,
           hoverBackgroundColor: "#D46A6A",
-          data: data
+          data: data,
         }
       ]
     }
@@ -171,7 +175,21 @@ $(function() {
         		xAxes: [{
             	categoryPercentage: 1,
           		barPercentage: 1,
-        	}],
+        	   }],
+            yAxes: [{
+               ticks: {
+                 beginAtZero: true,
+                 autoSkip: false,
+                  userCallback: function(tick) {
+                    if(tick % 1 === 0) {
+                      return tick;
+                    }
+                    else {
+                    	return;
+                    }
+          				}
+              	}
+            }]
           }
     }
 

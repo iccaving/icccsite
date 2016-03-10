@@ -736,6 +736,16 @@ hr.hrsidebartop {
 	border: 0 solid transparent;
 	max: 100px;
 }
+/*-----------------------------Person page stuff-----------------------------*/
+.personimg {
+	text-align: center;
+}
+
+.personimg > a > img {
+	max-height: 400px;
+	max-width: 100%;
+	padding: 25px 25px 0 25px;
+}
 
 	/*-----------------------------Screen size stuff-----------------------------*/
 
