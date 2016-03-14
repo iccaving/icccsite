@@ -2,13 +2,12 @@
 import markdown
 from markdown.inlinepatterns import Pattern
 
-image = r'(\{!|\{)(".*?")?.*?((?:[a-z][a-z]+))(\})(\()(".*?")(\))'
+image = r'(\{!|\{)(".*?")?.*?((?:[a-z][a-z]+))(\})(\()(.*?)(\))'
 
 class AttrTagPattern(Pattern):
     """
     Return element of type `tag` with a text attribute of group(3)
     of a Pattern and with the html attributes defined with the constructor.
-
     """
     def __init__ (self, pattern, md):
         Pattern.__init__(self, pattern)
@@ -19,11 +18,19 @@ class AttrTagPattern(Pattern):
         figure = markdown.util.etree.SubElement(a, 'figure')
         el = markdown.util.etree.SubElement(figure, 'img')
         if m.group(2) == '{!':
-            el.set('src', m.group(7)[1:-1])
-            a.set('href', m.group(7)[1:-1])
+            if len(m.group(7).split(",")) > 1:
+                el.set('src', m.group(7).split(",")[0].strip())
+                a.set('href', m.group(7).split(",")[1].strip())
+            else:
+                el.set('src', m.group(7).strip())
+                a.set('href', m.group(7).strip())
         elif m.group(2) == '{':
-            el.set('src', self.md.Meta['photoarchive'][0] + '/' + m.group(7)[1:-1])
-            a.set('href', self.md.Meta['photoarchive'][0] + '/' + m.group(7)[1:-1])
+            if len(m.group(7).split(",")) > 1:
+                el.set('src', self.md.Meta['photoarchive'][0] + '/' + m.group(7).split(",")[0].strip())
+                a.set('href', m.group(7).split(",")[1].strip())
+            else:
+                el.set('src', self.md.Meta['photoarchive'][0] + '/' + m.group(7).strip())
+                a.set('href', self.md.Meta['photoarchive'][0] + '/' + m.group(7)[:-3].strip() + "html")
         if m.group(4) == 'center':
             figure.set('class', 'article-img-center')
         elif  m.group(4) == 'left':
