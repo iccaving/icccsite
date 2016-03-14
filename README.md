@@ -1,7 +1,7 @@
 #Contents
 * [Basic set-up (linux)](#basic)
 * [Writing Trip Reports (linux)](#write)
-* [Writing Trip Reports (windows)](#winduhs)
+* [Set Up and Writing Trip Reports (windows)](#winduhs)
 * [Advanced Setup; building the site and uploading](#advanced)
 * [Advanced editing](#change)
 * [Plugins](#plugins)
@@ -104,6 +104,8 @@ Similar to the cave pages. There is no specific metadata here so write what you 
 
 ###Articles
 
+#####Main Image
+
 There are a couple of tags/markdown shortcuts you can place in any article in addition to the standard markdown syntax.
 
 If you have defined a mainimg in your article metadata then to position the mainimg in the page use:
@@ -111,6 +113,8 @@ If you have defined a mainimg in your article metadata then to position the main
     {{ mainimg }}
 
 This will be replaced by all the lovely html for the image.
+
+#####Lists of people
 
 If you have defined a cave, date and people in cavepeeps then to position a list of all cavers mentioned, with links to their pages, use:
 
@@ -130,15 +134,23 @@ Again, thats just a list of plain links so format it nicely:
 
     ###{{ DATE=2016-01-01; CAVE=Jingling Pot; }}
 
+#####Inline Photos
+
 There is a plugin active to allow easy inline posting of images. Similar to the way links work in standard markdown:
 
-    {"Caption Goes Here Or Not" left}("filename.jpg")
+    {"Caption Goes Here Or Not" left}(filename.jpg)
 
-Within the curly braces on the left there is a caption in quotes, this is optional. There is also an alignment (left) on the right which can be left/right/center. In the round braces on the right is the url in quotes of the image. This will link to photos in the specified photoarchive (i.e just use the filename!).
+Within the curly braces on the left there is a caption in quotes, this is optional. There is also an alignment (left) on the right which can be left/right/center. In the round braces on the right is the url in quotes of the image. This will link to photos in the specified photoarchive (i.e just use the filename!). Also the link ('href' attribute of 'a' tag) will (cleverly) point at the curator html page for that photo. To point it somewhere else:
+
+    {"Caption Goes Here Or Not" left}(filename.jpg, http://some.link/elsewhere)
 
 If you want to link to images outside of the photoarchive then put an exclamation mark after the first curly brace:
 
-    {!"Caption Goes Here Or Not" left}("www.external.com/image.jpg")
+    {!"Caption Goes Here Or Not" left}(www.external.com/image.jpg)
+
+Both the img src and a href will point to the image. If you want the 'a' tag 'href' (image link) to point somewhere else:
+
+    {!"Caption Goes Here Or Not" left}(www.external.com/image.jpg, http://some.link/elsewhere)
 
 ###Cave pages
 
@@ -209,6 +221,8 @@ Firstly run:
 This will build the site and output it to the output folder. To push the site to the union server (and therefore make it live) you will need at least sftp access (can be requested via a sysadmin form). You need to get the contents of the output folder into the /home/www/htdocs/rcc/caving/ folder. If you have ssh access (requested by emailing the sysadmin) then you can run:
 
     rsync -avz -e "ssh -p 10022" --chmod=ug+rwx,o-wx,o+r output/ username@dougal.union.ic.ac.uk:/home/www/htdocs/rcc/caving
+
+The 'avz' are archive (push the files with all their attributes), verbose (tell us what's going on), and compress (make it smaller for transfer) respectively. The "ssh -p 10022" is an alternative port that gets round the IC vpn. If you have access to the vpn then you can log into that and omit that bit of the command. --chmod.... sets the permissons correctly. 
 
 Note that the easiest way to do this on Windows involves Cygwin, and so is not easy by any stretch of the imagination.
 
