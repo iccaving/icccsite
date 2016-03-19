@@ -8,6 +8,7 @@ Photoarchive:
 Mainimg: TanguyRacine-DSC_0613.jpg
 Thumbl: RhysTyers-DSC01579.jpg
 Thumbr: RhysTyers-DSC01684.jpg
+Authors: Rhys Tyers
 Cavepeeps: DATE=2016-03-12; CAVE=Vesper Pot > Spectacle Pot; PEOPLE=Rhys Tyers, Isha Shaz, Celia Tinsley, Will French;
 				   DATE=2016-03-12; CAVE=Spectacle Pot > Vesper Pot; PEOPLE=Tanguy Racine, Will Scott, Kelvin Choi, Dave Kirkpatrick;
 				   DATE=2016-03-12; CAVE=King Pot; PEOPLE=Jack Hare, Kenneth Tan, Miriam North-Ridao;
@@ -39,7 +40,7 @@ The top of the final 'pitch' has some of the most bizarre bolt placements I've e
 
 We met at the bottom at almost the same time. Tanguy and I waited for our groups to come down. His group were cold, throughly soaked and clearly traumatised by their trip through Spectacle. So bad was it that Tanguy had decided that no freshers should go out that way and instead just Will and I should go out to derig. After eveyone had congregated we went our seperate ways.
 
-Will went up first and I followed. The bottom two pitches of Spectacle are perfectly pleasant. Relatively dry, quite long hangs. As we reached the top I said to Will that it's not so bad after all. But then we got to "The Wet Crawl". I found Will desperately shoving himself into a tiny rift unable to believe that the way on was in fact the small, mostly water filled gravelly crawl beneath. Will went ahead, occasionally asking if this _really_ was the way on. At one point even declaring that it looked impossible to go any further. I had the benefit of Will's light to guide me but the burden of a full tackle sack. Push, wriggle, splutter, grovel, push, wriggle, splutter, wait, breathe deeply, splutter, push, wriggle. It was not very long but it was very tight. No turning your head tight. This made the end quite unpleasant. A puddle deepened such that half my mouth was underwater. Will had taken his helmet off to avoid this. 
+Will went up first and I followed. The bottom two pitches of Spectacle are perfectly pleasant. Relatively dry, quite long hangs. As we reached the top I said to Will that it's not so bad after all. But then we got to "The Wet Crawl". I found Will desperately shoving himself into a tiny rift unable to believe that the way on was in fact the small, mostly water filled gravelly crawl beneath. Will went ahead, occasionally asking if this _really_ was the way on. At one point even declaring that it looked impossible to go any further. I had the benefit of Will's light to guide me but the burden of a full tackle sack. Push, wriggle, splutter, grovel, push, wriggle, splutter, wait, breathe deeply, splutter, push, wriggle. It was not very long but it was very tight. No turning your head tight. This made the end quite unpleasant. A puddle deepened such that half my mouth was underwater. Will had taken his helmet off to avoid this.
 
 We popped out into a small chamber. Will asked me if I wanted the good news or the bad news. I said I wanted no news. The bad news turned out to be the crawl continuing for several more meters. I never did find out what the good news was. Following Tanguy's excellent directions (Bear right in the crawl after the chamber. There's an inlet that looks tempting straight  ahead but you should go into the adjoining crawl on the right and then again right at the immediate junction depsite this looking like the grimmer way) we found the 2nd pitch.
 
@@ -48,6 +49,8 @@ At the top the entrance to Splutter crawl is a climb up a ladder into a King-esq
 Jack and his group had been out for some time. "Where are your freshers" he asked. Hahaha.
 
 We changed, dumped a load of people at the NPC and then Jack and I returned to watch the horizon for Tanguy. An hour or so later he emerged. All his group safe and sound.
+
+####Rhys
 
 ##Sunday
 ###Alum Pot: {{ DATE=2016-03-13; CAVE=Alum Pot; }}
