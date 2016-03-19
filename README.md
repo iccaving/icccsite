@@ -222,7 +222,7 @@ This will build the site and output it to the output folder. To push the site to
 
     rsync -avz -e "ssh -p 10022" --chmod=ug+rwx,o-wx,o+r output/ username@dougal.union.ic.ac.uk:/home/www/htdocs/rcc/caving
 
-The 'avz' are archive (push the files with all their attributes), verbose (tell us what's going on), and compress (make it smaller for transfer) respectively. The "ssh -p 10022" is an alternative port that gets round the IC vpn. If you have access to the vpn then you can log into that and omit that bit of the command. --chmod.... sets the permissons correctly. 
+The 'avz' are archive (push the files with all their attributes), verbose (tell us what's going on), and compress (make it smaller for transfer) respectively. The "ssh -p 10022" is an alternative port that gets round the IC vpn. If you have access to the vpn then you can log into that and omit that bit of the command. --chmod.... sets the permissons correctly.
 
 Note that the easiest way to do this on Windows involves Cygwin, and so is not easy by any stretch of the imagination.
 
@@ -260,7 +260,7 @@ You can change an awful lot of the website just from the CSS. All of the styling
 At the moment there are some media queries to change the site for smaller screens and they are included in the main.scss file but when the screen size drops below a certain threshold it loads the mobile.scss file in addition which overrides lots of things. I did this because the mobile site is quite different and it seemed tidier.
 
 ##javascript
-There's a couple of JS libraries in use. Jquery, which I don't think anyone using javascript could without. sorttable allows for sortable tables. There's a little readme in the file itself. There's also a cookie library which was mainly used on a custom photo gallery page.
+There's a couple of JS libraries in use. Jquery, which I don't think anyone using javascript could without. sorttable allows for sortable tables. There's a little readme in the file itself. There's also a cookie library which was mainly used on a custom photo gallery page. There is a small js html5 chart generating library called chartjs as well.
 
 There are also inline scripts in other places in the site. See templates.
 
