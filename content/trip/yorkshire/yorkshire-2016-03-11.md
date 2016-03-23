@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg: TanguyRacine-DSC_0613.jpg
 Thumbl: RhysTyers-DSC01579.jpg
 Thumbr: RhysTyers-DSC01684.jpg
-Authors: Rhys Tyers, Jack Hare
+Authors: Rhys Tyers, Jack Hare, Tanguy Racine
 Cavepeeps: DATE=2016-03-12; CAVE=Vesper Pot > Spectacle Pot; PEOPLE=Rhys Tyers, Isha Shaz, Celia Tinsley, Will French;
 				   DATE=2016-03-12; CAVE=Spectacle Pot > Vesper Pot; PEOPLE=Tanguy Racine, Will Scott, Kelvin Choi, Dave Kirkpatrick;
 				   DATE=2016-03-12; CAVE=King Pot; PEOPLE=Jack Hare, Kenneth Tan, Miriam North-Ridao;
@@ -20,6 +20,42 @@ Unlisted:
 
 ## Saturday
 ###Spectacle Pot > Vesper Pot: {{ DATE=2016-03-12; CAVE=Spectacle Pot > Vesper Pot; }}
+
+
+I hit the dough with an iron fist.  With a thump my hand disappeared into the bowl, sinking. 1.5kg of flour, and half a litre of water. I grabbed the ball of yet-to-proove pizza dough, lifted it into the air and hit it again vigorously.  After ten minutes, I sprinkled flour on it , and put it in a deep pan and placed a lid on top.
+
+I turned my attention to the upcoming trip, and in the common room the teams for Vespers and Spectacle pot were assembled. I wanted to enter via the latter due to its infamous crawl near the entrance, which being passed would be no more than a traumatic memory, rather than an anticipated ordeal for the rest of the trip. A third party to King Pot would be led by Jack, so after packing the ropes for this, we were all but ready to make it happen.
+
+On the Kingsdale road, we were denied the space to about-turn at the usual double passing-place, forcing us to  drive to Yordas farm further on to manoeuver. Outside the air was dry and mild for this time of year, and made a stark contrast with the low whisps clouds hugging the crest of Whernside and Ingleborough. Sparse snow patches could still be seen below the cloud base.
+
+Soon, we set off in our groups to Braida Garth, seeking permission to enter the caves and ascended the steep hillslope to the top of the Great Scar Limestone. After the break in slope, we headed due east, with the King party to our right. Reaching the top of a local rise we then aimed for a broad chaotic pile of stones where paths for Vespers and Spectacle split. My group headed north in search of a specific shakehole around a plateau completely riddled with small dolines. Spectacle’s entrance was found in a very shallow N-S oriented oblong depression. At the northern end, two P-bolts invited us down.
+
+Following the description from Not for the Faint Hearted, I attached a back-up to a thick squat nodule of rock, then rigged a single hang followed by a rebelay further in. All too soon I reached the end of the rope, two metres short of the bottom. Seeing that the floor was only a ledge giving in to a deep rift, I decided to rerig completely to reach the ledge at the very least. This meant getting rid of the nodule back-up. The first bolt became the back up, with a traverse leading to the second. Once that was done, two free-climbs down the rift got us down five metres deeper. The rift quickly intersected a small aven before resuming it’s northward course. The passage was thrutchy at best and soon a narrow slot attempted feet first saw me drop in a very small chamber. At the bottom Splutter Crawl led off.
+
+I crouched down to get a measure of it’s cross section. It looked to me like an onion flattened three times over. The widest part could just about accommodate the shoulders, with one arm in front the other by the side. Using the tip toes, cheek in the puddle at the bottom one edges forward inch by inch. After two metres, the ceiling rises slightly and allows one to look forward. Further in, the floor gives way to a tight rift, before a small opening which looks onto a laddered drop. With both arms in front holding on to the rungs and a little gravity assist, this obstacle is passed without much difficulty… provided the approach is controlled. With hindsight, getting rid of the SRT kit would have helped greatly.
+
+With great teamwork we passed all the bags forward as soon as I passed the crawl, and Will and Kelvin joined me at the small landing where I started rigging the second drop, about six metres deep. At the bottom an immediate dogleg led to a flat out crawl, with a small stream joining in from the right (this is Onion Inlet) which emerged in a chamber of very small dimensions with pristine sediments. As I looked at it  I noticed the calcited fault planes which guided the streams towards the S-E. This was our way towards Vespers, straight on!
+
+A short stooping passage with a pebbly stream then lead to Moorhouse aven, a fine 15m high circular shaft with small boulders strewn on the floor. The continuation of the fault plane could be seen on the far SE side of the aven. We stopped there for chocolates and water, rested for a short time and anticipating a ‘6-8 minute Wet Crawl’ we stuffed our SRT gear into tacklesacks.
+
+It began… well, it began as you might expect. In a hole in the ground there was a puddle. It was not a clean, dry hole such as hobbits live in, it was a caver’s hole, and that meant discomfort, a dirty, wet hole, full of cobbles and oozy smells, deep pools and tight doglegs. By the end, my body temperature had dropped slightly and I could feel the effect of dehydration settling in: it came in the form of a pounding pain in the forehead. The crawl emerged into Dryden Chamber, which still sported straws underneath side ledges. We put on our SRT kit again, and traversing over a large fallen boulder, a squeeze led to a constricted take off to the third pitch, the largest of the whole descent.
+
+Two bolts formed a traverse, a single bolt for the take-off hang followed closely by a rebelay farther out. This enabled a fifteen metre descent to a ledge about a third of the way down. Facing the opposite wall, a stubby flake provided a natural anchor for a deviation. This in place I abseiled towards the far off floor at an exhilarating pace. All too soon I felt the tug of the tacklesack to which the rope was tied at the bottom end. I stopped two metres short of the floor, and cursed. That would teach me to pack exactly the right length of rope, no room for error!
+
+I prussiked back up as fast as I could, and had help from the team at the pitch head to rerig it tighter quickly. Soon though I was going down and my feet touched the bottom of the chamber. Will came down after, but the deviation popped out of place as he passed it. I gave him the best description of the flake to use, and he put it back on after some time. As he descended he gave me the next rope bag, which I used to rig the last drop. As I put the knots in the rope, I heard the singing of the team coming from the Vespers’ side of the great chamber. It was all the same fault plane, which had been enlarged somewhat at the meeting of the two cave streams. The Vesper team had come straight from the SE, while we’d come from the NW in a straight line.
+
+Rhys and I were both rigging the last hangs of our respective routes, though mine was noticeably shorter, since it dropped at the top of the Great Boulder Heap. From a distance I could just about see Rhys’s light moving up and down, then a leg stepped over the chasm and Rhys bridged the 2m gap. Rhys’s acrobatics entertained me for a while till the whole team met at the bottom of the boulder slope, taking great care not to disturb the precarious balance of rocks.  Soon the eight of us stood there, and decided Rhys and Will French would go out Spectacle on their own, while the six others would go out Vesper’s, Dave derigging. Before going up I took a few pictures – to prove we’d been there, done that more than anything else.
+
+I started the ascent up the gold rope, ropewalking as fast as I could to warm up a little followed by Celia and Isha. Vesper’s SRT was airy and challenging. The pitches were finely sculpted, and the rigging kept one out of the water all the way. The very first rebelay we passed was very memorable as the rigger must have stepped over the void (or jumped maybe?) to get to the ‘Y’-hang on the far wall!
+
+The last of the SRT by no means heralded the end of the cave, as a long twisted crawl separated us from the open air. It was never uncomfortably tight, nor flat out, but the last leg before the climb out to the surface narrowed down significantly, and punished me for carrying stray loops of rope out the tacklesack. Isha and  Celia followed me out, while Dave derigged underneath Will and Kelvin.
+
+I dived back in the crawl, SRT free and crossed their way, to find Dave and his bag near the head of the first pitch. I assured them the end was nigh, and we all got out in the night, it was nearing 9pm.
+
+As we walked towards the bridge over Kingsdale Beck two lights came to meet us. Jack and Rhys had driven a splinter party back towards the NPC to start the chopping of onions. We changed quickly and drove back, with minutes to spare before 10 o’clock. At the cottage a hearty meal of pizza was made, and the headache from dehydration ebbed away amidst the merriment of a trip well done.
+
+####Tanguy
+
 ###Vesper Pot > Spectacle Pot: {{ DATE=2016-03-12; CAVE=Vesper Pot > Spectacle Pot; }}
 
 Where It's a Cracker and Boxhead are characterised by their long wet pitches, Spectacle and Vesper are characterised by their long wet crawls. And like their East Kingsdale siblings, King and Brown Hill, they are for the most part quite tight. I was leading the trip into Vesper and hopefully then out of Spectacle. With Isha, Celia, and Will by my side what could go wrong?
@@ -84,3 +120,34 @@ Maybe the payoff in King is further than we got. Maybe the bit of cave I did is 
 
 ##Sunday
 ###Alum Pot: {{ DATE=2016-03-13; CAVE=Alum Pot; }}
+The sun was shining brightly on Sunday morning which helped us settle our views on Alum pot, and its open shaft. I’d never done the trip before, though the club had managed to go there twice in my absence. It was with great anticipation and all my photography kit that I boarded the minibus.
+
+Zeugma count: 1
+
+We drove off the NPC car eagerly and took the road to Chapel-le-Dale, circumventing Ingleborough. The Great Scar limestone was beautifully exposed on both sides of the road, and soon a house promising to host all the caves we could possibly want was seen by the side of the road. Much to my disappointment we did not stop, and carried on our north-easterly course, past a viaduct.
+
+For a brief moment, to our left stood Whernside, to our right, in the distance loomed Pen-y-ghent, while Ingleborough cast its shadow upon us. We turned right and right again before parking on badly tarmac-ed bit of path. It was not very long before the group set off in the general direction of Ingleborough, where a group of trees huddled at the head of a dry valley. The path lead to a stream which hurled its waters down the open shaft of Alum. Due to the overhang, it was impossible to make out the cave underneath, so I waited for the big reveal.
+
+The morning light bathed the eastern slopes of the mountain with crips winter hues, pale golds of the windburnt high grass leading to the charcoal grey summit. On top, a host of sheep on a blue pasture. The air felt warm though, like a promise of spring whispered in the breeze.
+
+The entrance to Long Churn cave was found in a small enclosure, where a spring fed a sink twenty metres downstream. One by one, we walked along the slippery pavement and entered the cave proper. After a crawl so small I won’t talk about it, we joined a separate streamway, smaller this time which nicely led to a 2 metre clean washed climb down, at the bottom of which  a bottomless pool swallowed the scouts who dared venture this far into the depths. Traversing along the pool, we approached the first pitch where a number of other cavers were busy rigging or derigging. There were two routes down the rift through which sunlight streamed from high above. Will Scott rigged the one, while Jack descended the other. I followed and landed on an uneven rubble floor.
+
+The sun shone almost directly ahead, through a small waterfall, but the greatest surprise was the amount of greenery. Moss had grown on the shaft walls wherever sunlight touched them, and I ecstatic.
+
+Zeugma count: 2
+
+Where vegetation gave way to bare rock, a flat topped boulder offered a natural bridge between the two walls of the oblong pit. Underneath it, taking off from a hanging rebelay provided a 30m descent to the stream level.
+
+I certainly felt more impressed by the drop I could see than I had been over the bottomless pits of real caves. From the vantage point, it was easy to contemplate one’s precarious situation, more so than when the bottom of the drop is shrouded in shadow. There was another thrill which I rarely enjoyed before, as the floor rushed towards me.
+
+I was the first down this hang, and waited for the others to come down the two routes we rigged. I sat on my kneepads, which I had put on a convenient rock ledge by the water. It rushed down to the final drop into the cave proper, which connects with Diccan pot. Without the prospect of an exchange though, the very last section seemed worthless, so we left it at that – in fact we hadn’t brought the ropes in the first place.
+
+Smoothly, we all ascended towards the fleeing sunlight. As Kenneth, Miriam and Kelvin were with me towards the head of the column we took Jack’s advice and explored the headwaters of the small streamway we’d joined above the free climb. Traversing over the Dolly Tubs, we soon found ourselves back into the main stream. Though I had no recollection of that part of the cave I assumed we were farther upstream than the resurgence in the entrance shakehole. I was proved right as sunlight could be seen not far away. We exited on our bellies, floating out of the cave to the delight of a very young caver and his dad.
+
+Out in the sunshine we waited for the rest of the group for a few minutes, and decided to do a through trip, albeit a short one. By checking out the next shakehole upstream, we found another sink, which very quickly led to the junction we’d been standing at earlier. Another exit on our bellies, and we had our fill for the day!
+
+Not long after, the rest of the party joined us on the moor, so we walked back the Alum stream, took a souvenir photograph and reluctantly made our way to the minibus, our hearts swollen with longing, so our wellies … with water.
+
+Zeugma count: 3
+
+####Tanguy
