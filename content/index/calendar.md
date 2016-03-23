@@ -7,5 +7,7 @@ Type: stickyindex
 |Date              | Destination                          | Hut                                                                                  | Caves  |  
 | ---              |  ---                                 | ---                                                                                  |  ---  |
 |11th - 13th March| [Yorkshire](caves?search=Yorkshire)  | [NPC Cottage](http://www.northernpennineclub.org.uk/greenclose/greenclose.htm)       | Vespers and Spectacle|
+|27th - 30th May| [Yorkshire](caves?search=Wales)  | [NPC Cottage](http://www.northernpennineclub.org.uk/greenclose/greenclose.htm)       | Plenty |
+
 |10th - 12th June| [Wales](caves?search=Wales)  | [Whitewalls](http://www.chelseaspelaeo.org.uk/cottage.htm)       | [Agen Allwedd](caves?search=Agen) |
-|7th July - 7th August| [Slovenia!](https://union.ic.ac.uk/rcc/caving/slovenia/)  | [Tolminski Migovec](https://union.ic.ac.uk/rcc/caving/slovenia/)       | Pri Madonna |
+|7th July - 7th August| [Slovenia!](https://union.ic.ac.uk/rcc/caving/slovenia/)  | [Tolminski Migovec](https://union.ic.ac.uk/rcc/caving/slovenia/)       | Primadona |
