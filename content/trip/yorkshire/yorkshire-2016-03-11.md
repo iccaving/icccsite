@@ -1,7 +1,7 @@
 Title: Yorkshire VI
 Date: 2016-03-11
 Location: Yorkshire
-Summary:
+Summary: On Saturday we plumbed the grim depths of East Kingsdale; crawling, squeezing and grovelling through the most unpleasant squeezes Vespers, Spectacle and King have to offer. To reward our hard work, we made Sunday sunny and went to Alum Pot for a photo-tastic multi-descent extra-vaganza.
 Type: trip
 Photoarchive:
 Mainimg: TanguyRacine-DSC_0613.jpg
@@ -12,7 +12,6 @@ Cavepeeps: DATE=2016-03-12; CAVE=Vesper Pot > Spectacle Pot; PEOPLE=Rhys Tyers, 
 				   DATE=2016-03-12; CAVE=Spectacle Pot > Vesper Pot; PEOPLE=Tanguy Racine, Will Scott, Kelvin Choi, Dave Kirkpatrick;
 				   DATE=2016-03-12; CAVE=King Pot; PEOPLE=Jack Hare, Kenneth Tan, Miriam North-Ridao;
 				   DATE=2016-03-13; CAVE=Alum Pot; PEOPLE=Jack Hare, Kenneth Tan, Miriam North-Ridao, Tanguy Racine, Will Scott, Kelvin Choi, Rhys Tyers, Isha Shaz, Will French;
-Unlisted:
 
 {{ mainimg }}
 {{ photolink }}
