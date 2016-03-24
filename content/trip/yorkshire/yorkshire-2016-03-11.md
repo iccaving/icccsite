@@ -5,8 +5,8 @@ Summary: On Saturday we plumbed the grim depths of East Kingsdale; crawling, squ
 Type: trip
 Photoarchive:
 Mainimg: TanguyRacine-DSC_0613.jpg
-Thumbl: RhysTyers-DSC01579.jpg
-Thumbr: RhysTyers-DSC01684.jpg
+Thumbl: RhysTyers-DSC01579--thumb.jpg
+Thumbr: RhysTyers-DSC01684--thumb.jpg
 Authors: Rhys Tyers, Jack Hare, Tanguy Racine
 Cavepeeps: DATE=2016-03-12; CAVE=Vesper Pot > Spectacle Pot; PEOPLE=Rhys Tyers, Isha Shaz, Celia Tinsley, Will French;
 				   DATE=2016-03-12; CAVE=Spectacle Pot > Vesper Pot; PEOPLE=Tanguy Racine, Will Scott, Kelvin Choi, Dave Kirkpatrick;
