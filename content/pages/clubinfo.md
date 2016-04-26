@@ -1,5 +1,4 @@
 Title: Club Info
-Date:
 Authors:
 Location: page
 Type: page
