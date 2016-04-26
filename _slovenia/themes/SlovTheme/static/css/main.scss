@@ -26,9 +26,9 @@ body {
 	font-size: 16px;
 	margin: 0;
 	overflow-x: hidden;
-	background-image: url($back-image);
+	/*background-image: url($back-image);
 	background-position: right bottom;
-	background-attachment: fixed;
+	background-attachment: fixed;*/
 }
 
 /*Global Text and link properties */
@@ -161,7 +161,7 @@ pre {
 }
 
 .logo img {
-	width:100px;
+	width:150px;
 	vertical-align: middle;
 }
 
@@ -303,7 +303,7 @@ pre {
 	width: 100%;
 	border-radius: 2px;
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
-	background-color: rgba(232, 232, 232, 0.83);
+	background-color: rgba(255, 255, 255, 0.83);
 }
 
 .content-header {
@@ -405,7 +405,7 @@ a.footer-button:hover {
 .article-content {
 	border-radius: 2px;
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
-	background-color: rgba(232, 232, 232, 0.83);
+	background-color: rgba(255, 255, 255, 0.83);
 	padding: 10px 10px 10px 10px;
 	overflow: auto;
 }

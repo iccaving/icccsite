@@ -4,35 +4,32 @@ Authors:
 Type: stickyindex
 Location:
 
-##Tolminski Migovec Cave Exploration
-
-##SLOVENIA
-
-###Introduction
-
-{!right}("/caving/FILES/expeditions/slovenia/index/mig.jpg")
+{!right}(/caving/FILES/expeditions/slovenia/index/mig.jpg)
 
 Imperial College Caving Club has run joint expeditions with <a href="http://www.pdtolmin.si">JSPDT</a> to the Julian alps in Western Slovenia most summers since 1994. The destination is Tolminski Migovec, a large undulating limestone plateau located about 6km North of the town of Tolmin within the Triglav national park.
 Located midway between <i>Tolminski Kuk</i> and <i>Vogel</i> at approximately N 46 15' E 013 45' (<a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;q=46.25+13.75&amp;ll=46.249971,13.74999&amp;spn=0.028252,0.086517&amp;t=k&amp;om=1">Google Maps Satellite Data</a>), the large area offers enormous scope for further cave development.
 
 Expedition base camp is located at 1880m above sea level on the western edge of the plateau, with the <a href="/caving/photo_archive/slovenia/1996/bivi%20in%20the%20summer%201996%20by%20mark%20evans.html">Bivvi</a> situated in a large shakehole benefiting from the shelter of a [distinctly unstable looking] rock bridge.
 
+On this site you'll find our annual reports, large amounts of photos from each expedition, links to our raw survey data on github, drawn plans and extended elevations of the cave.
 
 ###Written Report: The Hollow Mountain (1974-2006)
 
 <figure class="article-img-left">
-<a href="http://www.lulu.com/content/909368">
-<img src="/caving/FILES/expeditions/slovenia/index/hollow_mountain.jpg">
+<a href="http://www.lulu.com/content/909368"><img src="/caving/FILES/expeditions/slovenia/index/hollow_mountain.jpg"></a>
 </figure>
 
-Buy it from LULU.com</a> at the cost price of ~8 squid 45 pennies (including P&amp;P to EU). 246 A4 pages of international caving exploration!
+Our exploration from the beginning up until 2006 has been painstakingly collated and edited into a surprisingly readable book. It is available in physical form (at a small cost) and digitally (for free).
+
+<a href="http://www.lulu.com/content/909368">Buy it from LULU.com</a> for less than a tenner (including P&amp;P to EU). 246 A4 pages of international caving exploration!
+
+<a href="/caving/FILES/expeditions/slovenia/hollowmountain/hollow_mountain_final_full_246pages.pdf">Full Print Ready 246 A4 Pages PDF (127MB)</a>
+<div style="clear:both"></div>
 
 <figure class="article-img-right">
 <img src="/caving/barebum_trans.png">
 </figure>
 
-<a href="/caving/FILES/expeditions/slovenia/hollowmountain/hollow_mountain_final_full_246pages.pdf">Full Print Ready 246 A4 Pages PDF (127MB)</a><br>
-<br>
 <b>Separate Chapters:</b><br>
 <a href="/caving/FILES/expeditions/slovenia/hollowmountain/1993_pre.pdf">Introduction and Pre-Expedition</a>
 <br><a href="/caving/FILES/expeditions/slovenia/hollowmountain/1994.pdf">1994</a> A frustrating start to ICCC's Slovenian Exploration

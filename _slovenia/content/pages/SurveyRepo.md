@@ -3,22 +3,17 @@ Authors:
 Location: page
 Type: page
 
-<h2><a href="/caving/FILES/expeditions/slovenia/MigSurveyData//">Tolminski Migovec Data</a></h2>
+<h2>Current Data</h2>
 
-Git repository of (centre line) survey data now hosted with GitHub:
+Our survey data (including vector images of the plans and extended elevations) are in the following git repository on GitHub:
 <h3><a href="https://github.com/jarvist/migovecsurveydata">github.com/jarvist/migovecsurveydata</a></h3>
 
-<h2>Vodna Sled 2010</h2>
-
-<a href="/caving/FILES/expeditions/slovenia/MigSurveyData/migovecsurveydata/garden/s_garden.3d">Vrtnarija / Gardeners' World .3d file for Aven (60KB)</a><br>
-<a href="/caving/FILES/expeditions/slovenia/MigSurveyData/migovecsurveydata/mig.3d">Whole Mountain .3d file with small DEM for Aven (204KB)</a><br>
-
-<p>
-For mostly outdated cave registration data, please see <a class="menu" href="/caving/FILES/expeditions/slovenia/MigSurveyData//caving/slovenia/report/caves.php"><b>The Caves of Migovec</b></a>.  </p>
-
-
-
 <h2>Survey Data Archives</h2>
+
+<p>For mostly outdated cave registration data, please see <a class="menu" href="/caving/old/slovenia/report/caves.php"><b>The Caves of Migovec</b></a>. </p>
+
+<a href="/caving/FILES/expeditions/slovenia/MigSurveyData/migovecsurveydata/garden/s_garden.3d">Vodna Sled 2010 - Vrtnarija / Gardeners' World .3d file for Aven (60KB)</a><br>
+<a href="/caving/FILES/expeditions/slovenia/MigSurveyData/migovecsurveydata/mig.3d">Vodna Sled 2010 - Whole Mountain .3d file with small DEM for Aven (204KB)</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyData/archive/migovecsurveydata2011-01-17.zip">migovecsurveydata2011-01-17.zip (4.7MB)</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyData/archive/migovecsurveydata-2010-02-20.zip">archive/migovecsurveydata-2010-02-20.zip</a><br>
 <a href="/caving/FILES/expeditions/slovenia/MigSurveyData/archive/migovecsurveydata20050124.tar.gz">archive/migovecsurveydata20050124.tar.gz</a><br>
