@@ -1,5 +1,4 @@
 Title: Colander
-Date:
 Authors:
 Location: page
 Type: page
