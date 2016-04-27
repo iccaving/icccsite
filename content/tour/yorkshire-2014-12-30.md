@@ -11,7 +11,7 @@ Authors: Jack Hare, Rosanna Nichols, Tanguy Racine, Chris McDonnell, Rhys Tyers
 Cavepeeps: DATE=2014-12-31; CAVE=Wretched Rabbit; PEOPLE=Rhys Tyers, Jack Hare, Alex Seaton, Fiona Hartley, Chris McDonnell, Tanguy Racine, Rosanna Nichols;
            DATE=2015-01-01; CAVE=Simpsons Pot; PEOPLE=Rhys Tyers, Jack Hare, Alex Seaton, Chris McDonnell, Tanguy Racine, Rosanna Nichols;
            DATE=2015-01-02; CAVE=Jingling Pot; PEOPLE=Fiona Hartley, Dave Kirkpatrick, Rosanna Nichols, Tetley;
-           DATE=2015-01-02; CAVE=Gaping Ghyll; PEOPLE=Rhys Tyers, Jack Hare, Alex Seaton, Chris McDonnell, Tanguy Racine, William French;
+           DATE=2015-01-02; CAVE=Flood Entrance Pot; PEOPLE=Rhys Tyers, Jack Hare, Alex Seaton, Chris McDonnell, Tanguy Racine, William French;
            DATE=2015-01-03; CAVE=Lost Johns' Cave; PEOPLE=Rhys Tyers, Jack Hare, Alex Seaton, Fiona Hartley, Chris McDonnell, Tanguy Racine, William French, Dave Kirkpatrick, Rosanna Nichols, Katy Morgan, Tetley, Dave Wilson;
            DATE=2015-01-04; CAVE=Bull Pot; PEOPLE=Alex Seaton, Chris McDonnell, Tanguy Racine, Rosanna Nichols, Katy Morgan;
            DATE=2015-01-04; CAVE=Brown Hill; PEOPLE=Rhys Tyers, Jack Hare;
@@ -41,7 +41,7 @@ An epic start to the tour was made by celebrating the New Year with a 10.5 hour 
 
 ####Rosanna
 
-<div class="article-img-left"><a href="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/RhysTyers_DSC_0596.html"><img src="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/RhysTyers_DSC_0596.JPG""></a></div>
+<div class="article-img-left"><a href="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/RhysTyers_DSC_0596.html"><img src="/rcc/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/RhysTyers_DSC_0596.JPG"></a></div>
 
 The next day, we started slowly, waiting for Chris to arrive on the 1132 at Clapham. It was New Years’ Eve, and our original plan of going for an epic all night caving trip looked significantly less appealing in the cold light of day. We compromised, and decided to head underground around 2pm, and stay in the cave just past midnight. To keep our spirits high and our bodies nourished, we packed a load of ready made sandwiches and a stove with soup and wine to mull, and headed to Easegill.
 
