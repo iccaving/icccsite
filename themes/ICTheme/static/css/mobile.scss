@@ -229,7 +229,8 @@ figcaption {
 
 .article-content {
 	p, ol, ul, dl, pre, address, table {
-		padding: 0;
+		margin-left: 0;
+    margin-right: 0;
 	}
 }
 
@@ -237,7 +238,8 @@ figcaption {
 	margin: 10px 0;
 }
 .article-content h1, .article-content h2, .article-content h3, .article-content h4, .article-content h5 {
-	padding: 0px 0px;
+  margin-left: 0;
+  margin-right: 0;
 }
 /* Table Stylings */
 .table-container {
