@@ -3,7 +3,7 @@ Date: 2007-05-25
 Location: yorkshire
 Summary: Our friends from the Slovenian JSPDT were at long last coming to see us in the UK! Picking them up from Stansted, we wound our way across the country to Bull Pot Farm deep in the Yorkshire Dales, and set upon a most enjoyable long weekend of caving criss-crossing the extensive Ease Gill system. The Slovs, being Mountain People, had no problem keeping up... <br>Overground, the action was similarly non stop - a British Vs. Slovenian cook-off took place with much consumption of Rhubarb Crumble and Jota (though thankfully not together), much Zganja (home distilled double strength brandy) was consumed and the farm itself was the usual mad flame-thrower of a party till dawn every night. <br>Sleep deprived we may have been - but bloody hell, it was a good weekend!
 Type: trip
-Photoarchive: photo_archive/trips/2007-05-25%20-%20Yorkshire%20JSPDT/
+Photoarchive: /rcc/caving/photo_archive/trips/2007-05-25%20-%20Yorkshire%20JSPDT/
 Mainimg: jarvist%20frost%20-%20ricoh%20gr1%20fuji%20200asa%20-%20easegill%20-%20JSPDT%20at%20lancs%20entrance.jpg
 Thumbl: jarvist%20frost%20-%20ricoh%20gr1%20fuji%20200asa%20-%20easegill%20-%20streamway%20ambient1--thumb.jpg
 Thumbr: jarvist%20frost%20-%20easegill%20-%20main_drain_stal--thumb.jpg
