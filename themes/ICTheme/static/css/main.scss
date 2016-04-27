@@ -42,7 +42,7 @@ html {
 body {
 	background-color: $body-background;
 	color: $text;
-	font-family: $serif;
+	font-family: $sans;
 	font-weight: $textweight;
 	font-size: 16px;
 	margin: 0;
@@ -54,7 +54,7 @@ body {
 
 /*-----------------------------Global Text and link properties-----------------------------*/
 
-p, ul {
+p, ul, ol {
 	line-height: 1.5rem;
 }
 
@@ -101,11 +101,6 @@ h5 {
 a {
 	color: $links;
 	text-decoration: underline;
-}
-
-a, img {
-	border: none;
-	outline: none;
 }
 
 a:visited {
@@ -288,6 +283,10 @@ pre {
 	box-shadow:				 inset 0 0 0 #000000;
 }
 
+.sidebar-item a:visited, .sidebar-sub-item a:visited, .sidebar-sub-sub-item a:visited {
+	color: $offwhite;
+}
+
 .sidebar-item a:active, .sidebar-sub-item a:active, .sidebar-sub-sub-item:active {
 	-moz-box-shadow:		inset 0 0 10px #000000;
 	-webkit-box-shadow: inset 0 0 10px #000000;
@@ -304,7 +303,7 @@ pre {
 
 .sidebar-sub-item a:hover {
 	font-family: $sans;
-	font-weight: 400;
+	font-weight: 400
 }
 .sidebar-item a {
 	font-family: $sans;
@@ -478,19 +477,23 @@ a.footer-button {
 
 .article-content {
 	p, ol, ul, dl, pre, address {
-		padding: 0 50px;
+		margin-left: 50px;
+		margin-right: 50px;
 	}
 	h1, h2, h3, h4, h5 {
-		padding: 0 25px;
+		margin-left: 25px;
+		margin-right: 25px;
 	}
 	input {
  }
 }
 .padless {
-	padding: 0 25px;
+	margin-left: 25px;
+	margin-right: 25px;
 }
 .padmore {
-	padding: 0 50px;
+	margin-left: 50px;
+	margin-right: 50px;
 }
 
 .mainimg {
@@ -502,6 +505,7 @@ a.footer-button {
 .mainimg img {
 	max-width: 100%;
 	max-height: 600px;
+	border: 1px solid $body-background;
 }
 
 .article-img-center {
@@ -599,7 +603,7 @@ table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sor
 
 table {
   border-collapse: collapse;
-  font-family: Roboto, Tahoma, Arial, sans-serif;
+  font-family: $sans;
  }
 td, th {
   padding: 0.5rem;
