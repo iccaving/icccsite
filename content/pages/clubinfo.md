@@ -5,12 +5,12 @@ Type: page
 
 ## About Imperial College Caving Club
 
-{!"ICCC freshers' trip 2013" center}(/rcc/caving/photo_archive/trips/2013-10-25%20-%20wales/RhysTyers-DSC_0051--thumb.jpg, /rcc/caving/photo_archive/trips/2013-10-25%20-%20wales/RhysTyers-DSC_0051.html)
+{!"ICCC freshers' trip 2013" center}(/rcc/caving/photo_archive/trips/2013-10-25%20-%20wales/RhysTyers-DSC_0051.JPG, /rcc/caving/photo_archive/trips/2013-10-25%20-%20wales/RhysTyers-DSC_0051.html)
 
 Imperial College Caving club is a relaxed, easy-going club dedicated to caving and canyoning in the UK and abroad. We go on regular trips during term time, with the emphasis on having fun away from the hassle of lectures and work. Founded in 1962, we are well equipped, experienced, and always eager to meet, teach and cave with new members. We have a yearly expedition to Slovenia to discover new cave passages, and we occasionally run expeditions elsewhere, such as to New Zealand and Morocco.
 
 ## Why Cave?
-{!"Canyoning features more sun" left}(/rcc/caving/photo_archive/tours/2014%20-%20switzerland//P1050481--thumb.jpg, /rcc/caving/photo_archive/tours/2014%20-%20switzerland//P1050481.html)
+{!"Canyoning features more sun" left}(/rcc/caving/photo_archive/tours/2014%20-%20switzerland//P1050481.jpg, /rcc/caving/photo_archive/tours/2014%20-%20switzerland//P1050481.html)
 
 We mostly focus on caving (going underground), with a sideline in canyoning (abseiling down waterfalls and swimming across drop pools down a ravine) and via ferrata (mountaineering with in-situ metal cables). Caving offers a breathtaking variety of underground wonders, from vast vaulted grooves studded with milk white stalactites, to fast flowing underground streams spraying over cliff edges to form thundering waterfalls. We approach these challenges with good humour and camaraderie - caving is a team sport in which everyone works together to tackle the terrain safely and enjoyably. You don't need to be a particular shape or size to be a caver - over the years we have taken a huge variety of people caving. It isn't necessary to be especially fit, as you'll develop the strength and technique you need for caving by joining our trips.
 
@@ -18,7 +18,7 @@ We mostly focus on caving (going underground), with a sideline in canyoning (abs
 
 At the beginning of the year, we offer trips aimed at new cavers, to cave systems that are challenging but offer incredible sights within reach of the complete novice. Back on campus. we begin to train freshers in 'single rope technique', the method we use to descend and ascend safely out of deep cave systems. Building on this training and your new found confidence underground, we begin to look further afield to the deep caves in the north of England. By the end of the first term, you'll be abseiling into caverns five or six stories tall, and pushing deeper and further underground than you ever thought possible.
 
-{!"Snow rarely slows us down" right}(/rcc/caving/photo_archive/trips/2015-02-20%20-%20derbyshire/CeciliaKan_P2210542--thumb.jpg, /rcc/caving/photo_archive/trips/2015-02-20%20-%20derbyshire/CeciliaKan_P2210542.html)
+{!"Snow rarely slows us down" right}(/rcc/caving/photo_archive/trips/2015-02-20%20-%20derbyshire/CeciliaKan_P2210542.JPG, /rcc/caving/photo_archive/trips/2015-02-20%20-%20derbyshire/CeciliaKan_P2210542.html)
 
 We cement your new experience with our Winter Tour, a week of caving over the winter break, usually in Yorkshire. In the next term we tackle a variety of exciting and increasingly challenging caves, building your skills and giving you the opportunity to learn advanced skills such as rigging or cooking dinner for twenty hungry cavers. Our Easter Tour is often to some glorious sun-drenched part of Europe, where you can ignore the looming exams by experiencing the best caving the Continent has to offer. After exams are over, we usually squeeze in a short trip back to Wales, where you can astonish yourself with how much easier the caves seem, before we head off for our summer expedition to Slovenia. This is a truly incredible experience which you have building up to all year long - a hollow mountain, filled with undiscovered cave passage hundreds of meters below the earth, just waiting for you to discover.
 
@@ -30,7 +30,7 @@ We meet informally every Tuesday evening at the Union bar for a pint and some ou
 
 ## Trips
 
-{!"Feeding a dozen cavers is no mean feat" left}(/rcc/caving/photo_archive/trips/2015-02-20%20-%20derbyshire/CeciliaKan_P2220573--thumb.jpg, /rcc/caving/photo_archive/trips/2015-02-20%20-%20derbyshire/CeciliaKan_P2220573.html)
+{!"Feeding a dozen cavers is no mean feat" left}(/rcc/caving/photo_archive/trips/2015-02-20%20-%20derbyshire/CeciliaKan_P2220573.JPG, /rcc/caving/photo_archive/trips/2015-02-20%20-%20derbyshire/CeciliaKan_P2220573.html)
 
 We run trips every two weeks during term time. Trips leave at 6 pm on Friday and return around 11 pm on Sunday. We drive to a caving cottage in a minibus. The caving cottages have bunk rooms, toilets, a kitchen and showers, as well as somewhere to dry your caving kit. We buy loads of food for the weekend on the way there, so you don't need to bring any. If you want to sign up for a trip, come along on a Tuesday evening to the Union and we'll sort it out for you.
 
@@ -40,7 +40,7 @@ We provide all of the specialist equipment you need to enjoy your caving experie
 
 ## Training
 
-{!"Tree Training" right}(/rcc/caving/photo_archive/socials/2008%20-%20autumn%20tree%20train/tree%20train%20-%20early%20november%201--thumb.jpg, /rcc/caving/photo_archive/socials/2008%20-%20autumn%20tree%20train/tree%20train%20-%20early%20november%201.html)
+{!"Tree Training" right}(/rcc/caving/photo_archive/socials/2008%20-%20autumn%20tree%20train/tree%20train%20-%20early%20november%201.jpg, /rcc/caving/photo_archive/socials/2008%20-%20autumn%20tree%20train/tree%20train%20-%20early%20november%201.html)
 
 For the first two trips of the year, the best training we can offer can be found inside a cave! We also provide training in single rope technique (SRT) every Wednesday afternoon during first term. This is informally known as 'tree training' because we throw a rope over a tree branch in Princes Gardens and show you how to safely ascend and descend a rope. You can then practice these skills on the next weekend trip. Check our Facebook group and email list for further details on tree training.
 
