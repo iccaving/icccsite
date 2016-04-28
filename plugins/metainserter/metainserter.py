@@ -9,6 +9,7 @@ import codecs
 import os
 
 def MetaInserter(path, context):
+    # The obvious place mentioned in the readme.
     if "article" in path or "caves" in path:
         # Open html file. Check for metadata
         # logging.critical(str(path))

@@ -60,11 +60,29 @@ I've been using:
     #####{{ allpeople }}
 Which becomes header 5 as there is no styling by default on the list (other than being links).
 
+Also you can easily print lists of people on a specific trip by copying and pasting what you wrote in the cavepeeps metadata! For example:
+
+{{ DATE=2016-01-01; CAVE=Jingling Pot; }}
+
+Again, thats just a list of plain links so format it nicely:
+
+###Cave Name: {{ DATE=2016-01-01; CAVE=Jingling Pot; }}
+
 There is a plugin active to allow easy inline posting of images. Similar to the way links work in standard markdown:
-    {"Caption Goes Here Or Not" left}("filename.jpg")
-Within the curly braces on the left there is a caption in quotes, this is optional. There is also an alignment (left) on the right which can be left/right/center. In the round braces on the right is the url in quotes of the image. This will link to photos in the specified photoarchive (i.e just use the filename!).
+
+{"Caption Goes Here Or Not" left}(filename.jpg)
+
+Within the curly braces on the left there is a caption in quotes, this is optional. There is also an alignment (left) on the right which can be left/right/center. In the round braces on the right is the url in quotes of the image. This will link to photos in the specified photoarchive (i.e just use the filename!). Also the link ('href' attribute of 'a' tag) will (cleverly) point at the curator html page for that photo. To point it somewhere else:
+
+{"Caption Goes Here Or Not" left}(filename.jpg, http://some.link/elsewhere)
+
 If you want to link to images outside of the photoarchive then put an exclamation mark after the first curly brace:
-    {!"Caption Goes Here Or Not" left}("www.external.com/image.jpg")
+
+{!"Caption Goes Here Or Not" left}(www.external.com/image.jpg)
+
+Both the img src and a href will point to the image. If you want the 'a' tag 'href' (image link) to point somewhere else:
+
+{!"Caption Goes Here Or Not" left}(www.external.com/image.jpg, http://some.link/elsewhere)
 
 delete this before posting because it will appear as a html comment
 --->
