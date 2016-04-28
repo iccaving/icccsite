@@ -17,59 +17,10 @@
   <link rel="stylesheet" href="{{ SITEURL }}/../theme/css/main.css" type="text/css" />
   <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css" type="text/css" />
   <link rel='stylesheet' media='screen and (max-width: 750px)' href='{{ SITEURL }}/../theme/css/mobile.css' />
-  <script src="{{ SITEURL }}/theme/js/jquery.js"></script>
+  <script src="{{ SITEURL }}/../theme/js/jquery.js"></script>
+  <script src="{{ SITEURL }}/../theme/js/header.js" async></script>
+  <script src="{{ SITEURL }}/../theme/js/sidebar.js" async></script>
 
-  <!-- script for opening/closing of sidebar on mobiles and ensuring it is visible if the viewport is enlarged beyond the mobile view-->
-  <script>
-    $(function() {
-      $('div.banner').click(function() {
-        if ($(window).width() < 750) {
-            $('div.left-col').toggleClass("left-col-show");
-            $('body').css("scroll-y", "hidden")
-        }
-      });
-    });
-    $(window).resize(function() {
-      if (!($(window).width() < 750)) {
-        $(".left-col").removeAttr('style');;
-      }
-    });
-  </script>
-  <!-- Script to ensure banner does not overlap centercol and that the logo is the same height as the banner-->
-  <!-- Also ensures that the caver image is a sutiable size for the page (so you dont just see his butt)-->
-  <!-- Also ensures that anchor links are offset so the content isnt under the banner -->
-  <script>
-    function bannerresizer() {
-      if (!($(window).width() < 750)) {
-        $(".center-col").css("margin-top", $(".banner").height());
-        $(".logo").css("min-height", $(".banner").height());
-        $(".logo").css("height", $(".banner").height());
-        //$(".logo img").css("padding-top", ($(".banner").height() - 100) / 2);
-        $(".anchor").css("margin-top", -$(".banner").height())
-      } else {
-        $(".center-col").css("margin-top", $(".banner").height());
-        $(".anchor").css("margin-top", -$(".banner").height())
-      }
-    }
-
-    function caverresizer() {
-      var viewportHeight = $(window).height();
-      var bannerHeight = $(".banner").height();
-      if (viewportHeight - bannerHeight < 689) {
-        $(".right-col").css({"background-size": 'auto ' + String(viewportHeight - bannerHeight) + 'px'});
-      }
-    }
-
-    $(window).resize(function() {
-      bannerresizer();
-      caverresizer();
-    });
-    $(window).load(function() {
-      caverresizer();
-      bannerresizer();
-    });
-  </script>
-  <!--Google Analytics Tracking-->
   <script>
     (function(i, s, o, g, r, a, m) {
       i['GoogleAnalyticsObject'] = r;
