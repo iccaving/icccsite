@@ -8,7 +8,7 @@ Mainimg: alice%20through%20the%20gate.jpg
 Thumbl: jana%20carga%20-%20maskhill%20-IMG_2195--thumb.jpg
 Thumbr: jana%20carga%20-%20maskhill%20-IMG_2201--thumb.jpg
 Authors: James Kirkpatrick, Jana Carga, Andy Jurd
-Cavepeeps: DATE=2008-02-09; CAVE=James Hall > Titan; PEOPLE=Andy Jurd, Chris, Pip, Jana Carga, Jarvist Frost;
+Cavepeeps: DATE=2008-02-09; CAVE=James Hall > Titan; PEOPLE=Andy Jurd, Chris, Pip Crosby, Jana Carga, Jarvist Frost;
            DATE=2008-02-09; CAVE=Titan > James Hall; PEOPLE=Rik Venn, James Huggett, James Kirkpatrick, Tim Osborne, Dave Wilson, Jan Evetts, Ben Banfield;
            DATE=2008-02-10; CAVE=Oxlow Cavern > Maskhill Mine; PEOPLE=Jan Evetts, James Kirkpatrick;
 Oldurl: /rcc/caving/derbyshire/derbyshire-2008-02-08.php
