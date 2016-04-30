@@ -196,7 +196,7 @@ a.footer-button:visited { }
  }
 
  .mainimg {
- 	padding: 0;
+ 	margin: 0;
  }
 
 .mainimg img {
@@ -204,15 +204,15 @@ a.footer-button:visited { }
 }
 .article-img-center {
   width: 100%;
-  padding: 0px 0px;
+  margin: 0px 0px;
 }
 
 .article-img-left {
-  padding: 10px 10px 0px 0px;
+  margin: 10px 10px 0px 0px;
 }
 
 .article-img-right {
-  padding: 10px 0px 0px 10px;
+  margin: 10px 0px 0px 10px;
 }
 
 .article-img-center img {
@@ -316,5 +316,5 @@ hr.hrsidebartop { }
 }
 
 .personimg > a > img {
-	padding: 0;
+	margin: 0;
 }
