@@ -1,29 +1,36 @@
 /* IC caving web site style sheet for main pages
 */
 /*-----------------------------Colour and styling Variables-----------------------------*/
-
 /* Colours */
-$link-hover: #D46A6A; /*Link hover*/
-$highlight: #AA3939; /*Light Red (Highlighting,)*/
+$link-hover: #D46A6A;
+/*Link hover*/
+$highlight: #AA3939;
+/*Light Red (Highlighting,)*/
 $links: #A6373F;
-$visited-links: #801515; /*Darker Red (Visited Links)*/
-$dark-background: #2D2D2D; /*Dark grey (Background Colour for Banner/Sidebar/Headers H1)*/
-$header: #AB3C3C; /* (H2)*/
-$light-background: #AB4444; /*(Highlight colour for Banner/Sidebar/Headers H3/text)*/
-$body-background: #999999; /*(Body Background)*/
-$offwhite: #E8E8E8; /*Off White (Backgrounds/ Large Text on dark backgrounds)*/
-$transwhite: rgba(255, 255, 255, 0.83); /*Index item backgrounds*/
-$white: rgb(255, 255, 255); /*Article backgrounds*/
-$text: #000000; /*Normal text colour*/
-
+$visited-links: #801515;
+/*Darker Red (Visited Links)*/
+$dark-background: #2D2D2D;
+/*Dark grey (Background Colour for Banner/Sidebar/Headers H1)*/
+$header: #AB3C3C;
+/* (H2)*/
+$light-background: #AB4444;
+/*(Highlight colour for Banner/Sidebar/Headers H3/text)*/
+$body-background: #999999;
+/*(Body Background)*/
+$offwhite: #E8E8E8;
+/*Off White (Backgrounds/ Large Text on dark backgrounds)*/
+$transwhite: rgba(255, 255, 255, 0.83);
+/*Index item backgrounds*/
+$white: rgb(255, 255, 255);
+/*Article backgrounds*/
+$text: #000000;
+/*Normal text colour*/
 /* Images */
 $back-image: "../../assets/bg.jpg";
 $right-image: "../../assets/jack.png";
-
 /* Indents */
 $header-indent: 25px;
 $content-indent: 50px;
-
 /* Fonts */
 $sans: Roboto, Tahoma, Arial, sans-serif;
 $serif: "Roboto Slab", "Times New Roman", Times, serif;
@@ -32,13 +39,8 @@ $h3weight: 400;
 $h4weight: 400;
 $h5weight: 400;
 $textweight: 300;
-
-
 /*-----------------------------Global Page Properties-----------------------------*/
-
-html {
-}
-
+html {}
 body {
 	background-color: $body-background;
 	color: $text;
@@ -51,36 +53,33 @@ body {
 	background-position: right bottom;
 	background-attachment: fixed;*/
 }
-
 /*-----------------------------Global Text and link properties-----------------------------*/
-
-p, ul, ol {
+ol,
+p,
+ul {
 	line-height: 1.5rem;
 }
-
 h1 {
 	font-family: $sans;
 	font-weight: 700;
 	font-size: 2rem;
-	color:	$header;
+	color: $header;
 	margin: 1rem 0;
-	}
-
+}
 h2 {
 	font-family: $sans;
 	font-size: 1.5rem;
 	font-weight: $h2weight;
 	color: $header;
 	margin: 1rem 0;
-	}
-
+}
 h3 {
 	font-family: $sans;
 	font-size: 1.125rem;
 	font-weight: $h3weight;
 	color: $light-background;
 	margin: 1rem 0;
-	}
+}
 h4 {
 	font-family: $sans;
 	font-size: 1rem;
@@ -96,114 +95,91 @@ h5 {
 	color: $light-background;
 	margin: 1rem 0;
 }
-
-
 a {
 	color: $links;
 	text-decoration: underline;
 }
-
 a:visited {
-	color: $visited-links
+	color: $visited-links;
 }
-
 a:hover {
-	color: $link-hover
+	color: $link-hover;
 }
-
 pre {
 	overflow: auto;
 }
-
 /*-----------------------------Useful Tags-----------------------------*/
 .nodisplay {
 	display: none !important;
 }
-
 .nopad {
 	padding: 0 !important;
 }
-
 .nomargin {
 	margin: 0 !important;
 }
-
 .center {
 	text-align: center !important;
 }
-
 .highlight {
 	font-weight: bold !important;
 	color: $header !important;
 }
-
 .mobile {
 	display: none;
 }
-
 /*-----------------------------Column Layout-----------------------------*/
-
 .banner {
 	/*min-height: 90px;*/
 	height: 104px;
 	background-color: $dark-background;
 	overflow: hidden;
 	width: 85%;
-	position:	fixed;
+	position: fixed;
 	display: table;
 	margin: 0 0 0 15%;
 	border-bottom: 1px $offwhite solid;
 	z-index: 1;
 }
-
 .banner-wrap {
 	display: table-row;
 }
-
 .menu-icon {
 	font-size: 3rem;
 	color: white;
 	display: none;
 }
-
 .banner-title {
 	font-size: 3rem;
 	font-family: $sans;
 	font-weight: 900;
 	color: $offwhite;
-
 	display: table-cell;
 	width: 100%;
 	vertical-align: middle;
 }
-
 .banner-title-logo {
 	display: none;
 }
-
 .banner-date {
 	color: $light-background;
 	display: inline-block;
 }
-
 .logo {
 	text-align: center;
 	display: block;
 	min-height: 104px;
 	height: 104px;
 }
-
 .logo img {
-	width:100px;
+	width: 100px;
 	vertical-align: middle;
 }
-
-
 .left-col {
 	float: left;
 	width: 15%;
 	max-width: 220px;
-	min-width:180px;
+	min-width: 180px;
 	height: 100%;
 	vertical-align: top;
 	background-color: $dark-background;
@@ -213,7 +189,6 @@ pre {
 	z-index: 1;
 	display: block;
 }
-
 .center-col {
 	float: left;
 	vertical-align: top;
@@ -221,34 +196,30 @@ pre {
 	height: 100%;
 	width: 70%;
 }
-
 .right-col {
 	/* float: left; */
-  height: 100vh;
+	height: 100vh;
 	width: 15%;
 	max-width: 220px;
-	min-width:180px;
-  vertical-align: top;
-  background-image: url($right-image);
-  background-size: auto 689px;
-  background-repeat: no-repeat;
-  background-position: right bottom;
-  /* background-attachment: fixed; */
-  margin-left: -200px;
-  padding-left: 200px;
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  z-index: -1;
+	min-width: 180px;
+	vertical-align: top;
+	background-image: url($right-image);
+	background-size: auto 689px;
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	/* background-attachment: fixed; */
+	margin-left: -200px;
+	padding-left: 200px;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	z-index: -1;
 }
-
 .container {
 	width: 800px;
-	margin: 20px auto 20px calc((100vw - 800px)/2 - 220px);;
+	margin: 20px auto 20px calc((100vw - 800px)/2 - 220px);
 }
-
 /*-----------------------------Sidebar properties-----------------------------*/
-
 .sidebar {
 	float: left;
 	width: 100%;
@@ -258,234 +229,217 @@ pre {
 	overflow-x: hidden;
 	overflow-y: auto;
 }
-
 .sidebar-content-box {
 	font-family: $sans;
 	font-weight: 500;
 	font-size: 0.8rem;
 	flex: 0 0 auto;
 }
-
 #sidebar-fill {
 	flex: 1 0 auto;
 }
-
-.sidebar-item a, .sidebar-sub-item a, .sidebar-sub-sub-item a {
+.sidebar-item a,
+.sidebar-sub-item a,
+.sidebar-sub-sub-item a {
 	display: block;
 	height: 100%;
 	text-decoration: none;
 	color: $offwhite;
-
 	transition: box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 	transition-delay: 0.2s;
-	-moz-box-shadow:		inset 0 0 0 #000000;
+	-moz-box-shadow: inset 0 0 0 #000000;
 	-webkit-box-shadow: inset 0 0 0 #000000;
-	box-shadow:				 inset 0 0 0 #000000;
+	box-shadow: inset 0 0 0 #000000;
 }
-
-.sidebar-item a:visited, .sidebar-sub-item a:visited, .sidebar-sub-sub-item a:visited {
+.sidebar-item a:visited,
+.sidebar-sub-item a:visited,
+.sidebar-sub-sub-item a:visited {
 	color: $offwhite;
 }
-
-.sidebar-item a:active, .sidebar-sub-item a:active, .sidebar-sub-sub-item:active {
-	-moz-box-shadow:		inset 0 0 10px #000000;
+.sidebar-item a:active,
+.sidebar-sub-item a:active,
+.sidebar-sub-sub-item:active {
+	-moz-box-shadow: inset 0 0 10px #000000;
 	-webkit-box-shadow: inset 0 0 10px #000000;
-	box-shadow:				 inset 0 0 10px #000000;
+	box-shadow: inset 0 0 10px #000000;
 	transition-delay: 0s;
 }
-
-.sidebar-item, .sidebar-sub-item, .sidebar-sub-sub-item{
-		a:hover, &:hover{
+.sidebar-item,
+.sidebar-sub-item,
+.sidebar-sub-sub-item {
+	 &:hover,
+	a:hover {
 		text-decoration: none;
 		background-color: #A6373F;
-		}
+	}
 }
-
 .sidebar-sub-item a:hover {
 	font-family: $sans;
-	font-weight: 400
+	font-weight: 400;
 }
 .sidebar-item a {
 	font-family: $sans;
 	font-weight: 500;
 	padding: 10px 0 10px 20px;
 }
-
 .sidebar-sub-item a {
 	font-family: $sans;
 	font-weight: 400;
 	padding: 10px 0 10px 35px;
 }
-
 .sidebar-sub-sub-item a {
 	font-family: $sans;
 	font-weight: 100;
 	padding: 10px 0 10px 50px;
 }
-
-.sidebar-item.no-link a:hover, .sidebar-item.no-link:hover {
+.sidebar-item.no-link a:hover,
+.sidebar-item.no-link:hover {
 	text-decoration: none;
 	background-color: transparent;
 }
-
 .sidebar-item.no-link a {
 	transition: none;
 	box-shadow: none;
 }
-
 .collapsed {
-	max-height:0;
+	max-height: 0;
 }
-
 .sidebar-outer {
-	-webkit-transition: max-height .5s ease;
-	-moz-transition: max-height .5s ease;
-	-o-transition: max-height .5s ease;
-	transition: max-height .5s ease;
+	-webkit-transition: max-height 0.5s ease;
+	-moz-transition: max-height 0.5s ease;
+	-o-transition: max-height 0.5s ease;
+	transition: max-height 0.5s ease;
 	overflow: hidden;
 }
-
-.sidebar-closer {
-}
-
+.sidebar-closer {}
 /*-----------------------------Index Content properties-----------------------------*/
-
 .content-box {
-	margin: 0 0 20px 0;
+	margin: 0 0 20px;
 	width: 100%;
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
 	background-color: $transwhite;
 }
-
 .content-header {
 	display: table;
 	width: 100%;
 }
-
 .content-left {
 	height: 100%;
 	display: table-cell;
-	padding: 10px 10px 10px 10px;
+	padding: 10px;
 	background-color: $dark-background;
 	color: $offwhite;
 }
-
 .content-left a {
 	color: $offwhite;
 	text-decoration: none;
 	font-family: $sans;
 	font-weight: 700;
 }
-
 .content-right {
 	height: 100%;
 	width: 100px;
 	text-align: center;
 	display: table-cell;
-	padding: 10px 10px 10px 10px;
+	padding: 10px;
 	background-color: $light-background;
 	color: $offwhite;
 	font-family: $sans;
 	font-weight: 500;
 }
-
 .content {
 	display: table;
 	width: 100%;
 }
-
 .content-summary {
 	padding: 0 15px;
 	vertical-align: top;
 	display: table-cell;
 	vertical-align: middle;
 }
-
 .content-summary p {
 	margin: 15px 0;
 }
-
 .index-thumbl {
 	max-width: 225px;
 	padding: 10px 0 0 10px;
 	display: table-cell;
 	vertical-align: middle;
 }
-
 .index-thumbr {
 	padding: 10px 10px 0 0;
 	max-width: 225px;
 	display: table-cell;
 	vertical-align: middle;
 }
-
-.index-thumbl, .index-thumbr {
+.index-thumbl,
+.index-thumbr {
 	img {
 		max-width: 225px;
 	}
 }
-
 .content-footer {
 	width: 100%;
 	display: table;
 }
-
-.content-footer-left, .content-footer-right, .content-footer-center {
+.content-footer-center,
+.content-footer-left,
+.content-footer-right {
 	width: 50%;
 	display: table-cell;
-	padding: 5px 5px 10px 5px;
-	}
-
+	padding: 5px 5px 10px;
+}
 .content-footer-left {
 	text-align: right;
-	}
-
+}
 .content-footer-center {
 	text-align: center;
-	}
-
+}
 .content-footer-right {
 	text-align: left;
-	}
-
+}
 a.footer-button {
-	padding: 5px 5px 5px 5px;
+	padding: 5px;
 	font-family: $sans;
 	font-weight: 500;
 	color: $highlight;
 	text-decoration: underline;
 	&:visited {
-		color: $visited-links
+		color: $visited-links;
 	}
-
 	&:hover {
-		color: $link-hover
+		color: $link-hover;
 	}
 }
-
 .paginator {
 	text-align: center;
 }
-
 /*-----------------------------Article and Page Content Styling-----------------------------*/
 .article-content {
 	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
 	background-color: $white;
-	padding: 10px 10px 10px 10px;
+	padding: 10px;
 	overflow: auto;
 }
-
 .article-content {
-	p, ol, ul, dl, pre, address {
+	address,
+	dl,
+	ol,
+	p,
+	pre,
+	ul {
 		margin-left: 50px;
 		margin-right: 50px;
 	}
-	h1, h2, h3, h4, h5 {
+	h1,
+	h2,
+	h3,
+	h4,
+	h5 {
 		margin-left: 25px;
 		margin-right: 25px;
 	}
-	input {
- }
+	input {}
 }
 .padless {
 	margin-left: 25px;
@@ -495,131 +449,140 @@ a.footer-button {
 	margin-left: 50px;
 	margin-right: 50px;
 }
-
 .mainimg {
 	text-align: center;
 	max-height: 600px;
-	padding: 25px 25px 0 25px;
+	margin: 25px 25px 0;
 }
-
 .mainimg img {
 	max-width: 100%;
 	max-height: 600px;
 	border: 1px solid $body-background;
 }
-
 .article-img-center {
 	width: calc(100% - 50px);
 	text-align: center;
-	padding: 10px 25px;
-	margin: 0;
+	margin: 10px 25px;
 }
-
 .article-img-left {
 	max-width: 50%;
 	float: left;
-	margin: 0;
-	padding: 10px 25px 10px 25px;
+	margin: 10px 25px;
 	text-align: center;
 }
-
 .article-img-right {
 	max-width: 50%;
 	float: right;
-	margin: 0;
-	padding: 10px 25px 10px 25px;
+	margin: 10px 25px;
 	text-align: center;
 }
-
 .article-img-center img {
 	max-width: 100%;
 	max-height: 600px;
 	border: 1px solid $body-background;
 }
-
 .article-img-left img {
 	max-width: 100%;
 	max-height: 400px;
 }
-
 .article-img-right img {
 	max-width: 100%;
 	max-height: 400px;
 }
-
 figcaption {
 	font-size: 0.9rem;
 }
-
 .photo-button {
-	padding: 5px 5px 5px 5px;
+	padding: 5px;
 	color: $highlight;
 	text-decoration: underline;
 	font-size: 1.5rem;
 	font-weight: bold;
 }
-
 .photo-button-wrapper {
 	text-align: center;
 }
-
 .anchor {
 	position: absolute;
 }
 
+blockquote {
+	margin: 0 100px;
+  padding: 10px;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.26);
+  background-color: #fffee3;
+}
+.article-content {
+	blockquote {
+		address,
+		dl,
+		ol,
+		p,
+		pre,
+		ul {
+			margin-left: 0;
+			margin-right: 0;
+		}
+		h1,
+		h2,
+		h3,
+		h4,
+		h5 {
+			margin-left: 0;
+			margin-right: 0;
+		}
+		input {}
+	}
+}
 /*-----------------------------Table stylings-----------------------------*/
-table.sortable th, table.sortable td {
+table.sortable td,
+table.sortable th {
 	min-width: 4em;
 	text-align: center;
 }
 table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
-    content: " \25B4\25BE"
+	content: " \25B4\25BE";
 }
-
 /*For index on main page*/
 /*Mostly just the calender/agenda*/
 .content table {
 	width: 100%;
 }
-
 /*For pretty much all other tables*/
 .article-content table {
-  margin: 0 50px;
+	margin: 0 50px;
 }
-
 /*For the list of caves/cavers*/
 /*Because they're the main event on their pages it looks*/
 /*nicer this way*/
 .widetable {
-	margin: 0    !important;
-	width: 100%  !important;
+	margin: 0 !important;
+	width: 100% !important;
 }
-
 /*This is so that tables that overflow the article container don't*/
 /*cause the whole article to horizontally scroll, just the table*/
 .table-container {
 	overflow-x: auto;
 	overflow-y: hidden;
 }
-
 table {
-  border-collapse: collapse;
-  font-family: $sans;
- }
-td, th {
-  padding: 0.5rem;
-  font-weight: $textweight;
-  text-align: left;
- }
- tbody {
-	  > tr:nth-child(even) {
-   		background-color:rgba(255,255,255,0.83);
-		}
-		> tr:nth-child(odd) {
-	    background-color:rgba(245,245,245,0.83);
-	  }
- }
-
+	border-collapse: collapse;
+	font-family: $sans;
+}
+td,
+th {
+	padding: 0.5rem;
+	font-weight: $textweight;
+	text-align: left;
+}
+tbody {
+	> tr:nth-child(even) {
+		background-color: rgba(255,255,255,0.83);
+	}
+	> tr:nth-child(odd) {
+		background-color: rgba(245,245,245,0.83);
+	}
+}
 /*
  .article-content tbody
  {
@@ -630,109 +593,95 @@ td, th {
  }
 */
 thead > tr {
-   border-bottom: 1px solid rgba(0, 0, 0, 0.12);
-   background-color: #ffffff;
- }
-
+	border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+	background-color: #ffffff;
+}
 /*-----------------------------Horizontal rule stylings-----------------------------*/
-
 hr.hrstyle {
 	border: 0;
 	height: 1px;
 	background: #333;
 	background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
-	background-image:		-moz-linear-gradient(left, #ccc, #333, #ccc);
-	background-image:		 -ms-linear-gradient(left, #ccc, #333, #ccc);
-	background-image:			-o-linear-gradient(left, #ccc, #333, #ccc);
+	background-image: -moz-linear-gradient(left, #ccc, #333, #ccc);
+	background-image: -ms-linear-gradient(left, #ccc, #333, #ccc);
+	background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
 }
-
 hr.hrsidebar {
 	border-top: 1px solid $offwhite;
 	border-bottom: 0 solid transparent;
-
 	width: 100%;
 	flex: 0 0 auto;
 }
-
 hr.hrsidebartop {
 	border-top: 1px solid $offwhite;
 	border-bottom: 0 solid transparent;
 	margin-top: 0;
-
 	width: 100%;
 	flex: 0 0 auto;
 }
-
 /*-----------------------------Photo page stuff-----------------------------*/
-.currlink, .prevlink, .nextlink {
-	font-family: Roboto, Tahoma, Arial, sans-serif; font-weight: 500;
+.currlink,
+.nextlink,
+.prevlink {
+	font-family: Roboto, Tahoma, Arial, sans-serif;
+	font-weight: 500;
 	display: table-cell;
 	text-align: center;
 	vertical-align: middle;
 	width: 33%;
 }
-
-.currlink a, .prevlink a, .nextlink a {
+.currlink a,
+.nextlink a,
+.prevlink a {
 	color: $offwhite;
 }
-
 .link-container {
 	background-color: $dark-background;
 	height: 40px;
 	display: table;
 	width: 100%;
 }
-
 .maindisplay {
 	max-width: 780px;
 	max-height: 600px;
 }
-
 .image-wrapper {
 	height: 600px;
 	width: 100%;
 }
-
 .image-cell {
 	text-align: center;
-
 }
-
 .thumb_box {
 	height: 150px;
 	overflow-x: hidden;
 	overflow-y: scroll;
 	bottom: 5px;
 }
-
 .expand-thumb-box {
 	height: 100%;
 	overflow-y: hidden;
 }
-
 .thumb-toggle {
 	width: 80px;
 	padding: 2px;
 	border-radius: 2px;
 	background-color: $dark-background;
 	color: $offwhite;
-	margin: 2px auto 2px auto;
+	margin: 2px auto;
 	text-align: center;
-
 	transition: box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
 	transition-delay: 0.2s;
-	-moz-box-shadow:		inset 0 0 0 #000000;
+	-moz-box-shadow: inset 0 0 0 #000000;
 	-webkit-box-shadow: inset 0 0 0 #000000;
-	box-shadow:				 inset 0 0 0 #000000;
+	box-shadow: inset 0 0 0 #000000;
 }
-
 .thumb-toggle:active {
-	-moz-box-shadow:		inset 0 0 10px #000000;
+	-moz-box-shadow: inset 0 0 10px #000000;
 	-webkit-box-shadow: inset 0 0 10px #000000;
-	box-shadow:				 inset 0 0 10px #000000;
+	box-shadow: inset 0 0 10px #000000;
 	transition-delay: 0s;
 }
-
 .select-thumbnail {
 	border: 5px solid #A6373F;
 	max: 100px;
@@ -745,28 +694,24 @@ hr.hrsidebartop {
 .personimg {
 	text-align: center;
 }
-
 .personimg > a > img {
 	max-height: 400px;
 	max-width: 100%;
-	padding: 25px 25px 0 25px;
+	margin: 25px 25px 0;
 }
-
-	/*-----------------------------Screen size stuff-----------------------------*/
-
+/*-----------------------------Screen size stuff-----------------------------*/
 @media screen and (min-width: 1466px) {
 	.banner {
 		margin-left: 220px;
 		width: calc(100% - 220px);
 	}
 	.center-col {
-    margin: 104px 0 0 220px;
-    width: calc(100% - 440px);
+		margin: 104px 0 0 220px;
+		width: calc(100% - 440px);
 	}
 }
-
-	/* Below 1300px right-col removed, centre col resized and given some padding against the left col */
-	/* Banner size and text size decreased */
+/* Below 1300px right-col removed, centre col resized and given some padding against the left col */
+/* Banner size and text size decreased */
 @media screen and (max-width: 1300px) {
 	.center-col {
 		width: calc(100% - 180px);
@@ -777,9 +722,8 @@ hr.hrsidebartop {
 		display: none;
 	}
 	.container {
-		margin: 20px auto 20px auto;
+		margin: 20px auto;
 	}
-
 	.banner {
 		height: 80px;
 		min-height: 80px;
@@ -788,12 +732,11 @@ hr.hrsidebartop {
 		font-size: 2.5rem;
 	}
 	.logo img {
-    height: 80px;
-    width: auto;
-    vertical-align: middle;
+		height: 80px;
+		width: auto;
+		vertical-align: middle;
 	}
 }
-
 /* Below 1100px*/
 @media screen and (max-width: 1200px) {
 	.banner {
@@ -801,12 +744,11 @@ hr.hrsidebartop {
 		margin-left: 180px;
 	}
 }
-
 /* Below 1100px*/
 @media screen and (max-width: 1100px) {
 	.container {
 		width: calc(100% - 20px);
-		margin: 20px auto 20px auto;
+		margin: 20px auto;
 	}
 	.maindisplay {
 		max-width: 100%;
