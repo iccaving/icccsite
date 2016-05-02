@@ -4,7 +4,6 @@ from __future__ import unicode_literals
 
 AUTHOR = u'ICCC'
 SITENAME = u'Imperial College Caving Club'
-#SITEURL = 'https://union.ic.ac.uk/rcc/caving/topsecret'
 SITEURL = '/'
 
 THEME = 'themes/ICTheme'
