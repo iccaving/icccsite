@@ -135,25 +135,29 @@ def articlelink(peoplelist, article, generator):
             article.data[key] = outpeopletrips[key]
 
 #======================MAIN==========================
+def cavepeeplinkerinit(generator):
+    generator.context['cavepeep'] = []
+
+def cavepeeplinkerarticle(generator, content):
+    article = content
+    # If the article has the cavepeeps metadata
+    if 'cavepeeps' in article.metadata.keys() and 'unlisted' not in article.metadata.keys():
+        # Parse metadata and return a list where each item contains a date,
+        # cave, caver, and article reference
+        cavepeep_partial = parse_metadata(
+            article.metadata['cavepeeps'], article)
+        articlelink(cavepeep_partial, article, generator)
+        generator.context['cavepeep'] += cavepeep_partial
+    if 'cavepeeps' in article.metadata.keys() and 'unlisted' in article.metadata.keys():
+        # Parse metadata and return a list where each item contains a date,
+        # cave, caver, and article reference DO NOT ADD TO MAIN CAVEPEEPS
+        # dictionary. This is so the {{ allpeople }} tags etc. still work
+        cavepeep_partial = parse_metadata(article.metadata['cavepeeps'], article)
+        articlelink(cavepeep_partial, article, generator)
 
 
-def cavepeeplinker(generator):
-    cavepeep = []
-    for article in generator.articles:  # Loop through articles
-        # If the article has the cavepeeps metadata
-        if 'cavepeeps' in article.metadata.keys() and 'unlisted' not in article.metadata.keys():
-            # Parse metadata and return a list where each item contains a date,
-            # cave, caver, and article reference
-            cavepeep_partial = parse_metadata(
-                article.metadata['cavepeeps'], article)
-            articlelink(cavepeep_partial, article, generator)
-            cavepeep += cavepeep_partial
-        if 'cavepeeps' in article.metadata.keys() and 'unlisted' in article.metadata.keys():
-            # Parse metadata and return a list where each item contains a date,
-            # cave, caver, and article reference DO NOT ADD TO MAIN CAVEPEEPS
-            # dictionary
-            cavepeep_partial = parse_metadata(article.metadata['cavepeeps'], article)
-            articlelink(cavepeep_partial, article, generator)
+def cavepeeplinkerfinal(generator, writer):
+    cavepeep = generator.context['cavepeep']
     cavepeep.sort(key=lambda tup: tup.person)  # Sort the list by person name
     cavepeep_person = OrderedDict()
     # Add the entries to an ordered dictionary so that for each person
@@ -227,6 +231,7 @@ def constructbios(generator):
             # to access the items in it from the template
             caverbios[os.path.splitext(afile)[0]] = (content, namedtuple(
                 'metadata', [x for x in metadata.keys()])(*[metadata[x] for x in metadata.keys()]))
+
     generator.context['caverbios'] = caverbios
     logging.debug("Cavepeep: Caver bios assembled")
 
@@ -237,12 +242,10 @@ def constructbios(generator):
         for afile in filenames:
             content = readers.read_file(dirpath, afile).content
             metadata = readers.read_file(dirpath, afile).metadata
-            # cavebios[os.path.splitext(afile)[0]] = (content, namedtuple(
-            #    'metadata', [x for x in metadata.keys()])(*[metadata[x] for x in metadata.keys()]))
             cavebios[os.path.splitext(afile)[0]] = (content, metadata)
+
     generator.context['cavebios'] = cavebios
     logging.debug("Cavepeep: Cave bios assembled")
-
 
 def generatecavepages(generator, writer):
     # For every cave generate a page listing the articles that mention it
@@ -301,6 +304,7 @@ def generatecavepages(generator, writer):
                               page.articles, key=lambda x: x.date, reverse=True),
                           bio=page.cavebio, meta=page.cavemeta, data=page.data)
 
+
     # ==========Write the index of caves================
     row = namedtuple('row', 'name number recentdate meta')
     # Refactor into useful format for index
@@ -310,6 +314,7 @@ def generatecavepages(generator, writer):
                  x][1] if x in cavebios.keys() else None) for x in cavepages.keys()]
     template = generator.get_template('cavepage')
     filename = 'caves/index.html'
+
     writer.write_file(filename, template, generator.context,
                       caves=sorted(caves, key=lambda x: x.name))
 
@@ -318,32 +323,33 @@ def generatepersonpages(generator, writer):
     # For each person generate a page listing the caves they have been in and the article that
     # describes that trip
     authors = {}
+    caverbios = generator.context['caverbios']
+    cavepeep_person = generator.context['cavepeep_person']
+
     for item in generator.authors:
         authors[item[0].name] = item[1]
     template = generator.get_template('personpages')
-    for person in generator.context['cavepeep_person']:
+    for person in cavepeep_person:
         caverbio = ''
         cavermeta = ''
         authoredarticles = None
         if person in authors:
             authoredarticles = authors[person]
         # Check if they have a bio written about them
-        if person in generator.context['caverbios']:
+        if person in caverbios:
             logging.debug("Bio generated for " + person)
-            caverbio = generator.context['caverbios'][person][0]
-            cavermeta = generator.context['caverbios'][person][1]
+            caverbio = caverbios[person][0]
+            cavermeta = caverbios[person][1]
         filename = 'cavers/' + person + '.html'
         writer.write_file(filename, template, generator.context, personname=person,
-                          articles=sorted(generator.context['cavepeep_person'][person][0], key=lambda x: x.date, reverse=True),
+                          articles=sorted(cavepeep_person[person][0], key=lambda x: x.date, reverse=True),
                           bio=caverbio, meta=cavermeta,
                           authoredarticles=authoredarticles)
 
-def generatepersonpage(generator, writer):
-    # Create a page listing all the people pages
+    # ==========Write the index of cavers================
+
     template = generator.get_template('personpage')
     filename = 'cavers/index.html'
-    caverbios = generator.context['caverbios']
-    cavepeep_person = generator.context['cavepeep_person']
     row = namedtuple('row', 'name number recentdate meta')
     people = [row(x, len(cavepeep_person[x][0]), cavepeep_person[x][1], caverbios[x][
         1] if x in caverbios.keys() else None) for x in cavepeep_person.keys()]
@@ -351,14 +357,18 @@ def generatepersonpage(generator, writer):
     writer.write_file(filename, template, generator.context, people=people)
     # ([ (cave, article, date) ], maxdate)
 
-
 def register():
     # Registers the various functions to run during particar Pelican processes
+
+    # Creates empty cavepeep list
+    signals.article_generator_init.connect(cavepeeplinkerinit)
+    # For each article parses metadata and adds it to cavepeep list
+    signals.article_generator_write_article.connect(cavepeeplinkerarticle)
+    # Generates the person name and cave name keyed dictionaries
+    signals.article_writer_finalized.connect(cavepeeplinkerfinal)
+
     # Run after the article list has been generated
-    signals.article_generator_finalized.connect(cavepeeplinker)
     signals.article_generator_finalized.connect(constructbios)
     # Run after the articles have been written
     signals.article_writer_finalized.connect(generatecavepages)
-    # signals.article_writer_finalized.connect(generatecavepage)
     signals.article_writer_finalized.connect(generatepersonpages)
-    signals.article_writer_finalized.connect(generatepersonpage)
