@@ -79,7 +79,9 @@ Announcements (or info posts or whatever) on the main page with the type 'index'
 
 *Linktext*: What the link text should be.
 
-These should be used to announce upcoming events or link to subsites etc. Anything that isn't really a trip or tour.
+These should be used to announce upcoming events or link to subsites etc. Anything that isn't really a trip or tour (links to articles on expedition subsites for example).
+
+Also the content of the md file is used rather than the summary, to allow for easier long form content on the index page if so desired.
 
 ###Cave pages
 
