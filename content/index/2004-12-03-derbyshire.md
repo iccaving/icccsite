@@ -1,7 +1,7 @@
 Title: Derbyshire Trip
 Date: 2004-12-03
 Location: derbyshire
-Type: index: 
+Type: index
 Thumbl: /rcc/caving/photo_archive/trips/2004-12-03%20-%20derbyshire%20-%20jarvist/IMG_0698--thumb.jpg
 Thumbr: /rcc/caving/photo_archive/trips/2004-12-03%20-%20derbyshire%20-%20jarvist/IMG_0708--thumb.jpg
 

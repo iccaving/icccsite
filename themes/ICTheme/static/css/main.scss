@@ -134,10 +134,10 @@ pre {
 	height: 104px;
 	background-color: $dark-background;
 	overflow: hidden;
-	width: 85%;
+	width: 90%;
 	position: fixed;
 	display: table;
-	margin: 0 0 0 15%;
+	margin: 0 0 0 10%;
 	border-bottom: 1px $offwhite solid;
 	z-index: 1;
 }
@@ -177,9 +177,9 @@ pre {
 }
 .left-col {
 	float: left;
-	width: 15%;
-	max-width: 220px;
-	min-width: 180px;
+	width: 10%;
+	//max-width: 220px;
+	//min-width: 180px;
 	height: 100%;
 	vertical-align: top;
 	background-color: $dark-background;
@@ -192,16 +192,17 @@ pre {
 .center-col {
 	float: left;
 	vertical-align: top;
-	margin: 104px 0 0 15%;
+	margin: 104px 0 0 10%;
 	height: 100%;
-	width: 70%;
+	width: 80%;
+	//max-width: calc(100% - 360px);
 }
 .right-col {
 	/* float: left; */
 	height: 100vh;
-	width: 15%;
-	max-width: 220px;
-	min-width: 180px;
+	width: 10%;
+	//max-width: 220px;
+	//min-width: 180px;
 	vertical-align: top;
 	background-image: url($right-image);
 	background-size: auto 689px;
@@ -217,7 +218,8 @@ pre {
 }
 .container {
 	width: 800px;
-	margin: 20px auto 20px calc((100vw - 800px)/2 - 220px);
+	//margin: 20px auto 20px calc((100vw - 800px)/2 - 10%);
+	margin: 20px auto 20px auto;
 }
 /*-----------------------------Sidebar properties-----------------------------*/
 .sidebar {
@@ -290,7 +292,7 @@ pre {
 .sidebar-sub-sub-item a {
 	font-family: $sans;
 	font-weight: 100;
-	padding: 10px 0 10px 50px;
+	padding: 10px 0 10px 35px;
 }
 .sidebar-item.no-link a:hover,
 .sidebar-item.no-link:hover {
@@ -608,16 +610,37 @@ hr.hrstyle {
 }
 hr.hrsidebar {
 	border-top: 1px solid $offwhite;
+	//border-top: 1px solid $dark-background;
 	border-bottom: 0 solid transparent;
 	width: 100%;
 	flex: 0 0 auto;
 }
 hr.hrsidebartop {
 	border-top: 1px solid $offwhite;
+	//border-top: 1px solid $dark-background;
 	border-bottom: 0 solid transparent;
 	margin-top: 0;
 	width: 100%;
 	flex: 0 0 auto;
+}
+
+hr.fancy {
+	padding: 0;
+	border: none;
+	border-top: medium double #ab4444;
+	color: #ab4444;
+	text-align: center;
+	height: 0px;
+	width: 60%;
+}
+hr.fancy:after {
+	content: "§";
+	display: inline-block;
+	position: relative;
+	top: -0.7em;
+	font-size: 1.5em;
+	padding: 0 0.25em;
+	background-color: #2d2d2d;
 }
 /*-----------------------------Photo page stuff-----------------------------*/
 .currlink,
@@ -700,7 +723,7 @@ hr.hrsidebartop {
 	margin: 25px 25px 0;
 }
 /*-----------------------------Screen size stuff-----------------------------*/
-@media screen and (min-width: 1466px) {
+@media all and (min-width: 2200px) {
 	.banner {
 		margin-left: 220px;
 		width: calc(100% - 220px);
@@ -709,10 +732,36 @@ hr.hrsidebartop {
 		margin: 104px 0 0 220px;
 		width: calc(100% - 440px);
 	}
+	.left-col {
+		width: 220px;
+	}
+	.right-col {
+		width: 220px;
+	}
+}
+
+@media all and (max-width: 1800px) {
+	.banner {
+		margin-left: 180px;
+		width: calc(100% - 180px;);
+	}
+	.center-col {
+		margin: 104px 0 0 180px;
+		width: calc(100% - 360px);
+	}
+	.left-col {
+		width: 180px;
+	}
+	.right-col {
+		width: 180px;
+	}
+	.container {
+    margin: 20px auto 20px calc((100vw - 800px)/2 - 185px);
+	}
 }
 /* Below 1300px right-col removed, centre col resized and given some padding against the left col */
 /* Banner size and text size decreased */
-@media screen and (max-width: 1300px) {
+@media all and (max-width: 1299px) {
 	.center-col {
 		width: calc(100% - 180px);
 		margin-left: 180px;
@@ -735,13 +784,6 @@ hr.hrsidebartop {
 		height: 80px;
 		width: auto;
 		vertical-align: middle;
-	}
-}
-/* Below 1100px*/
-@media screen and (max-width: 1200px) {
-	.banner {
-		width: calc(100% - 180px);
-		margin-left: 180px;
 	}
 }
 /* Below 1100px*/
