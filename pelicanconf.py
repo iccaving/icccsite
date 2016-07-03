@@ -11,7 +11,10 @@ THEME = 'themes/ICTheme'
 PATH = 'content'
 ARTICLE_EXCLUDES = ['caves', 'cavers']
 
-STATIC_PATHS = ['assets', 'photo_archive']
+STATIC_PATHS = ['assets', 'photo_archive', 'extra']
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'}
+}
 
 TIMEZONE = 'Europe/London'
 
