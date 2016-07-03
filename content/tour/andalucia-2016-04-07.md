@@ -1,7 +1,7 @@
 Title: Andalucia Easter Tour
 Date: 2016-04-07
 Location: andalucia
-Summary: A week long tour to Andalucia for cheap wine, beautiful country, and of course huge caves. We visited Sima Cacao (an ICCC favourite), the epic El Hundidero - Gato, Sima Cabra (of Don Quijote fame), and manages to squeeze in some canyoning and via ferrata.
+Summary: A week long tour to Andalucia for cheap wine, beautiful country, and of course huge caves. We visited Sima Cacao (an ICCC favourite), the epic El Hundidero - Gato, Sima Cabra (of Don Quijote fame), and managed to squeeze in some canyoning and via ferrata.
 Type: tour
 Photoarchive: /rcc/caving/photo_archive/tours/2016%20-%20andalucia/
 Mainimg: RhysTyers-DSC02137.jpg
