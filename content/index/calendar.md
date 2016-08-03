@@ -1,11 +1,13 @@
-Title: Calendar Spring/Summer 2016
-Date: 2015-09-14
+Title: Calendar Autumn/Winter 2016
+Date: 2016-08-03
 Authors:
 Location:
 Type: stickyindex
 
 |Date              | Destination                          | Hut                                                                                  | Caves  |
 | ---              |  ---                                 | ---                                                                                  |  ---  |
-|27th - 30th May| [Yorkshire](caves?search=Wales)  | [NPC Cottage](http://www.northernpennineclub.org.uk/greenclose/greenclose.htm)       | Plenty |
-|10th - 12th June| [Wales](caves?search=Wales)  | [Whitewalls](http://www.chelseaspelaeo.org.uk/cottage.htm)       | [Agen Allwedd](caves?search=Agen) |
-|7th July - 7th August| [Slovenia!](https://union.ic.ac.uk/rcc/caving/slovenia/)  | [Tolminski Migovec](https://union.ic.ac.uk/rcc/caving/slovenia/)       | Primadona |
+|23rd - 25th September| [Yorkshire 0](caves?search=Yorkshire)  | [NPC Cottage](http://www.northernpennineclub.org.uk/greenclose/greenclose.htm)       | [Marble steps](caves?search=Marble)  |
+|14th - 16th October| [Wales I](caves?search=Wales)  | [Whitewalls](http://www.chelseaspelaeo.org.uk/cottage.htm)       | [Agen Allwedd](caves?search=Agen) |
+|28th October - 30th October| [Wales I](caves?search=Wales) | [Whitewalls](http://www.chelseaspelaeo.org.uk/cottage.htm)       | [Agen Allwedd](caves?search=Agen) |
+|11th November - 13th November| [Yorkshire I](caves?search=Yorkshire) | [NPC Cottage](http://www.northernpennineclub.org.uk/greenclose/greenclose.htm)     | [Kingsdale](caves?search=Kingsdale) |
+|25th November - 27th November| [Yorkshire II](caves?search=Yorkshire) | [The dump](http://www.bpc-cave.org.uk/wp/brackenbottom/)     | [Lost Johns'](caves?search=Lost) |
