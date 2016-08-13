@@ -53,3 +53,5 @@ FAVICON = "assets/iclogo.png"
 DISQUS_SITENAME = u'iccc'
 
 SUBSITES = ["_newzealand", "_slovenia"]
+
+PHOTOREEL_NUM_ARTICLES = 6
