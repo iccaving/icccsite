@@ -19,7 +19,7 @@ function move(newcount) {
     var moves = i - newcount;
     var percents = (moves) * 100;
     if (i >= small && i <= big) {
-      photo.style.transition = "left 1s linear";
+      photo.style.transition = "left " + transtime + "s linear";
     }
     else {
       photo.style.transition = ""
@@ -36,7 +36,7 @@ function move(newcount) {
   count = newcount;
   setTimeout(function() {
     clickQuick = false;
-  }, 1000);
+  }, transtime*1000);
 }
 
 function moveright() {
@@ -68,7 +68,7 @@ for (i = 0; i < dots.length; ++i) {
     dots[i].addEventListener("click", dotClick, false);
     dots[i].addEventListener("click", function() {clearInterval(intervalID);}, false);
 }
-var intervalID = window.setInterval(moveright, 5000);
+var intervalID = window.setInterval(moveright, nextslidetime*1000);
 
 // Set the heights/widths that css can't manage
 var titles = document.querySelectorAll('.photoreel-title');

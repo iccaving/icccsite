@@ -12,6 +12,14 @@ def photoreel(generator):
         maxcount = generator.settings['PHOTOREEL_NUM_ARTICLES']
     else:
         maxcount = 5
+    if 'PHOTOREEL_TRANSITION_TIME' in generator.settings.keys():
+        transtime = generator.settings['PHOTOREEL_TRANSITION_TIME']
+    else:
+        transtime = 1
+    if 'PHOTOREEL_NEXT_SLIDE_TIME' in generator.settings.keys():
+        nextslidetime = generator.settings['PHOTOREEL_NEXT_SLIDE_TIME']
+    else:
+        nextslidetime = 3
     count = 0
     content = "<div class='photoreel-container'><div class='photoreel-left'><a><</a></div>"
     dots = "<div class='photoreel-dots'>"
@@ -25,11 +33,11 @@ def photoreel(generator):
     content += "<div class='photoreel-right'><a>></a></div>" + dots + "</div></div>"
     content += """
     <link rel="stylesheet" href='""" + siteurl + """/theme/css/photoreel.css' type="text/css" />
-    <script>var maxcount = """ + str(maxcount) + """</script>
+    <script>var maxcount = """ + str(maxcount) + """;var transtime = """ + str(transtime) + """;var nextslidetime = """ + str(nextslidetime) + """;</script>
     <script src='""" + siteurl + """/theme/js/photoreel.js'></script>
     """
 
-    metadata = { 'title':'Photo Reel',
+    metadata = { 'title':'',
                  'date': datetime.strptime('9999-12-31', '%Y-%m-%d'),
                  'category': Category('Photo Reel', generator.settings),
                  'type': 'stickyindex',
