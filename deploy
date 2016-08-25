@@ -1,0 +1,9 @@
+#!/bin/bash
+if [ $1 ]
+then 
+	user=$1
+else 
+	echo "You can specifiy your username as an argument."
+	read -p "Username:" user
+fi
+rsync -avz -e "ssh -p 10022" --chmod=ug+rwx,o-wx,o+r output/ ${user}@dougal.union.ic.ac.uk:/home/www/htdocs/rcc/caving

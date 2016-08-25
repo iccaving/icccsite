@@ -4,6 +4,8 @@
 /cache/
 #ignore photo_archive folder (this is generated because the NZ site isnt the root of the webserver)
 /photo_archive/
+#ignore virtualenv - use requirements.txt to install your own
+/.env/
 
 #ignore any photos
 *.jpg

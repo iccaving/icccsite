@@ -1,3 +1,6 @@
+This is the repository of the Imperial College Caving Club website. For build and deployment instructions please see the [wiki](https://github.com/iccavingrepo/icccsite/wiki)
+
+<!--
 #Contents
 * [Basic set-up (linux)](#basic)
 * [Writing Trip Reports (linux)](#write)
@@ -340,3 +343,4 @@ The start and end dates are in the format YYYY-MM-DD and are optional, not speci
     python meta_replacer.py content/trips/ --meta Cavepeeps --pattern "An VDP" --sub "Anne VDP"
 
 The script will offer to list the affected articles and affected lines in those articles before it does any replacing so don't worry about experimenting (also git will save you probably).
+-->
