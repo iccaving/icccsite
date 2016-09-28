@@ -13,7 +13,7 @@ def MetaInserter(path, context):
     if "article" in path or "caves" in path:
         # Open html file. Check for metadata
         # logging.critical(str(path))
-        soup = BeautifulSoup(open(path), "html.parser")
+        soup = BeautifulSoup(open(path, encoding='utf-8'), "html.parser")
         if soup.find("script", {"id": "metadata"}) is not None:
             # Extract the metadata and interpret it as a dictionary
             temp = ''
