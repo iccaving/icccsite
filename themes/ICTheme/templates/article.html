@@ -7,18 +7,16 @@
 
 {% block content %}
 
-<div class="container">
-  <div class="article-content">
-      {% if article.allpeople is defined %}
-      <h5>
-        {% for person in article.allpeople %}{% if loop.index != 1 %}, {% endif %}<a href="{{ SITEURL }}/cavers/{{ person.fullname.replace(" ", "%20") }}.html">{{ person.fullname }}</a>{% endfor %}
-      </h5>
-      {% endif %}
+<div class="article-content">
+  {% if article.allpeople is defined %}
+  <h5>
+    {% for person in article.allpeople %}{% if loop.index != 1 %}, {% endif %}<a href="{{ SITEURL }}/cavers/{{ person.fullname.replace(" ", "%20") }}.html">{{ person.fullname }}</a>{% endfor %}
+  </h5>
+  {% endif %}
 
-      {{ article.content }}
+  {{ article.content }}
 
-      <!--{% include 'includes/disqus.html' %}-->
-    </div>
+  <!--{% include 'includes/disqus.html' %}-->
 </div>
 
 {% if article.data is defined %}

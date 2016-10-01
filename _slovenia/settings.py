@@ -14,3 +14,5 @@ STATIC_PATHS = ['assets', 'photo_archive']
 PLUGIN_PATHS = ['../plugins']
 
 PLUGINS = ['photoarchive', 'inlinephotos']
+
+PHOTOREEL = False

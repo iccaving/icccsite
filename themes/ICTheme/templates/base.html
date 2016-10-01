@@ -36,7 +36,6 @@
 <body>
   <div class="banner">
     <div class="menu-icon">&#x2630;</div>
-    <!--<div class="logo"><img src="{{ SITEURL }}/assets/sidebariclogo.png"></div>-->
     <div class="banner-title">
       {% block banner %}{% endblock %}
     </div>
@@ -50,17 +49,15 @@
     {% include 'includes/sidebar.html' %}
   </div>
 
-  <div style="clear: both;"></div>
-
   <div class="sidebar-closer mobile"></div>
 
   <div class="center-col">
     {% block content %} {% endblock %}
   </div>
 
-  <div class="right-col">
-  </div>
+  <div style="clear: both;"></div>
 
+  </div>
 
 </body>
 

@@ -8,13 +8,15 @@
 <div class="container">
   <div class="article-content">
 
+      <h1>{{ personname }}</h1>
+
       <div class="personimg">
       <a href="{{ SITEURL }}/photo_archive/mugshots/{{ personname }}.html"><img onerror='this.style.display = "none"' src="{{ SITEURL }}/photo_archive/mugshots/{{ personname }}.jpg" type="image/jpg"></a>
       </div>
 
       {{ bio }}
 
-      <h3>Trips attended</h3>
+      <h2>Trips attended</h2>
 
       <p>
       <a id="showButton" onClick="$('#activityChart').toggleClass('nodisplay'); $('#chartContainer').toggleClass('nodisplay'); $('#showButton').toggleClass('nodisplay'); $('#hideButton').toggleClass('nodisplay'); return false;">Show Chart</a>

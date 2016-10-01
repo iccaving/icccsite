@@ -3,7 +3,8 @@
 {% endblock %} {% block banner %}{{ cavename }}{% endblock banner %} {% block content %}
 <div class="container">
   <div class="article-content">
-      <h3>Information</h3>
+      <h1>{{ cavename }}</h1>
+      <h2>Information</h2>
       <p>
       {% if meta.country is defined %}
       <span class="highlight">Country:</span> <a href=".?search={{ meta.country }}">{{ meta.country }}</a><br></br>
@@ -21,7 +22,7 @@
 
       {{bio}}
 
-      <h3>Reports</h3>
+      <h2>Reports</h2>
       <table class="sortable widetable">
         <tr>
           <th>Report</th>
