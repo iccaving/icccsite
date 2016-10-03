@@ -3,7 +3,7 @@ Authors:
 Location: page
 Type: page
 
-#LUCC Journals
+<h1 class="article-title">LUCC Journals</h1>
 
 <p>If you think you have a copy of one of our publications that isn't present here please get in contact, e-mail address is on the left. Like everything else on this website all this material is under a <a href="http://creativecommons.org/licenses/by/2.0/uk/">Creative Commons licence.</a></p>
 

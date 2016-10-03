@@ -3,7 +3,7 @@ Authors:
 Location: page
 Type: page
 
-# Contacts
+<h1 class="article-title">Contacts</h1>
 
 ## Addresses
 

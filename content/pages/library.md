@@ -3,7 +3,7 @@ Authors:
 Location: page
 Type: page
 
-#Library
+<h1 class="article-title">Library</h1>
 
 ##Newsletters
 Newsletters from ICCC's glorious pre-internet days.

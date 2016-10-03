@@ -3,7 +3,7 @@ Authors:
 Location: page
 Type: page
 
-# About Imperial College Caving Club
+<h1 class="article-title">About Imperial College Caving Club</h1>
 
 {!"ICCC freshers' trip 2013" center}(/rcc/caving/photo_archive/trips/2013-10-25%20-%20wales/RhysTyers-DSC_0051.JPG, /rcc/caving/photo_archive/trips/2013-10-25%20-%20wales/RhysTyers-DSC_0051.html)
 

@@ -3,7 +3,7 @@ Authors:
 Location: page
 Type: page
 
-# ICCC Journals
+<h1 class="article-title">ICCC Journals</h1>
 
 <h2>Newsletters</h2><p>This is a repository of the the newsletters that the ICCC has produced over it's history. If you think you have a copy of one of our publications that isn't present here please get in contact, e-mail address is on the left. Like everything else on this website all this material is under a <a href="http://creativecommons.org/licenses/by/2.0/uk/">Creative Commons licence.</a></p>
 
