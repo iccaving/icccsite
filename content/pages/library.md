@@ -3,6 +3,8 @@ Authors:
 Location: page
 Type: page
 
+#Library
+
 ##Newsletters
 Newsletters from ICCC's glorious pre-internet days.
 

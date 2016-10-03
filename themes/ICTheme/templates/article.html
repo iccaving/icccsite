@@ -8,11 +8,8 @@
 {% block content %}
 
 <div class="article-content">
-  {% if article.allpeople is defined %}
-  <h5>
-    {% for person in article.allpeople %}{% if loop.index != 1 %}, {% endif %}<a href="{{ SITEURL }}/cavers/{{ person.fullname.replace(" ", "%20") }}.html">{{ person.fullname }}</a>{% endfor %}
-  </h5>
-  {% endif %}
+
+  <h1 class="article-title">{{ article.title }} <span class="banner-date">{{ article.date.strftime('%d-%m-%Y') }}</span></h1>
 
   {{ article.content }}
 

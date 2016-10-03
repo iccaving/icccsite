@@ -14,3 +14,5 @@ PLUGIN_PATHS = ['../plugins']
 PLUGINS = ['photoarchive', 'inlinephotos', 'metainserter']
 
 ARTICLE_EXCLUDES = ['oldnz']
+
+PHOTOREEL = False
