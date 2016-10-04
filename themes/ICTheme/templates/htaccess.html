@@ -161,8 +161,12 @@ Redirect 301 {{ item[0] }} {{ item[1] }}
 RewriteEngine On
 RewriteBase /rcc/caving/
 
-RewriteCond %{REQUEST_FILENAME} !-f [or]
-RewriteCond %{REQUEST_FILENAME} !-d
+#If file or directory exists at url, don't rewrite
+RewriteCond %{REQUEST_FILENAME} -f [or]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule (.*) - [S=1]
+#If file/dir doesnt exist then check if there's something when you insert
+#'old' into the url, and redirect if there is
 RewriteCond %{DOCUMENT_ROOT}/rcc/caving/old/$1 -f [or]
 RewriteCond %{DOCUMENT_ROOT}/rcc/caving/old/$1 -d
 RewriteRule ^(.*)$ old/$1 [L,R=301]
