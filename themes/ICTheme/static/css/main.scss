@@ -425,6 +425,7 @@ a.footer-button {
 }
 /*-----------------------------Article and Page Content Styling-----------------------------*/
 .article-content {
+	min-height: 100vh;
 	background-color: #EFEFEF;
 	overflow-x: visible;
 	padding-top: 10px;
