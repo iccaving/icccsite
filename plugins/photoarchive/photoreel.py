@@ -4,6 +4,11 @@ from datetime import datetime
 import os
 
 def photoreel(generator):
+    if 'PHOTOREEL' in generator.settings.keys():
+        if generator.settings['PHOTOREEL'] == False:
+            return 0
+    else:
+        return 0
     if 'SITEURL' in generator.settings.keys():
         siteurl = generator.settings['SITEURL']
     else:
@@ -21,7 +26,7 @@ def photoreel(generator):
     else:
         nextslidetime = 3
     count = 0
-    content = "<div class='photoreel-container'><div class='photoreel-left'><a><</a></div>"
+    content = "<div class='photoreel-container'><div class='photoreel-left'><a>⬅</a></div>"
     dots = "<div class='photoreel-dots'>"
     for article in generator.articles:
         if 'archiveloc' in article.metadata.keys() and 'mainimg' in article.metadata.keys():
@@ -30,14 +35,14 @@ def photoreel(generator):
             count += 1
         if count == maxcount:
             break
-    content += "<div class='photoreel-right'><a>></a></div>" + dots + "</div></div>"
+    content += "<div class='photoreel-right'><a>➡</a></div>" + dots + "</div></div>"
     content += """
     <link rel="stylesheet" href='""" + siteurl + """/theme/css/photoreel.css' type="text/css" />
     <script>var maxcount = """ + str(maxcount) + """;var transtime = """ + str(transtime) + """;var nextslidetime = """ + str(nextslidetime) + """;</script>
     <script src='""" + siteurl + """/theme/js/photoreel.js'></script>
     """
 
-    metadata = { 'title':'',
+    metadata = { 'title':'Imperial College Caving Club',
                  'date': datetime.strptime('9999-12-31', '%Y-%m-%d'),
                  'category': Category('Photo Reel', generator.settings),
                  'type': 'stickyindex',

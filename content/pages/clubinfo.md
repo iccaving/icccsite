@@ -3,7 +3,7 @@ Authors:
 Location: page
 Type: page
 
-## About Imperial College Caving Club
+<h1 class="article-title">About Imperial College Caving Club</h1>
 
 {!"ICCC freshers' trip 2013" center}(/rcc/caving/photo_archive/trips/2013-10-25%20-%20wales/RhysTyers-DSC_0051.JPG, /rcc/caving/photo_archive/trips/2013-10-25%20-%20wales/RhysTyers-DSC_0051.html)
 
@@ -127,7 +127,7 @@ The club has all the kit you will need to borrow for caving. You wear
 the 'furry' fleece base-layer right against your skin - even when wet, it
 provides thermal insulation. However, it is best to avoid cotton underwear, and to not wear a t shirt under your furry.
 
-### <a class="anchor" id="undergrad"></a>Do I have to be an undergraduate or a fresher?]
+### <a class="anchor" id="undergrad"></a>Do I have to be an undergraduate or a fresher?
 No, the club is open to all members of the Imperial College Union, regardless of whether you're a final year PhD student or a first year undergrad. If you missed the first few trips of the year, don't worry - you can pick up all the skills you need very quickly. Just get in touch and we'll make sure you can come caving with us.
 
 ### <a class="anchor" id="discover"></a>Will I discover new caves?

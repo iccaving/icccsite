@@ -14,33 +14,38 @@ class AttrTagPattern(Pattern):
         self.md = md
 
     def handleMatch(self, m):
-        a = markdown.util.etree.Element('a')
-        figure = markdown.util.etree.SubElement(a, 'figure')
-        el = markdown.util.etree.SubElement(figure, 'img')
+        figure = markdown.util.etree.Element('figure')
+        a = markdown.util.etree.SubElement(figure, 'a')
+        img = markdown.util.etree.SubElement(a, 'img')
+        cap = markdown.util.etree.SubElement(figure, 'figcaption')
+        capa = markdown.util.etree.SubElement(cap, 'a')
         if m.group(2) == '{!':
             if len(m.group(7).split(",")) > 1:
-                el.set('src', m.group(7).split(",")[0].strip())
+                img.set('src', m.group(7).split(",")[0].strip())
                 a.set('href', m.group(7).split(",")[1].strip())
+                capa.set('href', m.group(7).split(",")[1].strip())
             else:
-                el.set('src', m.group(7).strip())
+                img.set('src', m.group(7).strip())
                 a.set('href', m.group(7).strip())
+                capa.set('href', m.group(7).strip())
         elif m.group(2) == '{':
             if len(m.group(7).split(",")) > 1:
-                el.set('src', self.md.Meta['photoarchive'][0] + '/' + m.group(7).split(",")[0].strip())
+                img.set('src', self.md.Meta['photoarchive'][0] + '/' + m.group(7).split(",")[0].strip())
                 a.set('href', m.group(7).split(",")[1].strip())
+                capa.set('href', m.group(7).split(",")[1].strip())
             else:
-                el.set('src', self.md.Meta['photoarchive'][0] + '/' + m.group(7).strip())
+                img.set('src', self.md.Meta['photoarchive'][0] + '/' + m.group(7).strip())
                 a.set('href', self.md.Meta['photoarchive'][0] + '/' + m.group(7)[:-3].strip() + "html")
+                capa.set('href', self.md.Meta['photoarchive'][0] + '/' + m.group(7)[:-3].strip() + "html")
+        if m.group(3) is not None:
+            capa.text = m.group(3)[1:-1]
         if m.group(4) == 'center':
             figure.set('class', 'article-img-center')
         elif  m.group(4) == 'left':
             figure.set('class', 'article-img-left')
         elif  m.group(4) == 'right':
             figure.set('class', 'article-img-right')
-        if m.group(3) is not None:
-            cap = markdown.util.etree.SubElement(figure, 'figcaption')
-            cap.text = m.group(3)[1:-1]
-        return a
+        return figure
 
 class InlinePhotos(markdown.Extension):
     def extendMarkdown(self, md, md_globals):

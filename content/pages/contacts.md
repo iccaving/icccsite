@@ -3,7 +3,9 @@ Authors:
 Location: page
 Type: page
 
-##Addresses
+<h1 class="article-title">Contacts</h1>
+
+## Addresses
 
 Preferably get in contact by email, accessible [here](http://www.google.com/recaptcha/mailhide/d?k=01pKgPf4L76j23E4ymTAu8fw==&c=CoX_UvK7tWMqLjrzhcaEXTCP8fRKKSw-Cl1eAzdIcj4=).
 

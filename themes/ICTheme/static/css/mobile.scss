@@ -39,6 +39,7 @@ a:visited { }
   min-height: 65px;
   position: fixed;
   top: 0;
+  display: table;
 }
 
 .banner-wrap {
@@ -66,7 +67,7 @@ a:visited { }
 }
 
 .banner-title-logo > img {
-  height: 60px;
+  height: 55px;
   vertical-align: middle;
 }
 
@@ -82,38 +83,30 @@ a:visited { }
     float: none;
     width: initial;
     height: initial;
-    //position: static;
-    margin: 0px;
 
     position: fixed;
     top: 65px;
-    left: -185px;
+    margin-left: -185px;
     width: 185px;
     overflow-y: auto;
     height: calc(100vh - 65px);
 
-    transition: left 1s;
+    transition: margin .5s;
 }
 
-.left-col-show {
-  left: 0px;
-}
 
 .center-col {
     float: none;
-    margin: 65px 0 0 0;
-    width: 100%
+    margin: 65px 0 0 0; //27 essentially hides the photoreel title
+    width: 100%;
+
+    transition: margin .5s;
 }
 
 .right-col {
     display: none;
 }
 
-.container {
-  padding: 0;
-  margin: 0;
-  width: 100%;
-}
 /*Sidebar properties*/
 
 .sidebar { }
@@ -149,6 +142,13 @@ a:visited { }
 }
 
 /* Index Content properties */
+
+.index-container {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
 .content-box { }
 
 .content-header { }
@@ -188,10 +188,20 @@ a.footer-button { }
 a.footer-button:visited { }
 
 /*Article and Page Content Styling */
+
 .article-content {
-  margin: 0;
-  padding: 10px 20px;
+  padding: 0;
+  width: 100%;
   overflow: hidden;
+  padding-top: 0;
+  & > * {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+ }
+
+ .article-title {
+   display: none;
  }
 
  .mainimg {
@@ -202,16 +212,17 @@ a.footer-button:visited { }
   width: 100%;
 }
 .article-img-center {
-  width: 100%;
-  margin: 0px 0px;
+  width: calc(100% - 10px);
 }
 
 .article-img-left {
-  margin: 10px 10px 0px 0px;
+  float: none;
+  width: calc(100% - 10px);
 }
 
 .article-img-right {
-  margin: 10px 0px 0px 10px;
+  float: none;
+  width: calc(100% - 10px);
 }
 
 .article-img-center img {
@@ -227,22 +238,22 @@ figcaption {
 }
 
 .article-content {
-	p, ol, ul, dl, pre, address, table {
+	/*p, ol, ul, dl, pre, address, table {
 		margin-left: 0;
     margin-right: 0;
-	}
+	}*/
 }
 
 .article-content input {
-	margin: 10px 0;
+	//margin: 10px 0;
 }
 .article-content h1, .article-content h2, .article-content h3, .article-content h4, .article-content h5 {
-  margin-left: 0;
-  margin-right: 0;
+  /*margin-left: 0;
+  margin-right: 0;*/
 }
 
 blockquote {
-	margin: 0;
+	//margin: 0;
 }
 
 /* Table Stylings */
