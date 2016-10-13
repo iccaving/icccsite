@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Wiki Index - {{ SITENAME }}{% endblock %}
+{% block head %}<BASE href="{{ SITEURL }}/wiki/index.html">{% endblock %}
+
+{% block banner %}Wiki Index{% endblock banner %}
+
+
+{% block content %}
+
+<div class="article-content">
+
+  <h1 class="article-title">Wiki Index</h1>
+
+  <ul>
+  {% for article in articles %}
+    <li><a href="{{ article }}.html">{{ article }}</a></li>
+  {% endfor %}
+</ul>
+
+</div>
+
+{% endblock %}

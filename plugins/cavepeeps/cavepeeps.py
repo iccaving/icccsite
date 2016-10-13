@@ -224,8 +224,9 @@ def constructbios(generator):
         os.path.abspath(os.path.join(contentpath + "/cavers")))
     for dirpath, dirnames, filenames in os.walk(root):
         for afile in filenames:
-            content = readers.read_file(dirpath, afile).content
-            metadata = readers.read_file(dirpath, afile).metadata
+            parsedfile = readers.read_file(dirpath, afile)
+            content = parsedfile.content
+            metadata = parsedfile.metadata
             # Create a tuple of the bio content and any metadata.
             # The metadata is made into a named tuple so its nicer
             # to access the items in it from the template
@@ -240,8 +241,9 @@ def constructbios(generator):
         os.path.abspath(os.path.join(contentpath + "/caves")))
     for dirpath, dirnames, filenames in os.walk(root):
         for afile in filenames:
-            content = readers.read_file(dirpath, afile).content
-            metadata = readers.read_file(dirpath, afile).metadata
+            parsedfile = readers.read_file(dirpath, afile)
+            content = parsedfile.content
+            metadata = parsedfile.metadata
             cavebios[os.path.splitext(afile)[0]] = (content, metadata)
 
     generator.context['cavebios'] = cavebios

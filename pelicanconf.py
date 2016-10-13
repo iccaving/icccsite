@@ -9,7 +9,7 @@ SITEURL = '/'
 THEME = 'themes/ICTheme'
 
 PATH = 'content'
-ARTICLE_EXCLUDES = ['caves', 'cavers']
+ARTICLE_EXCLUDES = ['caves', 'cavers', 'wiki']
 
 STATIC_PATHS = ['assets', 'photo_archive', 'extra']
 EXTRA_PATH_METADATA = {
@@ -41,7 +41,7 @@ PAGINATION_PATTERNS = (
 DEFAULT_DATE_FORMAT = '%d-%m-%Y'
 
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ['photoarchive', 'acyear', 'cavepeeps', 'subsites', 'oldurl', 'metainserter', 'inlinephotos']
+PLUGINS = ['photoarchive', 'acyear', 'cavepeeps', 'subsites', 'oldurl', 'metainserter', 'inlinephotos', 'wiki']
 
 SLUGIFY_SOURCE = 'basename'
 

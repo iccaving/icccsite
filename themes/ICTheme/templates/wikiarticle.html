@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}{{ meta.title }} - {{ SITENAME }}{% endblock %}
+
+{% block banner %}{{ meta.title }}{% endblock banner %}
+
+
+{% block content %}
+
+<div class="article-content">
+
+  <h1 class="article-title">{{ meta.title }}</h1>
+
+  {{ content }}
+
+</div>
+
+{% if meta.data is defined %}
+<script style="display: none;" id="metadata" type="application/json">
+  {
+  {% for key in meta.data %}
+  {% if loop.index > 1 %},{% endif %}
+  """{{ key }}""":"""{{ meta.data[key] }}"""
+  {% endfor %}
+  }
+</script>
+{% endif %}
+{% endblock %}

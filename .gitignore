@@ -1,8 +1,8 @@
 #ignore gnerated site
 /output/
-#ignore cache folder (I dont know what this is for really)
+#ignore cache folder
 /cache/
-#ignore photo_archive folder (this is generated because the NZ site isnt the root of the webserver)
+#ignore photo_archive folder
 /photo_archive/
 #ignore virtualenv - use requirements.txt to install your own
 /.env/
@@ -12,8 +12,6 @@
 *.JPG
 *.jpeg
 *.JPEG
-#Except that one from Andy's NZ trip
-!content/oldnz/newzealand-2010-10-15.jpg
 
 
 ignore stupid files
