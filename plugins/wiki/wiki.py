@@ -8,6 +8,7 @@ Article_for_list = namedtuple('Article_for_list', 'level path article subdirs')
 
 
 class dotdict(dict):
+
     """dot.notation access to dictionary attributes"""
     # Makes things a bit more readable
     __getattr__ = dict.get
@@ -26,7 +27,8 @@ def construct_dir_map(generator, root, path, indexarticle):
     # Articles: list of the articles in this subdir
     # Children: List of directories in this subdir
     # Path: relative path to this subdir
-    subdir = dotdict({"index": None, "articles": [], "children": [], "path": None})
+    subdir = dotdict(
+        {"index": None, "articles": [], "children": [], "path": None})
     # Get relative path
     subdir.path = os.path.join(path.replace(root, ""), "")
 
@@ -39,12 +41,14 @@ def construct_dir_map(generator, root, path, indexarticle):
         metadata = indexarticle.metadata
         content = indexarticle.content
     else:
-        filepath = os.path.join(subdir.path)
+        filepath = os.path.dirname(os.path.dirname(os.path.join(subdir.path)))
         content = ""
-        metadata = {"title":  os.path.basename(os.path.normpath(path)), "type": "wiki", "filepath": filepath}
+        metadata = {"title":  os.path.basename(
+            os.path.normpath(path)), "type": "wiki", "filepath": filepath, "autogen": True}
         # Transform metadata dictionary into named tuple for dot notation access
         # to attributes in the template
-        metadata = namedtuple('metadata', [x for x in metadata.keys()])(*[metadata[x] for x in metadata.keys()])
+        metadata = namedtuple('metadata', [x for x in metadata.keys()])(
+            *[metadata[x] for x in metadata.keys()])
 
     # Set this subdirs index file data
     subdir.index = Article(metadata, content)
@@ -57,7 +61,8 @@ def construct_dir_map(generator, root, path, indexarticle):
             parsedfile = readers.read_file(path, item)
             metadata = parsedfile.metadata
             metadata["filepath"] = os.path.join(subdir.path, item)
-            metadata = namedtuple('metadata', [x for x in metadata.keys()])(*[metadata[x] for x in metadata.keys()])
+            metadata = namedtuple('metadata', [x for x in metadata.keys()])(
+                *[metadata[x] for x in metadata.keys()])
             content = parsedfile.content
             # Put in dictionary, key is filename without .md file extension
             articles[os.path.splitext(item)[0]] = Article(metadata, content)
@@ -70,10 +75,12 @@ def construct_dir_map(generator, root, path, indexarticle):
                 # If an article has the same name, pass it to the subdirectory
                 # to be used as the index, then delete from this subdirs article
                 # list
-                subdir.children.append(construct_dir_map(generator, root, os.path.join(path, item), articles[item]))
+                subdir.children.append(
+                    construct_dir_map(generator, root, os.path.join(path, item), articles[item]))
                 del articles[item]
             else:
-                subdir.children.append(construct_dir_map(generator, root, os.path.join(path, item), None))
+                subdir.children.append(
+                    construct_dir_map(generator, root, os.path.join(path, item), None))
     # Convert articles from dict to list
     for article in articles:
         subdir.articles.append(articles[article])
@@ -89,8 +96,16 @@ def parse_wiki_pages(generator):
     root = os.path.realpath(
         os.path.abspath(os.path.join(contentpath + "/wiki")))
 
+    # Begin with parsing main wiki page
+    parsedfile = readers.read_file(root, "index.md")
+    metadata = parsedfile.metadata
+    metadata["filepath"] = ""
+    metadata = namedtuple('metadata', [x for x in metadata.keys()])(
+        *[metadata[x] for x in metadata.keys()])
+    content = parsedfile.content
+
     # Contruct dictionary representation of folder structure
-    wiki = construct_dir_map(generator, root, root, None)
+    wiki = construct_dir_map(generator, root, root, Article(metadata, content))
 
     generator.context['wiki'] = wiki
     logging.debug("Wiki: Wiki assembled")
@@ -101,22 +116,35 @@ def wiki_dic_to_list(wiki, level):
     sub_wiki_list = []
 
     # Construct a 'sub-list' of all items below in and below this sub directory
-    # To be available to this dirs index page
+    # to be available to this dirs index page, with the 'levels' reletive to
+    # this dir
     for subdir in wiki.children:
         sub_wiki_list = sub_wiki_list + wiki_dic_to_list(subdir, 0)
 
     for article in wiki.articles:
-        article_list_item = Article_for_list(0, wiki.path + article.metadata.title + ".html", article, None)
+        article_list_item = Article_for_list(
+            0, wiki.path + article.metadata.title + ".html", article, None)
         sub_wiki_list.append(article_list_item)
 
-    index_list_item = Article_for_list(level, wiki.path + "index.html", wiki.index, sub_wiki_list)
+    # URLs look nicer without the index.html I think (but they need to be in for
+    # the pelican write to write the file)
+    for i, item in enumerate(sub_wiki_list):
+        if "index.html" in item.path:
+            sub_wiki_list[i] = item._replace(
+                path=item.path.replace("index.html", ""))
+
+    index_list_item = Article_for_list(
+        level, wiki.path + "index.html", wiki.index, sub_wiki_list)
     wiki_list.append(index_list_item)
 
+    # Contruct a sub list to be passed back up, with 'levels' relativer to
+    # whatever dir is asking for them
     for subdir in wiki.children:
         wiki_list = wiki_list + wiki_dic_to_list(subdir, level + 1)
 
     for article in wiki.articles:
-        article_list_item = Article_for_list(level + 1, wiki.path + article.metadata.title + ".html", article, None)
+        article_list_item = Article_for_list(
+            level + 1, wiki.path + article.metadata.title + ".html", article, None)
         wiki_list.append(article_list_item)
     return wiki_list
 
@@ -134,13 +162,9 @@ def generate_wiki_pages(generator, writer):
         metadata = page.article.metadata
         subdirs = page.subdirs
         path = page.path
-        writer.write_file(filename, template, generator.context, meta=metadata, content=content, subdirs=subdirs, path=path)
+        writer.write_file(filename, template, generator.context,
+                          meta=metadata, content=content, subdirs=subdirs, path=path)
 
-    # ==========Write the index of cavers================
-
-    #template = generator.get_template('wikiindex')
-    #filename = 'wiki/index2 .html'
-    #writer.write_file(filename, template, generator.context, articles=wiki_list)
 
 
 def register():
