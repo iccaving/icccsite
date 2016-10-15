@@ -1,47 +1,43 @@
 Date: 01-01-2000
-Title: Home
+Title: Wiki Home
 Type: wiki
 
 Welcome to **ICCC's Useful Stuff** Wiki!
 
 **Organisation**
 
-*   [Running UK Trips](RunningTripsUK.html)
-    *   [Things to Bring](ThingsToBring.html)
-    *   [Things to Buy](ThingsToBuy.html)
-    *   [Superstore Locations](SuperStoresLocations.html)
-*   [Cave Information](CaveInformation.html)
-*   [Hut Information](HutInformation.html)
-*   [Weather](Weather.html)
-*   [Union](Union.html)
-*   [Bank Holidays](PublicHolidays.html)
-*   [London Car Hire](LondonCarHire.html)
-*   [Stores Clean Up](StoresCleanUp.html)
+*   [Running UK Trips](Organisation/RunningTripsUK/)
+    *   [Things to Bring](Organisation/RunningTripsUK/ThingsToBring.html)
+    *   [Things to Buy](Organisation/RunningTripsUK/ThingsToBuy.html)
+    *   [Superstore Locations](Organisation/RunningTripsUK/SuperStoresLocations.html)
+*   [Cave Information](Organisation/CaveInformation.html)
+*   [Hut Information](Organisation/HutInformation.html)
+*   [Weather](Organisation/Weather.html)
+*   [Union](Organisation/Union.html)
+*   [Bank Holidays](Organisation/PublicHolidays.html)
+*   [London Car Hire](Organisation/LondonCarHire.html)
+*   [Stores Clean Up](Organisation/StoresCleanUp.html)
 
 **Exploration**
 
-*   [AvalancheInletGapingGill](AvalancheInletGapingGill.html)
+*   [AvalancheInletGapingGill](Exploration/AvalancheInletGapingGill.html)
 
 **Expeditions:**
 
-*   **[Slovenia](Slovenia.html) - 10+ Man-Years**
-*   [Libya](Libya.html) Hypo
-*   [VotlaGora2008](VotlaGora2008.html)
+*   **[Slovenia](Expeditions/Slovenia/) - 10+ Man-Years**
+*   [Libya](Expeditions/Libya.html) Hypo
+*   [VotlaGora2008](Expeditions/VotlaGora2008/)
 
 **Tours**
 
-*   [Croatia2008](Croatia2008.html) [Croatia2008Writeup](Croatia2008Writeup.html)
-*   [Sardinia](Sardinia.html) Easter2007
-*   [Ardeche](Ardeche.html) Hypo
-*   [Norway](Norway.html) Hypo
+*   [Croatia2008](Tours/Croatia2008.html) [Croatia2008Writeup](Croatia2008Writeup.html)
+*   [Sardinia](Tours/Sardinia.html) Easter2007
+*   [Ardeche](Tours/Ardeche.html) Hypo
+*   [Norway](Tours/Norway.html) Hypo
 
 **Guides**
 
 *   [Underground Camping](UndergroundCamping.html)
-
-
-**Guides**
-
 *   [Repairing Gear](Repair.html)
 *   **[Buying Gear](Gear.html)**
 
@@ -56,42 +52,42 @@ Welcome to **ICCC's Useful Stuff** Wiki!
 
 **Gear Specific Guides:**
 
-*   [LittleDragon](LittleDragon.html)
-*   [FutureOfTheFX3s](FutureOfTheFX3s.html)
-*   [SurveyBooks](SurveyBooks.html)
-*   [RubbishInBeitQuad](RubbishInBeitQuad.html)
-*   [FirstAid](FirstAid.html)
-*   [Survey](Survey.html)
-*   [FireFly](FireFly.html)
-*   [LaserRangefinder](LaserRangefinder.html)
-*   [OneLaptopPerCaver](OneLaptopPerCaver.html) - OLPC/XO/Survex
-*   [SolarEnergy](SolarEnergy.html)
-*   [UndergroundHydroElectric](UndergroundHydroElectric.html)
+*   [LittleDragon](Gear Specific Guides/LittleDragon.html)
+*   [FutureOfTheFX3s](Gear Specific Guides/FutureOfTheFX3s.html)
+*   [SurveyBooks](Gear Specific Guides/SurveyBooks.html)
+*   [RubbishInBeitQuad](Gear Specific Guides/RubbishInBeitQuad.html)
+*   [FirstAid](Gear Specific Guides/FirstAid.html)
+*   [Survey](Gear Specific Guides/Survey.html)
+*   [FireFly](Gear Specific Guides/FireFly.html)
+*   [LaserRangefinder](Gear Specific Guides/LaserRangefinder.html)
+*   [OneLaptopPerCaver](Gear Specific Guides/OneLaptopPerCaver.html) - OLPC/XO/Survex
+*   [SolarEnergy](Gear Specific Guides/SolarEnergy.html)
+*   [UndergroundHydroElectric](Gear Specific Guides/UndergroundHydroElectric.html)
 
 **Other**
 
-*   [ClubSongs](ClubSongs.html)
-*   [ArmchairCaving](ArmchairCaving.html)
-*   [PresidentsAndArseholes](PresidentsAndArseholes.html)
-*   [BigPitchTopTrumps](BigPitchTopTrumps.html)
-*   [CavingNewsStories](CavingNewsStories.html)
-*   [GoogleMaps](GoogleMaps.html)
-*   [PhotographyNotes](PhotographyNotes.html)
-*   [CavingZen](CavingZen.html)
-*   [CavingQuotes](CavingQuotes.html)
-*   [TShirt](TShirt.html)
-*   [Quotes](Quotes.html)
-*   [AlternativeAccomodationLondon](AlternativeAccomodationLondon.html)
-*   [ExCommittee](ExCommittee.html)
-*   [TheFirst25Years](TheFirst25Years.html)
-*   [ExpoFood](ExpoFood.html)
-*   [GREYCstoration](GREYCstoration.html) - params for GNU/free digital camera noise removal plugin
+*   [ClubSongs](Other/ClubSongs.html)
+*   [ArmchairCaving](Other/ArmchairCaving.html)
+*   [PresidentsAndArseholes](Other/PresidentsAndArseholes.html)
+*   [BigPitchTopTrumps](Other/BigPitchTopTrumps.html)
+*   [CavingNewsStories](Other/CavingNewsStories.html)
+*   [GoogleMaps](Other/GoogleMaps.html)
+*   [PhotographyNotes](Other/PhotographyNotes.html)
+*   [CavingZen](Other/CavingZen.html)
+*   [CavingQuotes](Other/CavingQuotes.html)
+*   [TShirt](Other/TShirt.html)
+*   [Quotes](Other/Quotes.html)
+*   [AlternativeAccomodationLondon](Other/AlternativeAccomodationLondon.html)
+*   [ExCommittee](Other/ExCommittee.html)
+*   [TheFirst25Years](Other/TheFirst25Years.html)
+*   [ExpoFood](Other/ExpoFood.html)
+*   [GREYCstoration](Other/GREYCstoration.html) - params for GNU/free digital camera noise removal plugin
 
 **Website**
 
-*   [WebsiteHowTo's](WebsiteHowTos.html)
-*   [WebsiteNotes](WebsiteNotes.html)
-*   [WebsiteWorkToDo](WebsiteWorkToDo.html)
+*   [WebsiteHowTo's](Website/WebsiteHowTos.html)
+*   [WebsiteNotes](Website/WebsiteNotes.html)
+*   [WebsiteWorkToDo](Website/WebsiteWorkToDo.html)
 
 
 

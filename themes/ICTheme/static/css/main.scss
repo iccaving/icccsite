@@ -722,12 +722,11 @@ hr.fancy:after {
 }
 
 /*-------------------------------Wiki Stuff-----------------------------------*/
-.wiki-link-level-0 {
-	margin-left: 0px;
+.wiki-nav-button {
+  cursor: pointer;
 }
-.wiki-link-level-1 {
-	margin-left: 25px;
-}
-.wiki-link-level-2 {
-	margin-left: 50px;
+.wiki-dir-expander {
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
 }

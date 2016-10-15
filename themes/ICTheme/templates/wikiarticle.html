@@ -1,24 +1,53 @@
 {% extends "base.html" %}
 {% block title %}{{ meta.title }} - {{ SITENAME }}{% endblock %}
 
-{% block banner %}{{ meta.title }}{% endblock banner %}
+{% block head %}<script src="{{ SITEURL }}/theme/js/wiki.js"></script>{% endblock %}
 
+{% block banner %}{{ meta.title }}{% endblock banner %}
 
 {% block content %}
 
 <div class="article-content">
 
   <h1 class="article-title">{{ meta.title }}</h1>
-  <ul>
-  {% if subdirs is not none %}
-  <li class="wiki-link-level-0"><a href="../">..</a></li>
-  {% for subdir in subdirs %}
-    <li class="wiki-link-level-{{ subdir.level }}"><a href="/wiki{{ subdir.path }}">{{ subdir.article.metadata.title }}</a></li>
-  {% endfor %}
-  {% else %}
-    <li class="wiki-link-level-0"><a href="./">..</a><li>
-  {% endif %}
-  </ul>
+
+  <nav><a class="wiki-nav-button">Expand Tree</a> / <a class="wiki-crumbs" href="/wiki/">Home</a>
+  {% set breadcrumbs = path[1:].split("/") %}
+  {% set total_path = "/wiki" %}
+  {% for page in breadcrumbs %}
+    {% set total_path = total_path + "/" + page %}
+    {% if not loop.last %}
+    / <a class="wiki-crumbs" href="{{ total_path }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}</nav>
+  <nav class="wiki-nav">
+    <ul class="wiki-links nodisplay">
+    {% if subdirs is not none %}
+    {% set level = 0 %}
+    <li class="wiki-link"><a href="../">..</a></li>
+    {% for subdir in subdirs %}
+      {% if subdir.level > level %}
+        {% set level = subdir.level %}
+        <ul class="nodisplay">
+      {% elif subdir.level < level %}
+        {% for i in range(level - subdir.level) %}
+          </ul>
+        {% endfor %}
+        {% set level = subdir.level %}
+      {% endif %}
+      {% if not loop.last %}
+        {% if subdirs[loop.index].level > level %}
+          <li class="wiki-link"><a href="/wiki{{ subdir.path }}">{{ subdir.article.metadata.title }}</a> <a class="wiki-dir-expander">+</a></li>
+        {% else %}
+          <li class="wiki-link"><a href="/wiki{{ subdir.path }}">{{ subdir.article.metadata.title }}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% else %}
+      <li class="wiki-link"><a href="./">..</a></li>
+    {% endif %}
+    </ul>
+  </nav>
 
   {{ content }}
 

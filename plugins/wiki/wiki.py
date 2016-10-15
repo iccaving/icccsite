@@ -155,6 +155,7 @@ def generate_wiki_pages(generator, writer):
     # Get a flat list of wiki articles for easy use in a template
     wiki_list = wiki_dic_to_list(wiki, 0)
 
+    # Write the pages!
     template = generator.get_template('wikiarticle')
     for page in wiki_list:
         filename = 'wiki/' + page.path

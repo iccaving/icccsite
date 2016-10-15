@@ -3,6 +3,7 @@ Title: Dave W 2003
 Type: wiki
 
 
+
 From: David Wilson &lt;davewilson21@btinternet.com&gt; To:
 migovec2003@yahoogroups.com Reply-To: migovec2003@yahoogroups.com
 Subject: Re: RE: \[migovec2003\] chart toppers Date: Tue, 12 Aug 2003
@@ -88,3 +89,33 @@ Ravne with my gear.
 A nice steady climb from camp X-ray to the surface is about 6 hours with
 light/medium-weight tackle bag, and from the end of Leprechaun it's
 currently about 1.5 hours back to camp at a steady sweat-free pace.
+
+
+
+
+
+
+
+Imperial College Caving Club Wiki /
+[Main]( /
+DaveW2003
+
+
+
+
+
+[Edit](DaveW2003?action=edit)
+-
+[History](DaveW2003?action=diff)
+-
+[Print](DaveW2003?action=print)
+- [Recent
+Changes](RecentChanges)
+-
+[Search](https://union.ic.ac.uk/rcc/caving/old/wiki/edit.php?n=Site.Search)
+
+
+
+
+
+Page last modified on January 01, 2008, at 02:59 PM

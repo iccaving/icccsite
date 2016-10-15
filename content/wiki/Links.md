@@ -3,12 +3,6 @@ Title: Links
 Type: wiki
 
 
-Links 
-=====
-
-
-
-
 
 UK
 --
@@ -89,10 +83,3 @@ Student Caving Clubs: (orig. from CHECC website)
 -   <http://www.tcd.ie/Clubs/Potholing/index.html>
 -   <http://www.ucdcaving.com/>
 -   <http://www.yucpc.org.uk>
-
-
-
-
-
-
-
