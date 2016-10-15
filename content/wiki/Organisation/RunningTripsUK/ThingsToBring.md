@@ -2,12 +2,6 @@ Date: 01-01-2000
 Title: Things To Bring
 Type: wiki
 
-ThingsToBring
-=============
-
-
-
-
 
 Things to Bring:
 ----------------

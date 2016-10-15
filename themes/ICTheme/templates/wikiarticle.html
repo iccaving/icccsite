@@ -11,9 +11,9 @@
 
   <h1 class="article-title">{{ meta.title }}</h1>
 
-  <nav><a class="wiki-nav-button">Expand Tree</a> / <a class="wiki-crumbs" href="/wiki/">Home</a>
+  <nav><a class="wiki-nav-button">Expand Tree</a> / <a class="wiki-crumbs" href="{{ SITEURL }}/wiki/">Home</a>
   {% set breadcrumbs = path[1:].split("/") %}
-  {% set total_path = "/wiki" %}
+  {% set total_path = SITEURL + "/wiki" %}
   {% for page in breadcrumbs %}
     {% set total_path = total_path + "/" + page %}
     {% if not loop.last %}
@@ -37,9 +37,9 @@
       {% endif %}
       {% if not loop.last %}
         {% if subdirs[loop.index].level > level %}
-          <li class="wiki-link"><a href="/wiki{{ subdir.path }}">{{ subdir.article.metadata.title }}</a> <a class="wiki-dir-expander">+</a></li>
+          <li class="wiki-link"><a href="{{ SITEURL }}/wiki{{ subdir.path }}">{{ subdir.article.metadata.title }}</a> <a class="wiki-dir-expander">+</a></li>
         {% else %}
-          <li class="wiki-link"><a href="/wiki{{ subdir.path }}">{{ subdir.article.metadata.title }}</a></li>
+          <li class="wiki-link"><a href="{{ SITEURL }}/wiki{{ subdir.path }}">{{ subdir.article.metadata.title }}</a></li>
         {% endif %}
       {% endif %}
     {% endfor %}

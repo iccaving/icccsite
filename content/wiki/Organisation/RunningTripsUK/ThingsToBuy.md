@@ -2,11 +2,6 @@ Date: 01-01-2000
 Title: ThingsToBuy
 Type: wiki
 
-ThingsToBuy
-===========
-
-
-
 
 
 **Tesco** is where 1 in 6 British pounds are spent. There is a Mega

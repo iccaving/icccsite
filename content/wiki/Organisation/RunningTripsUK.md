@@ -3,13 +3,6 @@ Title: RunningTripsUK
 Type: wiki
 Sections: Organisation
 
-RunningTripsUK
-==============
-
-
-
-
-
 A guide for future committee members organising trips; by Jarv April
 2007. Last Update Feb 2013 by Rhys.
 
