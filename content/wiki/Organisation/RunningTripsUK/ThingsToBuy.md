@@ -2,8 +2,7 @@ Date: 01-01-2000
 Title: ThingsToBuy
 Type: wiki
 
-
-ThingsToBuy 
+ThingsToBuy
 ===========
 
 
@@ -94,10 +93,3 @@ Misc things
 -   Apple pies (Tesco Value) are nice hut and van food
 
 ...
-
-
-
-
-
-
-

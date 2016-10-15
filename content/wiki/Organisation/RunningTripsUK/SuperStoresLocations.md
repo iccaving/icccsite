@@ -2,8 +2,7 @@ Date: 01-01-2000
 Title: SuperStoresLocations
 Type: wiki
 
-
-SuperStoresLocations 
+SuperStoresLocations
 ====================
 
 
@@ -82,10 +81,3 @@ PARK, TALBOT GREEN, PONTYCLUN, LLANTRISANT, MID GLAMORGAN, CF72 8RB
 J28 - Tesco Extra 24hrs Friday. On Cardiff Rd / A48 2km East of J28,
 otherwise 24km West of J24 (going through Newport itself) NEWPORT EXTRA,
 HARLECH RETAIL PARK, NEWPORT, GWENT, NP20 3BA
-
-
-
-
-
-
-

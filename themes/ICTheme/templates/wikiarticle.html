@@ -9,10 +9,27 @@
 <div class="article-content">
 
   <h1 class="article-title">{{ meta.title }}</h1>
+  {{ path }} <br>
+  {{ meta.filepath }}
+  <ul>
+    <li class="wiki-link-level-0"><a href="../">..</a><li>
+  {% if subdirs is not none %}
+  {% for subdir in subdirs %}
+    <li class="wiki-link-level-{{ subdir.level }}"><a href="/wiki{{ subdir.path }}">{{ subdir.article.metadata.title }}</a></li>
+  {% endfor %}
+  {% endif %}
+  </ul>
 
   {{ content }}
 
+  <p>
+    <a href="https://github.com/iccavingrepo/icccsite/edit/master/content/wiki/{{ meta.filepath }}.md">Edit article.</a>
+    <a href="https://github.com/iccavingrepo/icccsite/new/master/content/wiki/">Add new article.</a>
+  </p>
+
 </div>
+
+
 
 {% if meta.data is defined %}
 <script style="display: none;" id="metadata" type="application/json">

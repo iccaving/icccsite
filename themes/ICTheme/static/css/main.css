@@ -544,15 +544,6 @@ tbody > tr:nth-child(even) {
 tbody > tr:nth-child(odd) {
   background-color: rgba(245, 245, 245, 0.83); }
 
-/*
- .article-content tbody
- {
-	 > tr:hover, > tr:hover a {
-		 background-color: #B1474F !important;
-		 color: white;
-	 }
- }
-*/
 thead > tr {
   border-bottom: 1px solid rgba(0, 0, 0, 0.12);
   background-color: #ffffff; }
@@ -678,83 +669,14 @@ hr.fancy:after {
   max-width: 100%;
   margin: 25px 25px 0; }
 
-/*-----------------------------Screen size stuff-----------------------------*/
-/*@media all and (min-width: 2200px) {
-	.banner {
-		margin-left: 220px;
-		width: calc(100% - 220px);
-	}
-	.center-col {
-		margin: 104px 0 0 220px;
-		width: calc(100% - 440px);
-	}
-	.left-col {
-		width: 220px;
-	}
-	.right-col {
-		width: 220px;
-	}
-}
+/*-------------------------------Wiki Stuff-----------------------------------*/
+.wiki-link-level-0 {
+  margin-left: 0px; }
 
-@media all and (max-width: 1800px) {
-	.banner {
-		margin-left: 180px;
-		width: calc(100% - 180px;);
-	}
-	.center-col {
-		margin: 104px 0 0 180px;
-		width: calc(100% - 360px);
-	}
-	.left-col {
-		width: 180px;
-	}
-	.right-col {
-		width: 180px;
-	}
-	.container {
-    margin: 20px auto 20px calc((100vw - $content-width)/2 - 185px);
-	}
-}
-/* Below 1300px right-col removed, centre col resized and given some padding against the left col */
-/* Banner size and text size decreased */
-/*@media all and (max-width: 1299px) {
-	.center-col {
-		width: calc(100% - 180px);
-		margin-left: 180px;
-		margin-top: 80px;
-	}
-	.right-col {
-		display: none;
-	}
-	.container {
-		margin: 20px auto;
-	}
-	.banner {
-		height: 80px;
-		min-height: 80px;
-	}
-	.banner-title {
-		font-size: 2.5rem;
-	}
-	.logo img {
-		height: 80px;
-		width: auto;
-		vertical-align: middle;
-	}
-}
-/* Below 1100px*/
-/*@media screen and (max-width: 1100px) {
-	.container {
-		width: calc(100% - 20px);
-		margin: 20px auto;
-	}
-	.maindisplay {
-		max-width: 100%;
-	}
-	.image-wrapper {
-		height: 100%;
-		width: 100%;
-	}
-}*/
+.wiki-link-level-1 {
+  margin-left: 25px; }
+
+.wiki-link-level-2 {
+  margin-left: 50px; }
 
 /*# sourceMappingURL=main.css.map */

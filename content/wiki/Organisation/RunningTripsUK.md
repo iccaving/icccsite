@@ -1,9 +1,9 @@
 Date: 01-01-2000
 Title: RunningTripsUK
 Type: wiki
+Sections: Organisation
 
-
-RunningTripsUK 
+RunningTripsUK
 ==============
 
 
@@ -130,10 +130,3 @@ Never the less, here's an attempt at a 'things to remember'.
 
 Other useful
 [ThingsToBring](https://union.ic.ac.uk/rcc/caving/old/wiki/edit.php?n=Main.ThingsToBring)...
-
-
-
-
-
-
-

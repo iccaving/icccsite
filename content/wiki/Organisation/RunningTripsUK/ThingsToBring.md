@@ -2,8 +2,7 @@ Date: 01-01-2000
 Title: ThingsToBring
 Type: wiki
 
-
-ThingsToBring 
+ThingsToBring
 =============
 
 
@@ -37,10 +36,3 @@ SRT Trips:
 -   Ladder Separators - if doing ladder trips
 -   Battery Belts - for belaying on ladders
 -   Rope - bring enough
-
-
-
-
-
-
-
