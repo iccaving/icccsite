@@ -1,164 +1,100 @@
-
-$(window).load(function() {
-  var sbsection_search = "sbsection=";
-  var sbsubsection_search = "sbsubsection=";
-  var sbsection;
-  var sbsubsection;
-  var ca = document.cookie.split(';');
-  for(var i=0; i<ca.length; i++) {
-      var c = ca[i];
-      while (c.charAt(0)==' ') c = c.substring(1);
-      if (c.indexOf(sbsection_search) != -1) sbsection = c.substring(sbsection_search.length,c.length);
-      if (c.indexOf(sbsubsection_search) != -1) sbsubsection = c.substring(sbsubsection_search.length,c.length);
+// Check for stored sidebar state and if exists open specified sidebar elements
+function load() {
+  list = window.localStorage.getItem("sidebar").split(',');
+  if (list != null) {
+    var outers = document.querySelectorAll(".sidebar-outer");
+    for (var i=0; i < outers.length; i++) {
+      if (list[i] == 1) {
+        outers[i].children[0].classList.remove("nodisplay");
+        outers[i].classList.remove("collapsed");
+        outers[i].style.maxHeight = outers[i].children[0].offsetHeight + "px";
+        adjustHeights(outers[i], outers[i].children[0].offsetHeight);
+      }
+    }
   }
-  if (sbsection != null) {
-    var outerelement = $('#' + sbsection + '-outer');
-    outerelement.css({
-      'max-height': ''
-    });
-    outerelement.removeClass("collapsed");
-
-    var innerelement = $('#' + sbsection + '-inner');
-    innerelement.removeClass("nodisplay");
+};
+// Store the currently open sidebar elements as a list of 1s and 0s
+function store() {
+  var outers = document.querySelectorAll(".sidebar-outer");
+  var list = []
+  for (var i=0; i < outers.length; i++) {
+    if (outers[i].classList.contains("collapsed")) {
+      list.push(0);
+    } else {
+      list.push(1);
+    };
+  };
+  window.localStorage.setItem("sidebar", list);
+};
+// Recursively look at parent elements and add height of newly opened element
+// to any parent outer container. Stop at sidebar element.
+function adjustHeights(element, amount) {
+  outer = element.parentElement
+  if (outer.classList.contains("sidebar-outer")) {
+    outer.style.maxHeight = parseInt(outer.style.maxHeight) + amount  + "px";
+    adjustHeights(outer, amount);
+  } else if (!outer.classList.contains("sidebar")) {
+    adjustHeights(outer, amount);
   }
+}
 
-  if (sbsubsection != null) {
-    var outerelement = $('#' + sbsection + '-sub-outer-' + sbsubsection);
-    outerelement.css({
-      'max-height': ''
-    });
-    outerelement.removeClass("collapsed");
+// Var to prevent rapid sidebar item opening/closing from breaking things
+var go = true;
 
-    var innerelement = $('#' + sbsection + '-sub-inner-' + sbsubsection);
-    innerelement.removeClass("nodisplay");
-  }
-  //document.cookie = 'sbsection=' + ';Path=/rcc/caving/;expires=Thu, 01 Jan 1970 00:00:01 GMT;';
-  //document.cookie = 'sbsubsection=' + ';Path=/rcc/caving/;expires=Thu, 01 Jan 1970 00:00:01 GMT;';
-});
-
-$(function() {
-  $('div.sidebar-item, div.sidebar-sub-item').click(function() {
-    //Check if in sub-menu. If so then set max-height of outer menu to default so it expands nicely with the sub menu transition.
-    if ($(this).data("upidouter") != null && $(this).data("upidinner")) {
-      var outer = $(this).data("upidouter");
-      var inner = $(this).data("upidinner");
-      var outerelement = $('#' + outer);
-      var innerelement = $('#' + inner);
-      if (!outerelement.hasClass('collapsed')) {
-        //var newheight = parseInt(outerelement.css('max-height'), 10) + height;
-        outerelement.css({
-          'max-height': ''
-        });
-      }
-    }
-
-    var outer = $(this).data("idouter");
-    var inner = $(this).data("idinner");
-    var outerelement = $('#' + outer);
-    var innerelement = $('#' + inner);
-
-    // To prevent the menu from lagging on mobile devices, the inners are set to
-    // display: none so this removes the nodisplay class for opening before the
-    // the item opens so the css transition works
-    var displayToggled = false;
-    if (outerelement.hasClass('collapsed')) {
-      innerelement.removeClass('nodisplay');
-      displayToggled = true;
-     }
-
-    //Ensure that outer element knows the inner height
-    //Needed to undo the sub-menus attribute removal from above
-    var height = innerelement.outerHeight();
-    outerelement.css({
-      'max-height': (parseInt(height)).toString() + 'px'
-    });
-    //If collapsing, set max-height to 0. Delay to allow transition to work because we only just set the max-height
-    if (!outerelement.hasClass('collapsed')) {
-      setTimeout(function() {
-        outerelement.css({
-          'max-height': '0px'
-        });
-      }, 50);
-    }
-    outerelement.toggleClass('collapsed');
-
-    // For collapsing items the inner elements are set back to nodisplay. Happens
-    // after collapse so css transition works
-    if (displayToggled == false) {
-      setTimeout(function() {
-        innerelement.addClass('nodisplay');
-      }, 500);
-    }
-
-    //Collapse all sub menus when a menu is collapsed
-    //Delay ensures outer transition looks nice
-    if (outerelement.hasClass('collapsed')) {
-      setTimeout(function() {
-        outerelement.find(".sidebar-outer").addClass('collapsed').css({
-          'max-height': '0px'
-        });
-        //alert("yo");
-        outerelement.find(".sidebar-inner").each(function() {
-          if (!$(this).hasClass("nodisplay")) {
-            $(this).addClass('nodisplay');
-          };
-        });
-      }, 400);
-    }
-
-    /*Script to remember sidebar submenu state and reopen things when you move
-    to a trip report*/
-    /*check if in a submenu*/
-    if ($(this).data("upidouter") != null && $(this).data("upidinner")) {
-      /*if yes get the id of the drawer wrappers, find them, also extract the section
-      and sub section from them*/
-      var upouter = $(this).data("upidouter");
-      var sbsection = upouter.replace("-outer", "");
-      var outer = $(this).data("idouter");
-      var sbsubsection = outer.replace(sbsection + "-sub-outer-", "");
-      var upouterelement = $('#' + upouter);
-      var outerelement = $('#' + outer);
-
-      /*If you're openeing a section/subsecton record it with a cookie
-      if closing, delete that cookie*/
-      if (!upouterelement.hasClass('collapsed')) {
-        document.cookie = 'sbsection=' + sbsection  + ';Path=/rcc/caving/;';
-      }
-      else {
-        document.cookie = 'sbsection=' + sbsection  + ';Path=/rcc/caving/;expires=Thu, 01 Jan 1970 00:00:01 GMT;';
-      }
-      if (!outerelement.hasClass('collapsed')) {
-        document.cookie = 'sbsubsection=' + sbsubsection  + ';Path=/rcc/caving/;';
-      }
-      else {
-        document.cookie = 'sbsubsection=' + sbsubsection  + ';Path=/rcc/caving/;expires=Thu, 01 Jan 1970 00:00:01 GMT;';
-      }
-    }
-    else {
-      /*Same as above but if there's no subsection*/
-      var outer = $(this).data("idouter");
-      var sbsection = outer.replace("-outer", "");
-      var outerelement = $('#' + outer);
-      if (!outerelement.hasClass('collapsed')) {
-        document.cookie = 'sbsection=' + sbsection  + ';Path=/rcc/caving/;';
-      }
-      else {
-        document.cookie = 'sbsection=' + sbsection  + ';Path=/rcc/caving/;expires=Thu, 01 Jan 1970 00:00:01 GMT;';;
-      }
-    }
-
-    //The scrollbar appearing can cause some elements to flow onto another line. This increses the size of the inner
-    //and can oveflow out of the outer. This ensures that at the end of a menu openeing, overflowing elements
-    //are adjusted.
-    var outer = $(this).data("idouter");
-    var outerelement = $('#' + outer);
-    outerelement.one('webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend', function(e) {
-      $(".sidebar-outer").each(function() {
-        if ($(this).prop('scrollHeight') > $(this).height() && !($(this).hasClass("collapsed"))) {
-          height  = $(this).children(".sidebar-inner").outerHeight()
-          $(this).css({'max-height':height});
+function clicked(event) {
+  if (go) {
+    go = false
+    var outerContainer =  event.target.parentElement.nextSibling.nextSibling;
+    var innerContainer = outerContainer.children[0];
+    var transitionEvent = whichTransitionEvent();
+    transitionEvent && outerContainer.addEventListener(transitionEvent, function(event) {
+      if (event.target.classList.contains("collapsed")) {
+        event.target.children[0].classList.add("nodisplay");
+        outers = event.target.children[0].querySelectorAll(".sidebar-outer");
+        inners = event.target.children[0].querySelectorAll(".sidebar-inner");
+        for (var i=0; i < outers.length; i++) {
+          outers[i].style.maxHeight = 0;
+          outers[i].classList.add("collapsed");
+          inners[i].classList.add("nodisplay");
         }
-      });
+      }
+      go = true
     });
-  });
-});
+
+    if (innerContainer.classList.contains("nodisplay")) {
+      innerContainer.classList.remove("nodisplay");
+      outerContainer.style.maxHeight = innerContainer.offsetHeight + "px";
+      outerContainer.classList.remove("collapsed");
+    } else {
+      outerContainer.style.maxHeight = "0";
+      outerContainer.classList.add("collapsed");
+    }
+    adjustHeights(event.target, innerContainer.offsetHeight);
+    store();
+  }
+}
+
+window.addEventListener("load", function() {
+  var divs = document.querySelectorAll('.expandable-menu');
+  for (var i = 0; i < divs.length; i++) {
+    divs[i].addEventListener("click", clicked, false);
+  }
+  load();
+}, false);
+
+// Helper function for detecting when css transitions are over
+function whichTransitionEvent(){
+    var t;
+    var el = document.createElement('fakeelement');
+    var transitions = {
+      'transition':'transitionend',
+      'OTransition':'oTransitionEnd',
+      'MozTransition':'transitionend',
+      'WebkitTransition':'webkitTransitionEnd'
+    }
+    for(t in transitions){
+        if( el.style[t] !== undefined ){
+            return transitions[t];
+        }
+    }
+}

@@ -19,16 +19,16 @@
 
   <div class="sidebar-content-box">
 
-    <div class="sidebar-item" data-idouter="trips-outer" data-idinner="trips-inner"><a href="#" onclick="return false;">Trips</a></div>
-    <div class="sidebar-outer collapsed" id="trips-outer">
-      <div class="sidebar-inner nodisplay" id="trips-inner">
+    <div class="sidebar-item expandable-menu"><a href="#" onclick="return false;">Trips</a></div>
+    <div class="sidebar-outer collapsed">
+      <div class="sidebar-inner nodisplay">
         {% set year = '' %} {% for item in yearlist %} {% if item.acyear != year %} {% if year != '' %}
       </div>
     </div>
     {% endif %} {% set year = item.acyear %}
-    <div class="sidebar-sub-item" data-idouter="trips-sub-outer-{{ item.acyear }}" data-idinner="trips-sub-inner-{{ item.acyear }}" data-upidouter="trips-outer" data-upidinner="trips-inner"><a href="#" onclick="return false;">{{ item.acyear }}</a></div>
-    <div class="sidebar-outer collapsed" id="trips-sub-outer-{{ item.acyear }}" style="overflow: hidden;">
-      <div class="sidebar-inner nodisplay" id="trips-sub-inner-{{ item.acyear }}">
+    <div class="sidebar-sub-item expandable-menu"><a href="#" onclick="return false;">{{ item.acyear }}</a></div>
+    <div class="sidebar-outer collapsed" style="overflow: hidden;">
+      <div class="sidebar-inner nodisplay">
         <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ item.article.url }}">{{ item.article.title }} ({{ item.article.date.strftime('%b') }} '{{ item.article.date.strftime('%y') }})</a></div>
         {% else %}
         <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ item.article.url }}">{{ item.article.title }} ({{ item.article.date.strftime('%b') }} '{{ item.article.date.strftime('%y') }})</a></div>
@@ -39,18 +39,18 @@
   </div>
 </div>
 
-  <div class="sidebar-item" data-idouter="tours-outer" data-idinner="tours-inner"><a href="#" onclick="return false;">Tours</a></div>
-  <div class="sidebar-outer collapsed" id="tours-outer">
-    <div class="sidebar-inner nodisplay" id="tours-inner">
+  <div class="sidebar-item expandable-menu"><a href="#" onclick="return false;">Tours</a></div>
+  <div class="sidebar-outer collapsed">
+    <div class="sidebar-inner nodisplay">
       {% for article in articles %} {% if article.type == 'tour' and article.unlisted is not defined %}
       <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} {{ article.date.strftime('%Y') }}</a></div>
       {% endif %} {% endfor %}
     </div>
   </div>
 
-<div class="sidebar-item" data-idouter="exped-outer" data-idinner="exped-inner"><a href="#" onclick="return false;">Expeditions</a></div>
-<div class="sidebar-outer collapsed" id="exped-outer">
-  <div class="sidebar-inner nodisplay" id="exped-inner">
+<div class="sidebar-item expandable-menu"><a href="#" onclick="return false;">Expeditions</a></div>
+<div class="sidebar-outer collapsed">
+  <div class="sidebar-inner nodisplay">
     <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/slovenia/">Slovenia</a></div>
     <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/newzealand/">New Zealand 2015</a></div>
   </div>
