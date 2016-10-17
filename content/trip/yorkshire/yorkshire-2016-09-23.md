@@ -14,9 +14,6 @@ Cavepeeps: DATE=2016-06-24; CAVE=Large Pot; PEOPLE=Rhys Tyers, Tanguy Racine, Wi
            DATE=2016-06-25; CAVE=Link Pot > Mistral Hole; PEOPLE=Jarvist Frost, Will Scott, William French, Saber King, Celia Tinsley, Isha Shaz;
 Status: draft
 
-###Marbles Steps (Sidewinder): Jim Evans, American#1, American#2, Chicken
-###Marble Steps (Direct / Gully): Jarv, William, Maniesha, Saber
-
 {{ mainimg }}
 {{ photolink }}
 #####{{ allpeople }}
