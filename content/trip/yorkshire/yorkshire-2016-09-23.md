@@ -22,7 +22,8 @@ Status: draft
 #####{{ allpeople }}
 
 ## Saturday
-###Large Pot:
+###Ireby Pot: {{ DATE=2016-06-24; CAVE=Ireby Pot; }}
+###Large Pot: {{ DATE=2016-06-24; CAVE=Large Pot; }}
 
 Morning breakfast, tea, conversations. The plan for the day was to explore the Marble Steps area, with two trips going down that cave, another group in Ireby Fell and a last group visiting Large Pot. We drove up Masongill lane and parked by the barn, where we changed into our gear. Kenneth, Rhys, Will S and I had elected to go to Large pot, and quickly we were all ready to go, with Darren drums filled with flapjacks and chocolates.
 
@@ -106,7 +107,7 @@ The drive back was uneventful, being shared by three drivers, and we reached Bei
 
 ####Tanguy
 
-####Link to Mistral: Jarv, Loads of people
+####Link to Mistral: Jarv, Loads of people [{{ DATE=2016-06-25; CAVE=Link Pot > Mistral Hole; }}]
 
 Rhys drove us to Bullpot Farm. It seemed obscenely early, and I didn't feel like I'd had enough sleep. I had a vague plan to take a few people down Mistral with some rope, and look at the lower-pitches of Pip (below the Hall of the Ten). This was looking slightly difficult as the club hadn't brought any plates to Yorkshire; and nor was there a single one in the NPC tackle store (they'd just had a club trip to the Vercors, so fair enough!). Also, having left with some haste in the morning, I wasn't entirely certain who was coming with me. As Rhys and Jack shot off to Peterson with Ben, I was slightly aghast to count and realise that we were a group of seven. Maybe it would have been nicer to have a trip down Aygill with such a group - and get some SRT practice in for the less experienced members, but - arghh - we didn't have any extra rope in the minibus!
 
