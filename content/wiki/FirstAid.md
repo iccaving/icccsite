@@ -20,6 +20,7 @@ Each team should have at least one (preferably two) first aid kits.
 - 2 ibuprofen
 
 Spares of these are kept in the Spare First Aid drawer in stores, or in a white cardboard box on the shelves in expo stores.
+Vetrap is a brand of vet wrap made by 3M - it is the best version, but it is easy to be mis-sold it on Amazon or ebay by sellers who sell three metres (3m, geddit?) of vet wrap!
 
 The purpose of each item is as follows (the list is not exhaustive!):
 - One triangular bandage: sling, splinting, eyepatch, tourniquet (careful!)
