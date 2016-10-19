@@ -15,34 +15,43 @@
           if (sParameterName[0] === sParam) {
               return sParameterName[1] === undefined ? true : sParameterName[1];
           }
+          else {
+            return "";
+          }
       }
   };
   // Script that does a very simple search of the table based on the value in
   // the input box
   function search() {
-    $('.cave').each(function() {
-      if (!($(this).text().toLowerCase().indexOf($('#search').val().toLowerCase()) >= 0)) {
-        $(this).css('display', 'none');
+    rows = document.querySelectorAll('.cave')
+    for (var i=0; i < rows.length; i++) {
+      if (!(rows[i].innerHTML.toLowerCase().indexOf(document.querySelector('#search').value.toLowerCase()) >= 0)) {
+        rows[i].style.display ='none';
       } else {
-        $(this).removeAttr('style');
+        rows[i].removeAttribute('style');
       }
-    });
+    }
   }
-  $(function() {
-    $('#search').on('input propertychange paste', function() {
-      search();
-    });
-  });
-  $(function() {
-    $('.searchme').click(function() {
-        $('#search').val($(this).text());
+
+  window.addEventListener('load', function() {
+    searchbar = document.querySelector('#search');
+
+    searchbar.addEventListener('input', search, false);
+    searchbar.addEventListener('propertychange', search, false)
+    searchbar.addEventListener('paste', search, false)
+
+    links = document.querySelectorAll('.searchme');
+    for (var i=0; i < links.length; i++) {
+      links[i].addEventListener('click', function(event) {
+        document.querySelector('#search').value = event.target.text
         search();
-      return false;
-    });
-  });
-  $(window).load(function() {
-    $('#search').val(getUrlParameter('search'));
+        return false;
+      }, false);
+    };
+
+    document.querySelector('#search').value = getUrlParameter('search');
     search();
+
   });
 </script>
 {% endblock %}

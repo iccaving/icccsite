@@ -2,48 +2,57 @@
 {% block head %}
 <script src="{{ SITEURL }}/theme/js/sorttable.js"></script>
 <script>
-//Script that gets url parameters
-var getUrlParameter = function getUrlParameter(sParam) {
-    var sPageURL = decodeURIComponent(window.location.search.substring(1)),
-        sURLVariables = sPageURL.split('&'),
-        sParameterName,
-        i;
+  //Script that gets url parameters
+  var getUrlParameter = function getUrlParameter(sParam) {
+      var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+          sURLVariables = sPageURL.split('&'),
+          sParameterName,
+          i;
 
-    for (i = 0; i < sURLVariables.length; i++) {
-        sParameterName = sURLVariables[i].split('=');
+      for (i = 0; i < sURLVariables.length; i++) {
+          sParameterName = sURLVariables[i].split('=');
 
-        if (sParameterName[0] === sParam) {
-            return sParameterName[1] === undefined ? true : sParameterName[1];
-        }
+          if (sParameterName[0] === sParam) {
+              return sParameterName[1] === undefined ? true : sParameterName[1];
+          }
+          else {
+            return "";
+          }
+      }
+  };
+  // Script that does a very simple search of the table based on the value in
+  // the input box
+  function search() {
+    rows = document.querySelectorAll('.caver')
+    for (var i=0; i < rows.length; i++) {
+      if (!(rows[i].innerHTML.toLowerCase().indexOf(document.querySelector('#search').value.toLowerCase()) >= 0)) {
+        rows[i].style.display ='none';
+      } else {
+        rows[i].removeAttribute('style');
+      }
     }
-};
-// Script that does a very simple search of the table based on the value in
-// the input box
-function search() {
-  $('.caver').each(function() {
-    if (!($(this).text().toLowerCase().indexOf($('#search').val().toLowerCase()) >= 0)) {
-      $(this).css('display', 'none');
-    } else {
-      $(this).removeAttr('style');
-    }
-  });
-}
-$(function() {
-  $('#search').on('input propertychange paste', function() {
+  }
+
+  window.addEventListener('load', function() {
+    searchbar = document.querySelector('#search');
+
+    searchbar.addEventListener('input', search, false);
+    searchbar.addEventListener('propertychange', search, false)
+    searchbar.addEventListener('paste', search, false)
+
+    links = document.querySelectorAll('.searchme');
+    for (var i=0; i < links.length; i++) {
+      links[i].addEventListener('click', function(event) {
+        document.querySelector('#search').value = event.target.text
+        search();
+        return false;
+      }, false);
+    };
+
+    document.querySelector('#search').value = getUrlParameter('search');
     search();
+
   });
-});
-$(function() {
-  $('.searchme').click(function() {
-      $('#search').val($(this).text());
-      search();
-    return false;
-  });
-});
-$(window).load(function() {
-  $('#search').val(getUrlParameter('search'));
-  search();
-});
 </script>
 {% endblock %}
 {% block banner %}Cavers{% endblock banner %}
