@@ -23,9 +23,9 @@ Spares of these are kept in the Spare First Aid drawer in stores, or in a white 
 
 The purpose of each item is as follows (the list is not exhaustive!):
 - One triangular bandage: sling, splinting, eyepatch, tourniquet (careful!)
-- One roll of vetrap/vet wrap: self adhesive (doesn't stick to skin or anything else, just itself), so good for holding dressing in placwe
+- One roll of vetrap/vet wrap: self adhesive (doesn't stick to skin or anything else, just itself), so good for holding dressing in place
 - 3 safety pins: sling, holding tongue, removing splinters
-- One sterile dressing: covering a wound that has stopped bleeding and ahs been rinsed, part of an eye patch
+- One sterile dressing: covering a wound that has stopped bleeding and has been rinsed, part of an eye patch
 - 2 paracetamol: general pain relief (analgesic). Probably most useful for headaches
 - 2 ibuprofen: pain relief and also actively reduces swelling. Absolute go to for bumps, bruises, sprains etc.
 
@@ -36,3 +36,9 @@ but instead allow the patient to take them. This statement is included for compl
 Almost everyone who gets injured in a cave also gets cold, and the people with them will also get cold.
 Every helmet should contain a survivial bag, a thin polythene bag large enough for one person, bought from Caving Supplies.
 Cut off one corner, take off your helmet, climb inside the bag, replace the helmet over the bag to secure it, and feel the toasty warmth envelop you.
+
+### First Aid Training
+The College often offers first aid training from [Marlin First Aid](http://www.marlintraining.co.uk/category/course-type/first-aid). 
+It is aimed at students going on field trips, but there are often spare oplaces advertised on the RCC mailing list.
+It may be possible to get funding from the Activities Development Fund to allow people to take the course.
+Even without funding, it is an excellent skill to have, and highly recommended.
