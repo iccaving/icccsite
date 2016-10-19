@@ -1,7 +1,7 @@
 Title: Yorkshire 0
 Date: 2016-09-23
 Location: Yorkshire
-Summary:
+Summary: A preterm trip to get everyone in the mood for caving. This time a trip to Large Pot on Saturday and a look around Easegill on Sunday.
 Type: trip
 Photoarchive:
 Mainimg: 2016-09-24_17h05m-RhysTyers-SonyRX100III-LargePot-DSC03152.JPG
@@ -12,7 +12,6 @@ Cavepeeps: DATE=2016-06-24; CAVE=Large Pot; PEOPLE=Rhys Tyers, Tanguy Racine, Wi
            DATE=2016-06-24; CAVE=Marble Steps; PEOPLE=Jim Evans, Christina Picken, Jarvist Frost, William French, Isha Shaz, Saber King;
            DATE=2016-06-24; CAVE=Ireby Pot; PEOPLE=Jack Hare, Ben Honan, Celia Tinsley, Bogdan Galilo;
            DATE=2016-06-25; CAVE=Link Pot > Mistral Hole; PEOPLE=Jarvist Frost, Will Scott, William French, Saber King, Celia Tinsley, Isha Shaz;
-Status: draft
 
 {{ mainimg }}
 {{ photolink }}
@@ -104,7 +103,7 @@ The drive back was uneventful, being shared by three drivers, and we reached Bei
 
 ####Tanguy
 
-####Link to Mistral: Jarv, Loads of people [{{ DATE=2016-06-25; CAVE=Link Pot > Mistral Hole; }}]
+###Link to Mistral: Jarv, Loads of people [{{ DATE=2016-06-25; CAVE=Link Pot > Mistral Hole; }}]
 
 Rhys drove us to Bullpot Farm. It seemed obscenely early, and I didn't feel like I'd had enough sleep. I had a vague plan to take a few people down Mistral with some rope, and look at the lower-pitches of Pip (below the Hall of the Ten). This was looking slightly difficult as the club hadn't brought any plates to Yorkshire; and nor was there a single one in the NPC tackle store (they'd just had a club trip to the Vercors, so fair enough!). Also, having left with some haste in the morning, I wasn't entirely certain who was coming with me. As Rhys and Jack shot off to Peterson with Ben, I was slightly aghast to count and realise that we were a group of seven. Maybe it would have been nicer to have a trip down Aygill with such a group - and get some SRT practice in for the less experienced members, but - arghh - we didn't have any extra rope in the minibus!
 
