@@ -1,3 +1,7 @@
+Date: 19-10-2016
+Title: First Aid
+Type: wiki
+
 # First Aid
 
 ## Personal First Aid
