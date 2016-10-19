@@ -28,5 +28,7 @@ The purpose of each item is as follows (the list is not exhaustive!):
 Note: There is a belief in the first aid community in the UK that you should not give or offer someone drugs such as ibuprofen and paracetamol, 
 but instead allow the patient to take them. This statement is included for completeness.
 
-### Scenarios
-
+### Survival bags
+Almost everyone who gets injured in a cave also gets cold, and the people with them will also get cold.
+Every helmet should contain a survivial bag, a thin polythene bag large enough for one person, bought from Caving Supplies.
+Cut off one corner, take off your helmet, climb inside the bag, replace the helmet over the bag to secure it, and feel the toasty warmth envelop you.
