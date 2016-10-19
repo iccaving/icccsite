@@ -18,6 +18,8 @@ ignore stupid files
 *.md~
 *.pyc
 *.pid
+*.py.save
+*.py.swp
 
 ignore sass cache
 .sass-cache/

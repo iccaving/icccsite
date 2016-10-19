@@ -10,7 +10,7 @@ Welcome to **ICCC's Useful Stuff** Wiki!
     *   [Things to Bring](Organisation/RunningTripsUK/Things To Bring.html)
     *   [Things to Buy](Organisation/RunningTripsUK/ThingsToBuy.html)
     *   [Superstore Locations](Organisation/RunningTripsUK/SuperStoresLocations.html)
-*   [Cave Information](Organisation/CaveInformation.html)
+*   [Cave Information](Organisation/Cave%20Information.html)
 *   [Hut Information](Organisation/HutInformation.html)
 *   [Weather](Organisation/Weather.html)
 *   [Union](Organisation/Union.html)
@@ -39,7 +39,7 @@ Welcome to **ICCC's Useful Stuff** Wiki!
 
 *   [Underground Camping](UndergroundCamping.html)
 *   [Repairing Gear](Repair.html)
-*   **[Buying Gear](Gear.html)**
+*   **[Buying Gear](Guides/Gear.html)**
 
 **Shops:**
 

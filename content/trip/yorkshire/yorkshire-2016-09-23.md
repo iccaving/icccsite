@@ -8,7 +8,10 @@ Mainimg: 2016-09-24_17h05m-RhysTyers-SonyRX100III-LargePot-DSC03152.JPG
 Thumbl: 2016-09-24_15h26m-RhysTyers-SonyRX100III-LargePot-DSC03129--thumb.jpg
 Thumbr: 2016-09-24_14h46m-RhysTyers-SonyRX100III-LargePot-DSC03105--thumb.jpg
 Authors: Tanguy Racine, Jarvist Frost
-Cavepeeps:
+Cavepeeps: DATE=2016-06-24; CAVE=Large Pot; PEOPLE=Rhys Tyers, Tanguy Racine, Will Scott, Kenneth Tan;
+           DATE=2016-06-24; CAVE=Marble Steps; PEOPLE=Jim Evans, Christina Picken, Jarvist Frost, William French, Isha Shaz, Saber King;
+           DATE=2016-06-24; CAVE=Ireby Pot; PEOPLE=Jack Hare, Ben Honan, Celia Tinsley, Bogdan Galilo;
+           DATE=2016-06-25; CAVE=Link Pot > Mistral Hole; PEOPLE=Jarvist Frost, Will Scott, William French, Saber King, Celia Tinsley, Isha Shaz;
 Status: draft
 
 {{ mainimg }}
@@ -16,7 +19,8 @@ Status: draft
 #####{{ allpeople }}
 
 ## Saturday
-###Large Pot:
+###Ireby Pot: {{ DATE=2016-06-24; CAVE=Ireby Pot; }}
+###Large Pot: {{ DATE=2016-06-24; CAVE=Large Pot; }}
 
 Morning breakfast, tea, conversations. The plan for the day was to explore the Marble Steps area, with two trips going down that cave, another group in Ireby Fell and a last group visiting Large Pot. We drove up Masongill lane and parked by the barn, where we changed into our gear. Kenneth, Rhys, Will S and I had elected to go to Large pot, and quickly we were all ready to go, with Darren drums filled with flapjacks and chocolates.
 
@@ -94,13 +98,13 @@ We arrived at the crawl, where Christina remarked that David had not attached th
 
 The calcite flowstone was separated from the rift wall by a human sized space, in which the bag had fallen some six or seven metres. There were plenty of natural back-ups to rig a rope from. Rigged as a pitch, the drop would have been as tight as the take-off of Large Pot, hence doable but intimidating. By climbing down as far a reasonable I had been able to see the bag, stranded on a ledge, so I secured myself to the rope, descended, grabbed the bag and ascended the improvised pitch. Doing it felt far easier than first considered and soon we were on our way out again.
 
-Back on the surface, golden sunlight dappled the fells, a beautiful sight. We walked down the hill to Clapham, in high spirits. Arriving at the end of the Ingleborough nature trail, we received notification that Ben had been unable to leave Peterson’s pot. We saw the Cave Rescue’s vehicle being driven out of the garage a loaded as we passed the main bridge. We walked to the NPC which we reached shortly after 5pm.  The minibus arrived a couple of hours later, and finally Ben, who’d made his way out of Mistral with the help of the CRO.
+Back on the surface, golden sunlight dappled the fells, a beautiful sight. We walked down the hill to Clapham, in high spirits. Arriving at the end of the Ingleborough nature trail, we received notification that Ben had been unable to leave Peterson’s pot. We walked to the NPC which we reached shortly after 5pm.  The minibus arrived a couple of hours later.
 
 The drive back was uneventful, being shared by three drivers, and we reached Beit Quad by 3:30am.
 
 ####Tanguy
 
-####Link to Mistral: Jarv, Loads of people
+####Link to Mistral: Jarv, Loads of people [{{ DATE=2016-06-25; CAVE=Link Pot > Mistral Hole; }}]
 
 Rhys drove us to Bullpot Farm. It seemed obscenely early, and I didn't feel like I'd had enough sleep. I had a vague plan to take a few people down Mistral with some rope, and look at the lower-pitches of Pip (below the Hall of the Ten). This was looking slightly difficult as the club hadn't brought any plates to Yorkshire; and nor was there a single one in the NPC tackle store (they'd just had a club trip to the Vercors, so fair enough!). Also, having left with some haste in the morning, I wasn't entirely certain who was coming with me. As Rhys and Jack shot off to Peterson with Ben, I was slightly aghast to count and realise that we were a group of seven. Maybe it would have been nicer to have a trip down Aygill with such a group - and get some SRT practice in for the less experienced members, but - arghh - we didn't have any extra rope in the minibus!
 

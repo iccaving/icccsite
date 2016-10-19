@@ -22,20 +22,28 @@
     <div class="sidebar-item expandable-menu"><a href="#" onclick="return false;">Trips</a></div>
     <div class="sidebar-outer collapsed">
       <div class="sidebar-inner nodisplay">
-        {% set year = '' %} {% for item in yearlist %} {% if item.acyear != year %} {% if year != '' %}
+        {% set year = '' %} 
+        {% for trip in trips_by_academic_year %} 
+          {% if trip.academic_year != year %} 
+            {% if year != '' %}
+            {# Closing year sub-item inner/outer container #}
+              </div>
+            </div>
+            {% endif %}
+            {% set year = trip.academic_year %}
+            <div class="sidebar-sub-item expandable-menu"><a href="#" onclick="return false;">{{ trip.academic_year }}</a></div>
+            <div class="sidebar-outer collapsed" style="overflow: hidden;">
+              <div class="sidebar-inner nodisplay">
+                <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ trip.article.url }}">{{ trip.article.title }} ({{ trip.article.date.strftime('%b') }} '{{ trip.article.date.strftime('%y') }})</a></div>
+          {% else %}
+                <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ trip.article.url }}">{{ trip.article.title }} ({{ trip.article.date.strftime('%b') }} '{{ trip.article.date.strftime('%y') }})</a></div>
+          {% endif %}
+        {% endfor %}
+        {% if trips_by_academic_year|count > 0 %}
+        {# Closing Trips item inner/outer container #}
       </div>
     </div>
-    {% endif %} {% set year = item.acyear %}
-    <div class="sidebar-sub-item expandable-menu"><a href="#" onclick="return false;">{{ item.acyear }}</a></div>
-    <div class="sidebar-outer collapsed" style="overflow: hidden;">
-      <div class="sidebar-inner nodisplay">
-        <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ item.article.url }}">{{ item.article.title }} ({{ item.article.date.strftime('%b') }} '{{ item.article.date.strftime('%y') }})</a></div>
-        {% else %}
-        <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ item.article.url }}">{{ item.article.title }} ({{ item.article.date.strftime('%b') }} '{{ item.article.date.strftime('%y') }})</a></div>
-        {% endif %} {% endfor %} {% if yearlist|count > 0 %}
-      </div>
-    </div>
-    {% endif %}
+        {% endif %}
   </div>
 </div>
 
