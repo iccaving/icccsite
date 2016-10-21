@@ -1,51 +1,34 @@
 from pelican import signals
+from pelican.contents import Article
 import logging
 import re
-from functools import partial
-from bs4 import BeautifulSoup
-import ast
-import json
-import codecs
+#from functools import partial
+#from bs4 import BeautifulSoup
+#import ast
+#import json
+#import codecs
 import os
 
-def MetaInserter(path, context):
-    # The obvious place mentioned in the readme.
-    if "article" in path or "caves" in path:
-        # Open html file. Check for metadata
-        # logging.critical(str(path))
-        soup = BeautifulSoup(open(path, encoding='utf-8'), "html.parser")
-        if soup.find("script", {"id": "metadata"}) is not None:
-            # Extract the metadata and interpret it as a dictionary
-            temp = ''
-            for item in soup.find("script", {"id": "metadata"}).contents:
-                temp += item
-            metadata = ast.literal_eval(temp.strip())
+from pelican.writers import Writer, is_selected_for_writing
 
-            # Remove the metadata so it doesn't appear on the live site
-            [x.extract() for x in soup.findAll("script", {"id": "metadata"})]
+def MetaInserter(pelican):
+    return MetaWriter
 
-            # Clean up empty tags often left by markdown
-            empty_tags = soup.findAll(lambda tag: tag.name == 'p' and not tag.contents and (
-                tag.string is None or not tag.string.strip()))
-            [empty_tag.extract() for empty_tag in empty_tags]
-
-            html = soup.prettify()
-
-            # This gets rid of the paragraph tags that markdown places round our
-            # tags
-            html = re.sub(r'<p>\s*?(({{\s*?\w*\s*?}}\s*)*)\s*?</p>', '\g<1>', html)
-
-            for key in metadata:
-                # For each key in the metadata check if there is an appropriate tag in
-                # in the rest of the file and if there is replace the tag with
-                # the data
-
-                htmlkey = key.replace(">", "&gt;")
-                html = re.sub(
-                    r'({{\s*?)(' + htmlkey + r')(\s*?}})', metadata[key], html)
-
-            with codecs.open(path, 'w', 'utf-8') as f:
-                f.write(html)
+class MetaWriter(Writer):
+    def write_file(self, name, template, context, relative_urls=False,
+                   paginated=None, override_output=False, **kwargs):
+        #for thing in context:
+        #    print(context)
+        if "article" in kwargs:
+            article = kwargs["article"]
+            content = article.content
+            if "data" in dir(article):
+                for key in article.data:
+                    htmlkey = key.replace(">", "&gt;")
+                    content=re.sub(r'({{\s*?)(' + htmlkey + r')(\s*?}})', article.data[key], content)
+            modified_article = Article(content, article.metadata, settings=article.settings, source_path=article.source_path, context=context)
+            kwargs["article"] = modified_article
+        super(MetaWriter, self).write_file(name, template, context, relative_urls=relative_urls, paginated=paginated, override_output=False, **kwargs)
 
 def register():
-    signals.content_written.connect(MetaInserter)
+    signals.get_writer.connect(MetaInserter)
