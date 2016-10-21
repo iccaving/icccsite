@@ -1,3 +1,3 @@
 #!/bin/bash
 . .env/bin/activate
-pelican content -s pelicanconf.py
+pelican content -s pelicanconf.py --debug

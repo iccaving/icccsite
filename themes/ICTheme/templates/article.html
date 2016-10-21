@@ -15,15 +15,4 @@
 
   <!--{% include 'includes/disqus.html' %}-->
 </div>
-
-{% if article.data is defined %}
-<script style="display: none;" id="metadata" type="application/json">
-  {
-  {% for key in article.data %}
-  {% if loop.index > 1 %},{% endif %}
-  """{{ key }}""":"""{{ article.data[key] }}"""
-  {% endfor %}
-  }
-</script>
-{% endif %}
 {% endblock %}

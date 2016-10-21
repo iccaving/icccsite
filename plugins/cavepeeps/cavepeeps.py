@@ -130,10 +130,9 @@ def cavepeep_linker_final(generator, writer):
         if item.cave in cavepeep_cave:
             for art, date in cavepeep_cave[item.cave]:
                 if item.article == art and item.date == date:
-                    logging.debug(
-                        "Cavepeep: Duplicate reference to article from same cave: " + item.cave)
                     flag=True
         if flag is False:
+            logging.debug("Cavepeeps: Adding {} to cavepeep_cave dictionary".format(item.cave))
             cavepeep_cave.setdefault(item.cave, []).append(
                 row(item.article, item.date))
         else:

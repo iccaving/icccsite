@@ -1,26 +1,26 @@
 {% extends "base.html" %} {% block head %}
 <script src="{{ SITEURL }}/theme/js/sorttable.js"></script>
-{% endblock %} {% block banner %}{{ cavename }}{% endblock banner %} {% block content %}
+{% endblock %} {% block banner %}{{ pagename }}{% endblock banner %} {% block content %}
 <div class="container">
   <div class="article-content">
-      <h1 class="article-title">{{ cavename }}</h1>
+      <h1 class="article-title">{{ pagename }}</h1>
       <h2>Information</h2>
       <p>
-      {% if meta.country is defined %}
-      <span class="highlight">Country:</span> <a href=".?search={{ meta.country }}">{{ meta.country }}</a><br></br>
+      {% if article.metadata.country is defined %}
+      <span class="highlight">Country:</span> <a href=".?search={{ article.metadata.country }}">{{ article.metadata.country }}</a><br>
       {% endif %}
-      {% if meta.region is defined %}
-      <span class="highlight">Region:</span> <a href=".?search={{ meta.region }}">{{ meta.region }}</a><br></br>
+      {% if article.metadata.region is defined %}
+      <span class="highlight">Region:</span> <a href=".?search={{ article.metadata.region }}">{{ article.metadata.region }}</a><br>
       {% endif %}
-      {% if meta.subregion is defined %}
-      <span class="highlight">Subregion:</span> <a href=".?search={{ meta.subregion }}">{{ meta.subregion }}</a><br></br>
+      {% if article.metadata.subregion is defined %}
+      <span class="highlight">Subregion:</span> <a href=".?search={{ article.metadata.subregion }}">{{ article.metadata.subregion }}</a><br>
       {% endif %}
-      {% if meta.system is defined %}
-      <span class="highlight">System:</span> <a href=".?search={{ meta.system }}">{{ meta.system }}</a><br></br>
+      {% if article.metadata.system is defined %}
+      <span class="highlight">System:</span> <a href=".?search={{ article.metadata.system }}">{{ article.metadata.system }}</a><br>
       {% endif %}
       </p>
 
-      {{bio}}
+      {{ article.content }}
 
       <h2>Reports</h2>
       <table class="sortable widetable">
@@ -28,9 +28,9 @@
           <th>Report</th>
           <th>Date</th>
         </tr>
-        {% for article, date in articles %}
+        {% for subarticle, date in articles %}
         <tr>
-          <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+          <td><a href="{{ SITEURL }}/{{ subarticle.url }}">{{ subarticle.title }}</a>
           </td>
           <td>{{ date.strftime('%d-%m-%Y') }}</td>
         </tr>

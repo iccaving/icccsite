@@ -44,14 +44,14 @@
       {% endfor %}
       </table>
 
-      {% if authoredarticles is defined and authoredarticles is not none %}
+      {% if authored is defined and authored is not none %}
       <h3>Articles Written</h3>
       <table class="sortable widetable">
         <tr>
           <th>Report</th>
           <th>Date</th>
         </tr>
-        {% for article in authoredarticles %}
+        {% for article in authored %}
           {% if article.unlisted is not defined %}
           <tr>
             <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></td>
