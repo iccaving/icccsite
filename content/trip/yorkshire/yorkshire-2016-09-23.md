@@ -1,18 +1,17 @@
 Title: Yorkshire 0
 Date: 2016-09-23
 Location: Yorkshire
-Summary:
+Summary: A preterm trip to get everyone in the mood for caving. This time a trip to Large Pot on Saturday and a look around Easegill on Sunday.
 Type: trip
 Photoarchive:
-Mainimg:
-Thumbl:
-Thumbr: 
+Mainimg: 2016-09-24_17h05m-RhysTyers-SonyRX100III-LargePot-DSC03152.JPG
+Thumbl: 2016-09-24_15h26m-RhysTyers-SonyRX100III-LargePot-DSC03129--thumb.jpg
+Thumbr: 2016-09-24_14h46m-RhysTyers-SonyRX100III-LargePot-DSC03105--thumb.jpg
 Authors: Tanguy Racine, Jarvist Frost
 Cavepeeps: DATE=2016-06-24; CAVE=Large Pot; PEOPLE=Rhys Tyers, Tanguy Racine, Will Scott, Kenneth Tan;
            DATE=2016-06-24; CAVE=Marble Steps; PEOPLE=Jim Evans, Christina Picken, Jarvist Frost, William French, Isha Shaz, Saber King;
            DATE=2016-06-24; CAVE=Ireby Pot; PEOPLE=Jack Hare, Ben Honan, Celia Tinsley, Bogdan Galilo;
            DATE=2016-06-25; CAVE=Link Pot > Mistral Hole; PEOPLE=Jarvist Frost, Will Scott, William French, Saber King, Celia Tinsley, Isha Shaz;
-Status: draft
 
 {{ mainimg }}
 {{ photolink }}
@@ -49,7 +48,7 @@ I’m not sure I would do this exact same trip again: anything done below the Se
 
 “I have never been to St. John's Wood. I dare not. I should be afraid of the innumerable night of fir trees, afraid to come upon a blood red cup and the beating of the wings of the Eagle.” - GK Chesterton
 
-I have a very vague memory of having been to Marble Steps many years previously on my first ever SRT trip. It was wet, very wet, and the club kit was shit, very shit. Clewin rigged down past a booming waterfall, adding a deviation from a patch of mud to make it safe. I followed up the rear, inexperienced and frankly petrified. I abseiled down to the height of the deviation, clumsily locked myself off, and inelegantly started pulling myself in. The deviation failed, hung for a road-runner like moment in space, before whistling on its carabiner down the pitch rope; and I was suddenly flying so gently, as I pendulum'ed across the shaft inextricably towards the waterfall. The waves parted and took me in. The situation was bad, very bad. I remember forcing my eyes open against stinging rivulets of water, and seeing nothing in the dim glare of my FX3 other than a sheet of water running off my helmet. Chilled and breathing through a gaping mouth I held open and down to avoid inhaling water, I abseiled down as safely and as quickly as I could managed. I stumbled out of the waterfall and found myself alone in a chamber, shocked and disorientated with an ice-cream headache. I caught up the other fresher, and Clewin, who was busy rigging the next pitch. We decided to abort, and bottom-belayed Clew as he climbed the waterfall to reattach the deviation. On the way back to the minibus, chilled to the bone and very very thankful to be outside inspite of the rain and the wind and the dark, I walked home with short painful steps, not knowing to loosen my confining and back-bending chest harness. 
+I have a very vague memory of having been to Marble Steps many years previously on my first ever SRT trip. It was wet, very wet, and the club kit was shit, very shit. Clewin rigged down past a booming waterfall, adding a deviation from a patch of mud to make it safe. I followed up the rear, inexperienced and frankly petrified. I abseiled down to the height of the deviation, clumsily locked myself off, and inelegantly started pulling myself in. The deviation failed, hung for a road-runner like moment in space, before whistling on its carabiner down the pitch rope; and I was suddenly flying so gently, as I pendulum'ed across the shaft inextricably towards the waterfall. The waves parted and took me in. The situation was bad, very bad. I remember forcing my eyes open against stinging rivulets of water, and seeing nothing in the dim glare of my FX3 other than a sheet of water running off my helmet. Chilled and breathing through a gaping mouth I held open and down to avoid inhaling water, I abseiled down as safely and as quickly as I could managed. I stumbled out of the waterfall and found myself alone in a chamber, shocked and disorientated with an ice-cream headache. I caught up the other fresher, and Clewin, who was busy rigging the next pitch. We decided to abort, and bottom-belayed Clew as he climbed the waterfall to reattach the deviation. On the way back to the minibus, chilled to the bone and very very thankful to be outside inspite of the rain and the wind and the dark, I walked home with short painful steps, not knowing to loosen my confining and back-bending chest harness.
 
 ...
 In the intervening years, when discussing Marble Steps in Greenclose as a possible club trip destination, Dave Wilson had often started muttering something dark about 'The Intestines', while squinting slightly with a grimace and suddenly developing a tick. Stories of prior trips fighting their way out Stink pot against a flood pulse were also sobering.
@@ -57,8 +56,8 @@ In the intervening years, when discussing Marble Steps in Greenclose as a possib
 
 Between these two aspects I've never been massively motivated to return. How wrong I was though!
 
-Marble Steps is a fantastic club trip. By comparison, it's essentially a better version of Jingling with multiple routes down; and then interesting pitches (we didn't visit) at the bottom, following a small and flood prone rift. So there's a lot of string to play with, and exchange trips to make while collecting SRT experience, with some fun at the bottom for a more experienced subset of those on a trip. 
-The description as to location is a bit vague; the cave is simply in the near edge of a little copse of trees, in the field to the left of the Masongill pumping station. There is a stile just beyond the pumping station, which (Sept 2016, after Eurospeleo) follows an absolute motorway of a footpath past Rift Pot and to Marble Steps. 
+Marble Steps is a fantastic club trip. By comparison, it's essentially a better version of Jingling with multiple routes down; and then interesting pitches (we didn't visit) at the bottom, following a small and flood prone rift. So there's a lot of string to play with, and exchange trips to make while collecting SRT experience, with some fun at the bottom for a more experienced subset of those on a trip.
+The description as to location is a bit vague; the cave is simply in the near edge of a little copse of trees, in the field to the left of the Masongill pumping station. There is a stile just beyond the pumping station, which (Sept 2016, after Eurospeleo) follows an absolute motorway of a footpath past Rift Pot and to Marble Steps.
 
 Multiple SRT routes are present in an open shaft with takes the (dry) river flowing through the trees. It obviously responds very badly in the wet, with the rift leading off the main shaft (+ sidewinder pitches etc.) showing flood debris. I wouldn't mess with it in the wet. That said, even when it's raining you could probably have some fun dangling on string down the Sidewinder, and making use of the vast number of in-situ tat for deviations on the far wall of the 'main chamber'. The 'main chamber' is in quotes, as it's not really a chamber - just a small area of boulders at the bottom of the open shaft; so don't expect to arrive at anywhere impressive!
 
@@ -66,7 +65,7 @@ However, this Saturday was dry, and though a storm was forecast for 6PM, the mor
 
 I wandered over to Jim, who had separately driven up in his van and brought our two American visitors. His van smelt suspiciously of petrol. He had a spare helmet! Also, he had a desktop computer and a unicycle in the back of his car, a few bike helmets and much miscellany. Oh - wait a second, they didn't have a spare. In fact, they were a helmet down too! So Jim and I drove back to Greenclose, liberated a fistful of helmets, and brought our bag of spare kit. Back to the minibus in not much time at all, the non-Marble-Steps A-teams had all departed for their grim and dark holes. Saber was partially dressed, and welcomed the arrival of the spare kit. Unfortunately - fools! There wasn't a pair of size 11 wellies between all the bags. He had one on his right foot, but couldn't find the matching lefts, only more rights.
 
-Even more curiously, I couldn't find our third rope bag. The two entrance ones were where I'd left them after fettling and checking this morning, then loading into the bus (el Pres Ben had packed all the rope during the week - wicked!). But the third? Also - even more curiously, there was a massive pile of assorted rope sitting on a minibus seat. Slowly, oh so slowly, I put together what must have happened. 
+Even more curiously, I couldn't find our third rope bag. The two entrance ones were where I'd left them after fettling and checking this morning, then loading into the bus (el Pres Ben had packed all the rope during the week - wicked!). But the third? Also - even more curiously, there was a massive pile of assorted rope sitting on a minibus seat. Slowly, oh so slowly, I put together what must have happened.
 
 One of our sister trips had obviously realised our predicament. If we went to the bottom of the cave, we would overexert ourselves, leaving little time for evening frivolity, which is where the true enjoyment of caving resides. They had liberated our tackle sack, thereby preventing us from from experiencing the horror of Stink pot, and saving the majesty of the final pitch for another day. Their generous and selfless sacrifice will not easily be forgotten.
 
@@ -104,7 +103,7 @@ The drive back was uneventful, being shared by three drivers, and we reached Bei
 
 ####Tanguy
 
-####Link to Mistral: Jarv, Loads of people [{{ DATE=2016-06-25; CAVE=Link Pot > Mistral Hole; }}]
+###Link to Mistral: Jarv, Loads of people [{{ DATE=2016-06-25; CAVE=Link Pot > Mistral Hole; }}]
 
 Rhys drove us to Bullpot Farm. It seemed obscenely early, and I didn't feel like I'd had enough sleep. I had a vague plan to take a few people down Mistral with some rope, and look at the lower-pitches of Pip (below the Hall of the Ten). This was looking slightly difficult as the club hadn't brought any plates to Yorkshire; and nor was there a single one in the NPC tackle store (they'd just had a club trip to the Vercors, so fair enough!). Also, having left with some haste in the morning, I wasn't entirely certain who was coming with me. As Rhys and Jack shot off to Peterson with Ben, I was slightly aghast to count and realise that we were a group of seven. Maybe it would have been nicer to have a trip down Aygill with such a group - and get some SRT practice in for the less experienced members, but - arghh - we didn't have any extra rope in the minibus!
 

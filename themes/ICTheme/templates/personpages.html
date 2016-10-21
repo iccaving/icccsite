@@ -19,8 +19,8 @@
       <h2>Trips attended</h2>
 
       <p>
-      <a id="showButton" onClick="$('#activityChart').toggleClass('nodisplay'); $('#chartContainer').toggleClass('nodisplay'); $('#showButton').toggleClass('nodisplay'); $('#hideButton').toggleClass('nodisplay'); return false;">Show Chart</a>
-      <a id="hideButton" class="nodisplay" onClick="$('#activityChart').toggleClass('nodisplay'); $('#chartContainer').toggleClass('nodisplay'); $('#showButton').toggleClass('nodisplay'); $('#hideButton').toggleClass('nodisplay'); return false;">Hide Chart</a>
+      <a id="showButton" onClick="document.querySelector('#activityChart').classList.toggle('nodisplay'); document.querySelector('#chartContainer').classList.toggle('nodisplay'); document.querySelector('#showButton').classList.toggle('nodisplay'); document.querySelector('#hideButton').classList.toggle('nodisplay'); return false;">Show Chart</a>
+      <a id="hideButton" class="nodisplay" onClick="document.querySelector('#activityChart').classList.toggle('nodisplay'); document.querySelector('#chartContainer').classList.toggle('nodisplay'); document.querySelector('#showButton').classList.toggle('nodisplay'); document.querySelector('#hideButton').classList.toggle('nodisplay'); return false;">Hide Chart</a>
       </p>
       <div id="chartContainer" class="nodisplay nomargin table-container" style="width: 100%; height: 400px;">
         <canvas id="activityChart" class="nodisplay"></canvas>
@@ -67,8 +67,8 @@
 
 <script>
 
-$(function() {
-  $('#showButton').click(function() {
+window.addEventListener('load', function(){
+  document.querySelector('#showButton').addEventListener('click', function() {
 
     //$("#activityChart").removeClass('nodisplay');
     //$("#chartContainer").removeClass('nodisplay');
@@ -79,11 +79,12 @@ $(function() {
     var splitDate;
     var reformDate;
 
-    $(".article-content table:nth-of-type(1) tr td:nth-of-type(3)").each(function() {
-       splitDate = $( this ).text().split("-")
+    datas = document.querySelectorAll(".article-content table:nth-of-type(1) tr td:nth-of-type(3)");
+    for (var i=0; i < datas.length; i++) {
+       splitDate = datas[i].innerText.split("-")
        reformDate= splitDate[2] + "-" + splitDate[1] + "-" + splitDate[0];
       rawData.push(new Date(reformDate));
-    });
+    };
 
     rawData = rawData.reverse();
 
@@ -195,7 +196,7 @@ $(function() {
           }
     }
 
-    var ctx = $("#activityChart");
+    var ctx = document.querySelector("#activityChart");
     var myBarChart = new Chart(ctx,{
       type: 'bar',
       data: chartData,
