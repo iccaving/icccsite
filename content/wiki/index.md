@@ -66,7 +66,7 @@ Welcome to **ICCC's Useful Stuff** Wiki!
 
 **Other**
 
-*   [ClubSongs](Other/ClubSongs.html)
+*   [ClubSongs](Other/Club Songs.html)
 *   [ArmchairCaving](Other/ArmchairCaving.html)
 *   [PresidentsAndArseholes](Other/PresidentsAndArseholes.html)
 *   [BigPitchTopTrumps](Other/BigPitchTopTrumps.html)
