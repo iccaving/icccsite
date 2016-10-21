@@ -1,0 +1,2 @@
+#!/bin/bash
+yes | cp /home/users/website/rcc/caving/source/output/* /home/users/website/rcc/caving/
