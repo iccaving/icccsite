@@ -91,6 +91,6 @@ Welcome to **ICCC's Useful Stuff** Wiki!
 
 
 
-This is mainly intended for a repository for all those tidbits of information that should go somewhere, to help new club members organise things & to prevent the horrific intelligence-loss that occurs with every graduation otherwise. Lots of this information is a work-in-progress, an early draft of something that was then published elsewhere & etc. If you want the pword for editing, either email the club or ask at the Tuesday meeting.
+This is mainly intended for a repository for all those tidbits of information that should go somewhere, to help new club members organise things & to prevent the horrific intelligence-loss that occurs with every graduation otherwise. Lots of this information is a work-in-progress, an early draft of something that was then published elsewhere & etc. If you want the pword for editing, either email the club or ask at the Tuesday meeting...
 
 **[Links](Links.html) away from the ICCC fiefdom**
