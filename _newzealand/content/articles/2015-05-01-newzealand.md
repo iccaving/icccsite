@@ -9,7 +9,7 @@ Authors: Rhys Tyers, Jack Hare, Tanguy Racine
 
 #New Zealand Post-expedition Report
 
-{center}("coverpage.png")
+{center}(coverpage.png)
 
 Here's our report in full. You can also find it in pdf form [here](/rcc/caving/FILES/expeditions/2015%20-%20new%20zealand/ICCC_TABA_2015_Report.pdf) as well as our photos from the expedition [here](/rcc/caving/photo_archive/newzealand/2015-04-02%20-%20New%20Zealand/).
 
@@ -140,25 +140,25 @@ On most days, the group split into several small teams, usually two or three. Tw
 #<a class="anchor" id="glos"></a>Glossary
 Caving uses a great deal of specialist terminology - this list might go some way to making the log book entries below a little more sensical.
 
-**Rig**: To place ropes in a cave so that it can be descended and ascended safely.    
-**De-rig**: To remove the ropes after they have been used.    
-**Anchor**: A place where the rope is attached which can take the load of a caver ascending and descending.    
-**Bolting**: To place steel bolts in the walls as anchors. Preferred technique in the UK and the rest of Europe.    
-**Naturals**: Stalagmites and other rock formations that can be used as anchors without the need for a bolt. Preferred technique in NZ and the USA.    
-**Y-hang**: The rope is attached to two anchor points which take the load equally, giving a distinctive Y shape to the rope. Preferred method for keeping the rope away from the rock and providing backup should one anchor fail.    
-**SRT**: Single Rope Technique, a method for ascending a rope using mechanical ratchets.    
-**Lead**: A part of the cave which has not been explored yet.    
-**Pushing**: Going to a lead (eg. pushing a lead) with the intention of finding more cave.    
-**Surface bashing**: Looking for new cave entrances on the surface    
-**Surveying**: Mapping the cave using a compass, inclinometer and tape measure to break the cave down into short segments that can be reconstructed into a scale map by hand or using a computer.    
-**Karst**: Rock that caves can form in, such as limestone or marble.    
-**Flowstone**: Calcite that has precipitated out of solution whilst flowing over a rock. This hard rock can fill passages, as in Ed’s Cellar (see below).    
-**Choss**: Unstable rock surface (that will not take the weight of a person if bolted) due to fractures or mud.    
-**Sink**: A surface location where the water disappears underground. Depending on the flow there can be multiple sinks that only receive water during flood conditions.    
-**Depression**: A lower area on the surface, which can funnel water in, driving cave formation.    
-**Sump**: Where the ceiling cave passage descends below the water, making the cave impassable to all but the foolhardy/cave divers.    
-**Kill/dead**: A cave dies when a human can no longer progress. It may be possible to dig a way on, or the cave might get too tight or sump. Proving that a cave dies ‘kills’ the lead.    
-**Master System**: A hypothetical cave that other caves connect into, where all of the water in the cave system eventually ends up. This would have been nice to find.    
+**Rig**: To place ropes in a cave so that it can be descended and ascended safely.
+**De-rig**: To remove the ropes after they have been used.
+**Anchor**: A place where the rope is attached which can take the load of a caver ascending and descending.
+**Bolting**: To place steel bolts in the walls as anchors. Preferred technique in the UK and the rest of Europe.
+**Naturals**: Stalagmites and other rock formations that can be used as anchors without the need for a bolt. Preferred technique in NZ and the USA.
+**Y-hang**: The rope is attached to two anchor points which take the load equally, giving a distinctive Y shape to the rope. Preferred method for keeping the rope away from the rock and providing backup should one anchor fail.
+**SRT**: Single Rope Technique, a method for ascending a rope using mechanical ratchets.
+**Lead**: A part of the cave which has not been explored yet.
+**Pushing**: Going to a lead (eg. pushing a lead) with the intention of finding more cave.
+**Surface bashing**: Looking for new cave entrances on the surface
+**Surveying**: Mapping the cave using a compass, inclinometer and tape measure to break the cave down into short segments that can be reconstructed into a scale map by hand or using a computer.
+**Karst**: Rock that caves can form in, such as limestone or marble.
+**Flowstone**: Calcite that has precipitated out of solution whilst flowing over a rock. This hard rock can fill passages, as in Ed’s Cellar (see below).
+**Choss**: Unstable rock surface (that will not take the weight of a person if bolted) due to fractures or mud.
+**Sink**: A surface location where the water disappears underground. Depending on the flow there can be multiple sinks that only receive water during flood conditions.
+**Depression**: A lower area on the surface, which can funnel water in, driving cave formation.
+**Sump**: Where the ceiling cave passage descends below the water, making the cave impassable to all but the foolhardy/cave divers.
+**Kill/dead**: A cave dies when a human can no longer progress. It may be possible to dig a way on, or the cave might get too tight or sump. Proving that a cave dies ‘kills’ the lead.
+**Master System**: A hypothetical cave that other caves connect into, where all of the water in the cave system eventually ends up. This would have been nice to find.
 
 
 #<a class="anchor" id="maps"></a>Maps
