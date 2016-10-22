@@ -109,7 +109,7 @@ Date       | Actions
 21st April | Leave Canaan Downs
 23rd April | Depart Nelson for London
 
-{center}("JackHare-P1070606.JPG")
+{center}(JackHare-P1070606.JPG)
 
 #<a class="anchor" id="log"></a>Logistics
 ##<a class="anchor" id="training"></a>Training
@@ -127,8 +127,8 @@ We adopted the NZ standard of 10 mm diameter bolts. We used galvanized Ramset Tr
 
 ##<a class="anchor" id="com"></a>Communications
 
-{center}("CeciliaKan-P4120692.JPG")
-{left}("AlexSeaton-IMGP3679.jpg")
+{center}(CeciliaKan-P4120692.JPG)
+{left}(AlexSeaton-IMGP3679.jpg)
 
 We had a satellite phone lent by the Exploration board. We did not use it to make any calls, but the text message functionality proved useful for contacting local cavers when we were out of cell phone reception. The provision of 900 MHz (long wavelength) 3G cell phone reception even in remote parts of New Zealand allowed us to gather long range weather forecasts, email out updates and contact our local contacts. We had four walkie talkies for use around camp which had an effective range of around 3 km. These were vital for coordinating throughout the day and we highly recommend them to other expeditions.
 
