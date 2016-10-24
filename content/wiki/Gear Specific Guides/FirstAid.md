@@ -3,17 +3,11 @@ Title: FirstAid
 Type: wiki
 
 
-<http://www.oucc.org.uk/procs/proc12/medic.htm> - OUCC Expo First Aid
-short guide from Proc 12 \~1986
-
 The main concept of our idea for caving First Aid for 2007 revolves
-around the idea of a two-tier deployment. The club will maintain 4 small
+around the idea of a two-tier deployment. The club will maintain six small
 first-aid kits for the leaders to carry in their SRT sacs, and a bright
 yellow Tacklesac (with two 6.4L Daren drums inside) will be kept in the
 minibus for use as 'second aid'.
-
-
-
 
 
 ------------------------------------------------------------------------
@@ -95,59 +89,46 @@ or whistles. These should all be separately carried by cavers on trips.
 
 
 
-Contents of the **four** Leader Packs (400ml beakers)
+Contents of the **six** Leader Packs (400ml beakers)
 -----------------------------------------------------
+The club has eight small first aid kits, in sealed waterproof beakers.
+Each kit is meant to provide minimal material for first aid underground.
+The kits are by necessity quite compact, and are not a replacement for the full first aid kit in the rescue bag.
 
--   Triangular Bandage
--   Space Blanket
+Each team should have at least one (preferably two) first aid kits.
+### Each kit contains:
+- 1 triangular bandage
+- 1 roll of vetrap/vet wrap
+- 3 safety pins
+- One sterile dressing
+- 2 paracetamol
+- 2 ibuprofen
 
-**&gt;50% of available space is taken up by above**
+Spares of these are kept in the Spare First Aid drawer in stores, or in a white cardboard box on the shelves in expo stores.
+Vetrap is a brand of vet wrap made by 3M - it is the best version, but it is easy to be mis-sold it on Amazon or ebay by sellers who sell three metres (3m, geddit?) of vet wrap!
 
+The purpose of each item is as follows (the list is not exhaustive!):
+- One triangular bandage: sling, splinting, eyepatch, tourniquet (careful!)
+- One roll of vetrap/vet wrap: self adhesive (doesn't stick to skin or anything else, just itself), so good for holding dressing in place
+- 3 safety pins: sling, holding tongue, removing splinters
+- One sterile dressing: covering a wound that has stopped bleeding and has been rinsed, part of an eye patch
+- 2 paracetamol: general pain relief (analgesic). Probably most useful for headaches
+- 2 ibuprofen: pain relief and also actively reduces swelling. Absolute go to for bumps, bruises, sprains etc.
 
+Note: There is a belief in the first aid community in the UK that you should not give or offer someone drugs such as ibuprofen and paracetamol, 
+but instead allow the patient to take them. This statement is included for completeness.
 
+### Survival bags
+Almost everyone who gets injured in a cave also gets cold, and the people with them will also get cold.
+Every helmet should contain a survivial bag, a thin polythene bag large enough for one person, bought from Caving Supplies.
+Cut off one corner, take off your helmet, climb inside the bag, replace the helmet over the bag to secure it, and feel the toasty warmth envelop you.
 
+### First Aid Training
+The College often offers first aid training from [Marlin First Aid](http://www.marlintraining.co.uk/category/course-type/first-aid). 
+It is aimed at students going on field trips, but there are often spare oplaces advertised on the RCC mailing list.
+It may be possible to get funding from the Activities Development Fund to allow people to take the course.
+Even without funding, it is an excellent skill to have, and highly recommended.
 
--   Zinc Oxide Tape
--   Two Tea-lights
--   Watch-Strap / Button Compass (Gelert)
--   Waterproof paper
--   Pencil Stub
--   Piezo Lighter (clicky type, not flint roller)
--   Safety pins
-
-
-
-
--   Film Canister With:
-    -   Wax-dipped strike-anywhere red-headed matches (loose)
-    -   Folded strip of lighting paper for above
-
-
-
-
-    -   Ibuprofan 400mg
-    -   Paracetemol 500mg
-    -   ??? More exciting drugs?
-
-
-
-
-
-Suggestions (see Yahoogroups Jan 2005)
---------------------------------------
-
--   Balaclava. A life saver.
--   A Plastic bag & Bog paper
--   Nylon pulley
--   Safety Pins
-
-
-
-
--   -A knife-.
--   Spare Light
--   A WATCH -- This is so basic, but the cause of so many callouts.
--   \*Emergency\* Mars bar.
 
 
 
