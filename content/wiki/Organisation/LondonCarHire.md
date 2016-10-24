@@ -2,16 +2,7 @@ Date: 01-01-2000
 Title: LondonCarHire
 Type: wiki
 
-
-We love streetcar!
-------------------
-
-Well - at least since they gave 'unlimited' (\* subject to fair use
-policy) mileage on &gt;24hr hires. The fair use stipulates something
-like 200miles per day, which if you consider each Calendar day + the
-usual time out of London, allows one to get to Yorkshire entirely within
-mileage, and get back at a bit of a push + fine if you don't mind being
-back late.
+Car hire is almost always too expensive to be worth it - the information below is quite old!
 
 Sixt <http://www.sixt.co.uk/> have a hire place in Olympia. Not open on
 Sundays.
