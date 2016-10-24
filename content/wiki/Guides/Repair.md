@@ -74,3 +74,21 @@ Intending for UK Caving style Warmbac (Cordura fabric) / Meander/TSA
     all goes on to the patch.
 
 With thanks to Dave Wilson for additional points.
+
+Helmets
+-------
+
+Summary: Clean them sensible, polish battery terminals with a pencil eraser, gently flex up contacts to stop batteries rattling.
+
+* With battery boxes sealed closed, give the helmets a good scrub under running water, and clean the sweat + grease off the head band. Rinse mud off the perspex front *carefully* always under running water to avoid scratching.
+* Take out the battery boxes tops and give them a good rinse under running water.
+* Inspect the battery box contacts and clean them with a pencil erasure to move any light corrosion. 
+* Inspect inside the battery case (the bit on the helmet), and clean the battery contacts with a pencil erasure (one on a pencil, to reach!). 
+* Try the set with some batteries and make sure it stays lit as you shake the helmet. If batteries seem loose, gently lift up the terminals within the helmet. I use my finger tips for this, to avoid scratching / damaging the contacts. But my fingers are quite long!
+* Pop them in the drying cupboard to dry them out nicely
+* At some point they should have the fronts unscrewed, and the waterproof seal cleaned and regreased with silicone grease. But that can probably wait until another day!
+
+Generally, as well as always taking the batteries out after a trip, the helmets should be dried for a number of days with the battery compartments popped open to avoid any corrosion. The little side lugs are actually designed to also act as little stands to prop open the battery compartment, when the helmets are stored 'correct way up'. Maybe consider storing helmets like this in one of the loaf-crates on a shelf? The battery cases tend to fall out from the dangling-pole storage, which isn't great...
+
+Also: I think it would be a good idea to count how many good sets the club has, and fettling any 'abandoned' personal Bisuns in stores, particularly if considering running a 2x minibus or minibus+car trip!
+We should have 12X Duos in our 'core' stock, and a couple of additional converted Vertexs (white helmets).
