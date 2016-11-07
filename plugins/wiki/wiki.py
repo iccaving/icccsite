@@ -1,6 +1,7 @@
 from pelican import signals, utils
 from collections import namedtuple
 import os
+import re
 import logging
 
 Article = namedtuple('Article', 'metadata content')
@@ -113,18 +114,24 @@ def parse_wiki_pages(generator):
 
 def wiki_dic_to_list(wiki, level):
     wiki_list = []
+    wiki_list_articles = []
     sub_wiki_list = []
+    sub_wiki_list_articles = []
 
     # Construct a 'sub-list' of all items below in and below this sub directory
     # to be available to this dirs index page, with the 'levels' reletive to
     # this dir
-    for subdir in wiki.children:
+
+    for subdir in sorted(wiki.children, key=lambda child: child.path):
         sub_wiki_list = sub_wiki_list + wiki_dic_to_list(subdir, 0)
 
     for article in wiki.articles:
         article_list_item = Article_for_list(
             0, wiki.path + article.metadata.title + ".html", article, None)
-        sub_wiki_list.append(article_list_item)
+        sub_wiki_list_articles.append(article_list_item)
+
+    sub_wiki_list_articles = sorted(sub_wiki_list_articles, key=lambda art: art.article.metadata.title)
+    sub_wiki_list = sub_wiki_list + sub_wiki_list_articles
 
     # URLs look nicer without the index.html I think (but they need to be in for
     # the pelican write to write the file)
@@ -139,13 +146,17 @@ def wiki_dic_to_list(wiki, level):
 
     # Contruct a sub list to be passed back up, with 'levels' relativer to
     # whatever dir is asking for them
-    for subdir in wiki.children:
+    for subdir in sorted(wiki.children, key=lambda child: child.path):
         wiki_list = wiki_list + wiki_dic_to_list(subdir, level + 1)
 
     for article in wiki.articles:
         article_list_item = Article_for_list(
             level + 1, wiki.path + article.metadata.title + ".html", article, None)
-        wiki_list.append(article_list_item)
+        wiki_list_articles.append(article_list_item)
+
+    wiki_list_articles = sorted(wiki_list_articles, key=lambda art: art.article.metadata.title)
+    wiki_list = wiki_list + wiki_list_articles
+
     return wiki_list
 
 
@@ -158,8 +169,9 @@ def generate_wiki_pages(generator, writer):
     # Write the pages!
     template = generator.get_template('wikiarticle')
     for page in wiki_list:
-        filename = 'wiki/' + page.path
+        filename = 'wiki' + page.article.metadata.filepath.replace('.md', '.html')
         content = page.article.content
+        content = re.sub(r'\.md', '.html', content)
         metadata = page.article.metadata
         subdirs = page.subdirs
         path = page.path

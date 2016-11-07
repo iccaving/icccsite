@@ -41,6 +41,8 @@
         {% else %}
           <li class="wiki-link"><a href="{{ SITEURL }}/wiki/{{ subdir.path }}">{{ subdir.article.metadata.title }}</a></li>
         {% endif %}
+      {% else %}
+          <li class="wiki-link"><a href="{{ SITEURL }}/wiki/{{ subdir.path }}">{{ subdir.article.metadata.title }}</a></li>
       {% endif %}
     {% endfor %}
     {% else %}
