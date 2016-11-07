@@ -1,6 +1,6 @@
 Date: 01-01-2000
-Title: Wiki Home
 Type: wiki
+Title: Home
 
 Welcome to **ICCC's Useful Stuff** Wiki!
 
