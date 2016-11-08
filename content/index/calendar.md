@@ -6,8 +6,7 @@ Type: stickyindex
 
 |Date              | Destination                          | Hut                                                                                  | Caves  |
 | ---              |  ---                                 | ---                                                                                  |  ---  |
-|14th - 16th October| [Wales](caves?search=Wales)  | [Whitewalls](http://www.chelseaspelaeo.org.uk/cottage.htm)       | [Agen Allwedd](caves?search=Agen) |
-|28th - 30th October| [Wales](caves?search=Wales) | [Whitewalls](http://www.chelseaspelaeo.org.uk/cottage.htm)       | [Agen Allwedd](caves?search=Agen) |
 |11th - 13th November| [Yorkshire](caves?search=Yorkshire) | [NPC Cottage](http://www.northernpennineclub.org.uk/greenclose/greenclose.htm)     | [Kingsdale](caves?search=Kingsdale) |
-|25th - 27th November| [Yorkshire](caves?search=Yorkshire) | [The Dump](http://www.bpc-cave.org.uk/wp/brackenbottom/)     | [Lost Johns'](caves?search=Lost) |
-|9th - 11th December| [Yorkshire](caves?search=Yorkshire) | [NPC Cottage](http://www.northernpennineclub.org.uk/greenclose/greenclose.htm)     | TBA |
+|18th - 20th November| [Mendips](caves?search=Mendip) | TBA | [Swildons](caves?search=swildon)|
+|25th - 27th November| [Yorkshire](caves?search=Yorkshire) | [The Dump](http://www.bpc-cave.org.uk/wp/brackenbottom/)     | [Penyghent Area](caves?search=Alum) |
+|9th - 11th December| [Yorkshire](caves?search=Yorkshire) | [NPC Cottage](http://www.northernpennineclub.org.uk/greenclose/greenclose.htm)     | [Lost Johns'](caves?search=Lost) |
