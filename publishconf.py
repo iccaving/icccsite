@@ -23,8 +23,6 @@ CATEGORY_FEED_RSS = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-DELETE_OUTPUT_DIRECTORY = True
-
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""

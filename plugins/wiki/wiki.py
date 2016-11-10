@@ -32,6 +32,9 @@ def construct_dir_map(generator, root, path, indexarticle):
         {"index": None, "articles": [], "children": [], "path": None})
     # Get relative path
     subdir.path = os.path.join(path.replace(root, ""), "")
+    if len(subdir.path) > 0:
+        if subdir.path[0] == "/" or subdir.path[0] == "\\":
+            subdir.path = subdir.path[1:]
 
     # If an article has the same name as a directory (on the same directory
     # level) then the article's metadata and content will be userd for that
@@ -42,7 +45,7 @@ def construct_dir_map(generator, root, path, indexarticle):
         metadata = indexarticle.metadata
         content = indexarticle.content
     else:
-        filepath = os.path.dirname(os.path.dirname(os.path.join(subdir.path)))
+        filepath = os.path.join(subdir.path, "index.md")
         content = ""
         metadata = {"title":  os.path.basename(
             os.path.normpath(path)), "type": "wiki", "filepath": filepath, "autogen": True}
@@ -57,6 +60,8 @@ def construct_dir_map(generator, root, path, indexarticle):
     # Get the articles in a dict (so they can be looked up in dir loop)
     articles = {}
     for item in os.listdir(path):
+        if os.path.join(subdir.path, item) == "Home.md":
+            continue
         if os.path.isfile(os.path.join(path, item)):
             # Use pelicans markdown parser to convert markdown -> html
             parsedfile = readers.read_file(path, item)
@@ -95,12 +100,12 @@ def parse_wiki_pages(generator):
     contentpath = settings.get("PATH", "content")
 
     root = os.path.realpath(
-        os.path.abspath(os.path.join(contentpath + "/wiki")))
+        os.path.abspath(os.path.join(contentpath, "wiki", "")))
 
     # Begin with parsing main wiki page
-    parsedfile = readers.read_file(root, "index.md")
+    parsedfile = readers.read_file(root, "Home.md")
     metadata = parsedfile.metadata
-    metadata["filepath"] = ""
+    metadata["filepath"] = "Home.md"
     metadata = namedtuple('metadata', [x for x in metadata.keys()])(
         *[metadata[x] for x in metadata.keys()])
     content = parsedfile.content
@@ -127,7 +132,7 @@ def wiki_dic_to_list(wiki, level):
 
     for article in wiki.articles:
         article_list_item = Article_for_list(
-            0, wiki.path + article.metadata.title + ".html", article, None)
+            0, article.metadata.filepath.replace(".md", ".html"), article, None)
         sub_wiki_list_articles.append(article_list_item)
 
     sub_wiki_list_articles = sorted(sub_wiki_list_articles, key=lambda art: art.article.metadata.title)
@@ -169,7 +174,7 @@ def generate_wiki_pages(generator, writer):
     # Write the pages!
     template = generator.get_template('wikiarticle')
     for page in wiki_list:
-        filename = 'wiki' + page.article.metadata.filepath.replace('.md', '.html')
+        filename = os.path.join('wiki',  page.path)
         content = page.article.content
         content = re.sub(r'\.md', '.html', content)
         metadata = page.article.metadata
