@@ -8,7 +8,17 @@ Mainimg:
 Thumbl:
 Thumbr:
 Authors:
-Cavepeeps: DATE=2016-11-12;CAVE=Jingling Pot;PEOPLE=Rhys Tyers, Ben Honan, Carla, Liam;
-           DATE=2016-11-12;CAVE=Aquamole;PEOPLE=Kenneth Tan, Peter Ganson, Kong, Guan;
-           DATE=2016-11-12;CAVE=Bull Pot;PEOPLE=Jarvist Frost, Isha Shaz, Rebecca Diss, James Wilson;
+Cavepeeps: DATE=2016-11-12; CAVE=Jingling Pot; PEOPLE=Rhys Tyers, Ben Honan, Carla Huynh, Liam Johnstone;
+           DATE=2016-11-12; CAVE=Aquamole; PEOPLE=Kenneth Tan, Peter Ganson, Kong You Liow, Guan;
+           DATE=2016-11-12; CAVE=Bull Pot; PEOPLE=Jarvist Frost, Isha Shaz, Rebecca Diss, James Wilson;
+           DATE=2016-11-13; CAVE=Valley Entrance; PEOPLE=Rhys Tyers, Jarvist Frost, Isha Shaz, James Wilson, Carla Huynh, Kong;
 Status: draft
+
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
+##Saturday
+###Jingling: {{ DATE=2016-11-12; CAVE=Jingling Pot; }}
+
+##Sunday
