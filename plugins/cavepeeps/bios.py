@@ -131,6 +131,8 @@ def generate_person_pages(generator, writer):
             content=''
             metadata=''
             authored=[]
+            #print(key)
+            #print(author_list.keys())
             if key in author_list.keys():
                 authored = author_list[key]
             path= os.path.join(output_path, str(key) + '.html')
@@ -144,10 +146,10 @@ def generate_person_pages(generator, writer):
         writer.write_file(  page_data.path,
                             template = generator.get_template(template),
                             context = generator.context,
-                            pagename=page_name,
+                            personname=page_name,
                             articles=sorted(page_data.articles, key=lambda x: x.date, reverse=True),
                             article=article,
-                            authored=authored)
+                            authored=page_data.authored)
     pages = initialised_pages
     # ==========Write the index of cavers================
     row=namedtuple('row', 'name number recentdate meta')
@@ -162,4 +164,4 @@ def generate_person_pages(generator, writer):
     writer.write_file(  filename,
                         template = generator.get_template(template + "_index"),
                         context = generator.context,
-                        rows=sorted(rows, key=lambda x: x.name))
+                        rows=sorted(sorted(rows, key=lambda x: x.name), key=lambda x: x.recentdate, reverse=True))
