@@ -29,11 +29,14 @@ class AttrTagPattern(Pattern):
                 a.set('href', m.group(7).strip())
                 capa.set('href', m.group(7).strip())
         elif m.group(2) == '{':
-            archive_loc = '/rcc/caving/photo_archive/'
-            if 'type' in self.md.Meta.keys():
-                archive_loc += str(self.md.Meta['type'][0]) + 's/'
-            if 'location' in self.md.Meta.keys() and 'date' in self.md.Meta.keys():
-                archive_loc += str(self.md.Meta['date'][0]) + '%20-%20' + str(self.md.Meta['location'][0]) + '/'
+            if 'photoarchive' in self.md.Meta.keys() and self.md.Meta['photoarchive'][0] == '':
+                archive_loc = '/rcc/caving/photo_archive/'
+                if 'type' in self.md.Meta.keys():
+                    archive_loc += str(self.md.Meta['type'][0]) + 's/'
+                if 'location' in self.md.Meta.keys() and 'date' in self.md.Meta.keys():
+                    archive_loc += str(self.md.Meta['date'][0]) + '%20-%20' + str(self.md.Meta['location'][0]) + '/'
+            elif 'photoarchive' in self.md.Meta.keys() and self.md.Meta['photoarchive'][0] != '':
+                archive_loc = self.md.Meta['photoarchive'][0]
             archive_loc = archive_loc.lower()
             if len(m.group(7).split(",")) > 1:
                 img.set('src', archive_loc + m.group(7).split(",")[0].strip())
