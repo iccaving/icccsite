@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg:
 Thumbl:
 Thumbr:
-Authors:
+Authors: Rhys Tyers, Jarvist Frost
 Cavepeeps: DATE=2016-11-12; CAVE=Jingling Pot; PEOPLE=Rhys Tyers, Ben Honan, Carla Huynh, Liam Johnstone;
            DATE=2016-11-12; CAVE=Aquamole; PEOPLE=Kenneth Tan, Peter Ganson, Kong You Liow, Guan;
            DATE=2016-11-12; CAVE=Bull Pot; PEOPLE=Jarvist Frost, Isha Shaz, Rebecca Diss, James Wilson;
