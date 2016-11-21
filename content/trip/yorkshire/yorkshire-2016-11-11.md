@@ -19,7 +19,6 @@ Status: draft
 #####{{ allpeople }}
 
 ##Saturday
-###Jingling: {{ DATE=2016-11-12; CAVE=Jingling Pot; }}
 
 ### Aquamole: Kenneth 'Still not dead' Tan, Peter Ganson, Kong, Guan
 
@@ -39,6 +38,8 @@ Once on the surface we ambled over to Aquamole where Ben had snared Kong in his 
 
 We wandered down to the road together. I was confused by why the road was so reflective in the moon light. It turned out to be the beck. We met a deliriously happy Isha at the gate, and then at the minibus changed in the darkness watched by the Bull Pot'ers who had been back a couple of hours apparently!
 
+####Rhys
+
 ### Bull Pot: Jarv, Isha, Rebecca (Deborah) Diss, James (Not Dave) Wilson
 
 Driving up into Kingsdale, we passed through fog banks. As the minibus slowly edged along, I fettled my GPS expecting to be crawling our way to the entrances. By Braida Garth, however, the fog was lifting off the valleys.
@@ -53,6 +54,6 @@ We went and had a look at the fourth pitch; the two deviations in, the last 10 m
 
 I realised that it was possible to pull the climbers out of the worst of the spray, at least until the first deviation, by physically pulling the rope across. Which was very successful - for them! Old muggins here, had no such luxury. After over an hour at the bottom of the pitch, I was rather keen to climb it. So when I heard a 'Rope Free' echo down the pitch, I was off like a shot! Pull through the rope, get that pantin on, and dance up the rock heading for the core of the waterfall. However, increasingly confused sounds came from above, eventually getting to a sort of half worried 'Mnerrrr mnerrrr!'. Oh shit. It wasn't rope free, was it? A quick bit of down prussicing, water trickling down my back, and step off onto the ledge. A few more shivers, and they were truly free. I sped up the pitch, trying to warm up. We made really good time on the way out, getting up to the surface for a sky slowly darkening, and a beautiful large oblong moon rising above Whernside.
 
-Jarvist Frost
+####Jarvist Frost
 
 ##Sunday
