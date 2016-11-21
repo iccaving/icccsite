@@ -29,14 +29,20 @@ class AttrTagPattern(Pattern):
                 a.set('href', m.group(7).strip())
                 capa.set('href', m.group(7).strip())
         elif m.group(2) == '{':
+            archive_loc = '/rcc/caving/photo_archive/'
+            if 'type' in self.md.Meta.keys():
+                archive_loc += str(self.md.Meta['type'][0]) + 's/'
+            if 'location' in self.md.Meta.keys() and 'date' in self.md.Meta.keys():
+                archive_loc += str(self.md.Meta['date'][0]) + '%20-%20' + str(self.md.Meta['location'][0]) + '/'
+            archive_loc = archive_loc.lower()
             if len(m.group(7).split(",")) > 1:
-                img.set('src', self.md.Meta['photoarchive'][0] + '/' + m.group(7).split(",")[0].strip())
+                img.set('src', archive_loc + m.group(7).split(",")[0].strip())
                 a.set('href', m.group(7).split(",")[1].strip())
                 capa.set('href', m.group(7).split(",")[1].strip())
             else:
-                img.set('src', self.md.Meta['photoarchive'][0] + '/' + m.group(7).strip())
-                a.set('href', self.md.Meta['photoarchive'][0] + '/' + m.group(7)[:-3].strip() + "html")
-                capa.set('href', self.md.Meta['photoarchive'][0] + '/' + m.group(7)[:-3].strip() + "html")
+                img.set('src', archive_loc + m.group(7).strip())
+                a.set('href', archive_loc + m.group(7)[:-3].strip() + "html")
+                capa.set('href', archive_loc + m.group(7)[:-3].strip() + "html")
         if m.group(3) is not None:
             capa.text = m.group(3)[1:-1]
         if m.group(4) == 'center':
