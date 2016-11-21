@@ -29,6 +29,8 @@ We said our goodbyes to the Aquamole team and Ben meandered into the cleft to be
 
 Next the shimmy across the drippy ledge. By the time I got there Carla was already ab'ing down the other side. I took advantage of the open shaft to take some easy photos. I walk Liam through the slightly tricky mount, ab and dismount that gets you into the lateral cleft, and into the proper gloom of a cave. Down, down. No problems with our novices first deviation, nor with there first rebelay further down.
 
+{"Across the slab" left}(2016-11-12_14h37m-RhysTyers-SonyRX100II-Jingling-DSC03345-thumb.jpg)
+
 We were soon huddled on the ledge above the final pitch. Liam needed some encouragement to get close enough to the edge to rig his descender properly. He descended and I followed. At the bottom I found a disgusting red blob, billowing and steaming, making awful, organic noises. Before I had time to dispatch it with my descender it spoke. Turned out to be Ben, beneath his Bothy bag. Liam and Carla had refused his Ben's offer of sharing body heat in the bag. I joined Ben briefly but the incredibly humid air was quite suffocating, to say nothing of the company so I exited quickly. It was warm though and a pretty interesting idea.
 
 Back up again, I kindly offered to derig (read: was guilted into it by Ben). Carla and Liam made a reasonable pace upwards and again managed most of the ascent quite competently. Liam has a bit of trouble midway up the cleft where a low pitch head makes getting off (fnar fnar) a little bit tough. Ben talked him through it and we were on our way again. 
@@ -51,6 +53,8 @@ A bit of time spent waiting for their deriggeur to haul the ropes out, I rigged 
 
 We went and had a look at the fourth pitch; the two deviations in, the last 10 m of abseil was pretty wet with water richocheting off the ledge. Waiting at the bottom, the pitch was well impressive as the others descended. The feeling was like being in a boat at sea, the waterfall stream was snaking around the chamber and occasionally catching a different boulder and throwing itself across the whole way, a sheet of sent across the way. The lights above descending lit up a clean washed shaft, orange and black, with sheets of water falling. Needless to say, by this point I was backed up and wedged into a crack at the bottom of the pitch, hidden from the wind, looking at the world through the slit between my hat and pulled-up neck warmer. I took a few photos before deciding my camera was getting dangerously wet.
 
+{"Bottom of Bull Pot" right}(2016-11-13_13h39m-JarvistFrost-PowerShotS95-BullPot-IMG_0888--thumb.jpg)
+
 I realised that it was possible to pull the climbers out of the worst of the spray, at least until the first deviation, by physically pulling the rope across. Which was very successful - for them! Old muggins here, had no such luxury. After over an hour at the bottom of the pitch, I was rather keen to climb it. So when I heard a 'Rope Free' echo down the pitch, I was off like a shot! Pull through the rope, get that pantin on, and dance up the rock heading for the core of the waterfall. However, increasingly confused sounds came from above, eventually getting to a sort of half worried 'Mnerrrr mnerrrr!'. Oh shit. It wasn't rope free, was it? A quick bit of down prussicing, water trickling down my back, and step off onto the ledge. A few more shivers, and they were truly free. I sped up the pitch, trying to warm up. We made really good time on the way out, getting up to the surface for a sky slowly darkening, and a beautiful large oblong moon rising above Whernside.
 
 ####Jarvist Frost
@@ -66,6 +70,8 @@ We arrived at Kingsdale and piled back out onto the road. Emptying our kit onto 
 Handbrake turn in the NPC car park and then flying back up the hill again. Isha and I changed in record time. We wandered into the low stooping entrance, dry, then wading waist deep. As Iround each corner I try to listen for people, unable to tell if the faint noises are voices or sloshing water.
 
 We rounded a corner and there was Carla hanging off a traverse line. Between us were several out of place looking people wearing sodden hiking trousers and 'waterproof' coats. Apparently some mountaineering club come for a look at what's beneath the hills they walk on. We squeeze past and drop down to the Valley Entrance down stream sump. Jarv leads us upstream.
+
+{"Kong stands astride a cascade" left}(2016-11-13_14h41m-RhysTyers-SonyRX100II-ValleyEntrance-DSC03396--thumb.jpg)
 
 Some lovely walking streamway follows and then we turn off, into a muddy crawl which emerges in a low streamway. Some wet crawling follow, though I manage to keep my hands dry by using convenient boulders and shelves in the walls and ceiling. Jarv, Carla and James speed ahead. Isha, Kong and I go at a gentler pace. Eventually we catch up. Apparently the grim watery crawling gets grimmer and this is probably not the way to Swinsto Aven.
 
