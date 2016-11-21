@@ -57,3 +57,21 @@ I realised that it was possible to pull the climbers out of the worst of the spr
 ####Jarvist Frost
 
 ##Sunday
+
+###Valley Entrance: Jarv, Rhys, Isha, Kong, James, Kong, Carla
+
+Plans were slowly drawn up in the morning. Many caves were suggested. Valley Entrance came up and I decided that I'd like to do it because amazingly I'd never been before. With me as a nucleation point we got packed and piled into the van. 
+
+We arrived at Kingsdale and piled back out onto the road. Emptying our kit onto the road Isha made a horrifying discovery. She'd left her oversuit at the NPC. She implored us to be taken back to the NPC to get it. Jarv and I, the drivers, engaged in a silent battle of wills over who would drive back. Jarv won. I wonder if he knew he was playing. Isha and I hopped back into the bus. I managed a three point turn in the turning place and more impressively managed to avoid hitting any of the 4 million doggers driving up the Kingsdale road. 
+
+Handbrake turn in the NPC car park and then flying back up the hill again. Isha and I changed in record time. We wandered into the low stooping entrance, dry, then wading waist deep. As Iround each corner I try to listen for people, unable to tell if the faint noises are voices or sloshing water.
+
+We rounded a corner and there was Carla hanging off a traverse line. Between us were several out of place looking people wearing sodden hiking trousers and 'waterproof' coats. Apparently some mountaineering club come for a look at what's beneath the hills they walk on. We squeeze past and drop down to the Valley Entrance down stream sump. Jarv leads us upstream.
+
+Some lovely walking streamway follows and then we turn off, into a muddy crawl which emerges in a low streamway. Some wet crawling follow, though I manage to keep my hands dry by using convenient boulders and shelves in the walls and ceiling. Jarv, Carla and James speed ahead. Isha, Kong and I go at a gentler pace. Eventually we catch up. Apparently the grim watery crawling gets grimmer and this is probably not the way to Swinsto Aven.
+
+We head back to where we first entered the low streamway and notice that it is in fact a junction! An even lower streamway crawl leads off. James and Carla shoot off that way. Isha and Jarv follow. Kong has had enough so I accompany him out. Later we're told its only a few minutes up the lower crawl to the Aven. On the way out we stop at a couple of cascades and I try to photo Kong. At the second of the cascades my flash ends up in the fast flowing water, a final flash as it disappeared into the forth. I expected it to be in the downstream sump but after a 20 metre walk down stream we find it, clinging to a rock underwater [It lives on, btw, a few days of drying and its back to flashing unsuspecting people].
+
+As we get to the pitch, the others catch up and we head out together. Valley Entrance is a really lovely cave. Very nice Sunday trip as you quickly get into some fun streamway. 
+
+####Rhys
