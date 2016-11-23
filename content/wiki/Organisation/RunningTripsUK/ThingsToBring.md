@@ -12,14 +12,14 @@ Every Trip:
 -   First aid kits - one per leader or more
 -   Bag of bags - Vital for Shopping
 -   Freshers - make sure they have 'all' the kit they need
--   Food - any spices, condiments, chocolate or nonperishables from last
-    trip
--   Document box - Maps, Guide books, laminated surveys, permits,
-    obligatory copy of The Hollow Mountain
+-   Food - any spices, condiments, chocolate or nonperishables from last trip
+-   Document box - Maps, Guide books, laminated surveys, permits obligatory copy of The Hollow Mountain
 -   Batteries - Eneloops and Bison packs, flat cells for backup
--   Battery Chargers - in the awesome yellow box
+-   Battery Chargers - in the battery box
 -   Sleeping Bags - make sure everyone has one
 -   Roll Mats - if necessary
+-   Disco box - SO VITAL - check it has aux cable, and fm transmitter.
+-   Backup speaker - for music in huts and shit minibuses. Normally lives in documents box
 
 SRT Trips:
 
