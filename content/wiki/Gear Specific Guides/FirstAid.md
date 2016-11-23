@@ -34,7 +34,9 @@ The van-kit is to:
 
 Typical use envisaged is something like this:
 
-
+- Minor injury: Caver Jamal trips and cuts hand on a sharp rock. There is an open wound which has filled with mud after the fall.
+    - Treatment: Leader checks for other injuries, irrigates the wound with sterile saline and closes with steri-strips. 
+    Ibuprofan or paracetamol can be taken for pain.
 
 
 
@@ -89,7 +91,7 @@ or whistles. These should all be separately carried by cavers on trips.
 
 
 
-Contents of the **six** Leader Packs (400ml beakers)
+Contents of the **seven** Leader Packs (400ml beakers)
 -----------------------------------------------------
 The club has eight small first aid kits, in sealed waterproof beakers.
 Each kit is meant to provide minimal material for first aid underground.
@@ -97,12 +99,14 @@ The kits are by necessity quite compact, and are not a replacement for the full 
 
 Each team should have at least one (preferably two) first aid kits.
 ### Each kit contains:
-- 1 triangular bandage
+- 1 triangular bandage in a sealed bag
 - 1 roll of vetrap/vet wrap
-- 3 safety pins
+- 5 safety pins
 - One sterile dressing
 - 2 paracetamol
 - 2 ibuprofen
+- 1 sterile saline solution
+- 5 steri-strips
 
 Spares of these are kept in the Spare First Aid drawer in stores, or in a white cardboard box on the shelves in expo stores.
 Vetrap is a brand of vet wrap made by 3M - it is the best version, but it is easy to be mis-sold it on Amazon or ebay by sellers who sell three metres (3m, geddit?) of vet wrap!
@@ -114,6 +118,8 @@ The purpose of each item is as follows (the list is not exhaustive!):
 - One sterile dressing: covering a wound that has stopped bleeding and has been rinsed, part of an eye patch
 - 2 paracetamol: general pain relief (analgesic). Probably most useful for headaches
 - 2 ibuprofen: pain relief and also actively reduces swelling. Absolute go to for bumps, bruises, sprains etc.
+- 1 sterile saline pod. Pierce with a knife to make a small hole. Squeeze tightly and direct the stream of high pressure water into the wound. This will remove debris.
+- 5 steri-strips. Can br used to close a wound after it has been cleaned with sterile saline solution.
 
 Note: There is a belief in the first aid community in the UK that you should not give or offer someone drugs such as ibuprofen and paracetamol, 
 but instead allow the patient to take them. This statement is included for completeness.
@@ -156,3 +162,4 @@ enough to be EASILY taken down to the casualty by a potentially TIRED
 leader.
 
 Jarv, August 2007
+Jack, November 2016
