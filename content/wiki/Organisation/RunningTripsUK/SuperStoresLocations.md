@@ -47,7 +47,7 @@ Borehamwood Extra: J4 then head north, then east. On A5135. SHENLEY ROAD, BOREHA
 J13 - 
 Milton Keynes Kingston Extra; On A421 which leads West from M1 at J13
 
-J15A -  
+J15A -  ***BEST CHOICE***
 Tesco Extra at Northampton, where A43 cuts across M1; then loop up to the right. CLANNELL ROAD, NORTHAMPTON, NORTHAMPTONSHIRE, NN4 0JF
 
 J21A -  
