@@ -12,14 +12,14 @@ Type: page
 <h2 class="content-header-right">25yr_history.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/25yr_history.pdf"><img align="left" src="25yr_history.pdf.jpg"></a>
+<a href="/caving/lib/25yr_history.pdf"><img align="left" src="/rcc/caving/old/lib/25yr_history.pdf.jpg"></a>
 <p><a href="/caving/lib/25yr_history.pdf">25yr_history.pdf</a></p>
 
 <h2 class="content-header-left"></h2>
 <h2 class="content-header-right">ICCC-01-October-1983.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-01-October-1983.pdf"><img align="left" src="ICCC-01-October-1983.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-01-October-1983.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-01-October-1983.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-01-October-1983.pdf">ICCC-01-October-1983.pdf</a></p><pre>President's Piece
 I.C.C.C. goes to France
 Easterwater - A 'Banging' Trip to the New Extension
