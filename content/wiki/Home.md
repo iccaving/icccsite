@@ -50,7 +50,6 @@ Welcome to **ICCC's Useful Stuff** Wiki!
 **Gear Specific Guides:**
 
 *   [FirstAid](Gear Specific Guides/FirstAid.md)
-
 *   [LittleDragon](Gear Specific Guides/LittleDragon.md)
 *   [SurveyBooks](Gear Specific Guides/SurveyBooks.md)
 *   [RubbishInBeitQuad](Gear Specific Guides/RubbishInBeitQuad.md)
