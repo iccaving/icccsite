@@ -2,11 +2,39 @@ Date: 01-01-2000
 Title: Club Songs
 Type: wiki
 
+### Captain Kangaroo
 
+<pre>
+I'm glad to see you're finally going pushing underground
+Sick of seeing you down in the bivi, bumming round
+You've finally bashed your oversuit in all those gaping rifts
+You really need to stop using your arse for extra grip
+
+*Chorus*
+There's no hangars on the wall, and this rift is rather small
+That don't bother me at all, I just wish I weren't so tall
+Smoking pseudo cigs and pushing captain kangaroo
+Don't tell me there's no way through
+*Chorus*
+
+Some people say it's tight and scrotty but they've never been
+It's really the most beautiful passage I've ever seen
+So come on won't you follow the blue lanex, off we go
+Turn right at the rub point, it's guaranteed to go
+
+*Chorus*
+
+Go digging at the boulder choke and bolting in the rock
+Sure of the connection sure as ten feet longs my great big nose
+A parallel shaft series would be mighty fine indeed
+Don't go pushing too far north, it's heading for space odyssey
+
+*Chorus*
+</pre>
 
 ### Dirty Old Rhyme, from Newsletter 18 Winter 1993
 
-```
+<pre>
 Dirty Old Rhyme
 -> To the tune of "Dirty Old Town"
 
@@ -55,15 +83,11 @@ Packed the van had a final shite
 So till the next time when we sing this rhyme
 Dirty old rhyme, dirty old rhyme.
 Dirty old rhyme, dirty old rhyme.
-```
-
-
-
-
+</pre>
 
 ### Ten Little Cavers, from Newsletter 17, Spring 1993
 
-```
+<pre>
 Ten little cavers,
 Went off to do a mine.
 One found a hidden shaft,
@@ -113,22 +137,14 @@ One worried caver,
 Took up dancing instead:
 Tripped on a trailing bootlace
 And now he too is dead.
-```
-
-
-
-
+</pre>
 
 ### Puff, the magic dragon
 
 An absolute classic from the bivi on the 2005-07 expos. We had it in
 Hungarian for 2008 courtesy of Gergely.
 
-
-
-
-
-```
+<pre>
 Puff, the magic dragon lived by the sea
 And frolicked in the autumn mist in a land called honah lee,
 Little jackie paper loved that rascal puff,
@@ -163,4 +179,4 @@ Puff, the magic dragon lived by the sea
 And frolicked in the autumn mist in a land called honah lee,
 Puff, the magic dragon lived by the sea
 And frolicked in the autumn mist in a land called honah lee.
-```
+</pre>
