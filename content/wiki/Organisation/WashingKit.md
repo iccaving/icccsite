@@ -1,5 +1,5 @@
 Date: 01-01-2000
-Title: StoresCleanUp
+Title: WashingKit
 Type: wiki
 
 ### Washing Machines
