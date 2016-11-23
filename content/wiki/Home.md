@@ -29,8 +29,6 @@ Welcome to **ICCC's Useful Stuff** Wiki!
 
 *   [Croatia2008](Tours/Croatia 2008.md) [Croatia2008Writeup](Tours/Croatia 2008 Writeup.md)
 *   [Sardinia](Tours/Sardinia.md) Easter2007
-*   [Ardeche](Tours/Ardeche.md) Hypo
-*   [Norway](Tours/Norway.md) Hypo
 
 **Guides**
 
@@ -43,9 +41,8 @@ Welcome to **ICCC's Useful Stuff** Wiki!
 *   [Starless River](http://www.starlessriver.com/)
 *   [Caving Supplies](http://www.caving-supplies.co.uk/)
 *   [Bernies](http://www.berniescafe.co.uk/)
-*   [IngleThief](http://www.inglesport.com)
+*   [Inglesport](http://www.inglesport.com)
 *   [Hitch 'n' Hike](http://www.hitchnhike.co.uk/)
-*   [Phoenix Caving Gear](http://www.phoenixcaving.co.uk)
 
 **Gear Specific Guides:**
 
