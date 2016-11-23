@@ -29,8 +29,8 @@ Named in honour of the two brothers who dragged ICCC kicking &amp; screaming up 
 
 This award is for most creative use of a bodily fluid. The award consists of <strong>'Bob the Turd'</strong>, a large coprolite (fossilised crap) found by Goaty in the Moroccon High-Atlas and dating from the Jurassic era, most likely produced by a Shark.
 
-<a onClick="$('#awards').toggleClass('nodisplay'); return false;">Show Recipients</a>
-<div id="awards" class="nodisplay";">
+<a onclick="document.getElementById('awards').classList.toggle('nodisplay'); return false;">Show Recipients</a>
+<div id="awards" class="nodisplay">
 <h2>2014</h2>
 <h3>For Evans' Sake: <i>James O'Hanlon</i></h3>
 <p>
