@@ -34,7 +34,7 @@ Debbie's Tit-Bits
 <h2 class="content-header-right">ICCC-02-January-1984.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-02-January-1984.pdf"><img align="left" src="ICCC-02-January-1984.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-02-January-1984.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-02-January-1984.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-02-January-1984.pdf">ICCC-02-January-1984.pdf</a></p><pre>1984 Spring Term Cavig Meets
 Caving Trip Reports
  - Derbyshire 4-6 Nov. 1983
@@ -52,7 +52,7 @@ Debbie's Tit-Bits
 <h2 class="content-header-right">ICCC-03-May-1984.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-03-May-1984.pdf"><img align="left" src="ICCC-03-May-1984.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-03-May-1984.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-03-May-1984.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-03-May-1984.pdf">ICCC-03-May-1984.pdf</a></p><pre>1984 Summer Term Caving Meets
 Caving Trip Reports
  - Mendip 13-15 Jan. 1984
@@ -74,7 +74,7 @@ Debbie's Tit-bits
 <h2 class="content-header-right">ICCC-04-January-1985.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-04-January-1985.pdf"><img align="left" src="ICCC-04-January-1985.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-04-January-1985.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-04-January-1985.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-04-January-1985.pdf">ICCC-04-January-1985.pdf</a></p><pre>No contents in original:
 1985 Spring Term Caving Meets
 Editorial: ICCC Meets / Expedition Policy 1985 Onwards
@@ -99,7 +99,7 @@ Caving Crossword
 <h2 class="content-header-right">ICCC-05-April-1985.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-05-April-1985.pdf"><img align="left" src="ICCC-05-April-1985.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-05-April-1985.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-05-April-1985.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-05-April-1985.pdf">ICCC-05-April-1985.pdf</a></p><pre>Committee &amp; Activities
 Stop Press: French Tour 1985
 A Hundred Years of Caving
@@ -122,7 +122,7 @@ Cavers Wordsearch (completed)
 <h2 class="content-header-right">ICCC-06-October-1985.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-06-October-1985.pdf"><img align="left" src="ICCC-06-October-1985.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-06-October-1985.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-06-October-1985.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-06-October-1985.pdf">ICCC-06-October-1985.pdf</a></p><pre>Committee and 1985/1986 Meets List
 Editorial
 News
@@ -155,7 +155,7 @@ Back-Stabbing Supplement
 <h2 class="content-header-right">ICCC-07-November-1986.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-07-November-1986.pdf"><img align="left" src="ICCC-07-November-1986.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-07-November-1986.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-07-November-1986.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-07-November-1986.pdf">ICCC-07-November-1986.pdf</a></p><pre>Committee and 1986-1987 Meets List
 Editorial
 Expedition Extravaganza
@@ -187,7 +187,7 @@ Tackle-Bag Cartoon
 <h2 class="content-header-right">ICCC-08-June-1987.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-08-June-1987.pdf"><img align="left" src="ICCC-08-June-1987.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-08-June-1987.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-08-June-1987.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-08-June-1987.pdf">ICCC-08-June-1987.pdf</a></p><pre>Committee &amp; 1987/8 Meets List
 Editorial
 The Real Cave Wars
@@ -206,7 +206,7 @@ Caving Crossword
 <h2 class="content-header-right">ICCC-09-Spring-1988.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-09-Spring-1988.pdf"><img align="left" src="ICCC-09-Spring-1988.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-09-Spring-1988.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-09-Spring-1988.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-09-Spring-1988.pdf">ICCC-09-Spring-1988.pdf</a></p><pre>Committee 1987/8
 Editorial
 President's Report 1987-88
@@ -236,7 +236,7 @@ Cryptic Caving Crossword
 <h2 class="content-header-right">ICCC-10-Winter-1988.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-10-Winter-1988.pdf"><img align="left" src="ICCC-10-Winter-1988.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-10-Winter-1988.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-10-Winter-1988.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-10-Winter-1988.pdf">ICCC-10-Winter-1988.pdf</a></p><pre>Committee 1988-1989
 Editorial
 President's Piece
@@ -262,7 +262,7 @@ Caving Supplies Ltd. (Spoof) Advert
 <h2 class="content-header-right">ICCC-11-Spring-1989.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-11-Spring-1989.pdf"><img align="left" src="ICCC-11-Spring-1989.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-11-Spring-1989.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-11-Spring-1989.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-11-Spring-1989.pdf">ICCC-11-Spring-1989.pdf</a></p><pre>Editorial &amp; President's Bit
  - A Fresher's Eye View of IC3
 Annual Report
@@ -285,7 +285,7 @@ For Sale
 <h2 class="content-header-right">ICCC-12-December-1989.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-12-December-1989.pdf"><img align="left" src="ICCC-12-December-1989.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-12-December-1989.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-12-December-1989.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-12-December-1989.pdf">ICCC-12-December-1989.pdf</a></p><pre>Editorial
 Speleology (But Mostly Other Things) in Sunny South Africa
 Caving in America
@@ -305,7 +305,7 @@ Problems
 <h2 class="content-header-right">ICCC-13-Spring-1990.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-13-Spring-1990.pdf"><img align="left" src="ICCC-13-Spring-1990.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-13-Spring-1990.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-13-Spring-1990.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-13-Spring-1990.pdf">ICCC-13-Spring-1990.pdf</a></p><pre>Editorial
 President's Report
 Dave's Piece
@@ -334,7 +334,7 @@ Brits on the Piss Tour '89 (or, The Last Great Caving Adventure)
 <h2 class="content-header-right">ICCC-14-Winter-1990.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-14-Winter-1990.pdf"><img align="left" src="ICCC-14-Winter-1990.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-14-Winter-1990.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-14-Winter-1990.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-14-Winter-1990.pdf">ICCC-14-Winter-1990.pdf</a></p><pre>Editorial
 President's Piece
 Letters
@@ -360,7 +360,7 @@ Answers for Issue 11
 <h2 class="content-header-right">ICCC-15-Summer-1991.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-15-Summer-1991.pdf"><img align="left" src="ICCC-15-Summer-1991.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-15-Summer-1991.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-15-Summer-1991.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-15-Summer-1991.pdf">ICCC-15-Summer-1991.pdf</a></p><pre>Editorial
 Rob's Bit
 Letters
@@ -390,7 +390,7 @@ Members' Addresses
 <h2 class="content-header-right">ICCC-16-Spring-1992.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-16-Spring-1992.pdf"><img align="left" src="ICCC-16-Spring-1992.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-16-Spring-1992.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-16-Spring-1992.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-16-Spring-1992.pdf">ICCC-16-Spring-1992.pdf</a></p><pre>Bron's Burble
 Gear Review: Malham Carbide Generator
 Classic Caving on Monte Canin
@@ -415,7 +415,7 @@ Cover: Visitors to Postojna Jama in 1896
 <h2 class="content-header-right">ICCC-17-Spring-1993.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-17-Spring-1993.pdf"><img align="left" src="ICCC-17-Spring-1993.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-17-Spring-1993.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-17-Spring-1993.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-17-Spring-1993.pdf">ICCC-17-Spring-1993.pdf</a></p><pre>Tim's Bit
 Deep in the South of France
 Noises in the Deep
@@ -446,7 +446,7 @@ From Nylon Highway (USA) 34 (1991).
 <h2 class="content-header-right">ICCC-18-Winter-1993.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-18-Winter-1993.pdf"><img align="left" src="ICCC-18-Winter-1993.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-18-Winter-1993.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-18-Winter-1993.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-18-Winter-1993.pdf">ICCC-18-Winter-1993.pdf</a></p><pre>Editorial
 IC3 Events 1993
 Jim's Bits
@@ -477,7 +477,7 @@ Dirty Old Rhyme
 <h2 class="content-header-right">ICCC-19-Winter-1995.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-19-Winter-1995.pdf"><img align="left" src="ICCC-19-Winter-1995.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-19-Winter-1995.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-19-Winter-1995.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-19-Winter-1995.pdf">ICCC-19-Winter-1995.pdf</a></p><pre>Mark's Missive
 Meets List 1995
 ICCC Tours &amp; Expeditions
@@ -504,7 +504,7 @@ Renassance Rope Techniques
 <h2 class="content-header-right">ICCC-20-Spring-1996.pdf</h2>
 <div style="clear: both;"></div>
 
-<a href="/caving/lib/ICCC-20-Spring-1996.pdf"><img align="left" src="ICCC-20-Spring-1996.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-20-Spring-1996.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-20-Spring-1996.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-20-Spring-1996.pdf">ICCC-20-Spring-1996.pdf</a></p><pre>Editorial
 Tony's Tit-Bits
 Vercors - Easter '95
@@ -536,7 +536,7 @@ Speleo-Statistics 1995
 <h2 class="content-header-left"></h2>
 <h2 class="content-header-right">ICCC-21-1998.pdf</h2>
 <div style="clear: both;"></div>
-<a href="/caving/lib/ICCC-21-1998.pdf"><img align="left" src="ICCC-21-1998.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-21-1998.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-21-1998.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-21-1998.pdf">ICCC-21-1998.pdf</a></p><pre>Editorial
 Presidents REports
 Deep Intentions - PSM '96
@@ -570,7 +570,7 @@ Caving? Oh No!
 <h2 class="content-header-left"></h2>
 <h2 class="content-header-right">ICCC-22-2006.pdf</h2>
 <div style="clear: both;"></div>
-<a href="/caving/lib/ICCC-22-2006.pdf"><img align="left" src="ICCC-22-2006.pdf.jpg"></a>
+<a href="/caving/lib/ICCC-22-2006.pdf"><img align="left" src="/rcc/caving/old/lib/ICCC-22-2006.pdf.jpg"></a>
 <p><a href="/caving/lib/ICCC-22-2006.pdf">ICCC-22-2006.pdf</a></p><pre><b>Separate Chapters:</b>
 <a href="/caving/slovenia/hollowmountain/1993_pre.pdf">Introduction and Pre-Expedition</a>
 <a href="/caving/slovenia/hollowmountain/1994.pdf">1994</a> A frustrating start to ICCC's Slovenian Exploration
@@ -594,7 +594,7 @@ Caving? Oh No!
 <h2 class="content-header-left"></h2>
 <h2 class="content-header-right">LUCC-12-Winter-1971.pdf</h2>
 <div style="clear: both;"></div>
-<a href="/caving/lib/LUCC-12-Winter-1971.pdf"><img align="left" src="LUCC-12-Winter-1971.pdf.jpg"></a>
+<a href="/caving/lib/LUCC-12-Winter-1971.pdf"><img align="left" src="/rcc/caving/old/lib/LUCC-12-Winter-1971.pdf.jpg"></a>
 <a href="/caving/lib/LUCC-12-Winter-1971.pdf">LUCC-12-Winter-1971.pdf</a>
 <pre>Editorial
 Economics of Cave Photography
@@ -630,7 +630,7 @@ Surveys:
 <a href="ICCC-Proteus-2008_1.pdf"><h3>ICCC Proteus 2008.1</h3></a>
 <p>
 <a href="ICCC-Proteus-2008_1.pdf">
-<img align="left" src="ICCC-Proteus-2008_1.jpg">
+<img align="left" src="/rcc/caving/old/lib/ICCC-Proteus-2008_1.jpg">
 </a>
 A new paper newsletter in 2008? Are we mad? No - its Retro!<br><br>
 Dive in for hyperlinks galore &amp; something to finally explain to Aunt Edna ex

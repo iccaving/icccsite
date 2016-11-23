@@ -32,7 +32,7 @@ Please see the <a href="https://docs.google.com/document/pub?id=1d608SJVF8VuYYQY
 <h2 class="content-header-right">LUCC-12-Winter-1971.pdf</h2>
 
 <a href="/caving/lib/LUCC-12-Winter-1971.pdf">
-<img align="left" src="LUCC-12-Winter-1971.pdf.jpg"></a>
+<img align="left" src="/rcc/caving/old/lib/LUCC-12-Winter-1971.pdf.jpg"></a>
 <a href="/caving/lib/LUCC-12-Winter-1971.pdf">LUCC-12-Winter-1971.pdf</a>
 
 <pre>Editorial
