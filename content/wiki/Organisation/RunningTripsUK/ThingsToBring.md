@@ -10,7 +10,7 @@ Every Trip:
 
 -   Rescue bag - the big yellow one with 'Rescue' written on it
 -   First aid kits - one per leader or more
--   Bag of bags - Vital for Shopping
+-   Bag of bags - Vital for Shopping (probably a daren drum now)
 -   Freshers - make sure they have 'all' the kit they need
 -   Food - any spices, condiments, chocolate or nonperishables from last trip
 -   Document box - Maps, Guide books, laminated surveys, permits obligatory copy of The Hollow Mountain
