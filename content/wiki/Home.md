@@ -10,13 +10,12 @@ Welcome to **ICCC's Useful Stuff** Wiki!
     *   [Things to Bring](Organisation/RunningTripsUK/Things To Bring.md)
     *   [Things to Buy](Organisation/RunningTripsUK/ThingsToBuy.md)
     *   [Superstore Locations](Organisation/RunningTripsUK/SuperStoresLocations.md)
+*   [Post Trip Clean Up](Organisation/WashingKit.md)
 *   [Cave Information](Organisation/Cave%20Information.md)
 *   [Hut Information](Organisation/HutInformation.md)
 *   [Weather](Organisation/Weather.md)
 *   [Union](Organisation/Union.md)
-*   [Bank Holidays](Organisation/PublicHolidays.md)
 *   [London Car Hire](Organisation/LondonCarHire.md)
-*   [Stores Clean Up](Organisation/StoresCleanUp.md)
 
 **Exploration**
 
