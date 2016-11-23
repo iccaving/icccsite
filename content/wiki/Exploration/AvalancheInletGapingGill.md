@@ -3,22 +3,12 @@ Title: Avalanche Inlet Gaping Gill
 Type: wiki
 
 
-caving:photo\_archive/trips/2008-04-08%20-%20avalanche1/rainbow%20inlet%20jarvist%20frost%20long%20exposure%20ambient%20light%20from%20rock%20shelf.jpg
-
-
-
-
+{!center}(/rcc/caving/photo_archive/trips/2008-04-08%20-%20avalanche1/rainbow%20inlet%20jarvist%20frost%20long%20exposure%20ambient%20light%20from%20rock%20shelf.jpg, /rcc/caving/photo_archive/trips/2008-04-08%20-%20avalanche1/rainbow%20inlet%20jarvist%20frost%20long%20exposure%20ambient%20light%20from%20rock%20shelf.html)
 
      When I stepped into an avalanche,
      It covered up my soul;
      When I am not this hunchback that you see,
      I sleep beneath the golden hill. - Leonard Cohen
-
-
-
-
-
-
 
 Todo:
 
@@ -28,12 +18,6 @@ Todo:
 -   Find out what's behind the curtains?
 -   Continue to sugar coated & etc.
 -   Survey :D
-
-
-
-
-
-
 
 ------------------------------------------------------------------------
 
