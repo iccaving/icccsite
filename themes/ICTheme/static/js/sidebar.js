@@ -1,6 +1,11 @@
 // Check for stored sidebar state and if exists open specified sidebar elements
 function load() {
-  list = window.localStorage.getItem("sidebar").split(',');
+  var list;
+  if (window.location.href.indexOf("https://union.ic.ac.uk/rcc/caving/slovenia/") > -1) {
+    list = window.localStorage.getItem("slovenia-sidebar").split(',');
+  } else {
+    list = window.localStorage.getItem("sidebar").split(',');
+  }
   if (list != null) {
     var outers = document.querySelectorAll(".sidebar-outer");
     for (var i=0; i < outers.length; i++) {
@@ -24,7 +29,11 @@ function store() {
       list.push(1);
     };
   };
-  window.localStorage.setItem("sidebar", list);
+  if (window.location.href.indexOf("https://union.ic.ac.uk/rcc/caving/slovenia/") > -1) {
+    window.localStorage.setItem("slovenia-sidebar", list);
+  } else {
+    window.localStorage.setItem("sidebar", list);
+  }
 };
 // Recursively look at parent elements and add height of newly opened element
 // to any parent outer container. Stop at sidebar element.

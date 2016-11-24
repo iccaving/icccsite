@@ -13,7 +13,7 @@ $light-background: #40B080; /*(Highlight colour for Banner/Sidebar/Headers H3/te
 /*Global Text and link properties */
 
 h1 {
-	color:	$dark-background;
+	//color:	$dark-background;
 	}
 
 h2 {
@@ -48,11 +48,8 @@ a:hover {
 }
 
 .logo img {
-	width: auto;
-}
-
-.right-col {
-  background-image: initial;
+    width: 160px;
+    vertical-align: middle;
 }
 
 .sidebar-item a:hover, .sidebar-sub-item a:hover, .sidebar-sub-sub-item a:hover, .sidebar-item:hover, .sidebar-sub-item:hover, .sidebar-sub-sub-item:hover {

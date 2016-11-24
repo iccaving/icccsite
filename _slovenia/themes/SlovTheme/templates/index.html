@@ -4,7 +4,7 @@ Migovec Cave Exploration
 {% endblock banner %}
 
 {% block content %}
-<div class="container">
+<div class="index-container">
   {% if articles %}
     {% for article in articles %}
       {% if articles_previous_page == None %}
@@ -15,8 +15,10 @@ Migovec Cave Exploration
                 <div><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
               </div>
             </div>
-            <div class="article-content">
+            <div class="content">
+              <div class="content-summary">
               {{ article.content }}
+            </div>
             </div>
 
         {% endif %}

@@ -16,3 +16,5 @@ PLUGIN_PATHS = ['../plugins']
 PLUGINS = ['photoarchive', 'inlinephotos']
 
 PHOTOREEL = False
+
+FAVICON = '../assets/iclogo.png'
