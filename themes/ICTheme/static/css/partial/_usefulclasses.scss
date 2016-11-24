@@ -1,0 +1,30 @@
+.nodisplay {
+	display: none !important;
+}
+.nopad {
+	padding: 0 !important;
+}
+.padless {
+	margin-left: 25px;
+	margin-right: 25px;
+}
+.padmore {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.nomargin {
+	margin: 0 !important;
+}
+.center {
+	text-align: center !important;
+}
+.highlight {
+	font-weight: bold !important;
+	color: $light-red !important;
+}
+.mobile {
+	display: none;
+	@media screen and (max-width: $mobile-breakpoint) {
+		display: inline-block;
+	}
+}

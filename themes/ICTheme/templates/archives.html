@@ -6,19 +6,16 @@
 
 
 {% block content %}
-<div class="container">
-  <div class="article-content">
-    <h1>Full list of all articles</h1>
-      <dl>
-      {% for article in dates %}
-          {% if article.unlisted is not defined %}
-              <dt>{{ article.locale_date }}</dt>
-              <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
-          {% endif %}
-      {% endfor %}
-      </dl>
-
-      <!--{% include 'includes/disqus.html' %}-->
-    </div>
+<div class="article-content">
+  <h1>Full list of all articles</h1>
+  <dl>
+  {% for article in dates %}
+      {% if article.unlisted is not defined %}
+          <dt>{{ article.locale_date }}</dt>
+          <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+      {% endif %}
+  {% endfor %}
+  </dl>
+  {% include 'includes/license.html' %}
 </div>
 {% endblock %}

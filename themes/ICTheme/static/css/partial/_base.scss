@@ -1,0 +1,74 @@
+/*-----------------------------Global Page Properties-----------------------------*/
+html {}
+body {
+	background-color: $light-grey;
+	color: $black;
+	font-family: $sans;
+	font-weight: $blackweight;
+	font-size: 100%;
+	margin: 0;
+	overflow-x: hidden;
+	@media screen and (max-width: $mobile-breakpoint) {
+		margin: 0px;
+		padding: 0px;
+	}
+}
+/*-----------------------------Global Text and link properties-----------------------------*/
+ol,
+p,
+ul {
+	line-height:  1.9rem;
+}
+h1 {
+	font-family: $sans;
+	font-weight: $h1weight;
+	font-size: 2rem;
+	background-color: $dark-grey;
+	margin: 1rem 0;
+	color: $offwhite;
+	padding: 5px;
+	border-radius: 5px;
+	text-align: center;
+}
+h2 {
+	font-family: $sans;
+	font-size: 1.5rem;
+	font-weight: $h2weight;
+	color: $light-red;
+	margin: 1rem 0;
+}
+h3 {
+	font-family: $sans;
+	font-size: 1.125rem;
+	font-weight: $h3weight;
+	color: $light-red;
+	margin: 1rem 0;
+}
+h4 {
+	font-family: $sans;
+	font-size: 1rem;
+	font-weight: $h4weight;
+	color: $light-red;
+	margin: 1rem 0;
+	text-align: right;
+}
+h5 {
+	font-family: $sans;
+	font-size: 1rem;
+	font-weight: $h5weight;
+	color: $light-red;
+	margin: 1rem 0;
+}
+a {
+	color: $links;
+	text-decoration: underline;
+}
+a:visited {
+	color: $visited-links;
+}
+a:hover {
+	color: $link-hover;
+}
+pre {
+	overflow: auto;
+}

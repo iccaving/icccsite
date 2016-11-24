@@ -627,9 +627,9 @@ Surveys:
 <h2 class="content-header-left">Proteus 2008.1</h2>
 <h2 class="content-header-right">7th Jan 2008</h2>
 <div style="clear: both;"></div>
-<a href="ICCC-Proteus-2008_1.pdf"><h3>ICCC Proteus 2008.1</h3></a>
+<a href="/caving/lib/ICCC-Proteus-2008_1.pdf"><h3>ICCC Proteus 2008.1</h3></a>
 <p>
-<a href="ICCC-Proteus-2008_1.pdf">
+<a href="/caving/lib/ICCC-Proteus-2008_1.pdf">
 <img align="left" src="/rcc/caving/old/lib/ICCC-Proteus-2008_1.jpg">
 </a>
 A new paper newsletter in 2008? Are we mad? No - its Retro!<br><br>

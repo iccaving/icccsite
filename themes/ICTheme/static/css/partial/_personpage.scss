@@ -1,0 +1,11 @@
+.personimg {
+	text-align: center;
+}
+.personimg > a > img {
+	max-height: 400px;
+	max-width: 100%;
+	margin: 25px 25px 0;
+	@media screen and (max-width: $mobile-breakpoint) {
+		margin: 0;
+	}
+}
