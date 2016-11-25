@@ -9,8 +9,8 @@ Thumbl: 2016-11-12_14h48m-RhysTyers-SonyRX100II-Jingling-DSC03356--thumb.jpg
 Thumbr: 2016-11-13_14h39m-RhysTyers-SonyRX100II-ValleyEntrance-DSC03391--thumb.jpg
 Authors: Rhys Tyers, Jarvist Frost
 Cavepeeps: DATE=2016-11-12; CAVE=Jingling Pot; PEOPLE=Rhys Tyers, Ben Honan, Carla Huynh, Liam Johnstone;
-           DATE=2016-11-12; CAVE=Aquamole; PEOPLE=Kenneth Tan, Peter Ganson, Kong You Liow, Guan;
-           DATE=2016-11-12; CAVE=Bull Pot; PEOPLE=Jarvist Frost, Isha Shaz, Rebecca Diss, James Wilson;
+           DATE=2016-11-12; CAVE=Aquamole Pot; PEOPLE=Kenneth Tan, Peter Ganson, Kong You Liow, Guan;
+           DATE=2016-11-12; CAVE=Bull Pot; PEOPLE=Jarvist Frost, Isha Shaz, Rebecca Diss, James Wilson;ß
            DATE=2016-11-13; CAVE=Valley Entrance; PEOPLE=Rhys Tyers, Jarvist Frost, Isha Shaz, James Wilson, Carla Huynh, Kong;
 
 {{ mainimg }}
@@ -25,7 +25,7 @@ Cavepeeps: DATE=2016-11-12; CAVE=Jingling Pot; PEOPLE=Rhys Tyers, Ben Honan, Car
 
 The weather was not promising as we ascended up the hill towards the Turbary Lane. Low clouds hung menacingly only a few meters above and as we reached the green lane, our helmets were brushing the fog. I walked into the field and confidently announced that I could see the Jingling tree, only as I approached it became obvious it was a tuft of grass. Luckily this was roughly in the correct direction and the real tree soon loomed out of the mist (Jingling is not hard to find after all).
 
-We said our goodbyes to the Aquamole team and Ben meandered into the cleft to begin rigging. Liam, Carla and I  chatted for bit, sheltering from the wind in the cleft until Ben was down the first pitch. I supervised first Clara, then Liam descending the couple metre drop and both were down relatively quickly. 
+We said our goodbyes to the Aquamole team and Ben meandered into the cleft to begin rigging. Liam, Carla and I  chatted for bit, sheltering from the wind in the cleft until Ben was down the first pitch. I supervised first Clara, then Liam descending the couple metre drop and both were down relatively quickly.
 
 Next the shimmy across the drippy ledge. By the time I got there Carla was already ab'ing down the other side. I took advantage of the open shaft to take some easy photos. I walk Liam through the slightly tricky mount, ab and dismount that gets you into the lateral cleft, and into the proper gloom of a cave. Down, down. No problems with our novices first deviation, nor with there first rebelay further down.
 
@@ -33,7 +33,7 @@ Next the shimmy across the drippy ledge. By the time I got there Carla was alrea
 
 We were soon huddled on the ledge above the final pitch. Liam needed some encouragement to get close enough to the edge to rig his descender properly. He descended and I followed. At the bottom I found a disgusting red blob, billowing and steaming, making awful, organic noises. Before I had time to dispatch it with my descender it spoke. Turned out to be Ben, beneath his Bothy bag. Liam and Carla had refused his Ben's offer of sharing body heat in the bag. I joined Ben briefly but the incredibly humid air was quite suffocating, to say nothing of the company so I exited quickly. It was warm though and a pretty interesting idea.
 
-Back up again, I kindly offered to derig (read: was guilted into it by Ben). Carla and Liam made a reasonable pace upwards and again managed most of the ascent quite competently. Liam has a bit of trouble midway up the cleft where a low pitch head makes getting off (fnar fnar) a little bit tough. Ben talked him through it and we were on our way again. 
+Back up again, I kindly offered to derig (read: was guilted into it by Ben). Carla and Liam made a reasonable pace upwards and again managed most of the ascent quite competently. Liam has a bit of trouble midway up the cleft where a low pitch head makes getting off (fnar fnar) a little bit tough. Ben talked him through it and we were on our way again.
 
 Once on the surface we ambled over to Aquamole where Ben had snared Kong in his Bothy bag. Kong had wisely refused to let Ben also enter the bag. Nonetheless Kong had become quite cold whilst waiting for the other Aquamolers and was quite grateful to be steaming in his own warmth. As Peter and Kenneth came up the final square shaft, we gathered round and screamed the chorus of "My Heart Will Go On" down at them. As encouragement. The sky had cleared a little bit allowing glimpses of the moon and stars.
 
@@ -63,9 +63,9 @@ I realised that it was possible to pull the climbers out of the worst of the spr
 
 ###Valley Entrance: Jarv, Rhys, Isha, Kong, James, Kong, Carla
 
-Plans were slowly drawn up in the morning. Many caves were suggested. Valley Entrance came up and I decided that I'd like to do it because amazingly I'd never been before. With me as a nucleation point we got packed and piled into the van. 
+Plans were slowly drawn up in the morning. Many caves were suggested. Valley Entrance came up and I decided that I'd like to do it because amazingly I'd never been before. With me as a nucleation point we got packed and piled into the van.
 
-We arrived at Kingsdale and piled back out onto the road. Emptying our kit onto the road Isha made a horrifying discovery. She'd left her oversuit at the NPC. She implored us to be taken back to the NPC to get it. Jarv and I, the drivers, engaged in a silent battle of wills over who would drive back. Jarv won. I wonder if he knew he was playing. Isha and I hopped back into the bus. I managed a three point turn in the turning place and more impressively managed to avoid hitting any of the 4 million doggers driving up the Kingsdale road. 
+We arrived at Kingsdale and piled back out onto the road. Emptying our kit onto the road Isha made a horrifying discovery. She'd left her oversuit at the NPC. She implored us to be taken back to the NPC to get it. Jarv and I, the drivers, engaged in a silent battle of wills over who would drive back. Jarv won. I wonder if he knew he was playing. Isha and I hopped back into the bus. I managed a three point turn in the turning place and more impressively managed to avoid hitting any of the 4 million doggers driving up the Kingsdale road.
 
 Handbrake turn in the NPC car park and then flying back up the hill again. Isha and I changed in record time. We wandered into the low stooping entrance, dry, then wading waist deep. As Iround each corner I try to listen for people, unable to tell if the faint noises are voices or sloshing water.
 
@@ -77,6 +77,6 @@ Some lovely walking streamway follows and then we turn off, into a muddy crawl w
 
 We head back to where we first entered the low streamway and notice that it is in fact a junction! An even lower streamway crawl leads off. James and Carla shoot off that way. Isha and Jarv follow. Kong has had enough so I accompany him out. Later we're told its only a few minutes up the lower crawl to the Aven. On the way out we stop at a couple of cascades and I try to photo Kong. At the second of the cascades my flash ends up in the fast flowing water, a final flash as it disappeared into the forth. I expected it to be in the downstream sump but after a 20 metre walk down stream we find it, clinging to a rock underwater [It lives on, btw, a few days of drying and its back to flashing unsuspecting people].
 
-As we get to the pitch, the others catch up and we head out together. Valley Entrance is a really lovely cave. Very nice Sunday trip as you quickly get into some fun streamway. 
+As we get to the pitch, the others catch up and we head out together. Valley Entrance is a really lovely cave. Very nice Sunday trip as you quickly get into some fun streamway.
 
 ####Rhys
