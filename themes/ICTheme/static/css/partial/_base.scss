@@ -1,5 +1,10 @@
 /*-----------------------------Global Page Properties-----------------------------*/
-html {}
+html {
+	@media screen and (max-width: $mobile-breakpoint) {
+		width: 100vw;
+		overflow-x: hidden;
+	}
+}
 body {
 	background-color: $light-grey;
 	color: $black;
@@ -11,6 +16,7 @@ body {
 	@media screen and (max-width: $mobile-breakpoint) {
 		margin: 0px;
 		padding: 0px;
+		width: 100vw;
 	}
 }
 /*-----------------------------Global Text and link properties-----------------------------*/
