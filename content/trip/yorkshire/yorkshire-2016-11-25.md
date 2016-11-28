@@ -22,3 +22,38 @@ Status: draft
 #####{{ allpeople }}
 
 ##Saturday
+
+>#####Roast Cauliflower Pilaf (feeds 15)
+
+>Total estimated time: 1 hour - lots of work chopping veg, but then it just needs to cook for a while.
+
+>You will need:
+>
+> * 2 kg rice
+> * 9 bell peppers, 1-2 cm dice
+> * 6 white onions sliced
+> * 1 bulb of garlic, mashed
+> * 4 red chillis, sliced thinly
+> * One ginger root, peeled and finely chopped
+. * Four small cauliflowers, chopped into small [florets](http://www.thekitchn.com/basic-technique-how-to-cut-cau-89495).
+> * 2 litres of hot vegetable stock
+> * Vegetable oil
+> * 1 block Butter
+> * Ground tumeric
+> * Ground cumin
+> * Raisins (optional)
+> * Pine nuts (optional)
+
+> Preheat the over to 180 C. Place the cauliflower in a roasting dish, toss in lots of oil and salt. Put in the oven and cook until slightly brown. Toss every fifteen minutes to cook evenly.
+>
+> Fry the onions on a medium heat in oil and salt until soft, add chillis, garlic and ginger and fry for a minute until aromatic.
+>
+> Add the bell peppers and cook for a few minutes until soft.
+>
+> Add the butter, stir till melted and increase the heat. Add the rice and cook for a few minutes until golden.
+>
+> Add the stock, stir on a high heat until it boils, then reduce to a simmer and cover.
+>
+> Add 1 tbsp of tumeric and 1 tbsp cumin, stir well and cook until the rice is soft, adding more hot water as necessary.
+>
+> Optional: Fry the pine nuts and raisins in butter, and add to the pilaf.
