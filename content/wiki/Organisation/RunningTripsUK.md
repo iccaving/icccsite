@@ -3,6 +3,8 @@ Title: RunningTripsUK
 Type: wiki
 Sections: Organisation
 
+What to do and when if you want to go caving.
+
 As long as possible in Advance
 ------------------------------
 
@@ -28,7 +30,7 @@ weekend.
 
 Permits for the classics (Lost Johns', Gaping Ghyll,  can be tricky to get if you wait until the term itself. As soon as you  have a plan, get the permits! 
 
-- The [CNCC website] is a fantastic resource for finding out what the access requirements are for Yorkshire caves.
+- The [CNCC website](http://www.cncc.org.uk/access/) is a fantastic resource for finding out what the access requirements are for Yorkshire caves.
 - Derbyshire tends to be turn up and pay the landowner a fee
 - Wales and Mendip vary between open access, permits, and fees.
 
@@ -74,17 +76,19 @@ Make sure that everyone releases that they're coming at this point; that everyth
 The Fateful Friday
 ------------------
 
-You need to:
+###Well before 5pm
 
--   Pick up keys from SAC; probably filling in some forms at the time. They'll tell you what and where. Check the minibus over before the SAC closes so you can try for a replacement if its broken.
--   Submit an 'Activity Registration' on eActivities. This requires a list of people going on the trip.
--   Pick up any hut keys if they've been posted down. Or make sure you have any pin codes for doors or lock boxes and know where the hut it (get a postcode, have a scout on streetview).
--   Pick up the minibus (you'll need a driver). Make sure they sign the hire form, and do all the magic checks. Its acceptable to drive over to outside stores before doing \_all\_ the checks - but at least make sure it has 4 wheels + etc. 
--   Sort out the freshers. Someone should be down at stores to open up, make sure everyone packs everything necessary & etc.
--   **Shopping**. This is a dark art. Its impossible to give a 'typical' shop list as tastes change, offers come and go - and strangest of all, caver's consumption of various foods is extremely seasonal. For instance, very little cheese is consumed in summer. Aim for less £5 per person per day. Don't forget to check what was left over from the last weekends, and also to occasionally buy the non-perishables (spices, pepper, etc.)
+- Pick up keys from SAC; probably filling in some forms at the time. They'll tell you what and where. Check the minibus over before the SAC closes so you can try for a replacement if its broken.
+- Submit an 'Activity Registration' on eActivities. This requires a list of people going on the trip.
+- Pick up any hut keys if they've been posted down. Or make sure you have any pin codes for doors or lock boxes and know where the hut it (get a postcode, have a scout on streetview).
 
-Never the less, here's an attempt at a 'things to remember'.
-[ThingsToBuy](https://union.ic.ac.uk/rcc/caving/old/wiki/edit.php?n=Main.ThingsToBuy)
+###Just before leaving
 
-Other useful
-[ThingsToBring](https://union.ic.ac.uk/rcc/caving/old/wiki/edit.php?n=Main.ThingsToBring)...
+- Sort out the freshers. Someone should be down at stores to open up, make sure everyone packs everything necessary & etc.
+- Make sure you've got everything. Here's a rough guide: [ThingsToBring](RunningTripsUK/ThingsToBring.md)...
+- Pick up the minibus (you'll need a driver). Make sure they sign the hire form, and do all the magic checks. Its acceptable to drive over to outside stores before doing all the checks - but at least make sure it has 4 wheels + etc. 
+
+###On the way
+
+- Shopping. This is a dark art. Its tricky to give a complete 'typical' shop list as tastes change, offers come and go etc. Never the less, here is a rough guide: [ThingsToBuy](RunningTripsUK/ThingsToBuy.md) Aim for less £5 per person per day. Don't forget to check what was left over from the last weekends, and also to occasionally buy the non-perishables (spices, pepper, etc.) 
+
