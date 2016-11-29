@@ -29,7 +29,7 @@ I'd not been on the first three trips this term, the first trips I'd missed sinc
 
 ###Bar Pot to Flood Entrance Pot: {{DATE=2016-11-26; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE=Jack Hare, Isabelle Grenville, Ash Stearn, Cecilia Kan;}}
 
-I came down to find Tanguy had started on breakfast, and I got stuck in with my favourite task, making eggy bread. The others filtered down, coaxed and herded by Cecilia. Quite soon we began working out who should go where. I felt I'd been excessively rude to Izzy the last time we met, so I contrived to have her on my team - what better way is there to say sorry than dragging someone into a dark hole in the ground? Ash was an obvious addition once I had Izzy, and I'd also promised James a day of hot caving based passion. Cecilia came along as a chaperone and possibly the only sane person in the group. 
+I came down to find Tanguy had started on breakfast, and I got stuck in with my favourite task, making eggy bread. The others filtered down, coaxed and herded by Cecilia. Quite soon we began working out who should go where. I felt I'd been excessively rude to Izzy the last time we met, so I contrived to have her on my team - what better way is there to say sorry than dragging someone into a dark hole in the ground? Ash was an obvious addition once I had Izzy, and I'd also promised James a day of hot caving based passion. Cecilia came along as a chaperone and possibly the only sane person in the group.
 
 The change at Clapham was quick and easy. I stopped to discard half of Ash's SRT gear, which was terrifying - core shot cowstails, a harness with a broken leg loop, a footloop that was hanging together by a thread. Izzy also had an experimental footloop that got replaced, and off we went. It was a glorious day, still, sunny and crisp. I quickly began to sweat, but I knew I'd want those thermals later. Ben's team were far faster than us, but kindly waited at all the decision points to make sure we found the way, and soon we were up on the limestone pavement. I'd never seen Gaping Ghyll from the top (!) so Rhys lead us over. Very impressive to see how much water is going in! We met a lady who was hiking with a laminated guide to the area, and she showed us information about past caving adventures in Gaping Ghyll.
 
@@ -88,6 +88,20 @@ No caving games were played, but Alex showed us his work with the digital elevat
 
 #####Jack Hare
 
+###Little Hull Pot {{DATE=2016-11-26; CAVE=Little Hull Pot; PEOPLE=Tanguy Rancine, Devansh Agarwal, Sam Page, Ho Yan Jin, Shaun Kong;}}
+
+The drive to Yorkshire was plagued with bad traffic. We reached at 1am, admired the sky (I've never seen so many stars in my entire life) and went to bed. I woke up to the sound of Cecelia's voice saying 'breakfast!' and was treated to an amazing array of French toast, bacon, baked beans, mushroom and sausage. It was really good.
+
+Tanguy, Sam, Devansh, Shaun and I headed for the Little Hull. The hour walk was upslope and tiring but the view was worth it. The group was a mixture of ice and mud which I thought was quite cool. We met hikers from Scotland who thought we’re crazy to drive all the way here. We got lost and when we finally found the place, Tanguy marked the location on his GPS with 'lul' or something like that. The entrance was small and hidden, which is probably why we missed it somehow.
+
+We started off with a lot of crawling. The wall was low and I had to crawl on my stomach, which was not particularly pleasant with many small rocks on the ground. My first time down the pitch was pretty terrifying. Being a novice, I felt my brain switching off and being unsure what to do. But thank God for the tree trainings that helped me get my hands moving when my head wasn't working, and Sam for refreshing my memory and providing reassurance. Getting past the initial fear, I admired the view as I slowly descended down this huge and beautiful pitch (I would later find out how unpleasantly tiring ascending that great height was). We helped ourselves to some freshly baked and delicious flapjacks as we took a break.
+
+Sam led the way forward through a squeezy route on the right before asking us to turn back as he hit a dead end. Surveying the grim, wet and dark path on the left, we unanimously agreed to turn back.
+
+On the way up the big pitch, Tanguy hooked on his food jammer and climbed up insanely fast with movement resembling a gecko’s. As I ascended, I spent quite awhile dangling at the rebelay attempting to hook the short cow’s tail in. Under Tanguy’s expert guidance and words of encouragement, I finally got out of that pitch. I walked forward and watched as Shaun was doing his rebelay, when suddenly something happened and he slipped a few feet down. Fortunately, he was supported by his hand jammer and long cow's tail on the next bit of rope. Unfortunately though, it was impossible for him to reach the loop and secure himself back up. Sam went down the rope to help him and went back up. Later I learned that Shaun forgot to clip on his chest jammer. Definitely a reminder for me on my next trip.
+
+#####Yan Jin
+
 ##Sunday
 
 ###Sell Gill (Sort of){{DATE=2016-11-27; CAVE=Sell Gill; PEOPLE=Jack Hare, Rhys Tyers, Ben Honan, Cecilia Kan, Alex Seaton, Devansh Agarwal, Shaun Kong, Carla Huynh;}}
@@ -102,3 +116,12 @@ A great weekend - my highlights were seeing blue sky from the bottom of Gaping G
 
 #####Jack Hare
 
+###Hunt Pot {{DATE=2016-11-27; CAVE=Hunt Pot; PEOPLE=Tanguy Rancine, Sam Page, Ho Yan Jin, Ryan Clark, James O'Hanlon;}}
+
+The next day, I woke up early enough to help with the breakfast. I thoroughly enjoyed taking over Jack’s job of cracking and whisking eggs, and made french toast with Ryan. Later, Tanguy, Sam, James, Ryan and I headed to the Hunt Pot.
+
+The Hunt Pot entrance was magnificently huge and filled with water. I stumbled a little and took some time doing the rebelay, but James was really nice and reassured me that it was alright. His singing was also somewhat soothing. As I descended, I took time to admire the rock formations and gigantic waterfall, bearing in mind that this was my last descent of the weekend. I got splashed in the face, my glasses were soaked and I felt disoriented without my vision. I then heard Tanguy’s voice reminding me to switch on my head lights and I slowly regained a sense of reality. We found a slightly cozy corner away from the water to keep warm while waiting.
+
+On the way up, I did the first re belay and waited for the next rope to be free. That took quite awhile and I was shivering in the cold with a mixture of light rain and heavy waterfall on me, feeling very thankful that I wore thermals. There is also some sense of satisfaction and happiness hanging in mid air all by myself. We all got out when the sky was still bright and took time to admire the scenery and take nice photos. We headed back with two dogs circling us (mainly James) for half the journey. We treated ourselves to crumpets with brie and toasts with cheddar before heading on a long drive back. Truly a well spent weekend away.
+
+#####Yan Jin
