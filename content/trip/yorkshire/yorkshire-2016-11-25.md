@@ -61,7 +61,7 @@ Back at the hut, Tanguy's group arrived back at the same time, and I made Roast 
 > * 1 bulb of garlic, mashed
 > * 4 red chillis, sliced thinly
 > * One ginger root, peeled and finely chopped
-. * Four small cauliflowers, chopped into small [florets](http://www.thekitchn.com/basic-technique-how-to-cut-cau-89495).
+> * Four small cauliflowers, chopped into small [florets](http://www.thekitchn.com/basic-technique-how-to-cut-cau-89495).
 > * 2 litres of hot vegetable stock
 > * Vegetable oil
 > * 1 block Butter
