@@ -85,10 +85,10 @@ The Fateful Friday
 ###Just before leaving
 
 - Sort out the freshers. Someone should be down at stores to open up, make sure everyone packs everything necessary & etc.
-- Make sure you've got everything. Here's a rough guide: [ThingsToBring](RunningTripsUK/ThingsToBring.md)...
+- Make sure you've got everything. Here's a rough guide: [ThingsToBring](ThingsToBring.md)...
 - Pick up the minibus (you'll need a driver). Make sure they sign the hire form, and do all the magic checks. Its acceptable to drive over to outside stores before doing all the checks - but at least make sure it has 4 wheels + etc. 
 
 ###On the way
 
-- Shopping. This is a dark art. Its tricky to give a complete 'typical' shop list as tastes change, offers come and go etc. Never the less, here is a rough guide: [ThingsToBuy](RunningTripsUK/ThingsToBuy.md) Aim for less £5 per person per day. Don't forget to check what was left over from the last weekends, and also to occasionally buy the non-perishables (spices, pepper, etc.) 
+- Shopping. This is a dark art. Its tricky to give a complete 'typical' shop list as tastes change, offers come and go etc. Never the less, here is a rough guide: [ThingsToBuy](ThingsToBuy.md) Aim for less £5 per person per day. Don't forget to check what was left over from the last weekends, and also to occasionally buy the non-perishables (spices, pepper, etc.) 
 
