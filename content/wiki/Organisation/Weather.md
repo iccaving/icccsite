@@ -5,12 +5,9 @@ Type: wiki
 
 **Met Office Mountain Forecasts (Recommended!)**
 
--   <http://www.metoffice.com/loutdoor/mountainsafety/yorkshiredales/yorkshiredales_forecast_print.html>
-    **Dales**
--   <http://www.metoffice.com/loutdoor/mountainsafety/brecon/brecon_forecast_print.html>
-    **Brecon**
--   <http://www.metoffice.com/loutdoor/mountainsafety/peakdistrict/peakdistrict_forecast_print.html>
-    **Peaks**
+-   [The Yorkshire Dales](http://www.metoffice.com/loutdoor/mountainsafety/yorkshiredales/yorkshiredales_forecast_print.html)
+-   [The Welsh Brecon Beacons](http://www.metoffice.com/loutdoor/mountainsafety/brecon/brecon_forecast_print.html)
+-   [The Derbyshire Peak District](http://www.metoffice.com/loutdoor/mountainsafety/peakdistrict/peakdistrict_forecast_print.html)
 
 **Met Office Regional Breakdown:**
 
