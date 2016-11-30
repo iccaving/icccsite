@@ -1,4 +1,4 @@
-Title: Yorkshire 2
+Title: Yorkshire II
 Date: 2016-11-25
 Location: Yorkshire
 Summary: Our second trip of the year, and in a break from tradition we stayed at the Bradford Pothole Club's hut in Brackenbottom, lovingly known as the Dump. We did the classic Flood/Bar exchange in Gaping Ghyll, with a splinter team to Little Hull, and on Sunday one trip went to Hunt pot, whilst the others tried to do a Sell Gill exchange.
@@ -7,9 +7,9 @@ Photoarchive:
 Mainimg:
 Thumbl:
 Thumbr:
-Authors: Jack Hare
+Authors: Jack Hare, Ho Yan Jin, Ben Honan 
 Cavepeeps: DATE=2016-11-26; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE=Jack Hare, Isabelle Grenville, Ash Stearn, Cecilia Kan;
-           DATE=2016-11-26; CAVE=Flood Entrance Pot> Bar Pot; PEOPLE=Ben Honan, Carla Huynh, Alex Seaton, Ryan Clark;
+           DATE=2016-11-26; CAVE=Flood Entrance Pot > Bar Pot; PEOPLE=Ben Honan, Carla Huynh, Alex Seaton, Ryan Clark;
            DATE=2016-11-26; CAVE=Bar Pot; PEOPLE=James O'Hanlon;
            DATE=2016-11-26; CAVE=Flood Entrance Pot; PEOPLE=Rhys Tyers;
            DATE=2016-11-26; CAVE=Little Hull Pot; PEOPLE=Tanguy Rancine, Devansh Agarwal, Sam Page, Ho Yan Jin, Shaun Kong;
@@ -24,6 +24,12 @@ Status: draft
 ##Friday
 
 I'd not been on the first three trips this term, the first trips I'd missed since January 2014(!). Given that, I knew very few of the novices and it was bewildering not to know everyone's name. It was also my first time driving the minibus, and what a rush it was! Alex had pre-bought all the food at Leamington Spa Morrisons in partial payment for membership this year (I won't bore you with the degrading filth he had to do to pay for the rest of his membership) and even though it only filled one trolley we couldn't spot anything missing. I confidently sat in the seat of the minibus working out where the indicators were, and then nervously stalled immediately. Once I got going, driving was easy and fun - it's impressive how little you need to change gear, it's either sixth or first if you're on the level. Brackenbottom and the Dump were easy to find, and we all went to bed shortly after arriving.
+
+#####Jack
+
+Heavy traffic on the M2 delayed us quite a bit. This meant we only arrived at the BPC hut, the dump, at around 2am. Getting to the BPC involved going up an insane little lane almost the width of the minibus, but all was well. Other snoring visitors made it slightly difficult to get to sleep.
+
+#####Ben
 
 ##Saturday
 
@@ -102,6 +108,26 @@ On the way up the big pitch, Tanguy hooked on his food jammer and climbed up ins
 
 #####Yan Jin
 
+###Flood to Bar: {{ DATE=2016-11-26; CAVE=Flood Entrance Pot > Bar Pot; }}
+
+People seemed to function on about 6 hours of sleep. Don’t know why we got up so early. I only got around 5 hours and was one of the last to get up… This meant I hardly ate any breakfast as it was all eaten. Teams were made: Rhys, me, Ryan and Carla were to exchange from Wades’ entrance (Flood) to Bar pot. I had never been to Gaping Gill and was very excited to finally see the main chamber. 
+
+A slightly hidden and unsuspecting entrance opened up to a slightly right rift. Rhys rigged the pitch and Ryan and Carla competently followed down. A bit of low stooping and crawling in a rocky rift emerged to another small pitch and then another. Rhys ran out of rope and it was my turn to rig. The fourth “pitch” was described as a climb with a handline in the rigging guide; however after later discussion with the Bar team, this would be more appropriately rigged as a line you ascend upon. A small horizontal rift to the right emerged to the flood entrance main shaft. This was an impressive beast and a pleasure to rig! We were lucky with the weather; the Dales had remained relatively dry over past week and we were treated to beautiful blue skies in the morning. This meant the waterfall that I suspect would usually be a foaming torrent was far more inviting than usual.
+
+After taking a while to spot the bolts in the ceiling, I was soon off to rig the hanging rebelay halfway down the drop. On the way down I found it difficult to spot the naturals for the deviations that were described in the rigging guide. I found one bit of red tat on the opposite far wall of the shaft. After a few attempts I managed to swing all the way across and attach myself to the tat. After further inspection, I decided not to rig a deviation here. One deviation later I was at the bottom. “Eyyyoo”, Jack was at the bottom. I was amused to see his team appear just as we were descending down the main shaft. We chatted for a bit, took some pictures and Jack’s team was soon off to the main chamber. My team competently negotiated the hanging rebelay - I thought it would take them longer, I was very impressed! 
+
+Getting slightly cold, on the move we were for the main chamber. The description just said to follow the draught. So that we did. Most of us had a go of following said draft, twas fun. After a bit of squeezing, crawling and stooping, we were in the main chamber!
+
+The main chamber is incredible, much bigger than I thought it would be. We were lucky enough to see the daylight piercing through. This, coupled with people’s spotlights illuminating the spray from the waterfall created an awesome atmosphere. 
+
+Unfortunately we weren’t able to get the flash to work and so weren’t able to get a group photo.
+
+It was decided for Rhys to swap with James such as to provide assistance for Izzy and Ash on exiting. James, Alex, Carla and I were off. A 30m pitch followed by a very twatty ascent lead to small climb through some boulders. The inclined squeeze which followed was slightly twatty with a tackle sack, but not too bad. After the squeeze, a small ascent through a slightly tight crevice lead us to the top of Bar pot! A very satisfying trip!
+
+We decided just to have a look at Wades’ entrance - it’s not too far. After telling Ash that we were to exit via the main Ingleborough route we followed the main path, met some slackliners and eventually made our way back to the minibus. It wasn’t long before we were back at The Dump. We were all quite tired so no caving games were played. Some people geeked out over the Migovec survey.
+
+#####Ben
+
 ##Sunday
 
 ###Sell Gill (Sort of){{DATE=2016-11-27; CAVE=Sell Gill;}}
@@ -115,6 +141,13 @@ We walked back, not exactly dejected because the weather was lovely, but somewha
 A great weekend - my highlights were seeing blue sky from the bottom of Gaping Ghyll and meeting so many of the awesome new novices we have this year.
 
 #####Jack Hare
+
+My team decided on going to Sells’ Gill. This meant for quite a long walk through Horton in Ribblesdale and eventually on the Pennine way. After following the Pennine way for around 25 minutes we saw another group changing outside of Sells’ Gill. There were a group of about 15 Durham cavers on a complete novice SRT trip doing some of the pitches as SRT practise. This meant that only some of my team could descend the first pitch until we decided to go back out. We then bimbled in the short streamway following the Goblin route entrance. Slightly disappointing - but hey at least we did some caving and a nice walk.
+
+
+At the BPC we were met with a very enthusiastic Hunt Pot team. We packed up and off we were back to London. We left quite early at around 4pm and arrived at around 22:30.
+
+#####Ben
 
 ###Hunt Pot {{DATE=2016-11-27; CAVE=Hunt Pot;}}
 
