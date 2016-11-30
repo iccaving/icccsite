@@ -4,9 +4,9 @@ Location: Yorkshire
 Summary: Our second trip of the year, and in a break from tradition we stayed at the Bradford Pothole Club's hut in Brackenbottom, lovingly known as the Dump. We did the classic Flood/Bar exchange in Gaping Ghyll, with a splinter team to Little Hull, and on Sunday one trip went to Hunt pot, whilst the others tried to do a Sell Gill exchange.
 Type: trip
 Photoarchive:
-Mainimg:
-Thumbl:
-Thumbr:
+Mainimg: 2016-11-26_16h31m-RhysTyers-SonyRX100II-GapingGhyll-DSC03494.jpg
+Thumbl: 2016-11-27_13h37m-TanguyRacine-NikonD3200-HuntPot-DSC_0154--thumb.jpg 
+Thumbr: 2016-11-26_15h13m-RhysTyers-SonyRX100II-GapingGhyll-DSC03449--thumb.jpg
 Authors: Jack Hare, Ho Yan Jin, Ben Honan 
 Cavepeeps: DATE=2016-11-26; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE=Jack Hare, Isabelle Grenville, Ash Stearn, Cecilia Kan;
            DATE=2016-11-26; CAVE=Flood Entrance Pot > Bar Pot; PEOPLE=Ben Honan, Carla Huynh, Alex Seaton, Ryan Clark;
