@@ -27,7 +27,7 @@ I'd not been on the first three trips this term, the first trips I'd missed sinc
 
 ##Saturday
 
-###Bar Pot to Flood Entrance Pot: {{DATE=2016-11-26; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE=Jack Hare, Isabelle Grenville, Ash Stearn, Cecilia Kan;}}
+###Bar Pot to Flood Entrance Pot: {{DATE=2016-11-26; CAVE=Bar Pot > Flood Entrance Pot;}}
 
 I came down to find Tanguy had started on breakfast, and I got stuck in with my favourite task, making eggy bread. The others filtered down, coaxed and herded by Cecilia. Quite soon we began working out who should go where. I felt I'd been excessively rude to Izzy the last time we met, so I contrived to have her on my team - what better way is there to say sorry than dragging someone into a dark hole in the ground? Ash was an obvious addition once I had Izzy, and I'd also promised James a day of hot caving based passion. Cecilia came along as a chaperone and possibly the only sane person in the group.
 
@@ -88,7 +88,7 @@ No caving games were played, but Alex showed us his work with the digital elevat
 
 #####Jack Hare
 
-###Little Hull Pot {{DATE=2016-11-26; CAVE=Little Hull Pot; PEOPLE=Tanguy Rancine, Devansh Agarwal, Sam Page, Ho Yan Jin, Shaun Kong;}}
+###Little Hull Pot {{DATE=2016-11-26; CAVE=Little Hull Pot;}}
 
 The drive to Yorkshire was plagued with bad traffic. We reached at 1am, admired the sky (I've never seen so many stars in my entire life) and went to bed. I woke up to the sound of Cecelia's voice saying 'breakfast!' and was treated to an amazing array of French toast, bacon, baked beans, mushroom and sausage. It was really good.
 
@@ -104,7 +104,7 @@ On the way up the big pitch, Tanguy hooked on his food jammer and climbed up ins
 
 ##Sunday
 
-###Sell Gill (Sort of){{DATE=2016-11-27; CAVE=Sell Gill; PEOPLE=Jack Hare, Rhys Tyers, Ben Honan, Cecilia Kan, Alex Seaton, Devansh Agarwal, Shaun Kong, Carla Huynh;}}
+###Sell Gill (Sort of){{DATE=2016-11-27; CAVE=Sell Gill;}}
 
 The plan was a Sell Gill wet route/dry route exchange. On the way up we caught sight of a caving group ahead of us, so we knew it might be a bit of a wait. It turned out to be DUCC with some complete novices - no criticism intended, just meant that the dry route was impassable. Rhys, Carla and I dropped down the Wet Route behind some people from the Orpheus, Rhys rigging. It was far less wet than my previous trip on Winter Tour, but I still love the dive into the bedding plane half way down one pitch. Carla handled everything with ease, even the slightly nasty short rebelay just after the initial traverse. Eventually we had to turn round becauser the Orpheus people wanted to come up.
 
@@ -116,7 +116,7 @@ A great weekend - my highlights were seeing blue sky from the bottom of Gaping G
 
 #####Jack Hare
 
-###Hunt Pot {{DATE=2016-11-27; CAVE=Hunt Pot; PEOPLE=Tanguy Rancine, Sam Page, Ho Yan Jin, Ryan Clark, James O'Hanlon;}}
+###Hunt Pot {{DATE=2016-11-27; CAVE=Hunt Pot;}}
 
 The next day, I woke up early enough to help with the breakfast. I thoroughly enjoyed taking over Jack’s job of cracking and whisking eggs, and made french toast with Ryan. Later, Tanguy, Sam, James, Ryan and I headed to the Hunt Pot.
 
