@@ -29,7 +29,7 @@ window.addEventListener("load", function() {
   }, false);
 
   window.addEventListener('resize', function() {
-    if (window.innerWidth < 750) {
+    if (window.innerWidth > 750) {
       leftCol.removeAttribute('style');
       centreCol.removeAttribute('style');
       sidebarCloser.style.display = "none";

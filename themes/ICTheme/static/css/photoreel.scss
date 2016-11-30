@@ -4,6 +4,8 @@ div.photoreel-container {
     margin: auto;
     height: 400px;
     overflow: hidden;
+    transition-property: height;
+    transition-duration: 0.5s;
 }
 div.photoreel-left, div.photoreel-right {
     display: inline-block;
