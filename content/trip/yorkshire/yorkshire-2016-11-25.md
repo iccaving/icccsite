@@ -175,7 +175,7 @@ A great weekend - my highlights were seeing blue sky from the bottom of Gaping G
 
 #####Jack Hare
 
-{"Shaun penetrates only a small way into the decidedly un-virgin depths of Sell Gill." right}(2016-11-27_14h49m-BenHonan-PowerShotS95-SellGill-IMG_0380)
+{"Shaun penetrates only a small way into the decidedly un-virgin depths of Sell Gill." right}(2016-11-27_14h49m-BenHonan-PowerShotS95-SellGill-IMG_0380.jpg)
 
 My team decided on going to Sells’ Gill. This meant for quite a long walk through Horton in Ribblesdale and eventually on the Pennine way. After following the Pennine way for around 25 minutes we saw another group changing outside of Sells’ Gill. There were a group of about 15 Durham cavers on a complete novice SRT trip doing some of the pitches as SRT practise. This meant that only some of my team could descend the first pitch until we decided to go back out. We then bimbled in the short streamway following the Goblin route entrance. Slightly disappointing - but hey at least we did some caving and a nice walk.
 
@@ -184,7 +184,7 @@ At the BPC we were met with a very enthusiastic Hunt Pot team. We packed up and 
 
 ###Hunt Pot {{DATE=2016-11-27; CAVE=Hunt Pot;}}
 
-{"Tanguy descends into Hunt Pot." left}(2016-11-27_11h50m-TanguyRacine-NikonD3200-HuntPot-DSC_0119jpg)
+{"Tanguy descends into Hunt Pot." left}(2016-11-27_11h50m-TanguyRacine-NikonD3200-HuntPot-DSC_0119.jpg)
 
 The next day, I woke up early enough to help with the breakfast. I thoroughly enjoyed taking over Jack’s job of cracking and whisking eggs, and made french toast with Ryan. Later, Tanguy, Sam, James, Ryan and I headed to the Hunt Pot.
 
