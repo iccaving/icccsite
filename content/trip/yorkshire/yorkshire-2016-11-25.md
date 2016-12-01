@@ -189,7 +189,7 @@ But yeh. Sell Gill wet route is lovely! I would definitely recommend it as riggi
 
 It's a shame we didn't get to the bottom. I saw the group of 8 people waiting in the large chamber and, concerned it was the Durham novices, decided that I didn't want to wait behind them on the way out and turned back. They turned out to be from the Orpheus and despite having a Little 'Un with them they were pretty quick on the way up behind us so perhaps it would've been fine after all.
 
-#####Rhys
+####Rhys
 
 ###Hunt Pot: {{DATE=2016-11-27; CAVE=Hunt Pot;}}
 
