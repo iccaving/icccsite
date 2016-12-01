@@ -8,7 +8,7 @@ Mainimg: 2016-11-26_08h46m-TanguyRacine-NikonD3200-LittleHullPot-DSC_0057.jpg
 Thumbl: 2016-11-27_11h50m-TanguyRacine-NikonD3200-HuntPot-DSC_0112--thumb.jpg
 Thumbr: 2016-11-26_15h13m-RhysTyers-SonyRX100II-GapingGhyll-DSC03449--thumb.jpg
 Authors: Jack Hare, Ben Honan, Isabelle Grenville, Ash Stearn, Ryan Clark, Ho Yan Jin, Rhys Tyers, Tanguy Racine;
-Cavepeeps: DATE=2016-11-26; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE=Jack Hare, Isabelle Grenville, Ash Stearn, Cecilia Kan;
+Cavepeeps: DATE=2016-11-26; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE=Jack Hare, Isabelle Grenville, Ashley Stearn, Cecilia Kan;
            DATE=2016-11-26; CAVE=Flood Entrance Pot > Bar Pot; PEOPLE=Ben Honan, Carla Huynh, Alex Seaton, Ryan Clark;
            DATE=2016-11-26; CAVE=Bar Pot; PEOPLE=James O'Hanlon;
            DATE=2016-11-26; CAVE=Flood Entrance Pot; PEOPLE=Rhys Tyers;
