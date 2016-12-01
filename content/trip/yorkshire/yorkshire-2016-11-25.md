@@ -26,7 +26,7 @@ I'd not been on the first three trips this term, the first trips I'd missed sinc
 
 ####Jack Hare
 
-Heavy traffic on the M2 delayed us quite a bit. This meant we only arrived at the BPC hut, the dump, at around 2am. Getting to the BPC involved going up an insane little lane almost the width of the minibus, but all was well. Other snoring visitors made it slightly difficult to get to sleep.
+Heavy traffic on the M42 delayed us quite a bit. This meant we only arrived at the BPC hut, the dump, at around 2am. Getting to the BPC involved going up an insane little lane almost the width of the minibus, but all was well. Other snoring visitors made it slightly difficult to get to sleep.
 
 ####Ben Honan
 
