@@ -4,17 +4,9 @@ Location: Yorkshire
 Summary: Our second trip of the year, and in a break from tradition we stayed at the Bradford Pothole Club's hut in Brackenbottom, lovingly known as the Dump. We did the classic Flood/Bar exchange in Gaping Ghyll, with a splinter team to Little Hull, and on Sunday one trip went to Hunt pot, whilst the others tried to do a Sell Gill exchange.
 Type: trip
 Photoarchive:
-<<<<<<< HEAD
 Mainimg: 2016-11-26_08h46m-TanguyRacine-NikonD3200-LittleHullPot-DSC_0057.jpg
 Thumbl: 2016-11-27_11h50m-TanguyRacine-NikonD3200-HuntPot-DSC_0112--thumb.jpg
-Thumbr:
 Authors: Jack Hare, Ben Honan, Isabelle Grenville, Ash Stearn, Ryan Clark, Ho Yan Jin;
-=======
-Mainimg: 2016-11-26_16h31m-RhysTyers-SonyRX100II-GapingGhyll-DSC03494.jpg
-Thumbl: 2016-11-27_13h37m-TanguyRacine-NikonD3200-HuntPot-DSC_0154--thumb.jpg 
-Thumbr: 2016-11-26_15h13m-RhysTyers-SonyRX100II-GapingGhyll-DSC03449--thumb.jpg
-Authors: Jack Hare, Ho Yan Jin, Ben Honan 
->>>>>>> origin/master
 Cavepeeps: DATE=2016-11-26; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE=Jack Hare, Isabelle Grenville, Ash Stearn, Cecilia Kan;
            DATE=2016-11-26; CAVE=Flood Entrance Pot > Bar Pot; PEOPLE=Ben Honan, Carla Huynh, Alex Seaton, Ryan Clark;
            DATE=2016-11-26; CAVE=Bar Pot; PEOPLE=James O'Hanlon;
@@ -22,7 +14,6 @@ Cavepeeps: DATE=2016-11-26; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE=Jack Hare,
            DATE=2016-11-26; CAVE=Little Hull Pot; PEOPLE=Tanguy Rancine, Devansh Agarwal, Sam Page, Ho Yan Jin, Shaun Kong;
            DATE=2016-11-27; CAVE=Hunt Pot; PEOPLE=Tanguy Rancine, Sam Page, Ho Yan Jin, Ryan Clark, James O'Hanlon;
            DATE=2016-11-27; CAVE=Sell Gill; PEOPLE=Jack Hare, Rhys Tyers, Ben Honan, Cecilia Kan, Alex Seaton, Devansh Agarwal, Shaun Kong, Carla Huynh;
-Status: draft
 
 {{ mainimg }}
 {{ photolink }}
@@ -32,19 +23,11 @@ Status: draft
 
 I'd not been on the first three trips this term, the first trips I'd missed since January 2014(!). Given that, I knew very few of the novices and it was bewildering not to know everyone's name. It was also my first time driving the minibus, and what a rush it was! Alex had pre-bought all the food at Leamington Spa Morrisons in partial payment for membership this year (I won't bore you with the degrading filth he had to do to pay for the rest of his membership) and even though it only filled one trolley we couldn't spot anything missing. I confidently sat in the seat of the minibus working out where the indicators were, and then nervously stalled immediately. Once I got going, driving was easy and fun - it's impressive how little you need to change gear, it's either sixth or first if you're on the level. Brackenbottom and the Dump were easy to find, and we all went to bed shortly after arriving.
 
-<<<<<<< HEAD
 ##### Jack Hare
 
 Heavy traffic on the M2 delayed us quite a bit. This meant we only arrived at the BPC hut, the dump, at around 2am. Getting to the BPC involved going up an insane little lane almost the width of the minibus, but all was well. Other snoring visitors made it slightly difficult to get to sleep.
 
 ##### Ben Honan
-=======
-#####Jack
-
-Heavy traffic on the M2 delayed us quite a bit. This meant we only arrived at the BPC hut, the dump, at around 2am. Getting to the BPC involved going up an insane little lane almost the width of the minibus, but all was well. Other snoring visitors made it slightly difficult to get to sleep.
-
-#####Ben
->>>>>>> origin/master
 
 ##Saturday
 
@@ -63,6 +46,8 @@ The second pitch is so soon, it barely seems like any distance. The rigging guid
 The rest of my group joined me, and we rigged the traverse round Hensler's Pot to meet up with Ben, who was having a good time. As his group were still coming down, my group proceeded through the crawls to the main chamber - always a surprisingly long journey, and the pebble beds are unpleasant. I showed Ash and Izzy how to scurry, prompting Izzy to invent and sing 'Scurrying Man', a homage to my skill/weirdness. I regret not letting a novices lead the way in retrospect, it's fun having a go at following the draught.
 
 The main chamber was spectacular. I've never seen it in sunlight, and though it was already getting dark at 3, the waterfall was well illuminated. I stood near the spray as close and for as long as my fabric oversuit would allow me to, before retreating to a sand bank to ponder the awesome scale of this place. To warm up, I lead the group to a neat dig on the north side of the chamber - up a muddy boulder slope there is a set of mine cart tracks leading down into a well compacted crawl. Izzy was very enthusiastic and plunged on ahead, heedless of my calls to slow down. Eventually she got a bit stuck and decided it was time to turn back, and we rejoined the rest of our group just as Ben's group emerged.
+
+{"Attempting to take flash photos in the main chamber." right}(2016-11-26_16h30m-RhysTyers-SonyRX100II-GapingGhyll-DSC03486.jpg)
 
 In the main chamber Rhys tried unsuccessfully to take flash photos - both his flash and mine were having problems. I persuaded Rhys to swap with James for my team on the way out so we had a really good caver above the novices - in return I promised to derig. On the crawls back to Hensler's pot I explained deviations and hanging rebelays to Izzy and Ash, who didn't know what a krab was - time well spent. Rhys went up first, followed quickly by Ash who tackled the deviation quite well (though he required some persuasion to let go of the sling and swing backwards). Izzy and I chatted, sang Disney songs and pondered life as we waited for Cecilia to climb, and all too soon it was Izzy's turn.
 
@@ -158,15 +143,15 @@ On the way up the big pitch, Tanguy hooked on his food jammer and climbed up ins
 
 ###Flood to Bar: {{ DATE=2016-11-26; CAVE=Flood Entrance Pot > Bar Pot; }}
 
-People seemed to function on about 6 hours of sleep. Don’t know why we got up so early. I only got around 5 hours and was one of the last to get up… This meant I hardly ate any breakfast as it was all eaten. Teams were made: Rhys, me, Ryan and Carla were to exchange from Wades’ entrance (Flood) to Bar pot. I had never been to Gaping Gill and was very excited to finally see the main chamber. 
+People seemed to function on about 6 hours of sleep. Don’t know why we got up so early. I only got around 5 hours and was one of the last to get up… This meant I hardly ate any breakfast as it was all eaten. Teams were made: Rhys, me, Ryan and Carla were to exchange from Wades’ entrance (Flood) to Bar pot. I had never been to Gaping Gill and was very excited to finally see the main chamber.
 
 A slightly hidden and unsuspecting entrance opened up to a slightly right rift. Rhys rigged the pitch and Ryan and Carla competently followed down. A bit of low stooping and crawling in a rocky rift emerged to another small pitch and then another. Rhys ran out of rope and it was my turn to rig. The fourth “pitch” was described as a climb with a handline in the rigging guide; however after later discussion with the Bar team, this would be more appropriately rigged as a line you ascend upon. A small horizontal rift to the right emerged to the flood entrance main shaft. This was an impressive beast and a pleasure to rig! We were lucky with the weather; the Dales had remained relatively dry over past week and we were treated to beautiful blue skies in the morning. This meant the waterfall that I suspect would usually be a foaming torrent was far more inviting than usual.
 
-After taking a while to spot the bolts in the ceiling, I was soon off to rig the hanging rebelay halfway down the drop. On the way down I found it difficult to spot the naturals for the deviations that were described in the rigging guide. I found one bit of red tat on the opposite far wall of the shaft. After a few attempts I managed to swing all the way across and attach myself to the tat. After further inspection, I decided not to rig a deviation here. One deviation later I was at the bottom. “Eyyyoo”, Jack was at the bottom. I was amused to see his team appear just as we were descending down the main shaft. We chatted for a bit, took some pictures and Jack’s team was soon off to the main chamber. My team competently negotiated the hanging rebelay - I thought it would take them longer, I was very impressed! 
+After taking a while to spot the bolts in the ceiling, I was soon off to rig the hanging rebelay halfway down the drop. On the way down I found it difficult to spot the naturals for the deviations that were described in the rigging guide. I found one bit of red tat on the opposite far wall of the shaft. After a few attempts I managed to swing all the way across and attach myself to the tat. After further inspection, I decided not to rig a deviation here. One deviation later I was at the bottom. “Eyyyoo”, Jack was at the bottom. I was amused to see his team appear just as we were descending down the main shaft. We chatted for a bit, took some pictures and Jack’s team was soon off to the main chamber. My team competently negotiated the hanging rebelay - I thought it would take them longer, I was very impressed!
 
 Getting slightly cold, on the move we were for the main chamber. The description just said to follow the draught. So that we did. Most of us had a go of following said draft, twas fun. After a bit of squeezing, crawling and stooping, we were in the main chamber!
 
-The main chamber is incredible, much bigger than I thought it would be. We were lucky enough to see the daylight piercing through. This, coupled with people’s spotlights illuminating the spray from the waterfall created an awesome atmosphere. 
+The main chamber is incredible, much bigger than I thought it would be. We were lucky enough to see the daylight piercing through. This, coupled with people’s spotlights illuminating the spray from the waterfall created an awesome atmosphere.
 
 Unfortunately we weren’t able to get the flash to work and so weren’t able to get a group photo.
 
@@ -190,23 +175,22 @@ A great weekend - my highlights were seeing blue sky from the bottom of Gaping G
 
 #####Jack Hare
 
+{"Shaun penetrates only a small way into the decidedly un-virgin depths of Sell Gill." right}(2016-11-27_14h49m-BenHonan-PowerShotS95-SellGill-IMG_0380)
+
 My team decided on going to Sells’ Gill. This meant for quite a long walk through Horton in Ribblesdale and eventually on the Pennine way. After following the Pennine way for around 25 minutes we saw another group changing outside of Sells’ Gill. There were a group of about 15 Durham cavers on a complete novice SRT trip doing some of the pitches as SRT practise. This meant that only some of my team could descend the first pitch until we decided to go back out. We then bimbled in the short streamway following the Goblin route entrance. Slightly disappointing - but hey at least we did some caving and a nice walk.
 
-<<<<<<< HEAD
 At the BPC we were met with a very enthusiastic Hunt Pot team. We packed up and off we were back to London. We left quite early at around 4pm and arrived at around 22:30.
 #####Ben Honan
-=======
-
-At the BPC we were met with a very enthusiastic Hunt Pot team. We packed up and off we were back to London. We left quite early at around 4pm and arrived at around 22:30.
-
-#####Ben
->>>>>>> origin/master
 
 ###Hunt Pot {{DATE=2016-11-27; CAVE=Hunt Pot;}}
+
+{"Tanguy descends into Hunt Pot." left}(2016-11-27_11h50m-TanguyRacine-NikonD3200-HuntPot-DSC_0119jpg)
 
 The next day, I woke up early enough to help with the breakfast. I thoroughly enjoyed taking over Jack’s job of cracking and whisking eggs, and made french toast with Ryan. Later, Tanguy, Sam, James, Ryan and I headed to the Hunt Pot.
 
 The Hunt Pot entrance was magnificently huge and filled with water. I stumbled a little and took some time doing the rebelay, but James was really nice and reassured me that it was alright. His singing was also somewhat soothing. As I descended, I took time to admire the rock formations and gigantic waterfall, bearing in mind that this was my last descent of the weekend. I got splashed in the face, my glasses were soaked and I felt disoriented without my vision. I then heard Tanguy’s voice reminding me to switch on my head lights and I slowly regained a sense of reality. We found a slightly cozy corner away from the water to keep warm while waiting.
+
+{"Looking down onto Hunt Pot." right}(2016-11-27_13h39m-TanguyRacine-NikonD3200-HuntPot-DSC_0163.jpg)
 
 On the way up, I did the first re belay and waited for the next rope to be free. That took quite awhile and I was shivering in the cold with a mixture of light rain and heavy waterfall on me, feeling very thankful that I wore thermals. There is also some sense of satisfaction and happiness hanging in mid air all by myself. We all got out when the sky was still bright and took time to admire the scenery and take nice photos. We headed back with two dogs circling us (mainly James) for half the journey. We treated ourselves to crumpets with brie and toasts with cheddar before heading on a long drive back. Truly a well spent weekend away.
 
