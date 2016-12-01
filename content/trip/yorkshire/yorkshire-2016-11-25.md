@@ -6,6 +6,7 @@ Type: trip
 Photoarchive:
 Mainimg: 2016-11-26_08h46m-TanguyRacine-NikonD3200-LittleHullPot-DSC_0057.jpg
 Thumbl: 2016-11-27_11h50m-TanguyRacine-NikonD3200-HuntPot-DSC_0112--thumb.jpg
+Thumbr: 2016-11-26_15h13m-RhysTyers-SonyRX100II-GapingGhyll-DSC03449--thumb.jpg
 Authors: Jack Hare, Ben Honan, Isabelle Grenville, Ash Stearn, Ryan Clark, Ho Yan Jin;
 Cavepeeps: DATE=2016-11-26; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE=Jack Hare, Isabelle Grenville, Ash Stearn, Cecilia Kan;
            DATE=2016-11-26; CAVE=Flood Entrance Pot > Bar Pot; PEOPLE=Ben Honan, Carla Huynh, Alex Seaton, Ryan Clark;
@@ -96,7 +97,7 @@ No caving games were played, but Alex showed us his work with the digital elevat
 
 #####Jack Hare
 
-This trip was, overall, an enjoyable experience, though technically difficult. We would recommend the trip to any fresher however we would strongly encourage attending more tree training sessions than we did. Having said this, it was interesting to note that a large amount of the technical skills involved could not be learnt in the tree training sessions and we definitely learnt a lot of new stuff on this trip which was very exciting!
+This trip was, overall, an enjoyable experience, though technically difficult. We would recommend the trip to any fresher however we would strongly encourage attending more tree training sessions than we did [Ed: one and two sessions respectively]. Having said this, it was interesting to note that a large amount of the technical skills involved could not be learnt in the tree training sessions and we definitely learnt a lot of new stuff on this trip which was very exciting!
 One of the best experiences on this trip was standing at the bottom of a massive waterfall and staring up as light and water poured in from the entrance above. This was an awe-inspiring moment which made the more tiring aspects of the caving trip worth it.
 The only point of concern on this trip was over Ash's kit as he had been given what was apparently faulty kit - however, this also revealed the competency of the caving members who were instructing us as Jack was able to quickly identify and swap out any potentially dangerous equipment which left us feeling in safe hands.
 
