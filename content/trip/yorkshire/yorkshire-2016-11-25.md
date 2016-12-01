@@ -24,11 +24,11 @@ Cavepeeps: DATE=2016-11-26; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE=Jack Hare,
 
 I'd not been on the first three trips this term, the first trips I'd missed since January 2014(!). Given that, I knew very few of the novices and it was bewildering not to know everyone's name. It was also my first time driving the minibus, and what a rush it was! Alex had pre-bought all the food at Leamington Spa Morrisons in partial payment for membership this year (I won't bore you with the degrading filth he had to do to pay for the rest of his membership) and even though it only filled one trolley we couldn't spot anything missing. I confidently sat in the seat of the minibus working out where the indicators were, and then nervously stalled immediately. Once I got going, driving was easy and fun - it's impressive how little you need to change gear, it's either sixth or first if you're on the level. Brackenbottom and the Dump were easy to find, and we all went to bed shortly after arriving.
 
-##### Jack Hare
+####Jack Hare
 
 Heavy traffic on the M2 delayed us quite a bit. This meant we only arrived at the BPC hut, the dump, at around 2am. Getting to the BPC involved going up an insane little lane almost the width of the minibus, but all was well. Other snoring visitors made it slightly difficult to get to sleep.
 
-##### Ben Honan
+####Ben Honan
 
 ##Saturday
 
@@ -58,7 +58,7 @@ I scurried up as fast as I could (not very fast) and got to the top to find the 
 
 Back at the hut, Tanguy's group arrived back at the same time, and I made Roast Cauliflower Pilaf with the help of many helpers. It went down well - I was told 'whatever you did to this cauliflower, keep doing it.' I didn't have the heart to tell them that the secret was an entire block of butter.
 
->####Roast Cauliflower Pilaf (feeds 15)
+>###Roast Cauliflower Pilaf (feeds 15)
 >
 >Total estimated time: 1 hour - lots of work chopping veg, but then it just needs to cook for a while.
 >
@@ -95,13 +95,13 @@ Back at the hut, Tanguy's group arrived back at the same time, and I made Roast 
 
 No caving games were played, but Alex showed us his work with the digital elevation model for Slovenia, so we spent a profitable few hours talking utter nonsense about faults and bedding planes.
 
-#####Jack Hare
+####Jack Hare
 
 This trip was, overall, an enjoyable experience, though technically difficult. We would recommend the trip to any fresher however we would strongly encourage attending more tree training sessions than we did [Ed: Izzy did one session, Ash did two sessions. Having said this, it was interesting to note that a large amount of the technical skills involved could not be learnt in the tree training sessions and we definitely learnt a lot of new stuff on this trip which was very exciting!
 One of the best experiences on this trip was standing at the bottom of a massive waterfall and staring up as light and water poured in from the entrance above. This was an awe-inspiring moment which made the more tiring aspects of the caving trip worth it.
 The only point of concern on this trip was over Ash's kit as he had been given what was apparently faulty kit - however, this also revealed the competency of the caving members who were instructing us as Jack was able to quickly identify and swap out any potentially dangerous equipment which left us feeling in safe hands.
 
-#####Izzy Grenville and Ash Stearn
+####Izzy Grenville and Ash Stearn
 
 ###Flood Entrance to Bar Pot: {{DATE=2016-11-26; CAVE=Flood Entrance Pot> Bar Pot;}}
 
@@ -123,10 +123,10 @@ It was decided for Rhys to swap with James such as to provide assistance for Izz
 
 We decided just to have a look at Wades’ entrance - it’s not too far. After telling Ash that we were to exit via the main Ingleborough route we followed the main path, met some slackliners and eventually made our way back to the minibus. It wasn’t long before we were back at The Dump. We were all quite tired so no caving games were played. Some people geeked out over the Migovec survey.
 
-#####Ben Honan
+####Ben Honan
 
 After arriving at the parking location, the crew dressed and prepped for the long awaited walk to the cave entrance. From our location it was approximately 2.5 miles to the cave entrance which encompassed steep hills along with uneven and rocky terrain. During our ascent to the entrance, we were approached by one of the locals and requested to take an alternate route (although the route was marked by "no entrance" signs (a little dodgy). The entrance to the cave was small, allowing for a few winding passageways followed by a narrow squeeze and accompanied drop decent. The remainder of the cave followed the same pattern (winding passageways and 10 to 40 meter descents ). After the last decent and a few narrow passageways, we entered a large chamber accompanied with a large and majestic waterfall.
-#####Ryan Clark
+####Ryan Clark
 
 ###Little Hull Pot: {{DATE=2016-11-26; CAVE=Little Hull Pot;}}
 
@@ -140,7 +140,7 @@ Sam led the way forward through a squeezy route on the right before asking us to
 
 On the way up the big pitch, Tanguy hooked on his food jammer and climbed up insanely fast with movement resembling a gecko’s. As I ascended, I spent quite awhile dangling at the rebelay attempting to hook the short cow’s tail in. Under Tanguy’s expert guidance and words of encouragement, I finally got out of that pitch. I walked forward and watched as Shaun was doing his rebelay, when suddenly something happened and he slipped a few feet down. Fortunately, he was supported by his hand jammer and long cow's tail on the next bit of rope. Unfortunately though, it was impossible for him to reach the loop and secure himself back up. Sam went down the rope to help him and went back up. Later I learned that Shaun forgot to clip on his chest jammer. Definitely a reminder for me on my next trip.
 
-#####Yan Jin
+####Yan Jin
 
 ##Sunday
 
@@ -154,14 +154,14 @@ We walked back, not exactly dejected because the weather was lovely, but somewha
 
 A great weekend - my highlights were seeing blue sky from the bottom of Gaping Ghyll and meeting so many of the awesome new novices we have this year.
 
-#####Jack Hare
+####Jack Hare
 
 {"Shaun penetrates only a small way into the decidedly un-virgin depths of Sell Gill." right}(2016-11-27_14h49m-BenHonan-PowerShotS95-SellGill-IMG_0380.jpg)
 
 My team decided on going to Sells’ Gill. This meant for quite a long walk through Horton in Ribblesdale and eventually on the Pennine way. After following the Pennine way for around 25 minutes we saw another group changing outside of Sells’ Gill. There were a group of about 15 Durham cavers on a complete novice SRT trip doing some of the pitches as SRT practise. This meant that only some of my team could descend the first pitch until we decided to go back out. We then bimbled in the short streamway following the Goblin route entrance. Slightly disappointing - but hey at least we did some caving and a nice walk.
 
 At the BPC we were met with a very enthusiastic Hunt Pot team. We packed up and off we were back to London. We left quite early at around 4pm and arrived at around 22:30.
-#####Ben Honan
+####Ben Honan
 
 ###Hunt Pot: {{DATE=2016-11-27; CAVE=Hunt Pot;}}
 
@@ -175,10 +175,10 @@ The Hunt Pot entrance was magnificently huge and filled with water. I stumbled a
 
 On the way up, I did the first re belay and waited for the next rope to be free. That took quite awhile and I was shivering in the cold with a mixture of light rain and heavy waterfall on me, feeling very thankful that I wore thermals. There is also some sense of satisfaction and happiness hanging in mid air all by myself. We all got out when the sky was still bright and took time to admire the scenery and take nice photos. We headed back with two dogs circling us (mainly James) for half the journey. We treated ourselves to crumpets with brie and toasts with cheddar before heading on a long drive back. Truly a well spent weekend away.
 
-#####Yan Jin
+####Yan Jin
 
 Both of us used the second day of the caving trip to catch up on university work for the upcoming week - therefore, we were able to really enjoy the first day of caving and we felt we had a great caving experience but were also able to relieve stress by having a productive day of work. The caving members were very understanding about this and we were given a large reign of freedom to make our own decisions throughout the trip.
 The living conditions were interesting - definitely not as comfortable as our experience on the Wales Fresher trip. The bunk beds we were staying in were quite hard and it was definitely colder (although this had a lot more to do with the fact we were in Yorkshire than the accommodation itself!) and we would strongly recommend a thick sleeping bag and thermals to any future trip-goers. The other people at the lodge were a fair amount stricter than expected but we ensured to get all the chores done that were needed and there weren't any big problems.
 If we were to recommend any changes to how the trip was managed, we would request more snacks. On the Wales trip, one of the caving members spoiled us by making and bringing sandwiches into the cave to ensure we kept our energy up and stayed motivated. Something similar to this would have been greatly appreciated on the Yorkshire trip!
 Overall, the Yorkshire trip was immensely fun, exhausting, and beautiful.  
-#####Izzy Grenville and Ash Stearn
+####Izzy Grenville and Ash Stearn
