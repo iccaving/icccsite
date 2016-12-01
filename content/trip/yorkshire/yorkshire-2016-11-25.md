@@ -125,7 +125,26 @@ We decided just to have a look at Wades’ entrance - it’s not too far. After 
 #####Ben Honan
 
 After arriving at the parking location, the crew dressed and prepped for the long awaited walk to the cave entrance. From our location it was approximately 2.5 miles to the cave entrance which encompassed steep hills along with uneven and rocky terrain. During our ascent to the entrance, we were approached by one of the locals and requested to take an alternate route (although the route was marked by "no entrance" signs (a little dodgy). The entrance to the cave was small, allowing for a few winding passageways followed by a narrow squeeze and accompanied drop decent. The remainder of the cave followed the same pattern (winding passageways and 10 to 40 meter descents ). After the last decent and a few narrow passageways, we entered a large chamber accompanied with a large and majestic waterfall.
+
 #####Ryan Clark
+
+I awoke early. I had taken a grave risk and slept in the conmpletely empty members room rather than cram in between 16 snoring others in the guest room. I decided not to risk being caught and packed my sleeping bag away to removed the evidence of my transgression. Plans were made over breakfast. Ben and I snagged the slightly more SRT experienced novices, betting on Flood being the more difficult route.
+
+We drove to and parked in the usual spot in Clapham, where we could change in full view of the children's playground and nearby church. Jack destroyed some kit to demonstrate his superiority. We were soon walking up the country lane. I was impressed by Ben and my teams ability to keep up, normally people find the walk up the hardest bit but we set a very good pace up to farm. As we crossed through the farm and got into the field we heard a whistle from behind us. The farmer was calling us back. He explained that he wanted us to walk on the other side of the woods to the way we usually go. He didn't say why, and we speculated on the walk.
+
+Flood entrance is a fairly obvious hole on the right side of the path, when walking towards Ingleborough, not far from Bar. A couple of body lengths in you find the first bolts. The first pitch is followed by a low crawl, becoming a stoop, and finally walking passage. Ducking under the wall in a damp chamber you find the second pitch. Again ust a straight drop. Ben took over the rigging at this point. There's a handline climb that I think should be rigged higher up than we did it.
+
+I attempted to take some photos above the final pitch. I got some of Ryan on the first rebelay and was excited to see if I could get Carla on the second but unfortunately my flash stopped working consistently, seeming only to work when I was testing it.
+
+At the bottom we took it in turns to follow the draught. It's fairly easy, as its a howling draught indeed. Popped out into the main chamber in daylight! The water levels were low enough that it was comfortable to stand right under the hole in the ceiling (there was only one waterfall this time whereas on other occasions it seems to become 4 or 5 spread along the wall). Again attempted some photos but very little luck with either mine or Jack's flash again.
+
+The way out was smooth. I was in Jack's group this time. I barely saw Ash and Cecilia the whole way out as every time we progressed one pitch I sent them to get to the top of the next. It turns out that Ben had found a completely different deviation to the normal ones on the final pitch of Flood. It wasn't as much of a swing which worked really nicely in the dry conditions (I imagine Ben would've been motivated to find the others were it wetter). Still Izzy managed to do something mental (clip hand jammer to deviation?) and spent a little while hanging there. By the time I went down to try and help she'd freed herself. The rest of the way was smooth and we emerged into a mild clear night.
+
+The path down (the nature trail) always feels a lot longer than the way up around the side. Jack speculated that maybe there was a triangley, pythagorasy thingy going on but I've now looked at a map and that is only slightly the case. Weird.
+
+A quiet night followed, until I went to bed. Surrounded on all sides by snorers in the guest room (some members had arrived) it was not a pleasant night. Oh for the NPC and its multitude of rooms.
+
+#####Rhys
 
 ###Little Hull Pot: {{DATE=2016-11-26; CAVE=Little Hull Pot;}}
 
@@ -161,6 +180,16 @@ My team decided on going to Sells’ Gill. This meant for quite a long walk thro
 
 At the BPC we were met with a very enthusiastic Hunt Pot team. We packed up and off we were back to London. We left quite early at around 4pm and arrived at around 22:30.
 #####Ben Honan
+
+Lessons learned from Sell Gill:
+- Wearing a wetsuit, however thin, for an hour walk up a hill is a terrible idea.
+- Wearing a wetsuit, however thin, for a cave without complete submersion is a terrible idea (the water level was slightly oversold).
+
+But yeh. Sell Gill wet route is lovely! I would definitely recommend it as rigging practice or novice's second/third SRT trip sort of thing. The first pitch involves a pretty mad traverse round to the left, through an old meander, and the dive into the bedding plain is fun. 
+
+It's a shame we didn't get to the bottom. I saw the group of 8 people waiting in the large chamber and, concerned it was the Durham novices, decided that I didn't want to wait behind them on the way out and turned back. They turned out to be from the Orpheus and despite having a Little 'Un with them they were pretty quick on the way up behind us so perhaps it would've been fine after all.
+
+#####Rhys
 
 ###Hunt Pot: {{DATE=2016-11-27; CAVE=Hunt Pot;}}
 
