@@ -7,8 +7,8 @@ Photoarchive:
 Mainimg: 2016-11-26_08h46m-TanguyRacine-NikonD3200-LittleHullPot-DSC_0057.jpg
 Thumbl: 2016-11-27_11h50m-TanguyRacine-NikonD3200-HuntPot-DSC_0112--thumb.jpg
 Thumbr: 2016-11-26_15h13m-RhysTyers-SonyRX100II-GapingGhyll-DSC03449--thumb.jpg
-Authors: Jack Hare, Ben Honan, Isabelle Grenville, Ash Stearn, Ryan Clark, Ho Yan Jin, Rhys Tyers;
-Cavepeeps: DATE=2016-11-26; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE=Jack Hare, Isabelle Grenville, Ash Stearn, Cecilia Kan;
+Authors: Jack Hare, Ben Honan, Isabelle Grenville, Ash Stearn, Ryan Clark, Ho Yan Jin, Rhys Tyers, Tanguy Racine;
+Cavepeeps: DATE=2016-11-26; CAVE=Bar Pot > Flood Entrance Pot; PEOPLE=Jack Hare, Isabelle Grenville, Ashley Stearn, Cecilia Kan;
            DATE=2016-11-26; CAVE=Flood Entrance Pot > Bar Pot; PEOPLE=Ben Honan, Carla Huynh, Alex Seaton, Ryan Clark;
            DATE=2016-11-26; CAVE=Bar Pot; PEOPLE=James O'Hanlon;
            DATE=2016-11-26; CAVE=Flood Entrance Pot; PEOPLE=Rhys Tyers;
@@ -26,9 +26,13 @@ I'd not been on the first three trips this term, the first trips I'd missed sinc
 
 ####Jack Hare
 
-Heavy traffic on the M2 delayed us quite a bit. This meant we only arrived at the BPC hut, the dump, at around 2am. Getting to the BPC involved going up an insane little lane almost the width of the minibus, but all was well. Other snoring visitors made it slightly difficult to get to sleep.
+Heavy traffic on the M42 delayed us quite a bit. This meant we only arrived at the BPC hut, the dump, at around 2am. Getting to the BPC involved going up an insane little lane almost the width of the minibus, but all was well. Other snoring visitors made it slightly difficult to get to sleep.
 
 ####Ben Honan
+
+For the first time in years, ICCC goes to Yorkshire but doesn’t stay at the NPC. Another cottage is booked, the Bradford pothole club’s HQ known by the affectionate nickname of ‘the Dump’. The drive over to Yorkshire was a slog, with roads literally on fire. We were also escorted by a police car on the M6, forcing the flow into one lane only for a good twenty minutes. The route to the Dump, in Ribblesdale took us past a BAE complex, and near towns such as Giggleswick, Gisburn and Clitheroe. Against all the odds, we did make it to Brackenbottom near 1am, found the tackle shed, unloaded the bus and slept in the Gästezimmer. Das Dump is sehr gemütlich.
+
+####Tanguy Racine
 
 ##Saturday
 
@@ -97,7 +101,7 @@ No caving games were played, but Alex showed us his work with the digital elevat
 
 ####Jack Hare
 
-This trip was, overall, an enjoyable experience, though technically difficult. We would recommend the trip to any fresher however we would strongly encourage attending more tree training sessions than we did [Ed: Izzy did one session, Ash did two sessions. Having said this, it was interesting to note that a large amount of the technical skills involved could not be learnt in the tree training sessions and we definitely learnt a lot of new stuff on this trip which was very exciting!
+This trip was, overall, an enjoyable experience, though technically difficult. We would recommend the trip to any fresher however we would strongly encourage attending more tree training sessions than we did [Ed: Izzy did one session, Ash did two sessions]. Having said this, it was interesting to note that a large amount of the technical skills involved could not be learnt in the tree training sessions and we definitely learnt a lot of new stuff on this trip which was very exciting!
 One of the best experiences on this trip was standing at the bottom of a massive waterfall and staring up as light and water poured in from the entrance above. This was an awe-inspiring moment which made the more tiring aspects of the caving trip worth it.
 The only point of concern on this trip was over Ash's kit as he had been given what was apparently faulty kit - however, this also revealed the competency of the caving members who were instructing us as Jack was able to quickly identify and swap out any potentially dangerous equipment which left us feeling in safe hands.
 
@@ -160,6 +164,33 @@ On the way up the big pitch, Tanguy hooked on his food jammer and climbed up ins
 
 ####Yan Jin
 
+
+Saturday morning crept upon us unseen as the Hamlet is somewhat in a shady valley, but on the horizon, the peaks of Ingleborough were gold with sunlight. Hoarfrost on the hills, dark stone walls on a back drop of grey-green meadows and a tingling feeling on the cheeks. Morning as crisp as bacon well done.
+
+The plan as laid out by Ben was to visit Gaping Ghyll in two groups. Having been there recently, and dreading large groups in caves I set out to find a suitable alternative for a third splinter group, taking advantage of the fact that three caves if knew of were within reasonable walking distance of the cottage (there’s a fourth, but that will be for another time). I’d been to Sell Gill before and decided it was rather a Sunday cave, so I set out to convince people to join the Little Hull team. Sam, Shawn, Yan Jin and Devansh filled up the ranks.
+
+As soon as breakfast was finished there was flurry of action within the dry, warm changing room. The Gaping Ghyll team loaded the van and drove off to Clapham while the Lhullers assembled. We set off on the path leading straight up to Pen-y-Ghent, climbing to the top of the limestone scar before turning north, across the foothills of the mountain. This was more arduous than I thought, but the frozen ground helped our progress. We crossed the Pen-y-Ghent pot stream, then Hunt pot’s stream and regained the Three-Peaks way. We quickly walked to the junction with the Pennine way where the description CNCC for the cave entrance picks up.
+
+Can I make a better description? It remains to be seen: from the junction, it is essential to take the Three-Peaks way west and turn upstream, cross country at the first valley crossed. It’s easy to work out whether you’ve gone too far: the turn occurs within two-three minutes of walking. The valley is dry until one reaches a stream sink: this is the entrance to Little Hull. Again, the walk is short, at around five minutes.
+
+And what an entrance this was too! A small trickle of water leading into a modestly sized streamway. This wasn’t mentioned in the description so I thought to myself “bah this is no crawl, this is a ‘stoop’ at best!”. I had spoken too soon as the ceiling naturally dropped around the next corner. What followed was a short, but not unpleasant pebbly crawl, starting flat out and gradually opening to a ‘hands and knees’ progression. The streamway resumed, and I quickly became enamoured with this part of cave, some decorations, little pools of water and a little climbing around, what better way to kick off an SRT trip than this? Shawn was hot on my heels till we reached the first pitch, the water suddenly cascading down into the darkness. Y-hang, swing into large window, rebelay, traverse on incredibly thin lip of rock, drop, 5m swing to the next rebelay, pitch free! There was a flat, spacious floor to this first drop and again I thought it was a cracking SRT cave. In 30m of descent we’d gone past a lot of different SRT situations. The rest of the cave did not disappoint.
+
+Here follows the description from the Eurospeleo website, which I naturally concur with.
+
+“At the bottom of this pitch, follow the water along a streamway to soon reach the enormous third pitch. To descend this pitch, you must first locate an upward climb several metres back from where the water falls down the shaft. This climb is protected by a rope traverse (so should be quite easy to locate). Climb up and follow the rope up through a small slot between boulders. Stay attached to the rope, as this leads onto an amazing (but very exposed) platform above the pitch, where a spectacular dry descent can be made. This is an excellent pitch!”
+
+There was obviously no such in situ traverse rope, so I located the flowstone pillar around which I tied in a bowline, and rigged over a deep pool of water. Then I first spotted the wet descent ‘Y’-hang bolts, but looking up I spotted the ascending traverse. Climb up into the rift, past the calcited constriction over the 35m pitch: breath taking. It was a lofty precarious flowstone balcony,which induced fits of nervous laughter, was it amazing, mental or foolish? To rig the next drop was a bolt on the far wall. Step over the shaft now, then a hanging rebelay two metres down, nice! It was all very fine. I spotted the first deviation on this large hang a couple of metres below, then the other (there was already a long piece of tat) and rigged both to complete the dry descent of the pitch. It was very good.
+
+We rejoined at the bottom, ate flapajcks and descended the little cascade pitch (five metres, along the stream), which led us into the ‘virtually straight rift’. I had imagined something on the scale we’d just done. It was hoever not to be, as the passage closed down immediately, with an uninviting wet duck the only possible way on. We turned around, agreeing that if anyone was going to wait for a long time at the bottom of the large pitch, it would be best to be relatively dry.
+
+The deviations, especially the higher one proved difficult to pass for our novices, as their arm strength had been sucked up by the long ascent. Thankfully Dev retrieved the krab from the lower deviation on his way up, easing my derigging duty. After the big pitch was derigged I found Yan Jin and Dev waiting at the bottom of the first pitch, Sam at the first rebelay and Shawn on the rope above, sitting on a ledge. He was now seriously struggling with basic SRT procedure due to exhaustion. I could not really be of help underneath him, and since he was on sturdy ground, I proceeded to ascend past him and Sam with my now spare ropes.
+
+Slowly but surely, and under Sam’s encouragement he climbed up unaided and stood in the entrance streamway. Everyone else came up after him: Sam, Yan Jin and lastly Dev. I shot down to derig this pitch and found everyone back at the entrance, lying on the grass, exhausted but happy. How did this cave stay under the ICCC radar for so many years? I’d readily go back and tackle the wet crawl to go to the terminal sump!
+
+We walked the easier path down, arriving at the Dump minutes before the gaping Ghyll team. After a glorious pilaf I noticed few of the cavers stayed up late, so feeling the ache of a long day creeping up my muscles went to bed relatively early (11am)
+
+####Tanguy Racine
+
 ##Sunday
 
 ###Sell Gill (sort of):{{DATE=2016-11-27; CAVE=Sell Gill;}}
@@ -204,6 +235,21 @@ The Hunt Pot entrance was magnificently huge and filled with water. I stumbled a
 On the way up, I did the first re belay and waited for the next rope to be free. That took quite awhile and I was shivering in the cold with a mixture of light rain and heavy waterfall on me, feeling very thankful that I wore thermals. There is also some sense of satisfaction and happiness hanging in mid air all by myself. We all got out when the sky was still bright and took time to admire the scenery and take nice photos. We headed back with two dogs circling us (mainly James) for half the journey. We treated ourselves to crumpets with brie and toasts with cheddar before heading on a long drive back. Truly a well spent weekend away.
 
 ####Yan Jin
+
+
+The weather was slightly less glorious than the day before, but we managed to convince a large contingent of novices to go caving again. Two parties were assembled, Exchange and Open Shaft. The former walked off to Sell Gill, while Sam and Yan Jin joined me again to descend Hunt Pot. Ryan and James completed our group.
+
+There were no problems locating the entrance shaft to Hunt Pot, as it is a consequent stream sink. The oval shakehole is split in the middle by a dark gash where a sheet of water falls to unfathomable depths. The start of the SRT route was found across the stream, consisting of a first ‘Y’-hang drop, deviated in the middle, leading to hanging rebelay next to a spray-filled ledge. There was a second hanging rebelay further down, wetter still and draughty. The rope then landed on a narrow ledge. With two technical rebelays above, and no way to see or be heard over the roar of the water I became a little sketched out, deciding to rig an ascending traverse into a dry alcove where we could all meet up and then decide whether to turn around or carry on.
+
+This proved rather sensible, as we then emerged early. I was very impressed by our two novices SRT skills, as they managed to tackle the two hanging rebelays with relative ease.
+
+We had a quick photo session before turning our backs to Pen-y-Ghent for a last time, and walking back to Brackenbottom. We were surprised to see the other group had arrived before us, then understood they had met other cavers going to Sell Gill, and curtailed their attempt at an exchange. On the bright side, the kit only needed to put into sacks and loaded on the bus.
+
+Toast and cheese, clean up, ‘get at the back of the VAN!’ and off we went. Excellent trip all round, I (insert appropriate adverb) love caving.
+
+####Tanguy Racine
+
+###Dossing about pretending to work: Izzy and Ash
 
 Both of us used the second day of the caving trip to catch up on university work for the upcoming week - therefore, we were able to really enjoy the first day of caving and we felt we had a great caving experience but were also able to relieve stress by having a productive day of work. The caving members were very understanding about this and we were given a large reign of freedom to make our own decisions throughout the trip.
 The living conditions were interesting - definitely not as comfortable as our experience on the Wales Fresher trip. The bunk beds we were staying in were quite hard and it was definitely colder (although this had a lot more to do with the fact we were in Yorkshire than the accommodation itself!) and we would strongly recommend a thick sleeping bag and thermals to any future trip-goers. The other people at the lodge were a fair amount stricter than expected but we ensured to get all the chores done that were needed and there weren't any big problems.
