@@ -78,6 +78,7 @@ The Fateful Friday
 
 ###Well before 5pm
 
+- Make sure you've packed kit for everyone who didn't pack kit for themselves.
 - Pick up keys from SAC; probably filling in some forms at the time. They'll tell you what and where. Check the minibus over before the SAC closes so you can try for a replacement if its broken.
 - Submit an 'Activity Registration' on eActivities. This requires a list of people going on the trip.
 - Pick up any hut keys if they've been posted down. Or make sure you have any pin codes for doors or lock boxes and know where the hut it (get a postcode, have a scout on streetview).
