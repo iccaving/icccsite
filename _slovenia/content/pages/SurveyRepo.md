@@ -8,6 +8,8 @@ Type: page
 Our survey data (including vector images of the plans and extended elevations) are in the following git repository on GitHub:
 <h3><a href="https://github.com/jarvist/migovecsurveydata">github.com/jarvist/migovecsurveydata</a></h3>
 
+We also register all of our discoveries with the official Slovenian land register, [the kataster jam](http://www.katasterjam.si/). For example here is the registration for [M16](http://www.katasterjam.si/index.php?c=jame.simpleSearch&katSt=6001).
+
 <h2>Survey Data Archives</h2>
 
 <p>For mostly outdated cave registration data, please see <a class="menu" href="/caving/old/slovenia/report/caves.php"><b>The Caves of Migovec</b></a>. </p>
