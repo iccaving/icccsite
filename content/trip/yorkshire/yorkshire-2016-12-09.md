@@ -23,7 +23,7 @@ Status: draft
 
 ###Notts 1: Everyone!
 
-####Notes on finding Notts 1.
+#####Notes on finding Notts 1.
 
 Notts 1 is located directly in the center of the field with Notts 2 in it. The field containing Lost changes is adjacent to the North East. Enter the field at the gate by the cattle grid. In good visibility it would be enough to walk up the field, skirting the South West wall until you see, to your left, the very large shakehole which contains Notts 1. It's by far the largest shakehole in the field. 
 
@@ -43,7 +43,7 @@ It was dark and foggy. The vis on the surface was possibly as low as 3 metres, b
 
 The evening was one of the more active in a while. We played a lot of caving games. Isha and I drew at the squeeze machine and I'm not sure who's resulting injuries were worse. I'm definitely still feeling the internal bruising several days later. Perry gets an award for trying hardest, eventually requiring help from Jack and me (putting our entire body weights on either side of the squeeze machine). Kenneth and I turn out to be an incredible pot and sling duo and certainly the limiting factor will be Kenneths shoulder width.
 
-#####Rhys
+####Rhys
 
 ##Sunday
 
