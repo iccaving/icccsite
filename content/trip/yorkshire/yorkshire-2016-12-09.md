@@ -9,6 +9,7 @@ Thumbl:
 Thumbr: 
 Authors: 
 Cavepeeps: DATE=2016-12-09; CAVE=Notts Pot 1; PEOPLE=Rhys Tyers;
+Status: draft
 
 {{ mainimg }}
 {{ photolink }}
