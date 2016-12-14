@@ -36,7 +36,11 @@
       {% endif %}
       {% if not loop.last %}
         {% if links[loop.index][2] > level %}
-          <li class="wiki-link"><a href="{{ SITEURL }}/wiki/{{ link[0].replace('.md','.html') }}">{{ link[0].replace('.md','') }}</a> <a class="wiki-dir-expander">+</a></li>
+          {% if link[1] == "indexdir" %}
+            <li class="wiki-link"><a href="{{ SITEURL }}/wiki/{{ link[0].replace('.md','.html') }}">{{ link[0].replace('.md','') }}</a> <a class="wiki-dir-expander">+</a></li>
+          {% else %}
+            <li class="wiki-link">{{ link[0].replace('.md','') }} <a class="wiki-dir-expander">+</a></li>
+          {% endif %}
         {% else %}
           <li class="wiki-link"><a href="{{ SITEURL }}/wiki/{{ link[0].replace('.md','.html') }}">{{ link[0].replace('.md','') }}</a></li>
         {% endif %}

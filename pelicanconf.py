@@ -41,7 +41,7 @@ PAGINATION_PATTERNS = (
 DEFAULT_DATE_FORMAT = '%d-%m-%Y'
 
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ['photoarchive', 'acyear', 'subsites', 'oldurl', 'metainserter', 'inlinephotos', 'wiki']
+PLUGINS = ['photoarchive', 'acyear', 'cavepeeps', 'subsites', 'oldurl', 'metainserter', 'inlinephotos', 'wiki']
 
 SLUGIFY_SOURCE = 'basename'
 

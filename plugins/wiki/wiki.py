@@ -1,45 +1,25 @@
 from pelican import signals, utils
-from collections import namedtuple
+from collections import namedtuple, OrderedDict
 import os
 import re
 import logging
-import pprint
-
-pp = pprint.PrettyPrinter(indent=4)
-
-"""
-Article = namedtuple('Article', 'metadata content')
-Article_for_list = namedtuple('Article_for_list', 'level path article subdirs')
-
-
-class dotdict(dict):
-
-    # dot.notation access to dictionary attributes
-    # Makes things a bit more readable
-    __getattr__ = dict.get
-    __setattr__ = dict.__setitem__
-    __delattr__ = dict.__delitem__
-
-"""
-
-#def wiki_init(generator):
 
 def add_to_structure(structure, path_list):
     folders = structure["folders"]
     articles = structure["articles"]
-    dir = path_list[0]
+    subdir = path_list[0]
     rest = path_list[1:]
 
     if len(rest) > 1:
-        if dir in folders:
-            folders[dir] = add_to_structure(folders[dir], rest)
+        if subdir in folders:
+            folders[subdir] = add_to_structure(folders[subdir], rest)
         else:
-            folders[dir] = add_to_structure({"folders":{},"articles":[]}, rest)
+            folders[subdir] = add_to_structure({"folders":{},"articles":[]}, rest)
     else:
-       if dir in folders:
-           folders[dir]["articles"].append(rest)
+       if subdir in folders:
+           folders[subdir]["articles"] += rest
        else:
-           folders[dir] = { "folders": {}, "articles": [ rest ] }
+           folders[subdir] = { "folders": {}, "articles": rest }
     
     return { "folders": folders, "articles": articles }
 
@@ -51,46 +31,46 @@ def parse_wiki_pages(generator):
     root = os.path.realpath(
         os.path.abspath(os.path.join(contentpath, "wiki", "")))
 
-    list = []
+    wikilist = []
     structure = {"folders":{}, "articles":[]}
-
     for (dirname, dirnames, filenames) in os.walk(root):
-        for file in filenames:
-            if ".git" not in dirname and ".git" not in file:
-                parsedfile = readers.read_file(dirname, file)
+        for filename in filenames:
+            if ".git" not in dirname and ".git" not in filename:
+                parsedfile = readers.read_file(dirname, filename)
                 metadata = parsedfile.metadata
                 org = metadata["path"].split("/")
-                org.append(file)
+                org.append(filename)
                 structure = add_to_structure(structure, org)
-                list.append((metadata["path"],file,parsedfile))
+                wikilist.append((metadata["path"],filename,parsedfile))
                 
     structure = { "articles": structure["folders"]['']["articles"], "folders":structure["folders"] }
+
     del(structure["folders"][""])
-    list.sort()
-    generator.context['wikilist'] = list
+    wikilist.sort()
+    generator.context['wikilist'] = wikilist
     generator.context['wiki'] = structure
     #logging.debug("Wiki: Wiki assembled")
 
 
-def parse_dict(structure, path, level, nice_list):
-    folders = {}
-    for key in sorted(structure["folders"].keys()):
-        print(key)
-        folders[key] = structure["folders"][key]
-    articles = structure["articles"]
+def parse_dict(structure, level, nice_list):
+    folders = OrderedDict(sorted(structure["folders"].items(), key=lambda t: t[0]))
+    articles = sorted(structure["articles"])
     for key in folders.keys():
-        nice_list.append((key, path, level))
-        nice_list = parse_dict(folders[key], os.path.join(path, key), level + 1, nice_list)
+        if key + ".md" in articles:
+            nice_list.append((key, "indexdir", level))
+            articles.remove(key + ".md")
+        else:
+            nice_list.append((key, "noindexdir", level))
+        nice_list = parse_dict(folders[key], level + 1, nice_list)
     for item in articles:
-        item = item[0]
-        nice_list.append((item, path, level))
+        nice_list.append((item, "article", level))
     return nice_list
 
 def generate_wiki_pages(generator, writer):
     wiki_list = generator.context['wikilist']
     structure = generator.context['wiki']
     template = generator.get_template('wikiarticle')
-    nice_list = parse_dict(structure, "wiki" , 0, [])
+    nice_list = parse_dict(structure, 0, [])
 
     for page in wiki_list:
         filename = os.path.join('wiki',  page[1].replace('.md', '.html'))
@@ -103,8 +83,6 @@ def generate_wiki_pages(generator, writer):
 
 
 def register():
-    # Registers the various functions to run during particar Pelican processes
-    #signals.article_generator_init.connect(wiki_init)
     # Run after the article list has been generated
     signals.article_generator_finalized.connect(parse_wiki_pages)
     # Run after the articles have been written
