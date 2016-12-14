@@ -63,7 +63,9 @@ def parse_wiki_pages(generator):
                 org.append(file)
                 structure = add_to_structure(structure, org)
                 list.append((metadata["path"],file,parsedfile))
-    structure = { "articles": structure["folders"][""]["articles"], "folders":structure["folders"] }
+                
+    pp.pprint(structure)
+    structure = { "articles": structure["folders"]['']["articles"], "folders":structure["folders"] }
     del(structure["folders"][""])
     list.sort()
     generator.context['wikilist'] = list
@@ -88,7 +90,7 @@ def parse_dict(structure, path, level, nice_list):
 def generate_wiki_pages(generator, writer):
     wiki_list = generator.context['wikilist']
     structure = generator.context['wiki']
-    template = generator.get_template('wikiarticle')    
+    template = generator.get_template('wikiarticle')
     pp.pprint(structure)
     nice_list = parse_dict(structure, "wiki" , 0, [])
     pp.pprint(nice_list)
