@@ -3,96 +3,45 @@ from collections import namedtuple
 import os
 import re
 import logging
+import pprint
 
+pp = pprint.PrettyPrinter(indent=4)
+
+"""
 Article = namedtuple('Article', 'metadata content')
 Article_for_list = namedtuple('Article_for_list', 'level path article subdirs')
 
 
 class dotdict(dict):
 
-    """dot.notation access to dictionary attributes"""
+    # dot.notation access to dictionary attributes
     # Makes things a bit more readable
     __getattr__ = dict.get
     __setattr__ = dict.__setitem__
     __delattr__ = dict.__delitem__
 
+"""
 
-def wiki_init(generator):
-    generator.context['wikiarticles'] = []
+#def wiki_init(generator):
 
+def add_to_structure(structure, path_list):
+    folders = structure["folders"]
+    articles = structure["articles"]
+    dir = path_list[0]
+    rest = path_list[1:]
 
-def construct_dir_map(generator, root, path, indexarticle):
-    readers = generator.readers
-    # Set up dictionary partial to desribe this subdirectory
-    # Index: the metadata and content that this subdirs index should have
-    # Articles: list of the articles in this subdir
-    # Children: List of directories in this subdir
-    # Path: relative path to this subdir
-    subdir = dotdict(
-        {"index": None, "articles": [], "children": [], "path": None})
-    # Get relative path
-    subdir.path = os.path.join(path.replace(root, ""), "")
-    if len(subdir.path) > 0:
-        if subdir.path[0] == "/" or subdir.path[0] == "\\":
-            subdir.path = subdir.path[1:]
-
-    # If an article has the same name as a directory (on the same directory
-    # level) then the article's metadata and content will be userd for that
-    # dir's index
-    # The scope of the function means that it cannot 'see' the index article
-    # as it is one dir level higher, so it must be provided as a parameter
-    if indexarticle is not None:
-        metadata = indexarticle.metadata
-        content = indexarticle.content
+    if len(rest) > 1:
+        if dir in folders:
+            folders[dir] = add_to_structure(folders[dir], rest)
+        else:
+            folders[dir] = add_to_structure({"folders":{},"articles":[]}, rest)
     else:
-        filepath = os.path.join(subdir.path, "index.md")
-        content = ""
-        metadata = {"title":  os.path.basename(
-            os.path.normpath(path)), "type": "wiki", "filepath": filepath, "autogen": True}
-        # Transform metadata dictionary into named tuple for dot notation access
-        # to attributes in the template
-        metadata = namedtuple('metadata', [x for x in metadata.keys()])(
-            *[metadata[x] for x in metadata.keys()])
-
-    # Set this subdirs index file data
-    subdir.index = Article(metadata, content)
-
-    # Get the articles in a dict (so they can be looked up in dir loop)
-    articles = {}
-    for item in os.listdir(path):
-        if os.path.join(subdir.path, item) == "Home.md":
-            continue
-        if os.path.isfile(os.path.join(path, item)):
-            # Use pelicans markdown parser to convert markdown -> html
-            parsedfile = readers.read_file(path, item)
-            metadata = parsedfile.metadata
-            metadata["filepath"] = os.path.join(subdir.path, item)
-            metadata = namedtuple('metadata', [x for x in metadata.keys()])(
-                *[metadata[x] for x in metadata.keys()])
-            content = parsedfile.content
-            # Put in dictionary, key is filename without .md file extension
-            articles[os.path.splitext(item)[0]] = Article(metadata, content)
-
-    # Now go through the directories, matching up the 'index' articles, and
-    # recursively calling this subdir parser
-    for item in os.listdir(path):
-        if os.path.isdir(os.path.join(path, item)):
-            if item in articles:
-                # If an article has the same name, pass it to the subdirectory
-                # to be used as the index, then delete from this subdirs article
-                # list
-                subdir.children.append(
-                    construct_dir_map(generator, root, os.path.join(path, item), articles[item]))
-                del articles[item]
-            else:
-                subdir.children.append(
-                    construct_dir_map(generator, root, os.path.join(path, item), None))
-    # Convert articles from dict to list
-    for article in articles:
-        subdir.articles.append(articles[article])
-
-    return subdir
-
+       if dir in folders:
+           folders[dir]["articles"].append(rest)
+       else:
+           folders[dir] = { "folders": {}, "articles": [ rest ] }
+    
+    return { "folders": folders, "articles": articles }
 
 def parse_wiki_pages(generator):
     settings = generator.settings
@@ -102,92 +51,61 @@ def parse_wiki_pages(generator):
     root = os.path.realpath(
         os.path.abspath(os.path.join(contentpath, "wiki", "")))
 
-    # Begin with parsing main wiki page
-    parsedfile = readers.read_file(root, "Home.md")
-    metadata = parsedfile.metadata
-    metadata["filepath"] = "Home.md"
-    metadata = namedtuple('metadata', [x for x in metadata.keys()])(
-        *[metadata[x] for x in metadata.keys()])
-    content = parsedfile.content
+    list = []
+    structure = {"folders":{}, "articles":[]}
 
-    # Contruct dictionary representation of folder structure
-    wiki = construct_dir_map(generator, root, root, Article(metadata, content))
+    for (dirname, dirnames, filenames) in os.walk(root):
+        for file in filenames:
+            if ".git" not in dirname and ".git" not in file:
+                parsedfile = readers.read_file(dirname, file)
+                metadata = parsedfile.metadata
+                org = metadata["path"].split("/")
+                org.append(file)
+                structure = add_to_structure(structure, org)
+                list.append((metadata["path"],file,parsedfile))
+    structure = { "articles": structure["folders"][""]["articles"], "folders":structure["folders"] }
+    del(structure["folders"][""])
+    list.sort()
+    generator.context['wikilist'] = list
+    generator.context['wiki'] = structure
+    #logging.debug("Wiki: Wiki assembled")
 
-    generator.context['wiki'] = wiki
-    logging.debug("Wiki: Wiki assembled")
 
-
-def wiki_dic_to_list(wiki, level):
-    wiki_list = []
-    wiki_list_articles = []
-    sub_wiki_list = []
-    sub_wiki_list_articles = []
-
-    # Construct a 'sub-list' of all items below in and below this sub directory
-    # to be available to this dirs index page, with the 'levels' reletive to
-    # this dir
-
-    for subdir in sorted(wiki.children, key=lambda child: child.path):
-        sub_wiki_list = sub_wiki_list + wiki_dic_to_list(subdir, 0)
-
-    for article in wiki.articles:
-        article_list_item = Article_for_list(
-            0, article.metadata.filepath.replace(".md", ".html"), article, None)
-        sub_wiki_list_articles.append(article_list_item)
-
-    sub_wiki_list_articles = sorted(sub_wiki_list_articles, key=lambda art: art.article.metadata.title)
-    sub_wiki_list = sub_wiki_list + sub_wiki_list_articles
-
-    # URLs look nicer without the index.html I think (but they need to be in for
-    # the pelican write to write the file)
-    for i, item in enumerate(sub_wiki_list):
-        if "index.html" in item.path:
-            sub_wiki_list[i] = item._replace(
-                path=item.path.replace("index.html", ""))
-
-    index_list_item = Article_for_list(
-        level, wiki.path + "index.html", wiki.index, sub_wiki_list)
-    wiki_list.append(index_list_item)
-
-    # Contruct a sub list to be passed back up, with 'levels' relativer to
-    # whatever dir is asking for them
-    for subdir in sorted(wiki.children, key=lambda child: child.path):
-        wiki_list = wiki_list + wiki_dic_to_list(subdir, level + 1)
-
-    for article in wiki.articles:
-        article_list_item = Article_for_list(
-            level + 1, wiki.path + article.metadata.title + ".html", article, None)
-        wiki_list_articles.append(article_list_item)
-
-    wiki_list_articles = sorted(wiki_list_articles, key=lambda art: art.article.metadata.title)
-    wiki_list = wiki_list + wiki_list_articles
-
-    return wiki_list
-
+def parse_dict(structure, path, level, nice_list):
+    folders = {}
+    for key in sorted(structure["folders"].keys()):
+        print(key)
+        folders[key] = structure["folders"][key]
+    articles = structure["articles"]
+    for key in folders.keys():
+        nice_list.append((key, path, level))
+        nice_list = parse_dict(folders[key], os.path.join(path, key), level + 1, nice_list)
+    for item in articles:
+        item = item[0]
+        nice_list.append((item, path, level))
+    return nice_list
 
 def generate_wiki_pages(generator, writer):
-    wiki = generator.context['wiki']
+    wiki_list = generator.context['wikilist']
+    structure = generator.context['wiki']
+    template = generator.get_template('wikiarticle')    
+    pp.pprint(structure)
+    nice_list = parse_dict(structure, "wiki" , 0, [])
+    pp.pprint(nice_list)
 
-    # Get a flat list of wiki articles for easy use in a template
-    wiki_list = wiki_dic_to_list(wiki, 0)
-
-    # Write the pages!
-    template = generator.get_template('wikiarticle')
     for page in wiki_list:
-        filename = os.path.join('wiki',  page.path)
-        content = page.article.content
-        content = re.sub(r'\.md', '.html', content)
-        metadata = page.article.metadata
-        subdirs = page.subdirs
-        path = page.path
+        filename = os.path.join('wiki',  page[1].replace('.md', '.html'))
+        content = page[2].content
+        metadata = page[2].metadata
+        path = page[0]
+        file = page[1]
         writer.write_file(filename, template, generator.context,
-                          meta=metadata, content=content, subdirs=subdirs, path=path)
-
+                          meta=metadata, content=content, file=file, path=path, links=nice_list)
 
 
 def register():
     # Registers the various functions to run during particar Pelican processes
-    signals.article_generator_init.connect(wiki_init)
+    #signals.article_generator_init.connect(wiki_init)
     # Run after the article list has been generated
     signals.article_generator_finalized.connect(parse_wiki_pages)
     # Run after the articles have been written
