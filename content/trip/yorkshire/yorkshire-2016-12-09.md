@@ -103,4 +103,5 @@ On the way back, Kenneth and I decided to try and make it out of the cave withou
 
 Back to the NPC, reheated slop and packing away, and off down the M6 and back to an uncertain world.
 
+####Jack Hare
 
