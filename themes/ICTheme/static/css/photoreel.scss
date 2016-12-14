@@ -13,15 +13,19 @@ div.photoreel-left, div.photoreel-right {
     z-index: 1;
     top: 50%;
     font-size: 2rem;
+    img:hover {
+      -webkit-filter: brightness(3);
+      filter: brightness(3);
+    }
 }
 div.photoreel-left a, div.photoreel-right a {
   text-decoration: none;
 }
 div.photoreel-right {
-    right: 5%;
+    right: 2%;
 }
 div.photoreel-left {
-    left: 5%;
+    left: 2%;
 }
 div[class^='photoreel-photo'] {
     position: absolute;
