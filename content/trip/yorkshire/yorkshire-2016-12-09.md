@@ -1,15 +1,16 @@
 Title: Yorkshire III
 Date: 2016-12-09
 Location: Yorkshire
-Summary:
+Summary: Classic exhange in Notts Pot on Saturday. Including the classic "spend an hour looking for Notts Pot 1 in the 5m vis fog". Everyone managed to go out a different way than they came in. On Sunday many had a bimble up Notts Pot 2, and a few had some rigging practice in Lost Johns.
 Type: trip
 Photoarchive:
-Mainimg: 
-Thumbl:
-Thumbr: 
+Mainimg: 2016-12-10_16h39m-RhysTyers-SonyRX100II-Notts1-DSC03583.jpg
+Thumbl: 2016-12-10_16h35m-RhysTyers-SonyRX100II-Notts1-DSC03561--thumb.jpg
+Thumbr: 2016-12-11_14h09m-RhysTyers-SonyRX100II-LostJohns-DSC03625--thumb.jpg
 Authors: Rhys Tyers, James Perry, Jack Hare
 Cavepeeps: DATE=2016-12-09; CAVE=Notts Pot 1; PEOPLE=Rhys Tyers, Yuqi Wang, Zoe Young, James Perry, Isha Shaz, Jack Hare, Rebecca Diss, Alex Seaton, Sam, Kenneth Tan, Augustinas Prusokas, Peter Ganson, Stephanie Ford;
-Status: draft
+           DATE=2016-12-10; CAVE=Lost Johns'; PEOPLE=Rhys Tyers, Isha Shaz, James Perry;
+           DATE=2016-12-10; CAVE=Notts Pot 2; PEOPLE=Rhys Tyers, Yuqi Wang, Zoe Young, Jack Hare, Rebecca Diss, Alex Seaton, Sam, Kenneth Tan, Augustinas Prusokas, Peter Ganson, Stephanie Ford;
 
 {{ mainimg }}
 {{ photolink }}
@@ -21,9 +22,17 @@ The drive was fine - Perry did the whole stretch from Leamington Spa, where we c
 
 ####Jack Hare
 
+At some point, traversing one of the windy roads between the M6 and the NPC, we encountered a lorry blocking the entire road. We watched it for 15 minutes as it hopelessly attempted to turn round. A local woman informed us that the lorry driver was foreign and had hit a bridge. We drove past as soon as their was space. The lorry driver shouted "Sorry" at the back of our accelerating bus. Don't be sorry, lorry driver man, be careful.
+
 ##Saturday
 
 ###Notts 1: Everyone!
+
+|In/Out  |Centre          |Left          |Adamsons    |
+|--------|----------------|--------------|------------|
+|Centre  |                |Peter, Kenneth|Auggy, Steph|
+|Left    |Isha, Yu Qi, Zoe|              |Rhys, Perry |
+|Adamsons|Jack, Diss      |Alex, Sam     |            |
 
 #####Notes on finding Notts 1.
 
@@ -44,6 +53,8 @@ Thick fog shrouded us as we changed on Leck Fell. My team; Zoe, Yu Qi, Perry and
 I started rigging, Perry behind me was supervising Yu Qi and Zoe, Isha bringing up the rear. We regrouped in the main chamber and then meandered down Left. The first pitch was no problem. The second (and major) pitch was more interesting. The bolts shown on the rigging guide at the top didn't entirely match with what I found but I made it work and was soon working my way round the traverse. I dithered for a while on the Y-hang, unsure of how to make it friendly to the less experienced. The y-hang is quite a far from the traverse line, and there are few footholds. I left eventually, leaving two slings for people to position as footloops if necessary, and despite my fears everyone managed to get down quite quickly, thanks to some patient guidance by Perry.
 
 I followed the straight drop down, ignoring the window. Down the next little drop into a puddle. As I waited for Yu Qi I piled some more rocks into the puddle to try and make it a dryer landing. I think it only really worked for me as no one else could tell where the rocks were in the cloudy water. The window route is supposedly nicer because it doesn't land in this puddle.
+
+{"Jack arrives." left}(2016-12-10_16h48m-RhysTyers-SonyRX100II-Notts1-DSC03604.jpg)
 
 With the other caught up I dropped down the final hang to see Kenneth and Stephanie waiting in the chamber where the routes meet. One by one everyone arrived from their group and mine. Kenneth and Peter went to rig the next traverse. Jacks group then appeared from Adamsons. Conscious of time, and the fact that Kenneth and Peter had been sketched out by the amount of water down the next pitch we all started heading out. I was derigging Adamsons. As people left it became apparent that there was one too many rope bags compared to able prussickers. We discussed it for a bit, including as I prussicked away, until I convinced Peter that he wouldn't have another bag till near the end of Left anyway and that he should take it. Kenneth eventually ended up taking it, it seems.
 
@@ -83,6 +94,8 @@ With the rest up I finally got to see Isha, who was derigging. I'd assumed she'd
 
 ###Lost Johns: Rhys, Perry, Isha
 
+{"I love caving." right}(2016-12-11_12h35m-RhysTyers-SonyRX100II-LostJohns-DSC03609.jpg)
+
 I was hungover, so followed Rhys and Isha into Lost John’s. I didn't smile much and just hid at the back with my light on its dimmest setting. Things got slightly better when I left the cave.
 
 ####Perry-o-dado
@@ -93,9 +106,13 @@ Once in the cave we climbed over to Dome. I always forget how terrifying the tra
 
 I was getting ready to descend when I heard a cry from below. Isha had run out of rope. Change over, back up, have a think. Don't really know how this happened. Possibly the traverse was rigged too far back but we'd only have gained another couple of meters from that. Maybe bring 35m rope next time? Still good experience (when there are knots in the bottom). We had a fuck up rope so could've continued but decided to head out at this point as time was getting on and also Perry had become non-verbal apart from demanding that I turn off my light. Isha derigged behind me. Perry dissapeared in front of me, fleeing my light like some anti-moth. On the surface Perrys condition improved and his normal jovial self returned. Isha's condition worsened as she realised she had lost her watch. 
 
+The drive back was good. As is now traditional we googled a random sign. Last time we looked up a church after seeing its minibus and uncovered a bizarre child trafficking scam. The [guy himself](https://en.wikipedia.org/wiki/Gilbert_Deya) was driving. This time we googled a sign that said "Woods for Sale". We then spent an hour in a giggling as it turns out that you can become a Small Wood Owner. Also more songs should have pan flutes.
+
 ####Rhys
 
 ###Notts 2: Jack, Kenneth, Alex, Peter, Isha, Yuqi, Zoe, Stephanie, Augustinas, Diss, Sam
+
+{"I would not go in there." left}(2016-12-11_16h11m-RhysTyers-SonyRX100II-LostJohns-DSC03661.jpg)
 
 I love Notts 2. I love getting a novice to lead the way. I love seeing how they respond to the Escheresque nightmare, the eldritch horror, the sheer mind-boggling nonsense that is digging out a cave and propping it up with dodgy scaffolding and electrical wire and bent ladders. Augustinas did us proud down to the drippy chamber, and then Diss lead us up stream. We practised keeping together by stopping when we couldn't see the light of the person behind us - this worked quite well and when we emerged out of the narrow streamway Yuqi lead the way, bravely through the deep water. We got to the nice white column at the top end of one streamway, and I took lots of photos that all looked worthless later on - ISO was too high.
 
@@ -104,4 +121,3 @@ On the way back, Kenneth and I decided to try and make it out of the cave withou
 Back to the NPC, reheated slop and packing away, and off down the M6 and back to an uncertain world.
 
 ####Jack Hare
-
