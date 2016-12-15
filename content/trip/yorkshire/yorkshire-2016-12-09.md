@@ -22,7 +22,7 @@ The drive was fine - Perry did the whole stretch from Leamington Spa, where we c
 
 ####Jack Hare
 
-At some point, traversing one of the windy roads between the M6 and the NPC, we encountered a lorry blocking the entire road. We watched it for 15 minutes as it hopelessly attempted to turn round. A local woman informed us that the lorry driver was foreign and had hit a bridge. We drove past as soon as their was space. The lorry driver shouted "Sorry" at the back of our accelerating bus. Don't be sorry, lorry driver man, be careful.
+At some point, traversing one of the windy roads between the M6 and the NPC, we encountered a lorry blocking the entire road. We watched it for 15 minutes as it hopelessly attempted to turn round. A local woman informed us that the lorry driver was foreign and had hit a bridge. We drove past as soon as there was space. The lorry driver shouted "sorry" at the back of our accelerating bus. Don't be sorry, lorry driver man, be careful.
 
 ####Rhys
 
@@ -41,6 +41,8 @@ At some point, traversing one of the windy roads between the M6 and the NPC, we 
 Notts 1 is located directly in the center of the field with Notts 2 in it. The field containing Lost changes is adjacent to the North East. Enter the field at the gate by the cattle grid. In good visibility it would be enough to walk up the field, skirting the South West wall until you see, to your left, the very large shakehole which contains Notts 1. It's by far the largest shakehole in the field. 
 
 In poor visibility it is difficult. Jack suggests that up the field (I imagine skirting the South West wall again) until you get to a particularly steep rise. Notts 1 is possibly at the top of this rise and in the center of the field.
+
+Tanguy suggests that it should be possible to find by walking due south from Lost Johns' (with the aid of a compass). You will encounter Lost Pot, Boxhead and possibly Perilous Pot whilst walking and then reach the wall. Cross over and continue walking due south and you should arrive at Notts 1. This also has the advantage of hypotenuseing the usual route so is somewhat shorter (but involves more walking cross country). Might be worth a try in future.
 
 #####Reports...
 
