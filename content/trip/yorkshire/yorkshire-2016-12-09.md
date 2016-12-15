@@ -1,17 +1,17 @@
 Title: Yorkshire III
 Date: 2016-12-09
 Location: Yorkshire
-Summary: Classic exhange in Notts Pot on Saturday. Including the classic "spend an hour looking for Notts Pot 1 in the 5m vis fog". Everyone managed to go out a different way than they came in. On Sunday many had a bimble up Notts Pot 2, and a few had some rigging practice in Lost Johns.
+Summary: A classic exchange to Notts 1 on Saturday, including a classic "look around in the 5m vis fog for an hour until you find the entrance". And everyone managed to exit a different way to how they entered, a true exchange. On Sunday many went to Notts 2 for a bimble up the stream and a few went to Lost Johns' for some rigging practice. 
 Type: trip
 Photoarchive:
 Mainimg: 2016-12-10_16h39m-RhysTyers-SonyRX100II-Notts1-DSC03583.jpg
-Thumbl: 2016-12-10_16h35m-RhysTyers-SonyRX100II-Notts1-DSC03561--thumb.jpg
-Thumbr: 2016-12-11_14h09m-RhysTyers-SonyRX100II-LostJohns-DSC03625--thumb.jpg
+Thumbl: 2016-12-11_14h09m-RhysTyers-SonyRX100II-LostJohns-DSC03625--thumb.jpg
+Thumbr: 2016-12-10_16h35m-RhysTyers-SonyRX100II-Notts1-DSC03561--thumb.jpg
 Authors: Rhys Tyers, James Perry, Jack Hare
 Cavepeeps: DATE=2016-12-09; CAVE=Notts Pot 1; PEOPLE=Rhys Tyers, Yuqi Wang, Zoe Young, James Perry, Isha Shaz, Jack Hare, Rebecca Diss, Alex Seaton, Sam, Kenneth Tan, Augustinas Prusokas, Peter Ganson, Stephanie Ford;
-           DATE=2016-12-10; CAVE=Lost Johns'; PEOPLE=Rhys Tyers, Isha Shaz, James Perry;
            DATE=2016-12-10; CAVE=Notts Pot 2; PEOPLE=Rhys Tyers, Yuqi Wang, Zoe Young, Jack Hare, Rebecca Diss, Alex Seaton, Sam, Kenneth Tan, Augustinas Prusokas, Peter Ganson, Stephanie Ford;
-
+           DATE=2016-12-10; CAVE=Lost Johns' Cave; PEOPLE=Rhys Tyers, James Perry, Isha Shaz;
+           
 {{ mainimg }}
 {{ photolink }}
 #####{{ allpeople }}
@@ -22,17 +22,19 @@ The drive was fine - Perry did the whole stretch from Leamington Spa, where we c
 
 ####Jack Hare
 
-At some point, traversing one of the windy roads between the M6 and the NPC, we encountered a lorry blocking the entire road. We watched it for 15 minutes as it hopelessly attempted to turn round. A local woman informed us that the lorry driver was foreign and had hit a bridge. We drove past as soon as their was space. The lorry driver shouted "Sorry" at the back of our accelerating bus. Don't be sorry, lorry driver man, be careful.
+At some point, traversing one of the windy roads between the M6 and the NPC, we encountered a lorry blocking the entire road. We watched it for 15 minutes as it hopelessly attempted to turn round. A local woman informed us that the lorry driver was foreign and had hit a bridge. We drove past as soon as there was space. The lorry driver shouted "sorry" at the back of our accelerating bus. Don't be sorry, lorry driver man, be careful.
+
+####Rhys
 
 ##Saturday
 
 ###Notts 1: Everyone!
 
-|In/Out  |Centre          |Left          |Adamsons    |
-|--------|----------------|--------------|------------|
-|Centre  |                |Peter, Kenneth|Auggy, Steph|
-|Left    |Isha, Yu Qi, Zoe|              |Rhys, Perry |
-|Adamsons|Jack, Diss      |Alex, Sam     |            |
+| In/Out   | Centre           | Left           | Adamsons     |
+| ---      | ---              | ---            | ---          |
+| Centre   |                  | Peter, Kenneth | Auggy, Steph |
+| Left     | Isha, Yu Qi, Zoe |                | Rhys, Perry  |
+| Adamsons | Jack, Diss       | Alex, Sam      |              |
 
 #####Notes on finding Notts 1.
 
@@ -40,11 +42,13 @@ Notts 1 is located directly in the center of the field with Notts 2 in it. The f
 
 In poor visibility it is difficult. Jack suggests that up the field (I imagine skirting the South West wall again) until you get to a particularly steep rise. Notts 1 is possibly at the top of this rise and in the center of the field.
 
-#####Back to the reports
+Tanguy suggests that it should be possible to find by walking due south from Lost Johns' (with the aid of a compass). You will encounter Lost Pot, Boxhead and possibly Perilous Pot whilst walking and then reach the wall. Cross over and continue walking due south and you should arrive at Notts 1. This also has the advantage of hypotenuseing the usual route so is somewhat shorter (but involves more walking cross country). Might be worth a try in future.
+
+#####Reports...
 
 Breakfast done and minibus packed we headed to Notts 1. A grade 1 change and soon was ready to head off with Rhys, Isha, Yuqi and Zoe to attempt to find the entrance in the thick fog. After wandering around a field of heather for a decent amount of time we came across the others who were just entering the field. Having now regrouped we had a better chance of scouring the field and finding the entrance. The going was surprisingly tough and after a couple of regroups and redirections we found the entrance to Notts 1. Not the staggered start we had hoped for but at least were at a cave.
 
-Rhys rigged the entrance series as we discovered Yuqi’s lack of SRT experience in the tree’s. I am still uncertain of how much SRT was already known however I have settled somewhere between - “Has only ascended” and “Has done a changeover but not a rebelay”. Not an easy cave, so care would be needed. I briefed Yuqi (In hindsight too brief) before demonstrating the way on and waiting at the ledge of the first rebelay. Jack more thoroughly showed Yuqi the ropes and we were soon on our way with Zoe and Isha close behind. The going was steady and techniques were improving as we made our way down left route. Rhys rigged a dodgy traverse, admired his work before telling me “That looks really difficult, I don't know how you will do it” (OWTTE). Rhys then left a couple of slings tied to the rope and buggered off. The pitch was about 30 metres and quite scary for me let alone Yuqi on her first SRT trip, Zoe and Isha seemed to be coping just fine behind us. Yuqi handled my terrible instructions very well and after using the slings for some foot holds and extra clip points I managed to man handle her close enough to the rope for me to rig her descender. I could breathe, I was quite nervous due to the height and my less than sturdy footing. About 2m down the rope Yuqi started to yell up in a panic. She had caught her hair. I couldn't see what was happening from my angle but she assured me she couldn't lock off her descender. I maneuvered as close as possible and was just using the two slings to lower her my knife when she managed to pull her hair free. Phew! Too many terrifying stories of tanguy on a rescue mission, I didn't want to have to do that! We all managed to make our way to the bottom of the pitch we shortly met up with the other groups who had taken centre route and adamson’s. On the way up me and Rhys left via Adamson’s with Augustinas and Stephanie. Some technical rigging (due to wrong directions?) made this rather enjoyable and soon we were in the entrance chamber. At this point I stayed back as everyone else exited in order to join Jack, Isha, Diss, Zoe and Yuqi. Some poor/poorly adjusted equipment had not helped Yuqi and at this point she was exhausted. I lead the way out with Zoe and Yuqi as Isha derigged behind Diss and Jack. After much lifting freshers up pitch heads and being a ladder for freshers we made it to the surface. We trudged back exhausted through the dark and fog. Our journey made short by the assistance of some minibus headlights. I started my evening with a can of special brew, and after many more fosters and morrisons own brand 22p Lagers, ended it very merrily in bed.
+Rhys rigged the entrance series as I briefed Yuqi on  SRT before demonstrating the way on and waiting at the ledge of the first rebelay. Jack more thoroughly showed Yuqi the ropes and we were soon on our way with Zoe and Isha close behind. The going was steady and techniques were improving as we made our way down left route. Rhys rigged a dodgy traverse, admired his work before telling me “That looks really difficult, I don't know how you will do it” (OWTTE). Rhys then left a couple of slings tied to the rope and buggered off. The pitch was about 35 metres and quite scary for me let alone Yuqi on her first SRT trip, Zoe and Isha seemed to be coping just fine behind us. Yuqi handled my terrible instructions very well and after using the slings for some foot holds and extra clip points I managed to man handle her close enough to the rope to rig her descender. I could breathe, I was quite nervous due to the height and my less than sturdy footing. About 2m down the rope Yuqi started to yell up in a panic. She had caught her hair. I couldn't see what was happening from my angle but she assured me she couldn't lock off her descender. I maneuvered as close as possible and was just using the two slings to lower her my knife when she managed to pull her hair free. Phew! Too many terrifying stories of tanguy on a rescue mission, I didn't want to have to do that! We all managed to make our way to the bottom of the pitch we shortly met up with the other groups who had taken centre route and adamson’s. On the way up me and Rhys left via Adamson’s with Augustinas and Stephanie. Some technical rigging (due to wrong directions?) made this rather enjoyable and soon we were in the entrance chamber. At this point I stayed back as everyone else exited in order to join Jack, Isha, Diss, Zoe and Yuqi. Some poor equipment had not helped Yuqi and at this point she was exhausted. I lead the way out with Zoe and Yuqi as Isha derigged behind Diss and Jack. I struggled to assist Zoe through a tight pitch head but after attempt one was able to get yuqi through a lot more easily. After being a trodden on by Yuqi and zoe as I lifted them up a difficult free climb for freshers we made it to the surface. We trudged back exhausted through the dark and fog. Our journey made short by the assistance of some minibus headlights. I started my evening with a can of special brew, and after many more fosters and morrisons own brand 22p Lagers, ended it very merrily in bed.
 
 ####Perry-o-dado
 
@@ -94,7 +98,7 @@ With the rest up I finally got to see Isha, who was derigging. I'd assumed she'd
 
 ###Lost Johns: Rhys, Perry, Isha
 
-{"I love caving." right}(2016-12-11_12h35m-RhysTyers-SonyRX100II-LostJohns-DSC03609.jpg)
+{"'I love caving.'" right}(2016-12-11_12h35m-RhysTyers-SonyRX100II-LostJohns-DSC03609.jpg)
 
 I was hungover, so followed Rhys and Isha into Lost John’s. I didn't smile much and just hid at the back with my light on its dimmest setting. Things got slightly better when I left the cave.
 
