@@ -12,7 +12,7 @@ Park at the Leck Fell parking spot. Walk on the North side of the dry stone wall
  
 ### Rigging and directions beyond the main shaft
  
-See the CNCC rigging guide for the main shaft. 
+See the CNCC rigging guide for the main shaft. Note that a 30m rope and 65m rope is enough to get you to the bottom of the main shaft. The 30m will do from the fence post to the second p-bolt. The 65m will get right down, including the traverse and short drop at the bottom.
  
 TLDR tackle for connection to master cave:
  
