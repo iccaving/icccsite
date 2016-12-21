@@ -38,10 +38,15 @@ def parse_wiki_pages(generator):
             if ".git" not in dirname and ".git" not in filename:
                 parsedfile = readers.read_file(dirname, filename)
                 metadata = parsedfile.metadata
-                org = metadata["path"].split("/")
+                try:
+                    path = metadata["path"]
+                    org = metadata["path"].split("/")
+                except KeyError:
+                    path = ""
+                    org = []
                 org.append(filename)
                 structure = add_to_structure(structure, org)
-                wikilist.append((metadata["path"],filename,parsedfile))
+                wikilist.append((path,filename,parsedfile))
                 
     structure = { "articles": structure["folders"]['']["articles"], "folders":structure["folders"] }
 
