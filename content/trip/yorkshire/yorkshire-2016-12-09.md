@@ -1,17 +1,17 @@
 Title: Yorkshire III
 Date: 2016-12-09
 Location: Yorkshire
-Summary: A classic exchange to Notts 1 on Saturday, including a classic "look around in the 5m vis fog for an hour until you find the entrance". And everyone managed to exit a different way to how they entered, a true exchange. On Sunday many went to Notts 2 for a bimble up the stream and a few went to Lost Johns' for some rigging practice. 
+Summary: A classic exchange to Notts 1 on Saturday, including a classic "look around in the 5m vis fog for an hour until you find the entrance". And everyone managed to exit a different way to how they entered, a true exchange. On Sunday many went to Notts 2 for a bimble up the stream and a few went to Lost Johns' for some rigging practice.
 Type: trip
 Photoarchive:
 Mainimg: 2016-12-10_16h39m-RhysTyers-SonyRX100II-Notts1-DSC03583.jpg
 Thumbl: 2016-12-11_14h09m-RhysTyers-SonyRX100II-LostJohns-DSC03625--thumb.jpg
 Thumbr: 2016-12-10_16h35m-RhysTyers-SonyRX100II-Notts1-DSC03561--thumb.jpg
-Authors: Rhys Tyers, James Perry, Jack Hare
+Authors: Rhys Tyers, James Perry, Jack Hare, Stephanie Ford
 Cavepeeps: DATE=2016-12-09; CAVE=Notts Pot 1; PEOPLE=Rhys Tyers, Yuqi Wang, Zoe Young, James Perry, Isha Shaz, Jack Hare, Rebecca Diss, Alex Seaton, Sam, Kenneth Tan, Augustinas Prusokas, Peter Ganson, Stephanie Ford;
            DATE=2016-12-10; CAVE=Notts Pot 2; PEOPLE=Rhys Tyers, Yuqi Wang, Zoe Young, Jack Hare, Rebecca Diss, Alex Seaton, Sam, Kenneth Tan, Augustinas Prusokas, Peter Ganson, Stephanie Ford;
            DATE=2016-12-10; CAVE=Lost Johns' Cave; PEOPLE=Rhys Tyers, James Perry, Isha Shaz;
-           
+
 {{ mainimg }}
 {{ photolink }}
 #####{{ allpeople }}
@@ -26,6 +26,12 @@ At some point, traversing one of the windy roads between the M6 and the NPC, we 
 
 ####Rhys
 
+On Wednesday, I went along to stores in the scary corner of Beit quad to have a scary amount of gear thrown at me, and then to tree training to actually learn the rope techniques I needed on Saturday. I learned to go up - “prusiking” - using a chest jammer, hand jammer, shot cord and foot loop; how to do an upwards “rebelay” (quick Google for the spelling of these) using the ascending gear plus cowstails; then to switch to descending, using a go-descender and braking crab; downwards rebelay and finally hopping off the rope! Additionally, all this was attached to a hip harness which secured using a central maillon (which I insist on thinking of as “mion” as in “pion”) - and a shoulder harness to hold up the chest jammer. You can understand my nervousness!
+
+After lectures on Friday I gathered my full rucksack and sleeping bag and poofy coat and went to help pack the minibus. I managed to avoid all the carrying of kit out from stores by helping Rhys to collect the minibus, but then everything had to be passed up to the roof and strapped down. Then we all bundled in amongst the ropes and drove up to Yorkshire. We had a break at Morrisons when myself and two other novices attempted to decide what the appropriate amount of alcohol to take was. There was more carrying to unpack the bus at the NPC cottage but pretty quickly we were all snoring in our dormitories.
+
+####Stephanie
+
 ##Saturday
 
 ###Notts 1: Everyone!
@@ -38,7 +44,7 @@ At some point, traversing one of the windy roads between the M6 and the NPC, we 
 
 #####Notes on finding Notts 1.
 
-Notts 1 is located directly in the center of the field with Notts 2 in it. The field containing Lost changes is adjacent to the North East. Enter the field at the gate by the cattle grid. In good visibility it would be enough to walk up the field, skirting the South West wall until you see, to your left, the very large shakehole which contains Notts 1. It's by far the largest shakehole in the field. 
+Notts 1 is located directly in the center of the field with Notts 2 in it. The field containing Lost changes is adjacent to the North East. Enter the field at the gate by the cattle grid. In good visibility it would be enough to walk up the field, skirting the South West wall until you see, to your left, the very large shakehole which contains Notts 1. It's by far the largest shakehole in the field.
 
 In poor visibility it is difficult. Jack suggests that up the field (I imagine skirting the South West wall again) until you get to a particularly steep rise. Notts 1 is possibly at the top of this rise and in the center of the field.
 
@@ -84,15 +90,31 @@ At the muddy saddle I rigged my rope down following the tat, and ran out of rope
 
 Kenneth and Peter had gone on to check out the lower traverse, but everyone else was there. I'd had a blast going down with a really good group on an awesome route, and I wanted to get to know some of the new cavers better, so I suggested going out centre with Yuqi and Zoe, aided by Isha. Diss was sent with us to speed things up, and she was quite useful on the way up pulling on ropes when people were climbing.
 
-Yuqi took a while on the first pitch - her sit strap was too tight so she couldn't get her legs up high, and her chest harness strap was fed through the buckle wrongly, so it could never tighten up. There was nothing I could do but wait, and at the top of the pitch there was a nice broad ledge, so I got Yuqi and Zoe onto that (clipping cowstails to the line as if it was a traverse and derigging descenders as opposed to doing it as a proper rebelay) before heading up the next bit. This is also a long pitch with another broad ledge at the top, a bit easier to get off the rope than the previous one, but still a bit tough. 
+Yuqi took a while on the first pitch - her sit strap was too tight so she couldn't get her legs up high, and her chest harness strap was fed through the buckle wrongly, so it could never tighten up. There was nothing I could do but wait, and at the top of the pitch there was a nice broad ledge, so I got Yuqi and Zoe onto that (clipping cowstails to the line as if it was a traverse and derigging descenders as opposed to doing it as a proper rebelay) before heading up the next bit. This is also a long pitch with another broad ledge at the top, a bit easier to get off the rope than the previous one, but still a bit tough.
 
-The next section is a bit tighter, in a rift, and has a hanging rebelay. It helps to make the loops of knots such as fig 8s really small so that they are easier to clip into - long loops hang low, and are very tight near the knot where most people can reach. I eventually shoved a spared krab through the knot to act as a clip in point. it was at the rebelay I appreciated how bad Yuqi's chest jammer was - an ancient thing with an all metal handle, and its teeth were so sharp it bit into the rope and wouldn't let go even when the gate was open! I got Zoe to go up the next pitch before me cos I could hear Peter up above and got him to look out for her. 
+The next section is a bit tighter, in a rift, and has a hanging rebelay. It helps to make the loops of knots such as fig 8s really small so that they are easier to clip into - long loops hang low, and are very tight near the knot where most people can reach. I eventually shoved a spared krab through the knot to act as a clip in point. it was at the rebelay I appreciated how bad Yuqi's chest jammer was - an ancient thing with an all metal handle, and its teeth were so sharp it bit into the rope and wouldn't let go even when the gate was open! I got Zoe to go up the next pitch before me cos I could hear Peter up above and got him to look out for her.
 
 I got up and found the other groups were all up already, and we were quite behind. Not wanting to keep everyone waiting in the cave, Rhys and I agreed that he should take most people out and I'd form a second wave. I begged to be allowed to keep Perry, partially as eye candy and partially as much needed muscle for helping tired cavers up the pitches and free climbs still to come. As Yuqi came up I rigged a second line down on a spare set of bolts and helped her with the high deviation at the top of the Centre pitch - it's not too hard, but when you're tired and a shorter it can be tough. I'd never rigged a second line down to help someone before and felt quite good that I was able to do so quickly and confidently.
 
 With the rest up I finally got to see Isha, who was derigging. I'd assumed she'd be tired, but she was full of excitement and enthusiasm, and insisted on derigging the rest. Shrugging, I sent Perry out first with Zoe and Yuqi, and then followed Diss up. We were soon out on the surface, where the fog hadn't improved (did anyone mention it was foggy?) but we soon saw the minibus headlights and headed for them. They moved the minibus from the normal parking area to the cattle grid, which was a good call as we got there quickly without jumping over any fences. Home, big pot of lentil slop that wouldn't have been out of place in Slov, caving games and booze, and then a blissful first night in the NPC bunk room for me.
 
 ####Jack Hare
+
+Saturday morning arrived at a very reasonable time with large numbers of sausages and egg-fried bread, bacon, mushrooms, beans - yummy! It’s hard to eat lunch in caves, so chocolate bars are the way forwards. The first day we were doing Notts 1 (logic), in three groups - left, centre and John Adamsons (less logic). Jack put me in the centre group, as the easiest route, because I was stupidly nervous. Augustinus was my fellow novice, and we had Kenneth and Peter as our experienced cavers.
+
+Once again we dragged kit bags, ropes and ourselves onto the minibus and drove off to a random field on top of a random hill. And then, on top of a random hill in a random field in Yorkshire in winter, we stripped down to our undies to don our furries, wet socks, oversuits, knee pads, wellies, harnesses, helmets and gloves. Brilliantly, Jack, Kenneth and Peter then rigged up the side of the bus so we could have a final SRT technique practice. In theory, Rhys, Perry, Esha and the more confident novices went to find the cave, but in fact we then spent an hour or so trying to find a big hole in a bumpy field full of heather and covered in fog. It was unbelievably low visibility, even at noon - we all had our helmet lights on, and regrouping involved a fair amount of “ayyy-ohhhh”ing. But find it we did, and eventually we all descended off a ledge and into the unknown (for some of us, anyway).
+
+The first descent was exhilarating at the time but retrospectively boring, because it got better and better. In part it is simply that you rely on your body and the ropes to get to these otherwise inaccessible places, and in part it’s that the only light is your helmet torch - because each rope is done a person at a time, the long descents are just you alone, in the quiet and the dark. But the appeal is also the caves themselves - they’re so alien, everything is inverted, and the sizes are so extreme. At times you could (if you put your descender on hard lock) reach out and touch both sides of the cave at once, but be unable to see top or bottom. There are great folds of rock which ripple downwards like sheets of wild honeycomb, and your rope trails above you into nothingness. At other times you have to lie close to the floor against water-smoothed rocks and pebbles and all you can see is the rock face right in front of you because there isn’t space to turn your head fully. I learnt that you are not officially stuck in between the walls if someone (read: Kenneth) can still see past you.
+
+I’m glad I begun on an easy route and appreciated these things. We reached the bottom first, and I joined Kenneth singing songs in the dark, deep underground. Once everyone else joined us it was time for hot squash and chocolate bars eaten with damp (muddy) fingers.
+
+Augustinus and I went back up John Adamsons with Perry and Rhys. It was a lot harder than the way down! Maybe just because prusiking is harder than using a descender, but it was also a harder route - lots of switching from ascending to interesting traverses. It’s a lot about technique, upper body strength and willingness to scramble inelegantly as well. (I have one of those, at least). I only nearly-panicked once, and luckily Perry was nearby to tell me to chill out and try lots of different things. But up was definitely more of a workout, and a testing of capabilities, than down was.
+
+I was so glad to get to the surface, tramp across the field, now in both mist and darkness, change back to normal clothes and eat many apple pies back on the minibus. Back at the cottage, whilst dinner was cooking, we unpacked kit bags and did our best to ensure that the base layers would be dry for Sunday (this was surprisingly successful - apparently it’s an advantage of the NPC hut, that it has “a drying room that actually dries”), and then recoiled the rope which had been used, which was incredibly hard on my poor arms, but did at least stop them from going stiff. Dinner was “slop” ie. lentil curry, with tea from a beautifully enormous teapot and the aforementioned wine. And then it was time for caving games.
+
+I picked up the most impressively extensive (but sadly not excitingly coloured) bruise on my forearm attempting to do the table traverse, and Diss and I proved quite good at the pot and sling game, but I was never going to be any good at the “squeeze-machine”. Esha definitely won that one, managing to slide through the two planks of wood almost with ease, even though Perry seemed to feel no pain and Rhys is about the width of the length of a biro (I can say that truthfully because he later measured the gap they were squeezing through!) By this point I’d had enough wine to be feeling significantly less self-conscious, and the games were becoming more of a free-for-all, with the can game going on in one corner, three-table traverses miraculously happening and people trying to pick up cardboard from the floor with their mouths, and vague attempts being made to make the fire burn properly.
+
+####Stephanie
 
 ##Sunday
 
@@ -108,7 +130,7 @@ Most people were up for a splash around Notts 2 so Isha, Perry and I were free f
 
 Once in the cave we climbed over to Dome. I always forget how terrifying the traverse above the stream is. Someone put a rope on it, please! At the first pitch I supervised Isha rigging. Someone else has already been down, so we were careful to keep our ropes untangled. Isha already knew the knots so she was pretty quick. We dropped down the first and then the second in rapid succession. At the the (and first big pitch) Isha rigged a long traverse (following the lead of the other group) and a nice y-hang before dropping down to rig a dev. Perry and and I chilled in the chamber and he became gradually less responsive as I again and again got him to say the "I feel like a pig shat in my head" line from Withnail and I.
 
-I was getting ready to descend when I heard a cry from below. Isha had run out of rope. Change over, back up, have a think. Don't really know how this happened. Possibly the traverse was rigged too far back but we'd only have gained another couple of meters from that. Maybe bring 35m rope next time? Still good experience (when there are knots in the bottom). We had a fuck up rope so could've continued but decided to head out at this point as time was getting on and also Perry had become non-verbal apart from demanding that I turn off my light. Isha derigged behind me. Perry dissapeared in front of me, fleeing my light like some anti-moth. On the surface Perrys condition improved and his normal jovial self returned. Isha's condition worsened as she realised she had lost her watch. 
+I was getting ready to descend when I heard a cry from below. Isha had run out of rope. Change over, back up, have a think. Don't really know how this happened. Possibly the traverse was rigged too far back but we'd only have gained another couple of meters from that. Maybe bring 35m rope next time? Still good experience (when there are knots in the bottom). We had a fuck up rope so could've continued but decided to head out at this point as time was getting on and also Perry had become non-verbal apart from demanding that I turn off my light. Isha derigged behind me. Perry dissapeared in front of me, fleeing my light like some anti-moth. On the surface Perrys condition improved and his normal jovial self returned. Isha's condition worsened as she realised she had lost her watch.
 
 The drive back was good. As is now traditional we googled a random sign. Last time we looked up a church after seeing its minibus and uncovered a bizarre child trafficking scam. The [guy himself](https://en.wikipedia.org/wiki/Gilbert_Deya) was driving. This time we googled a sign that said "Woods for Sale". We then spent an hour in a giggling as it turns out that you can become a Small Wood Owner. Also more songs should have pan flutes.
 
@@ -125,3 +147,20 @@ On the way back, Kenneth and I decided to try and make it out of the cave withou
 Back to the NPC, reheated slop and packing away, and off down the M6 and back to an uncertain world.
 
 ####Jack Hare
+
+Luckily, Sunday morning was just as polite with its arrival as Saturday was, and I was up in time to drink tea and butter toast before breakfast. The cave we did on Sunday, Notts 2, was very different from Notts 1, because it is a streamway, so mostly we travelled horizontally, but also because it was discovered by cave divers and then dug down to, so the entrance is both man-made and completely insane.
+
+There’s a tiny, square hole covered with a drain cover, and until you slither through you can’t see what’s below, which is a maze of scaffolding bars (to prevent the shaft from collapsing) and ladders, which seem to be barely attached to anything. It’s like a steampunk jungle gym, or dystopian Jimmy G’s. Jack described it as “Escher-esque” which would be apt except it doesn’t convey the chaoticness and disorganisation of the shaft. But it was great fun to climb down - less fun on the way back up because I kept bumping my head (thank goodness for helmets) and shoulders (ow) on random bars and bolts. The next stage was narrower, and one side of the shaft was breezeblocks, so loads of footholds, to do a sort of “brace and shuffle” trick. The last part of the entrance was a very low, horizontal slither and a bit of zig-zagging to find a big enough gap to drop through (“falling with style”) before we regrouped in a large cavern, complete with “rain” coming through the ceiling.
+
+Finally we actually entered the streamway, which is exactly what it sounds like - a stream along the bottom of an ancient river which has worn away the rock along its path. Serpentine is the only word for it. And very narrow, but very high, so that random boulders are wedged at strange angles high (or not so high, I nearly walked into a few) above our heads, including a trio of rocks forming a natural arch, complete with keystone. The water level ranged from ankle deep to waist deep plus - we turned back from an exploration when it became too deep to wade through.
+
+And this was where we found limestone formations. Not so many stalactites or -mites, but a few full columns and hundreds of delicate straws of all different lengths, and beautiful ripples which looked like huge ear flaps, or melted candle wax. I think these must form along the edges of impact holes - all the rock is dinted, everywhere, without looking damaged, because of the smoothing from the water rushing past. It was less sparkly than Notts 1, which had lots of tiny water droplets to reflect helmet lights, and I wonder whether the shape of the cave affects how the water forms and collects.
+
+At the far end of the cave we ate our chocolate bars and posed for cave photos, before squelching as far as we possibly could through a tunnel and up a mud rise - the sand forms this incredibly thick, clay-like paste, and I had horrible visions of either losing a wellie boot or falling face down into it! Luckily (I guess) on the way back we passed through the deep water again, so we got clean(er). This time I fell behind Zoe, who was in front of me, and was struck by solitude, despite the comfort of others’ lights behind me. The cave somehow seemed more sinister, deeper and twistier, without a fellow caver to follow.
+
+Back at the cavern we emptied a surprising amount of water - although by no means all of it - from our boots, refueled and realised just how muddy we were (well, I did, everyone else was, if anything, expecting worse), before beginning the climb back to the surface. Lots of hooking of elbows to pull up to the next foothold, and boy but did my arms complain about it on Monday! But it wasn’t too tricky, and it was satisfying to get into and out of a cave underground without using gadgets, even if the occasional ladder was involved!
+
+Back at the cottage before we headed back to London, we sorted kit, even going as far as separating the different kinds of crab, whilst feasting on crumpets and brie, then packed up, finished up the curry, cleaned up, loaded up the minbus, and off we went.
+Pretty soon I was tucked up in bed, with the mud out of my hair but not out from underneath my fingernails, achy and bruised but happy. Looking forward to my next trip!
+
+####Stephanie
