@@ -313,7 +313,7 @@ Finally we made it to some friendly ropes. How far to go? I don't know I couldn'
 I was instructed by rhys to stop at any bags I see, I saw no more so continued up the shaft until I reached an extremely narrow tube that reached the ceiling. I could very clearly hear Rhys and Alex struggling beneath me. I managed to worm my way up the tub but the Y-hang was rigged in such a way that it sat very low in the tube and I couldn't reach the edge. I struggled here for about twenty minutes until I eventually hit my face hard enough to spin around and see the holes cut into the tube behind me…
 
 Eventually made it to the surface and soon everyone was out and heading back to the minibus!
-####Perry
+#### Perry
 
 ## Monday
 
