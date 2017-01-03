@@ -7,7 +7,7 @@ Photoarchive: /rcc/caving/photo_archive/tours/2016%20-%20yorkshire%20winter
 Mainimg: 2016-12-20_18h01m-RhysTyers-SonyRX100II-GapingGhyll-DSC03817.jpg
 Thumbl: 2016-12-22_14h20m-JackHare-PowerShotS95-LancasterHole-IMG_8836--thumb.jpg
 Thumbr: 2016-12-21_15h36m-RhysTyers-SonyRX100II-RescueTraining-DSC03844--thumb.jpg
-Authors: Jarvist Frost, Rhys Tyers, James Perry, Jack Hare
+Authors: Jarvist Frost, Rhys Tyers, James Perry, Jack Hare, Tanguy Racine, Alex Seaton
 Cavepeeps: DATE=2016-12-17; CAVE=Vesper Pot; PEOPLE=Jarvist Frost, Rebecca Diss, Dave Kirkpatrick;
    				 DATE=2016-12-17; CAVE=Aquamole Pot; PEOPLE=Ben Honan, Tanguy Racine, Larry Jiang;
 					 DATE=2016-12-17; CAVE=Swinsto Hole; PEOPLE=Rhys Tyers, Will Scott, James Wilson;
@@ -26,6 +26,8 @@ Cavepeeps: DATE=2016-12-17; CAVE=Vesper Pot; PEOPLE=Jarvist Frost, Rebecca Diss,
 					 DATE=2016-12-20; CAVE=Marilyn; PEOPLE=Will Scott;
 					 DATE=2016-12-20; CAVE=Marilyn > Bar Pot; PEOPLE=Alex Seaton;
 					 DATE=2016-12-20; CAVE=Stream Passage Pot > Marilyn; PEOPLE=James Perry, Ben Honan, James Wilson;
+					 DATE=2016-12-20; CAVE=Rowten Pot; PEOPLE=Tanguy Racine, Celia Tinsley, Dave Kirkpatick;
+					 DATE=2016-12-20; CAVE=Rowten Cave; PEOPLE=Tanguy Racine;
 					 DATE=2016-12-21; CAVE=County Pot > Wretched Rabbit; PEOPLE=Dave Wilson, James Wilson, Zoe Young, Stephanie Ford, Larry Jiang;
 					 DATE=2016-12-22; CAVE=Lancaster Hole; PEOPLE=Rhys Tyers, Jack Hare, James Perry, Zoe Young;
 					 DATE=2016-12-22; CAVE=Top Sink > Lancaster Hole; PEOPLE=Tanguy Racine, James Wilson, Larry Jiang, Jim Evans;
@@ -333,7 +335,7 @@ On the surface we wait for Alex and at wander across the fell, past Lost Johns' 
 ### Boxhead -> Battleaxe -> Centipede
 The weather was still very dry on the Sunday,  and this enabled the three-way exchange in Lost Johns’.  Knowing that the Bristol group had bailed on their Notts permit for the day, we had Leck Fell to us. There was a laminate of the NFTFH description of a Boxhead and Lyle Cavern round trip which dropped into the Lost Johns’ master cave. I thought it would be great to try to reach the main streamway at the bottom of Lost Johns’ from another entrance, and recruited (or was recruited by?) the keen Alex and Ben as colleagues in this venture.  Boxhead was described to me as a big hole in the ground, which would make the SRT down straightforward, leaving us plenty of time to explore the horizontal galleries at depth.  
 
-The minibus left ahead to drop plenty of empty bottles at Ingleton’s recycling bay and Alex and I jumped in Pete Hambley’s car, arriving at the Leck fell lower parking spot just before Dave, and the bus. With this great timing we all got changed in pleasant weather and before long our trio left the group for a wander on the surface to find the entrance to Boxhead. 
+The minibus left ahead to drop plenty of empty bottles at Ingleton’s recycling bay and Alex and I jumped in Pete Hambley’s car, arriving at the Leck Fell lower parking spot just before Dave, and the bus. With this great timing we all got changed in pleasant weather and before long our trio left the group for a wander on the surface to find the entrance to Boxhead. 
 
 Past the entrance to Lost Johns’ we followed the clear path across the fell to the south, until, on a rise to the left, we found the enclosed Lost pot shakehole, with its audible waterfall. We were a bit stumped by the directions given on our laminate, but the Boxhead shakehole is past Lost Pots, on the left of the path, not 50m away.  At the bottom we found the entrance drum and set about rigging it. 
 
@@ -622,7 +624,7 @@ The return journey was largely uneventful, with Diss and Larry ascending speedil
 An hour later we arrived back in Clapham and changed by the van. Soon enough the Marilyn team joined us and we hastily made our way back to the NPC. There, a feast awaited us in the form of a huge and delicious Christmas dinner which was thoroughly appreciated and a fitting end to an equally enjoyable winter tour. Though it must be said that the dinner didn't involve quite as much crawling.
 #### Alex Seaton
 
-### Rowten
+### Rowten pot
 The plan to go to Rowten suited me perfectly: the day was sunny, the group small, the cave appealing. We would be out before sunset, in time to prepare the Christmas dinner. 
 
 Rowten is found on West Kingsdale east of the Turbary road, a massive two-part shake hole. The Eyehole route starts from a small pavement bordering the southern, smaller entrance, away from the water. 
@@ -634,6 +636,11 @@ At the very bottom of the last pitch, as I readied my photography gear I realise
 On the way out, we were treated to the beacon of Venus to the south, with the fading sunlight in the direction of Marble steps and Leck Fell. Whilst waiting for DKp to emerge with a stash of tackle sacks I wandered across the Turbary road in search for the Rowten caves, and found one of them: a 100m streamway cave ending for me at a grim duck. The stream carries its course underneath the road and down the Rowten scar.
 
 On the drive back we were treated to the Moldau from Smetana on the radio, which finishes with a vomit inducing series of major chords. This is recommended before a large meal. Back at the NPC however we saw that Jarv and DW had spent hours slaving away at the kitchen with the help of Arun and Zoe. The roast promised to be memorable!
+#### Tanguy
+
+### Rowten cave
+This is my shameless attempt at getting another 'cave' added to my tally. Rowten cave was fine, just fine.
+
 #### Tanguy
 
 ## Wednesday
