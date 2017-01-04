@@ -3,7 +3,7 @@ Date: 2016-12-16
 Location: Yorkshire
 Summary: A week long caving extravaganza. The first day exhausted our rope store with 5 caves rigged on Kingsdale; Vespers, Simpsons', Swinsto, Aquamole and Jingling. We fully explored Leck Fell with visits to Box Head, Notts 1, Lost Johns' and Death's Head. We also visited Little Hull, Gaping Ghyll and various trips through Easegill. And of course we had our annual rescue techniques training sesh.
 Type: tour
-Photoarchive: /rcc/caving/photo_archive/tours/2016%20-%20yorkshire%20winter
+Photoarchive: /rcc/caving/photo_archive/tours/2016%20-%20yorkshire%20winter/
 Mainimg: 2016-12-20_18h01m-RhysTyers-SonyRX100II-GapingGhyll-DSC03817.jpg
 Thumbl: 2016-12-22_14h20m-JackHare-PowerShotS95-LancasterHole-IMG_8836--thumb.jpg
 Thumbr: 2016-12-21_15h36m-RhysTyers-SonyRX100II-RescueTraining-DSC03844--thumb.jpg
