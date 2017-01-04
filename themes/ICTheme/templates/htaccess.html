@@ -171,3 +171,5 @@ RewriteCond %{DOCUMENT_ROOT}/rcc/caving/old/$1 -f [or]
 RewriteCond %{DOCUMENT_ROOT}/rcc/caving/old/$1 -d
 RewriteRule ^(.*)$ old/$1 [L,R=301]
 ## END REDIRECTS ##
+
+ErrorDocument 404 /rcc/caving/404.html

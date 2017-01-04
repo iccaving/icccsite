@@ -3,30 +3,19 @@
 Migovec Cave Exploration
 {% endblock banner %}
 
+
 {% block content %}
-<div class="index-container">
+<div class="article-content">
   {% if articles %}
     {% for article in articles %}
       {% if articles_previous_page == None %}
         {% if article.type == 'stickyindex' %}
-          <div class="content-box">
-            <div class="content-header">
-              <div class="content-left">
-                <div><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
-              </div>
-            </div>
-            <div class="content">
-              <div class="content-summary">
-              {{ article.content }}
-            </div>
-            </div>
-          </div>
-
+          {{ article.content }}
         {% endif %}
       {% endif %}
     {% endfor %}
   {% endif %}
+  
   {% include 'includes/license.html' %}
 </div>
-
-{% endblock content %}
+{% endblock %}

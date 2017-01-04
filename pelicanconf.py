@@ -61,4 +61,6 @@ PHOTOREEL_NUM_ARTICLES = 6
 PHOTOREEL_TRANSITION_TIME = 0.5
 PHOTOREEL_NEXT_SLIDE_TIME = 5
 
+# These aren't in the repo so even when testing they should come from the live site
 PHOTO_LOCATION = 'https://union.ic.ac.uk/rcc/caving/photo_archive/'
+ASSET_LOCATION = 'https://union.ic.ac.uk/rcc/caving/assets/'

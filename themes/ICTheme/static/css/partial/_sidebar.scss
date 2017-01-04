@@ -28,6 +28,10 @@
 	-moz-box-shadow: inset 0 0 0 #000000;
 	-webkit-box-shadow: inset 0 0 0 #000000;
 	box-shadow: inset 0 0 0 #000000;
+	
+	background-size: 200% 100%;
+	background-image: linear-gradient(to right, rgba(0,0,0,0) 50%, #A6373F 50%);
+	transition: background-position 0.5s;
 }
 .sidebar-item a:visited,
 .sidebar-sub-item a:visited,
@@ -48,7 +52,7 @@
 	 &:hover,
 	a:hover {
 		text-decoration: none;
-		background-color: #A6373F;
+		background-position: -100% 0;
 	}
 }
 .sidebar-sub-item a:hover {

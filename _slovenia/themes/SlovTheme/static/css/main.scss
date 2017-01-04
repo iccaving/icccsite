@@ -9,6 +9,7 @@ $visited-links: #3D8E80; /*Darker Red (Visited Links)*/
 $dark-background: #2D2D2D; /*Dark grey (Background Colour for Banner/Sidebar/Headers H1)*/
 $header2: #40B080; /* (H2)*/
 $light-background: #40B080; /*(Highlight colour for Banner/Sidebar/Headers H3/text)*/
+$offwhite: #E8E8E8;
 
 /*Global Text and link properties */
 
@@ -52,8 +53,9 @@ a:hover {
     vertical-align: middle;
 }
 
-.sidebar-item a:hover, .sidebar-sub-item a:hover, .sidebar-sub-sub-item a:hover, .sidebar-item:hover, .sidebar-sub-item:hover, .sidebar-sub-sub-item:hover {
-	background-color: #4AB959;
+.sidebar-item a, .sidebar-sub-item a, .sidebar-sub-sub-item a, {
+	background-image: linear-gradient(to right, rgba(0,0,0,0) 50%, #4AB959 50%);
+	color: $offwhite
 }
 
 .content-right {
