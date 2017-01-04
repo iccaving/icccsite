@@ -31,7 +31,8 @@ Cavepeeps: DATE=2016-12-17; CAVE=Vesper Pot; PEOPLE=Jarvist Frost, Rebecca Diss,
 					 DATE=2016-12-21; CAVE=County Pot > Wretched Rabbit; PEOPLE=Dave Wilson, James Wilson, Zoe Young, Stephanie Ford, Larry Jiang;
 					 DATE=2016-12-22; CAVE=Lancaster Hole; PEOPLE=Rhys Tyers, Jack Hare, James Perry, Zoe Young;
 					 DATE=2016-12-22; CAVE=Top Sink > Lancaster Hole; PEOPLE=Tanguy Racine, James Wilson, Larry Jiang, Jim Evans;
-Status: draft
+Status:
+Unlisted:
 
 {{ mainimg }}
 {{ photolink }}
@@ -156,7 +157,7 @@ rigging (too tight to pass, or in the water).
 ### Aquamole: {{ DATE=2016-12-17; CAVE=Aquamole Pot; }}
 Aquamole looked like a good choice for a first ever SRT trip, and an introduction to the verticality of Yorkshire, so I proposed to take Larry down, and Ben kindly offered to rig the way. There were another four trips happening in Kingsdale, each 3 people strong at most. When did that last happen? How much rope was left after our stock was depleted in all its short ropes (Simpson’s) and long ropes (Vespers, Swinsto)?
 
-We drove up the valley, with clouds hugging the top of the Yoredale group, but otherwise dry weather. We parked at the Braida Garth driveway, changed to the lively tune of Sws Ffyn Bwch (most likely spelling?) before climbing up along the Swinsto path. Following the Turbary road and the GPS indications we quickly arrived at the manhole entrance of Aquamole, where the 8mm divers’ rope was pre-rigged. Ben shadow-rigged it, while I gave Larry a last short rebelay run-through session. Happy that he remembered his training, I invited him to follow Ben on the descent.
+We drove up the valley, with clouds hugging the top of the Yoredale group, but otherwise dry weather. We parked at the Braida Garth driveway, changed to the lively tune of Sws Ffyn Bwch (most likely spelling? [Ed: Sosban Fach]) before climbing up along the Swinsto path. Following the Turbary road and the GPS indications we quickly arrived at the manhole entrance of Aquamole, where the 8mm divers’ rope was pre-rigged. Ben shadow-rigged it, while I gave Larry a last short rebelay run-through session. Happy that he remembered his training, I invited him to follow Ben on the descent.
 
 Through only slightly mild incompetence from my part, I ended up taking two rope bags, one of which Ben needed quite early on.  After a bit of faff at a drippy rebelay Ben took the bag down and continued the entrance series. The walls were slick with run-off most the way through the fault controlled passage but two large ‘Y’-hangs in succession took us away from the drips  to the base of a boulder-floored chamber.
 
@@ -258,7 +259,7 @@ with some beautiful streamway - clean and spray-lashed is the most succinct
 way I can describe, with some pretty fossils in the rock. There's also a lot of
 it. And evidently the ropes did not match up very well with the cave! Some
 rather experimental conversion of rebelays-into-deviations and finishing of the
-final pitch with the tackle sack lanlard (turned out the '50 m' rope was
+final pitch with the tackle sack lanyard (turned out the '50 m' rope was
 actually '40.5 m' when measured by Dave Wilson later!). Jack had also run out
 of maillons; and there were a could half-dozen krab belays.
 
