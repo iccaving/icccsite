@@ -40,11 +40,11 @@
   <div class="sidebar-item expandable-menu"><a href="#" onclick="return false;">Early History </a></div>
   <div class="sidebar-outer collapsed">
     <div class="sidebar-inner nodisplay">
-    <div class="sidebar-sub-item"><a href="/caving/FILES/expeditions/slovenia/slovpre2000/slov_cookbook.pdf">Cookbook</a></div>
-    <div class="sidebar-sub-item"><a href="/caving/FILES/expeditions/slovenia/slovpre2000/1998_scuz_diary.pdf">Scuz's 1998 Diary</a></div>
-    <div class="sidebar-sub-item"><a href="/caving/FILES/expeditions/slovenia/slovpre2000/1998_slov_report.pdf">1998 Report</a></div>
-    <div class="sidebar-sub-item"><a href="/caving/FILES/expeditions/slovenia/slovpre2000/1999_slov_report.pdf">1999 Report</a></div>
-    <div class="sidebar-sub-item"><a href="/caving/FILES/expeditions/slovenia/slovpre2000/1997_slov_report.pdf">1997 Report</a></div>
+    <div class="sidebar-sub-item"><a href="/caving/FILES/expeditions/slovenia/slovpre2000/slov_cookbook.pdf">Cookbook [PDF]</a></div>
+    <div class="sidebar-sub-item"><a href="/caving/FILES/expeditions/slovenia/slovpre2000/1998_scuz_diary.pdf">Scuz's 1998 Diary [PDF]</a></div>
+    <div class="sidebar-sub-item"><a href="/caving/FILES/expeditions/slovenia/slovpre2000/1998_slov_report.pdf">1998 Report [PDF]</a></div>
+    <div class="sidebar-sub-item"><a href="/caving/FILES/expeditions/slovenia/slovpre2000/1999_slov_report.pdf">1999 Report [PDF]</a></div>
+    <div class="sidebar-sub-item"><a href="/caving/FILES/expeditions/slovenia/slovpre2000/1997_slov_report.pdf">1997 Report [PDF]</a></div>
   {% for article in articles %}
   {% if article.date.strftime('%Y')|int < 2000 and article.type == "expedition" %}
       <div class="sidebar-sub-item"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
