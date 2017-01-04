@@ -26,16 +26,16 @@ def photoreel(generator):
     else:
         nextslidetime = 3
     count = 0
-    content = "<div class='photoreel-container'><div class='photoreel-left'><a><img src='/rcc/caving/assets/arrows-left.svg' style='height: 30px;'></a></div>"
+    content = "<div class='photoreel-container'><div class='photoreel-left'><a><img src='" + generator.settings['SITEURL'] + "/assets/arrows-left.svg' style='height: 30px;'></a></div>"
     dots = "<div class='photoreel-dots'>"
     for article in generator.articles:
-        if 'archiveloc' in article.metadata.keys() and 'mainimg' in article.metadata.keys():
+        if 'archiveloc' in article.metadata.keys() and 'mainimg' in article.metadata.keys() and 'unlisted' not in article.metadata.keys():
             content += "<div class='photoreel-photo photoreel-photo-" + str(count) + "'><a href='" + siteurl + "/" + article.url + "'><img src='" + os.path.join(article.metadata['archiveloc'], article.metadata['mainimg']) + "'><span class='photoreel-title'>" + article.metadata['title'] + "</span></a></div>"
             dots += "<a class='photoreel-dot photoreel-dot-" + str(count) + "' data-count='" + str(count) + "'></a>"
             count += 1
         if count == maxcount:
             break
-    content += "<div class='photoreel-right'><a><img src='/rcc/caving/assets/arrows-right.svg' style='height: 30px;'></a></div>" + dots + "</div></div>"
+    content += "<div class='photoreel-right'><a><img src='" + generator.settings['SITEURL'] + "/assets/arrows-right.svg' style='height: 30px;'></a></div>" + dots + "</div></div>"
     content += """
     <link rel="stylesheet" href='""" + siteurl + """/theme/css/photoreel.css' type="text/css" />
     <script>var maxcount = """ + str(maxcount) + """;var transtime = """ + str(transtime) + """;var nextslidetime = """ + str(nextslidetime) + """;</script>
