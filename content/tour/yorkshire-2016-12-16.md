@@ -163,7 +163,7 @@ Through only slightly mild incompetence from my part, I ended up taking two rope
 
 Down the boulder slope, a keyhole shaped stooping/crawling passage beckoned underneath the left hand wall. The floor dropped slowly, transforming the tube in a narrow, meandering rift leading to the head of the second pitch, a straightforward ‘Y’-hang rebelay followed by a deviation.  At the bottom, Ben led the way down through boulders to reach another short meander which opened out onto a large ledge, with darkness off to our left: this was the takeoff of the third, 45m pitch. Ben carried on with his rigging down to a small ledge, and then onto the large, treble-dev hang.
 
-{"The bottom of Aquamole." left}[2016-12-17_15h19m-TanguyRacine-NikonD3200-WinterTour-DSC_0025.jpg]
+{"The bottom of Aquamole." left}(2016-12-17_15h19m-TanguyRacine-NikonD3200-WinterTour-DSC_0025.jpg)
 
 We followed him down, Larry keeping a good pace, and negotiating the deviations with relative ease. This pitch was a cracker, mostly out of the drips, spacious and beautifully fluted.  It was a shame the base was a flat boulder floor leading immediately to a large sump pool.  We had some water, chocolates, hot squash and a quick photo session. Ben then carried my flash up some fifteen metres  and stopped for a few more pictures. Larry followed up, again keeping a steady, sure pace. Then I went up derigging, disentangling the rope from
 
@@ -172,7 +172,7 @@ We followed him down, Larry keeping a good pace, and negotiating the deviations 
 ### Swinstow (not to Simpsons): {{ DATE=2016-12-17; CAVE=Swinsto Hole; }}
 ### Simpsons (not to Swinstow): {{ DATE=2016-12-17; CAVE=Simpsons Pot; }}
 
-{"Traditional bonding exercises were carried out." left}[2016-12-17_11h24m-TanguyRacine-NikonD3200-WinterTour-DSC_0005.jpg]
+{"Traditional bonding exercises were carried out." left}(2016-12-17_11h24m-TanguyRacine-NikonD3200-WinterTour-DSC_0005.jpg)
 
 TL;DR - Take Swinsto Great Aven, or a very long rope for Silt Pot if you're planning to do the exchange.
 
@@ -403,7 +403,7 @@ I continued on, and after some arduous ascent was almost at the top of the next 
 
 Reaching the surface was a relief. It turned out that Perry's difficulty had been caused by ascending with his back facing the holes cut into the tube. Thinking that it was completely smooth he struggled there for 20 minutes before discovering the footholds - no doubt an incredibly frustrating experience. With all of the Leck feel teams out safely we headed back, where a fine Lasagne and huge amounts of wet gritty rope awaited us.
 
-{"Coiling rope is so much fun!" left}[2016-12-19_21h19m-JackHare-PowerShotS95-LancasterHole-IMG_20161219_211918.jpg]
+{"Coiling rope is so much fun!" left}(2016-12-19_21h19m-JackHare-PowerShotS95-LancasterHole-IMG_20161219_211918.jpg)
 
 After dealing with kit and rope, I spent the evening relaxing and sipping at port. But with the following day devoted yet again to Leck Fell, my mind turned to contemplating the possible routes we could attempt. Finding a large printout of the Leck Fell survey in the NPC library (BCRA Cave Science Vol. 10(4)), Rhys and I examined the possibilities. Neither of us had been up to the northern part of the system so that seemed like an interesting target. Death's head and Big Meanie thus emerged as good options having a connection to the streamway to look at and also seeming relatively easy (by comparison to the distinctly novice-unfriendly Boxhead route).
 #### Alex Seaton
@@ -430,7 +430,7 @@ This must have been the pay off for the original diggers &mdash; a beautiful Yor
 
 The sump is grim and foamy, as you'd expect, so we headed back upstream, taking a few photos and pausing by the inlet from Death's head for a hydrological experiment &mdash; in dry conditions, a size 8 welly fills in eight mississippis. If you see more water than this, be prepared to get wet!
 
-{"Quite deep and not much air space at the bottom of Death's Head." right}[2016-12-19_16h41m-RhysTyers-SonyRX100II-DeathsHead-DSC03757.jpg]
+{"Quite deep and not much air space at the bottom of Death's Head." right}(2016-12-19_16h41m-RhysTyers-SonyRX100II-DeathsHead-DSC03757.jpg)
 
 Upstream, the lake series quickly began. Alex lead the way, whopping excitedly as he sunk first groin, then nipple deep. I followed, sticking to the edges to try and stay a bit higher, and Rhys followed, making high pitched squeals that sounded suspiciously like the mating calls of some small, red-arsed primate. After a few twists and turns we came to an excellent obstacle - almost neck deep water with a low ceiling so that you had to tilt your head on the side to get through. If this is the streamway in dry conditions then it must be quite entertaining when it's rained! Rhys grabbed a few photos and we bailed before verifying the connection with Lost Johns'.
 
@@ -442,7 +442,7 @@ Inspired by mine, Alex's and Perry's traversal of Leck Fell yesterday I was keen
 
 A relaxed start to the day saw a cheeky visit to Inglethief. Jack picked up some new wellies. I felt up some neofleece undersuits. We dropped off a collection of retrobates who wanted to spend the day buying milk from Ingleton and walking back to the NPC. Perverts. Fours of us continued in the bus to Leck Fell. Me, Alex, Jack and Diss arrived to find the rest of ICCC already there and changed, having been given a lift by DW and Pete.
 
-{"I'm sure this is perfectly safe, says Rhys, convincing no one." left}[2016-12-19_13h37m-RhysTyers-SonyRX100II-DeathsHead-DSC03705.jpg]
+{"I'm sure this is perfectly safe, says Rhys, convincing no one." left}(2016-12-19_13h37m-RhysTyers-SonyRX100II-DeathsHead-DSC03705.jpg)
 
 We got changed and wandered across the fell, in the opposite direction to normal. Death's Head is a fairly obvious shakehole in a fenced off enclosure (see the [cave page](/rcc/caving/caves/Death's%20Head%20Hole.html) for more deets). I was tasked with rigging down. The first belay is a fence post and from there you are in quite an exposed position straight away. I choose to believe the farmers on Leck are aware of what their posts are used for and dig them suitable foundations. Then a tree belay to get you over the edge properly and into the big shaft. I had to wait a while for Jack to bring me the second bag of rope that I remembered I'd need. A y-hang and dev off in-situ tat gets you to a pile of loose boulders. A small traverse and then final little hang gets you to the traditional bottom of Death's Head.
 
@@ -467,7 +467,7 @@ The bottom of the pitch consists of a slope of boulders, at the bottom of which 
 
 On arrival in the chamber I found Rhys and Jack waiting patiently. After updating them on the events closer to the surface we decided to press on and sent Rhys down the scaffolding to see if it would collapse. Finding that it didn't, we figured it was probably safe and so followed carefully down the rope. The crawl at the bottom led on down a short handline climb into a walking passage complete with a stream. This we followed until it soon emerged 2m up the wall of the Leck Fell master stream passage.
 
-{"The streamway enters the Leck Fell master system." left}[2016-12-19_16h31m-RhysTyers-SonyRX100II-DeathsHead-DSC03736.jpg]
+{"The streamway enters the Leck Fell master system." left}(2016-12-19_16h31m-RhysTyers-SonyRX100II-DeathsHead-DSC03736.jpg)
 
 Once in the streamway we opted first to go downstream and find the sump. The passage was easily navigable and we quickly made our way along. All too apparent were the sinister signs of flooding: walls coated with a thin layer of mud and small stalagtites protruding from the ceiling wrapped in bits of organic debris. Shortly we reached deeper water draped in a layer of scum that indicated we weren't welcome here. The passage didn't visibly sump but, not being especially interested in locating the precise point at which it did, we turned back and retraced our steps to the Death's Head inlet.
 
@@ -545,7 +545,7 @@ We walked the direct way to Pen-y-ghent from Horton, taking about 45min to reach
 
 The last, and only time we’d gone down, we followed the cascading stream to a drippy, tight rift and an uninviting duck. This time, determined to avoid this experience I rigged a handline down to the dry, upstream continuation of the rift, away from the spray and draught of the large pitch.  The passage was well decorated, and closed down where a large white calcite flowstone barred any further progress. This was as good a reward as any so we turned around there, making a steady way out as I took a few pictures, and Natalie derigged the entrance pitch.
 
-{"Joint ICCC/NUCC trip to Little Hull." right}[2016-12-19_18h42m-TanguyRacine-NikonD3200-WinterTour-DSC_0023.jpg]
+{"Joint ICCC/NUCC trip to Little Hull." right}(2016-12-19_18h42m-TanguyRacine-NikonD3200-WinterTour-DSC_0023.jpg)
 
 After that we walked down to the car, and drove back to a full NPC,  and a less full pot of Dahl, courtesy of Arun. Later that night, a large survey of Gaping Ghyll was recovered from what I assume is a treasure chest in the attic of the cottage, which led to an intense discussion about the ways in  and out of the main chamber, the various crawls that led to it. Celia let me know that her only caving day the previous year had been to that system, and that she’d enjoy doing something else on the morrow. A vague plan to go to Rowten with Dave Kp was thus formed in the darkest corner of the common room.
 #### Tanguy
@@ -564,7 +564,7 @@ In the morning I was not feeling the walk up to Ghaping Ghyll. Over the course o
 
 I asked to rig Bar, feeling like a sightly easy day. I was also keen to try to take some decent photos in the main chamber and to that end Jack brought his flash as well. We had a vague plan that us Bar cavers would try and go up to where Marilyn drops in, locate that group, then the joined groups would wander down to Stream to find the Streamers (or meet in the main chamber).
 
-{"Our Glorious President enjoys the walk up." center}[2016-12-20_13h47m-RhysTyers-SonyRX100II-GapingGhyll-DSC03804.jpg]
+{"Our Glorious President enjoys the walk up." center}(2016-12-20_13h47m-RhysTyers-SonyRX100II-GapingGhyll-DSC03804.jpg)
 
 The walk up was fairly pleasant, cool enough that I didn't need to strip excessively on the way. The farmer was about and confirmed that we should head up the way he told us to last time, to the West of the woods. At Bar we hid the key and everyone else dispersed. I started rigging. Larry began by having his helmet not working. As I rigged I walked him through wiggling various contacts and wires. It started working and down I went.
 
@@ -578,7 +578,7 @@ I shouted up but got no response. Diss, Larry and I turned round, preparing to g
 
 A conversation later and Alex was heading with Diss and Larry to the main chamber and then I assume a bimble up mud hall. I led Jack and Will to Stream. As it happened an ayoh this time recieved a reply from a distant Ben. Jack, Will and I sang and screamed abuse at them for a while until Ben landed next to us angelically. Then, in the spirit of our amorphous blob of teams, Will led me and Ben to the main chamber. Jack, Perry and J Dubz following.
 
-{"Gaping Ghyll main chamber, two flashes and some light painting." center}[2016-12-20_18h01m-RhysTyers-SonyRX100II-GapingGhyll-DSC03817.jpg]
+{"Gaping Ghyll main chamber, two flashes and some light painting." center}(2016-12-20_18h01m-RhysTyers-SonyRX100II-GapingGhyll-DSC03817.jpg)
 
 In the main chamber Alex's team returned from Mud hall jut as we arrived and Jack wasn't far behind. We drank an awful lot of soup carefully carried down in thermoses (a brilliant idea btw). I took some photos. Then we split amorphous blobally again. Jack and I were derigging Stream. We bombed it to the first pitch, and then sped up. We encountered Ben's first attempts at unsupervised rigging. It was interesting, adding a nice challenge. In the context of the airy intimidating traverses of Stream it was impressive work.
 
@@ -674,7 +674,7 @@ Along with this we practised increasing the friction on our descenders to accoun
 
 After this we got onto something I've always wanted to know how to do &mdash; passing a rebelay with a casualty. We descended again to the casualty, clipped in and descended with their descender. At the rebelay, we clipped our descender into their harness and rigged it to the rope below. Then we descended such that the lower descender took our weight and derigged the higher descender, effectively passing the rebelay without cowstails - very efficient!
 
-{"Will cuts Jack loose." left}[2016-12-21_15h50m-RhysTyers-SonyRX100II-RescueTraining-DSC03910.jpg]
+{"Will cuts Jack loose." left}(2016-12-21_15h50m-RhysTyers-SonyRX100II-RescueTraining-DSC03910.jpg)
 
 No session is complete without the annual sacrifice of old club rope. First we descended on a rescue rope, clipped the casualty to our harness and cutting their rope before descending to the ground. There was a lot of discussion about which way to cut to avoid stabbing either yourself of the casualty, so that's worth thinking about.
 
@@ -698,11 +698,11 @@ Back at the hut we ate a now classic pilaf and prepared for our final day of cav
 
 ### Lancaster Hole: {{ DATE=2016-12-22; CAVE=Lancaster Hole; }}
 
-{"Perry rigs down Lancaster Hole" left}[2016-12-22_12h59m-RhysTyers-SonyRX100II-LancasterHole-DSC03918.jpg]
+{"Perry rigs down Lancaster Hole" left}(2016-12-22_12h59m-RhysTyers-SonyRX100II-LancasterHole-DSC03918.jpg)
 
 I'm bad at cave photography, despite having spent hundreds of pounds on peli cases and flashes. Part of the problem is that I never take the time to get good at it &mdash; when I'm caving I always want to get going instead of hanging around perfecting a shot. When I complained about this to Rhys he suggested a dedicated photography session, and on Friday it seemed like a good time. Plenty of tired novices, even more tired leaders and Leaders and we were headed to Easegill. Tanguy suggested the hard-to-spell Colonnades just near Lancaster Hole, so Rhys, Perry, Zoe and I popped down there.
 
-{"Rhys admires the Colonnades" right}[2016-12-22_14h06m-JackHare-PowerShotS95-LancasterHole-IMG_8786.jpg]
+{"Rhys admires the Colonnades" right}(2016-12-22_14h06m-JackHare-PowerShotS95-LancasterHole-IMG_8786.jpg)
 
 After a bit of entertaining route finding (we went the wrong way (left) before Kath's Way, before doubling back to the Colonnades) we got to our main goal, only five minutes caving from the bottom of Lancaster Hole. The Colonnades are impressive, 3-4 m high white calcite pillars, around five or so, up a short free climb from Bridge cavern. There's plentiful tape and a passive aggressive sign, as befits formations of such beauty and importance, and I was eager to get started. After spending a few minutes with the firefly on the wrong way round on the hot shoe, I finally got a blinding burst of light from the flash and we were away.
 
