@@ -12,10 +12,10 @@ Oldurl:/caving/yorkshire/yorkshire0204.php
 Photographs by ** Lyndon ** [ here ](/caving/photo_archive/trips/2004-02-21%20-%20yorkshire%20-%20lyndon/dirindex.html) , and some by ** James Roberts ** from the Sunday 'trip' [ here. ](/caving/photo_archive/trips/2004-02-00%20-%20yorkshire%20-%20unknown/dirindex.html)   
 Photos on this page are by Colm. 
 
-|  [ ![](/caving/old/yorkshire/yorks0204/meregill1lr.jpg) ](/caving/old/yorkshire/yorks0204/meregill1.jpg) |  [ ![](/caving/old/yorkshire/yorks0204/meregill3lr.jpg) ](/caving/old/yorkshire/yorks0204/meregill3.jpg) |  [ ![](/caving/old/yorkshire/yorks0204/meregill2lr.jpg) ](/caving/old/yorkshire/yorks0204/meregill2.jpg)  
+|  [ ![image](/caving/old/yorkshire/yorks0204/meregill1lr.jpg) ](/caving/old/yorkshire/yorks0204/meregill1.jpg) |  [ ![image](/caving/old/yorkshire/yorks0204/meregill3lr.jpg) ](/caving/old/yorkshire/yorks0204/meregill3.jpg) |  [ ![image](/caving/old/yorkshire/yorks0204/meregill2lr.jpg) ](/caving/old/yorkshire/yorks0204/meregill2.jpg)  
 ---|---|---  
   
-![](/caving/old/yorkshire/yorks0204/meregill.jpg)
+![image](/caving/old/yorkshire/yorks0204/meregill.jpg)
 
 ###  Meregill 
 

@@ -21,7 +21,7 @@ _ Drove up the M1 in Clewin's car, via Tom's place. Arriving on a warm night in 
   
 ---  
   
-![](/caving/old/yorkshire/yorks0706/caving-you can't rush.jpg) Beautiful day, by the time we've woken up and fried-up there are walkers and cavers passing the farm onto the fell, while we sit outside eating breakfast. Eventually caving kit is put on and the 3 of us amble off to Easegill, then Jan has a moment of genius, we stick 3 bottles of Grolsch in a tackle sack to leave in the stream outside WR. 
+![image](/caving/old/yorkshire/yorks0706/caving-you can't rush.jpg) Beautiful day, by the time we've woken up and fried-up there are walkers and cavers passing the farm onto the fell, while we sit outside eating breakfast. Eventually caving kit is put on and the 3 of us amble off to Easegill, then Jan has a moment of genius, we stick 3 bottles of Grolsch in a tackle sack to leave in the stream outside WR. 
 
 _ Says clewin while sunbathing after breakfast - "This is why we don't cave in the summer."   
 Tom's response, "Like the Grolsch, you've got to take things slowly." _

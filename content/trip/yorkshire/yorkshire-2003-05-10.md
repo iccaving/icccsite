@@ -15,7 +15,7 @@ Depsite an efficiency ratio  1  of 3:2, we still managed to faff until 8:10 in S
 
 ###  Saturday 
 
-![](/caving/old/yorkshire/yorks0503/ggmainshaft.jpg) Woke to perfect weather, ideal for walking, but we still packed the rope for our caves. Were ready to go by 10AM, so decided to go to Bernies and Inglethief for a bit of faffing. Back to Clapham for the tramp up to Gaping Ghyll 
+![image](/caving/old/yorkshire/yorks0503/ggmainshaft.jpg) Woke to perfect weather, ideal for walking, but we still packed the rope for our caves. Were ready to go by 10AM, so decided to go to Bernies and Inglethief for a bit of faffing. Back to Clapham for the tramp up to Gaping Ghyll 
 
 ** Flood Pot ** \- _ Report by Moritz _   
 Moritz, Colm 

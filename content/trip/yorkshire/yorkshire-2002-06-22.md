@@ -36,7 +36,7 @@ I'd imagine this cave is a very satisfactory rigging trip - though I wouldn't kn
 _ Colm writes: _   
 Hugh turns up at 10:30 just on time to scrounge the last sausage. He regales us with stories of mattress rugby and other drunken games from the wedding he was at, before disappearing to Bernies for a proper breakfast. 
 
-|  [ ![](/caving/old/yorkshire/yorks0602/alumpotlr.jpeg) ](/caving/old/yorkshire/yorks0602/alumpot.jpeg)  
+|  [ ![image](/caving/old/yorkshire/yorks0602/alumpotlr.jpeg) ](/caving/old/yorkshire/yorks0602/alumpot.jpeg)  
 ---|---  
   
 The rest of us ponder what trip to do before finally settling on Diccan-Alum exchange. Ropes quickly packed, we join Hugh in Bernies for a brief cuppa before hitting Selside. Much debate over who does what cave, but as Andy and I are ready first, we get Diccan. Over-rig the first pitch (3 Y-hangs) and completely miss the deviation, so try to get Andy to sort it. Much confusing shouting &amp; faffing (and getting sprayed on) end up with us not bothering with deviation. Good rigging turned into minamilist rigging as we ran out of maillons, but soon at bottom as others appear from Alum. Brief chat before uneventful exit - Prussiking the main pitch in glorious sunshine with an audience of dolly-tubbers. I head back to Diccan to rig deviation in top pitch so prussikers avoid spray. It's a bit of a swing, but easy enough 'cause of loads of handholds. 
