@@ -32,7 +32,6 @@ Cavepeeps: DATE=2016-12-17; CAVE=Vesper Pot; PEOPLE=Jarvist Frost, Rebecca Diss,
 					 DATE=2016-12-22; CAVE=Lancaster Hole; PEOPLE=Rhys Tyers, Jack Hare, James Perry, Zoe Young;
 					 DATE=2016-12-22; CAVE=Top Sink > Lancaster Hole; PEOPLE=Tanguy Racine, James Wilson, Larry Jiang, Jim Evans;
 Status:
-Unlisted:
 
 {{ mainimg }}
 {{ photolink }}
@@ -110,7 +109,6 @@ starts with, again, a faffy takeoff as there's little space. Traverse around
 the 'eyehole' and then across and down a nice chamber, a bit reminiscent of
 Notts I.
 
-
 The final pitch is a Y-hang on the far wall, about 2 m away from the ledge.
 It's a bit distressing to rig, particularly as you are backed up to a single
 P-bolt which you are loading as to 'pull it out', and the cement doesn't look
@@ -118,6 +116,8 @@ great, and the rock looks fairly shattered. I chose to take it rather
 tentatively, rather than lunge with my long cows tail, and instead walked off
 the slope backwards with a jammer on the to-be-a traverse line, and rigged the
 Y-hang over my shoulder.
+
+{"Diss by a stal" left}(JarvistFrost-9-Vespers)
 
 Down in the main fault chamber; it was pretty interesting, but also wet and
 windy. I wandered up the boulder slope. It was well loose. Unfortunately the
@@ -241,6 +241,8 @@ with no sign of Jack's Monastery team. We decided to explore the master system
 upstream, and shouted down the various side passages for Tanguy 'not intending
 to do an exchange' Racine. Such japes! He obvious wasn't here.
 
+{"Accidental on purpose exchange proof." right}(JarvistFrost-24-LostJohns.jpg)
+
 Then, just as the way got a bit more stoopy, we heard voices! Tanguy was here!
 Ridiculous. We conferred, and decided that, hey, may as well attempt an
 exchange since everyone was here! Alex was quietly (as always) confident of the
@@ -318,6 +320,8 @@ Tanguy and ben went back with Dave to cook a delicious lasagne and we waited for
 ### Dome -> Battleaxe -> Boxhead
 
 It all started as a fairly normal Lost Johns' trip. We split into three teams. Crack centipede to Valhalla, Mental Monastery and deranged Dome. It started well. Larry, in my Dome team, had a broken helmet. Luckily we had 3 spares. In cave we found team mental hovering around the drop into Dome, having been sketched out by a climb down into the stream way and desperately hoping that the way on was in the roof traverse.
+
+{"Larry at the bottom of Lost Johns'" left}(JarvistFrost-20-LostJohns.jpg)
 
 Down, down, down. No problems. Followed by Jimmy Dubz (pretty pro at this point), Larry (suprisingly pro for a second caving trip), and DW (so pro it's ridiculous). At the split for Monastery, DW took the ropes to find team mental. I continued with J Dubz and L dog. We soon caught up with the back half of Centi-halla. Our groups merged and split and we ended up the Jarv, Perry, J Dubz, Larry and me at the bottom of Valhalla. I didn't even notice any rigging, Jarv was well ahead. I finally caught up at the final drop into the streamway that immediately joins the master cave.
 
@@ -515,6 +519,8 @@ and then called the boys of summer over. Abseiled into the main shaft, deviated
 to the P-bolt, and found that I had enough left in the 60 m we brought to
 (just!) rig the final pitch as well. Everything down Notts was a lot smaller
 than I remembered; maybe those memories formed as a Fresher made it more epic?
+
+{"Will thinks about his life" right}(JarvistFrost-32-Notts1.jpg)
 
 We all had a little sit in the side passage to the static sump, gawped at the
 foam in the main downstream one, Will plunged to his hip into that deep rift of
