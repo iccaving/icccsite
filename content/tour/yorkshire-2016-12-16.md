@@ -117,7 +117,7 @@ tentatively, rather than lunge with my long cows tail, and instead walked off
 the slope backwards with a jammer on the to-be-a traverse line, and rigged the
 Y-hang over my shoulder.
 
-{"Diss by a stal" left}(JarvistFrost-9-Vespers)
+{"Diss by a stal" left}(JarvistFrost-9-Vespers.jpg)
 
 Down in the main fault chamber; it was pretty interesting, but also wet and
 windy. I wandered up the boulder slope. It was well loose. Unfortunately the
