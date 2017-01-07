@@ -75,7 +75,7 @@ def article_link(cavepeep_partial, article, generator):
     if "data" not in dir(article):
         article.data = {}
 
-    article.data["allpeople"] = ', '.join(all_people)
+    article.data["allpeople"] = ', '.join(sorted(list(all_people)))
     for key in trips:
         article.data[key] = trips[key]
 
