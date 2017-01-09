@@ -68,6 +68,7 @@ function clicked(event) {
         }
       }
       go = true
+      store();
     });
 
     if (innerContainer.classList.contains("nodisplay")) {
