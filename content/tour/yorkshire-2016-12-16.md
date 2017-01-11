@@ -41,11 +41,7 @@ This winter tour was semi-live blogged on the [wiki](/rcc/caving/wiki/WinterTour
 
 ## Friday
 
-A prompt escape from South Ken, enabled by some great preparation thanks to
-Tanguy and others, was sabotaged by a rather circuitous Google-enabled route
-via Hammersmith to the M4. We were also in a minibus with a disabled sound
-system, which also had the classic knackered Transit character of not wanting
-to get into first gear.
+A prompt escape from South Ken, enabled by some great preparation thanks to Tanguy and others, was sabotaged by a rather circuitous Google-enabled route via Hammersmith to the M4. We were also in a minibus with a disabled sound system, which also had the classic knackered Transit character of not wanting to get into first gear.
 
 The weather was mild, the troops keen, and Tesco deliveries converging on the NPC. Things bodded well for a great week of caving.
 
@@ -66,93 +62,42 @@ Winter tour this year promised to be exciting as usual and I was eager to explor
 
 ## Saturday
 
-Some ungodly hour of the morning - Tanguy pops his head around the door to the
-Avery, the home of the deep sleeping NPC. Breakfast was ready, and it wasn't
-even nine.
+Some ungodly hour of the morning - Tanguy pops his head around the door to the Avery, the home of the deep sleeping NPC. Breakfast was ready, and it wasn't even nine.
 
 ### Vespers - {{ DATE=2016-12-17; CAVE=Vesper Pot; }}
 
-I had never done Vespers. Always when in East Kingsdale I had been going to
-King, and sometimes Brown Hill. So I jumped at the chance to go to see Vespers.
-We packed, leaving our frozen gear bags (left in the minibus overnight) sitting
-in the sun, and then... relaxed. Dave KP had a car. The NPC had a kettle. Much
-inevitable faffing was occurring as the minibus got ready, and the UBSS lot
-sorted themselves out. We sat at the core, drank tea, chatted; observed Dave
-W teaching knots by the fire. The hut became beautifully quiet. Another cup?
+I had never done Vespers. Always when in East Kingsdale I had been going to King, and sometimes Brown Hill. So I jumped at the chance to go to see Vespers.
+We packed, leaving our frozen gear bags (left in the minibus overnight) sitting in the sun, and then... relaxed. Dave KP had a car. The NPC had a kettle. Much inevitable faffing was occurring as the minibus got ready, and the UBSS lot sorted themselves out. We sat at the core, drank tea, chatted; observed Dave W teaching knots by the fire. The hut became beautifully quiet. Another cup?
 Why not.
 
-Trundling off, finally, at midday. The Kingsdale valley was beautiful, with
-the fog just lifting off Ingleborough, a tiny strip of rock pushing through the
-cloud like the prow of a ship.
-We parked, got changed, fettled, and dropped into Braida Garth to ask
-permission, and then clambered up the steep slope. We had a GPS, so checked
-that it had the gate, and then wandered over to the big pile of stones, and up
-the dry valley to the obvious entrance at the end of the stream sink.
+Trundling off, finally, at midday. The Kingsdale valley was beautiful, with the fog just lifting off Ingleborough, a tiny strip of rock pushing through the cloud like the prow of a ship.
+We parked, got changed, fettled, and dropped into Braida Garth to ask permission, and then clambered up the steep slope. We had a GPS, so checked that it had the gate, and then wandered over to the big pile of stones, and up the dry valley to the obvious entrance at the end of the stream sink.
 
-Going was slow in the cave; but that was really fine. It gets almost
-immediately awkward, very much like Brown Hill. But it's only really the first
-ten metres or so before you drop into the flat out stream, which is tight. This
-is on-your-side, hip dragging along the floor, thrusting the bag in front of
-you.
+Going was slow in the cave; but that was really fine. It gets almost immediately awkward, very much like Brown Hill. But it's only really the first ten metres or so before you drop into the flat out stream, which is tight. This is on-your-side, hip dragging along the floor, thrusting the bag in front of you.
 
-The stream is quite low (I couldn't hand-and-knees for much) but it is broad
-enough to be able to roll the tackle sacks in front of you. Eventually this
-develops into a rift, where climbing up + staying high for as long as possible
-seemed to be the most pleasant route.
+The stream is quite low (I couldn't hand-and-knees for much) but it is broad enough to be able to roll the tackle sacks in front of you. Eventually this develops into a rift, where climbing up + staying high for as long as possible seemed to be the most pleasant route.
 
-The first pitch is a very tight rift, two P-bolts (L-hang), which then opens
-out almost immediately. There's then the 'tortorous' rift. Again, go high where
-you can.
+The first pitch is a very tight rift, two P-bolts (L-hang), which then opens out almost immediately. There's then the 'tortorous' rift. Again, go high where you can.
 
-Then the pitch series; essentially continuous (all four pitches). It
-starts with, again, a faffy takeoff as there's little space. Traverse around
-the 'eyehole' and then across and down a nice chamber, a bit reminiscent of
-Notts I.
+Then the pitch series; essentially continuous (all four pitches). It starts with, again, a faffy takeoff as there's little space. Traverse around the 'eyehole' and then across and down a nice chamber, a bit reminiscent of Notts I.
 
 The final pitch is a Y-hang on the far wall, about 2 m away from the ledge.
-It's a bit distressing to rig, particularly as you are backed up to a single
-P-bolt which you are loading as to 'pull it out', and the cement doesn't look
-great, and the rock looks fairly shattered. I chose to take it rather
-tentatively, rather than lunge with my long cows tail, and instead walked off
-the slope backwards with a jammer on the to-be-a traverse line, and rigged the
-Y-hang over my shoulder.
+It's a bit distressing to rig, particularly as you are backed up to a single P-bolt which you are loading as to 'pull it out', and the cement doesn't look great, and the rock looks fairly shattered. I chose to take it rather tentatively, rather than lunge with my long cows tail, and instead walked off the slope backwards with a jammer on the to-be-a traverse line, and rigged the Y-hang over my shoulder.
 
 {"Diss by a stal" left}(JarvistFrost-9-Vespers.jpg)
 
-Down in the main fault chamber; it was pretty interesting, but also wet and
-windy. I wandered up the boulder slope. It was well loose. Unfortunately the
-only vaguely dry and warm place was near the bottom of the pitch.  I wandered
-back and sat on my camera Peli Case with my light out, glancing up at the
-beautiful shadows cast by the cavers on the ledge, before looking back down to
-present my helmet rather than my face to the occasional pebble of destiny that
-came crashing down. The great rift chamber would make for a great photo shoot,
-but there's a lot of spray and you'd need some serious light (large and heavily
-peat stained rock) - with my little compact camera & caving lights, there was
-basically nothing. Walkie Talkies for comms and flash slaves on the ledges, and
-it could be pretty wicked.
+Down in the main fault chamber; it was pretty interesting, but also wet and windy. I wandered up the boulder slope. It was well loose. Unfortunately the only vaguely dry and warm place was near the bottom of the pitch.  I wandered back and sat on my camera Peli Case with my light out, glancing up at the beautiful shadows cast by the cavers on the ledge, before looking back down to present my helmet rather than my face to the occasional pebble of destiny that came crashing down. The great rift chamber would make for a great photo shoot,
+but there's a lot of spray and you'd need some serious light (large and heavily peat stained rock) - with my little compact camera & caving lights, there was basically nothing. Walkie Talkies for comms and flash slaves on the ledges, and it could be pretty wicked.
 
-We bounced at 4PM (3 hrs in). A smooth exit; rock steady cruising. Dragging the
-tackle back up the slightly uphill tight rifts was definitely a good bit of
-exercise.  I have stiff shoulders from the thousand or so times that I lifted
-up a sack of wet rope at full extension.
+We bounced at 4PM (3 hrs in). A smooth exit; rock steady cruising. Dragging the tackle back up the slightly uphill tight rifts was definitely a good bit of exercise.  I have stiff shoulders from the thousand or so times that I lifted up a sack of wet rope at full extension.
 
-Beautiful walk back across a totally quiet fell, with a few stars and enough
-moon somewhere above the clouds to pick out the peaks around. Speedy change and
-zoom home in Dave's car, to walk into the NPC just as soup was being served.
+Beautiful walk back across a totally quiet fell, with a few stars and enough moon somewhere above the clouds to pick out the peaks around. Speedy change and zoom home in Dave's car, to walk into the NPC just as soup was being served.
 
-Overall I really enjoyed the trip. Tony Seddon had recommended it as a club
-trip, but a bit better, not too crazy, but with a bit of interest. I quite
-agree. Nothing was ever too horrific, but there were lots of bits where you had
-to 'think' your way through. This was all stuff where you could communicate,
+Overall I really enjoyed the trip. Tony Seddon had recommended it as a club trip, but a bit better, not too crazy, but with a bit of interest. I quite agree. Nothing was ever too horrific, but there were lots of bits where you had to 'think' your way through. This was all stuff where you could communicate,
 and help each other with advice at least. The rigging was really interesting,
-a definite paucity of P-bolts (and flake deviations!), and due to the tight
-pitch heads, you had to think quite carefully for how to rig so that it was
-passable on the way back for the less experienced.  
+a definite paucity of P-bolts (and flake deviations!), and due to the tight pitch heads, you had to think quite carefully for how to rig so that it was passable on the way back for the less experienced.
 
-Definitely one to return to, and with great pedagogical benefit for members at
-very different experience levels. But I'd recommend going with an experienced
-rigger to oversee, as it would be very easy to self-inflict an epic by poor
-rigging (too tight to pass, or in the water).
+Definitely one to return to, and with great pedagogical benefit for members at very different experience levels. But I'd recommend going with an experienced rigger to oversee, as it would be very easy to self-inflict an epic by poor rigging (too tight to pass, or in the water).
 
 ### Aquamole: {{ DATE=2016-12-17; CAVE=Aquamole Pot; }}
 Aquamole looked like a good choice for a first ever SRT trip, and an introduction to the verticality of Yorkshire, so I proposed to take Larry down, and Ben kindly offered to rig the way. There were another four trips happening in Kingsdale, each 3 people strong at most. When did that last happen? How much rope was left after our stock was depleted in all its short ropes (Simpson’s) and long ropes (Vespers, Swinsto)?
@@ -221,75 +166,31 @@ I woke up for no apparent reason because I didn't end up leaving to cave for qui
 
 ### Centipede -> Bottom -> Monastery
 
-Ah, Lost Johns'! I rigged down centipede as fast as I could, Pete, Arun and
-Perry feeding me bags of rope from behind. Rigging Lost Johns' kind of feels
-like you're stuck on repeat; tying yet another bowline-on-the-bite. I shouted
-up Dome Junction, but no reply. On to rig Candle. It was so dry there was
-barely a trickle going down the cascade.
+Ah, Lost Johns'! I rigged down centipede as fast as I could, Pete, Arun and Perry feeding me bags of rope from behind. Rigging Lost Johns' kind of feels like you're stuck on repeat; tying yet another bowline-on-the-bite. I shouted up Dome Junction, but no reply. On to rig Candle. It was so dry there was barely a trickle going down the cascade.
 
-At Valhalla, Pete H. passed over the fat 70 m, and I stepped off into the
-Battle Axe. It's really quite arduous to rig - 15 maillons later I was pretty
-warm! I deployed my fistful of slings to belay points, but I never really know
-whether it helps that much. At Valhalla, time for yet-another bowline on the
-bite, and a delectable as always abseil down that fine shaft, with just the
-single in-situ deviation made use of.
+At Valhalla, Pete H. passed over the fat 70 m, and I stepped off into the Battle Axe. It's really quite arduous to rig - 15 maillons later I was pretty warm! I deployed my fistful of slings to belay points, but I never really know whether it helps that much. At Valhalla, time for yet-another bowline on the bite, and a delectable as always abseil down that fine shaft, with just the single in-situ deviation made use of.
 
-Rigging the Final pitch now with essentially no maillons left (other than
-couple Perry found stashed amongst his SRT kit), we switched to krabs. At the
-bottom of the final, a strange subset of the various groups had assembled; but
-with no sign of Jack's Monastery team. We decided to explore the master system
-upstream, and shouted down the various side passages for Tanguy 'not intending
-to do an exchange' Racine. Such japes! He obvious wasn't here.
+Rigging the Final pitch now with essentially no maillons left (other than couple Perry found stashed amongst his SRT kit), we switched to krabs. At the bottom of the final, a strange subset of the various groups had assembled; but with no sign of Jack's Monastery team. We decided to explore the master system upstream, and shouted down the various side passages for Tanguy 'not intending to do an exchange' Racine. Such japes! He obvious wasn't here.
 
 {"Accidental on purpose exchange proof." right}(JarvistFrost-24-LostJohns.jpg)
 
 Then, just as the way got a bit more stoopy, we heard voices! Tanguy was here!
-Ridiculous. We conferred, and decided that, hey, may as well attempt an
-exchange since everyone was here! Alex was quietly (as always) confident of the
-navigation, and so we swapped a Rhys and a Perry for a Tanguy and a Ben. We
-then turned and made good our exit.
+Ridiculous. We conferred, and decided that, hey, may as well attempt an exchange since everyone was here! Alex was quietly (as always) confident of the navigation, and so we swapped a Rhys and a Perry for a Tanguy and a Ben. We then turned and made good our exit.
 
-Jack was waiting at the bottom of Shistol, so we discussed the derigeour
-situation, eventually deciding that James Wilson and I would head out first,
-via Monastery with no extra tackle, and they would collectively sort out Dome
-and Centipede.
+Jack was waiting at the bottom of Shistol, so we discussed the derigeour situation, eventually deciding that James Wilson and I would head out first,
+via Monastery with no extra tackle, and they would collectively sort out Dome and Centipede.
 
-This was a really nice trip. I forgot most of the Monastery route, and how nice
-a bit of cave it is. It's definitely an extra level of difficulty beyond Dome
-(particularly, awkward climbs in constricted wet rift),
-with some beautiful streamway - clean and spray-lashed is the most succinct
-way I can describe, with some pretty fossils in the rock. There's also a lot of
-it. And evidently the ropes did not match up very well with the cave! Some
-rather experimental conversion of rebelays-into-deviations and finishing of the
-final pitch with the tackle sack lanyard (turned out the '50 m' rope was
-actually '40.5 m' when measured by Dave Wilson later!). Jack had also run out
-of maillons; and there were a could half-dozen krab belays.
+This was a really nice trip. I forgot most of the Monastery route, and how nice a bit of cave it is. It's definitely an extra level of difficulty beyond Dome (particularly, awkward climbs in constricted wet rift),
+with some beautiful streamway - clean and spray-lashed is the most succinct way I can describe, with some pretty fossils in the rock. There's also a lot of it. And evidently the ropes did not match up very well with the cave! Some rather experimental conversion of rebelays-into-deviations and finishing of the final pitch with the tackle sack lanyard (turned out the '50 m' rope was actually '40.5 m' when measured by Dave Wilson later!). Jack had also run out of maillons; and there were a could half-dozen krab belays.
 
-Monastery itself is a very fine shaft, a massive bore hole taking a fair stream
-even in these almost-drought conditions. It was lit up beautifully as James got
-off the top, went through the eyehole traverse and then swung out onto the main
-shaft for the last few metres of climb. The dismount from the last rope was
-scary - the ten metres of rope (marked, but rather subtly) on the CNCC Topol
-for a three belay thread traverse had been forgotten. There was a perfectly
-good set of ledges to walk on, but the 40 m drop behind was rather sobering!
-After very carefully packing up all the rope, tidying up my harness and dangly
-bits, thinking calm thoughts, I unattached my cows tails and carefully stepped
-my way to safety.
+Monastery itself is a very fine shaft, a massive bore hole taking a fair stream even in these almost-drought conditions. It was lit up beautifully as James got off the top, went through the eyehole traverse and then swung out onto the main shaft for the last few metres of climb. The dismount from the last rope was scary - the ten metres of rope (marked, but rather subtly) on the CNCC Topol for a three belay thread traverse had been forgotten. There was a perfectly good set of ledges to walk on, but the 40 m drop behind was rather sobering!
+After very carefully packing up all the rope, tidying up my harness and dangly bits, thinking calm thoughts, I unattached my cows tails and carefully stepped my way to safety.
 
-We surfaced to lights in the entrance doline - Tanguy! They had just come
-out Centipede with four bags between three, so we took the excess for the walk
-up the road. Jack was back five minutes later, having derigged Dome - perfect
-timing!
+We surfaced to lights in the entrance doline - Tanguy! They had just come out Centipede with four bags between three, so we took the excess for the walk up the road. Jack was back five minutes later, having derigged Dome - perfect timing!
 
-Really nice trip; I think about six hours again, but I essentially had
-something to do all the time, and was never waiting for more than twenty
-minutes.
+Really nice trip; I think about six hours again, but I essentially had something to do all the time, and was never waiting for more than twenty minutes.
 
-Half an hour later, there was a loom of lights over the fell, and the three
-Boxhead crew came back. Quite apart from the fact we actually ran out of
-maillons; the twelve full rope bags that I helped unload from the minibus when
-back at Greenclose really brought home the amount of cave which we had
-simultaneous rigged! Every single part of the Lost Johns' CNCC Topol; and Boxhead!
+Half an hour later, there was a loom of lights over the fell, and the three Boxhead crew came back. Quite apart from the fact we actually ran out of maillons; the twelve full rope bags that I helped unload from the minibus when back at Greenclose really brought home the amount of cave which we had simultaneous rigged! Every single part of the Lost Johns' CNCC Topol; and Boxhead!
 
 #### Jarv
 
@@ -342,7 +243,8 @@ On the surface we wait for Alex and at wander across the fell, past Lost Johns' 
 #### Rhys
 
 ### Boxhead -> Battleaxe -> Centipede
-The weather was still very dry on the Sunday,  and this enabled the three-way exchange in Lost Johns’.  Knowing that the Bristol group had bailed on their Notts permit for the day, we had Leck Fell to us. There was a laminate of the NFTFH description of a Boxhead and Lyle Cavern round trip which dropped into the Lost Johns’ master cave. I thought it would be great to try to reach the main streamway at the bottom of Lost Johns’ from another entrance, and recruited (or was recruited by?) the keen Alex and Ben as colleagues in this venture.  Boxhead was described to me as a big hole in the ground, which would make the SRT down straightforward, leaving us plenty of time to explore the horizontal galleries at depth.  
+
+The weather was still very dry on the Sunday,  and this enabled the three-way exchange in Lost Johns’.  Knowing that the Bristol group had bailed on their Notts permit for the day, we had Leck Fell to us. There was a laminate of the NFTFH description of a Boxhead and Lyle Cavern round trip which dropped into the Lost Johns’ master cave. I thought it would be great to try to reach the main streamway at the bottom of Lost Johns’ from another entrance, and recruited (or was recruited by?) the keen Alex and Ben as colleagues in this venture.  Boxhead was described to me as a big hole in the ground, which would make the SRT down straightforward, leaving us plenty of time to explore the horizontal galleries at depth.
 
 The minibus left ahead to drop plenty of empty bottles at Ingleton’s recycling bay and Alex and I jumped in Pete Hambley’s car, arriving at the Leck Fell lower parking spot just before Dave, and the bus. With this great timing we all got changed in pleasant weather and before long our trio left the group for a wander on the surface to find the entrance to Boxhead.
 
@@ -362,7 +264,7 @@ The way out was eventful, with Larry deciding to unclip both cowstails at the sa
 
 As I passed over the pitch head myself I couldn’t work out  whether that meant Jack and Will had got out of Dome and left the rope for people to traverse on top (this has never been done) or whether the two of them still hadn’t derigged it. I chose to untie the knot and leave the rope in case they were still down there.
 
-We were a few minutes outside when Jarv and James who’d gone out Monastery made their exit of the cave, followed by Jack and Will. With this superb timing we walked back  together to the van where DW waited to take Ben and I to the NPC.  
+We were a few minutes outside when Jarv and James who’d gone out Monastery made their exit of the cave, followed by Jack and Will. With this superb timing we walked back  together to the van where DW waited to take Ben and I to the NPC.
 #### Tanguy
 
 ### Centipede -> Battleaxe -> Boxhead
@@ -381,6 +283,7 @@ Eventually made it to the surface and soon everyone was out and heading back to 
 #### Perry
 
 ### Boxhead -> Lyle Cavern-> Boxhead
+
 I awoke sleep deprived and aching and stumbled down to breakfast. I had not been dreaming, Tanguy and I were indeed going to go down Boxhead. But we needed to steal one final disciple from the Lost Johns' trips to make this possible. I'm not sure he realised what he was in store for, but Ben was signed onto our trip and we made our preparations. At some point it dawned on me that the rigging guide was from "Not for the Faint Hearted". This was not a good omen.
 
 Nevertheless we set off for Leck fell. Leaving the Lost Johns' team we headed to Lost pot, our landmark from which to find the doline in which Boxhead resides. I find it quite remarkable how close together and obvious these features are (when you see them) and yet how tricky it can be to find them. Lost pot sits in a huge doline that is easy to spot - I seem to remember it being visible from Lost Johns' and has a fence around it. Boxhead is less prominent and it took a good quarter of an hour to find, despite being nearby.
@@ -489,62 +392,35 @@ Overall the trip was fairly straightforward and an interesting addition to our e
 
 ### Notts: {{ DATE=2016-12-19; CAVE=Notts Pot 1; }}
 
-I do love Notts! We fettled the rope, stuffing six tackle sacks of rope was
-taking time, so the minibus headed off earlier, and we went in Dave W and
-Pete's cars. A bag each, Dave led us direct to the entrance, and Will started
-off the rigging. I kept with him until the Central Route / Left hand split, and
-then left Will in Dave's capable hands rigging central, while I shot off with
-James into the Left-hand Route (Twilight), with James hauling the first 'deep'
+I do love Notts! We fettled the rope, stuffing six tackle sacks of rope was taking time, so the minibus headed off earlier, and we went in Dave W and Pete's cars. A bag each, Dave led us direct to the entrance, and Will started off the rigging. I kept with him until the Central Route / Left hand split, and then left Will in Dave's capable hands rigging central, while I shot off with James into the Left-hand Route (Twilight), with James hauling the first 'deep'
 bag.
 
-I really like Twilight, you just sort of drift up and up and up, p-bolt to
-p-bolt. And then a lovely hang down to a profusion of P-bolts, and rebelay into
-the next shaft. I tried to drop it directly, and ran out of rope! Finally
-getting around to consulting the rigging topol in my pocket, I saw I missed the
-swing into a window, so cracked out my jammers.
+I really like Twilight, you just sort of drift up and up and up, p-bolt to p-bolt. And then a lovely hang down to a profusion of P-bolts, and rebelay into the next shaft. I tried to drop it directly, and ran out of rope! Finally getting around to consulting the rigging topol in my pocket, I saw I missed the swing into a window, so cracked out my jammers.
 
-We dropped direct into the streamway, with some noise of the Central crew, but
-no lights. So set off with the first bag, and went hunting for the P-bolts.
-This took us quite a while, due to not climbing up to the crazy heights of the
-P-bolt traverse line!
+We dropped direct into the streamway, with some noise of the Central crew, but no lights. So set off with the first bag, and went hunting for the P-bolts.
+This took us quite a while, due to not climbing up to the crazy heights of the P-bolt traverse line!
 
-Rigged out to the 'tri-hang', whereupon Will had caught us up with the
-'Deepest' rope bag. In spite of spending a lot of time fettling with my
-tri-hang in rather restricted (on a lovely double Bowline), when I descended it
-wasn't that great to be honest. Y-hang and a deviation probably more sensible.
+Rigged out to the 'tri-hang', whereupon Will had caught us up with the 'Deepest' rope bag. In spite of spending a lot of time fettling with my tri-hang in rather restricted (on a lovely double Bowline), when I descended it wasn't that great to be honest. Y-hang and a deviation probably more sensible.
 
-Swung in, clipped off, and Will soon joined with the next rope bag, did the
-rather spider-acrobat like rigging of the last traverse, popped up to the hang
-and then called the boys of summer over. Abseiled into the main shaft, deviated
-to the P-bolt, and found that I had enough left in the 60 m we brought to
-(just!) rig the final pitch as well. Everything down Notts was a lot smaller
-than I remembered; maybe those memories formed as a Fresher made it more epic?
+Swung in, clipped off, and Will soon joined with the next rope bag, did the rather spider-acrobat like rigging of the last traverse, popped up to the hang and then called the boys of summer over. Abseiled into the main shaft, deviated to the P-bolt, and found that I had enough left in the 60 m we brought to (just!) rig the final pitch as well. Everything down Notts was a lot smaller than I remembered; maybe those memories formed as a Fresher made it more epic?
 
 {"Will thinks about his life" right}(JarvistFrost-32-Notts1.jpg)
 
-We all had a little sit in the side passage to the static sump, gawped at the
-foam in the main downstream one, Will plunged to his hip into that deep rift of
-depth. A couple of photos to prove we'd been there, and then a speedily
-consistent exit with myself derigging the lower-stream pitches (and their
-enormous traverses, using my doubled-up jammers on cows-tails), and then James
-doing Central, and Will doing the entrance pitches.
+We all had a little sit in the side passage to the static sump, gawped at the foam in the main downstream one, Will plunged to his hip into that deep rift of depth. A couple of photos to prove we'd been there, and then a speedily consistent exit with myself derigging the lower-stream pitches (and their enormous traverses, using my doubled-up jammers on cows-tails), and then James doing Central, and Will doing the entrance pitches.
 
-Four bags between three, so we helped each other out the entrance pitches
-(hauling up the main-chamber pitch worked really well, and then passing up the
-short-climb), and then out for half six. A lovely 6.5 hrs!
+Four bags between three, so we helped each other out the entrance pitches (hauling up the main-chamber pitch worked really well, and then passing up the short-climb), and then out for half six. A lovely 6.5 hrs!
 
 The vis was pretty fantastic, the bright lights of Kirkby-Lonsdale (?)
 twinkling prettily in the distance.
 
-Back to an empty minibus, a quick Grade II change in the lee of the minibus
-(the drizzle had let up), and then a drive home to find the rice just being put
-on for the dahl.
+Back to an empty minibus, a quick Grade II change in the lee of the minibus (the drizzle had let up), and then a drive home to find the rice just being put on for the dahl.
 
 Lovely little trip!
 
 #### Jarv
 
 ### Little Hull: {{ DATE=2016-12-19; CAVE=Little Hull Pot; }}, Natalie, Lydia
+
 There was a sense that too many of us had been down Notts 1 recently to warrant a full exchange there.  To split the groups and keep the numbers down in each cave, Jack, Alex, Rhys and Rebecca went to Deaths Head hole, while a smaller rigging group planned a two-way exchange in Notts with the cavers who hadn’t done it in a while. With Lydia and Natalie of NUCC,  Dave, Zoe and I drove to Horton in Ribblesdale to go down Little Hull pot. In the carpark I found out I hadn’t packed wellies, so Dave drove back to the NPC while we got changed, picked up a pair of size ten boots (not mine) and one of his own he’d forgotten and came back.
 
 We walked the direct way to Pen-y-ghent from Horton, taking about 45min to reach the entrance. Once on the moor no time was wasted finding the entrance and in little time, we started the entrance crawl then streamway to the first pitch. I rigged the lovely SRT route to the bottom of the first pitch, and carried on to the traverse leading to the second, 35m pitch.  Lydia and Natalie negotiated the pitches superbly. Zoe, having only done one more trip took a bit more time at the more challenging rebelays, but got down in the end.  In the meantime, I whipped out my recorder as well as the two-person bothy I’d gleaned from Ben the day before. It was put to good use.
@@ -650,6 +526,7 @@ An hour later we arrived back in Clapham and changed by the van. Soon enough the
 #### Alex Seaton
 
 ### Rowten pot
+
 The plan to go to Rowten suited me perfectly: the day was sunny, the group small, the cave appealing. We would be out before sunset, in time to prepare the Christmas dinner.
 
 Rowten is found on West Kingsdale east of the Turbary road, a massive two-part shake hole. The Eyehole route starts from a small pavement bordering the southern, smaller entrance, away from the water.
@@ -664,6 +541,7 @@ On the drive back we were treated to the Moldau from Smetana on the radio, which
 #### Tanguy
 
 ### Rowten cave
+
 This is my shameless attempt at getting another 'cave' added to my tally. Rowten cave was fine, just fine.
 
 #### Tanguy
@@ -729,7 +607,7 @@ Back to the hut for delicious Tanguy made pizza (Stilton and roast cauliflower, 
 ### Top Sink > Lancaster Hole: {{ DATE=2016-12-22; CAVE=Top Sink > Lancaster Hole; }}
 Top Sink weighed heavily on my mind since the beginning of the tour. It looked like we had enough leaders to wrangle a pull-through trip from the uppermost entrance to the system but I’d never rigged such a thing as a pull-through before.  After asking advice around the more experienced leaders I felt confident I could lead and find the way to Stop pot in the main system, one of the more memorable waypoints of the Easegill traverses I’d done before.
 
-Jim, Larry and James W volunteered to come with me on this adventure, so we were eager to get started and packed the ropes for the pull-through. This last day of caving the weather turned for worse, with showers coming and going across the fells to the north. I eyed Casterton fell warily as Jim drove up to Bullpot farm but told myself that since Top Sink is active from the start, we could always double back before the pitches if the flow of water was higher than we were confortable with and enter through the other sinks.  
+Jim, Larry and James W volunteered to come with me on this adventure, so we were eager to get started and packed the ropes for the pull-through. This last day of caving the weather turned for worse, with showers coming and going across the fells to the north. I eyed Casterton fell warily as Jim drove up to Bullpot farm but told myself that since Top Sink is active from the start, we could always double back before the pitches if the flow of water was higher than we were confortable with and enter through the other sinks.
 
 As it happened, the Fell beck sank between Wretched Rabbit and County so the water level was still lower than the day before James remarked as we walked up. We then passed Pool Sink, spotting a plunge pool , which probably gave its name to the entrance. After that, the bed of the river widened, with broad flat terraces on either side. We spotted the entrance, on the true right handside of the beck, 80m upstream of a ruined sheepfold. Looking around, we could only see grassy hills rising in every direction and this entrance has a very remote feel about it.
 
