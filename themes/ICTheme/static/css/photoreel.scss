@@ -45,6 +45,10 @@ div[class^='photoreel-photo'] img {
     max-width: 85%;
     display: block;
     margin: auto;
+
+    @media( max-width: 750px) {
+        max-width: 100%;
+    }
 }
 div.photoreel-dots {
     position: absolute;
