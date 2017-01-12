@@ -43,7 +43,11 @@ DEFAULT_DATE_FORMAT = '%d-%m-%Y'
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = ['photoarchive', 'acyear', 'cavepeeps', 'subsites', 'oldurl', 'metainserter', 'inlinephotos', 'wiki']
 
-MD_EXTENSIONS = ['gfm']
+MARKDOWN = {
+    'extension_configs': {
+         'gfm':{},
+    }
+}
 
 SLUGIFY_SOURCE = 'basename'
 
