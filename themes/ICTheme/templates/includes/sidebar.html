@@ -22,7 +22,7 @@
     <div class="sidebar-item expandable-menu"><a href="#" onclick="return false;">Trips</a></div>
     <div class="sidebar-outer collapsed">
       <div class="sidebar-inner nodisplay">
-	{% set vars = {'year': ''} %}
+	      {% set vars = {'year': ''} %}
         {% for trip in trips_by_academic_year %} 
           {% if trip.academic_year != vars.year %} 
             {% if vars.year != '' %}
