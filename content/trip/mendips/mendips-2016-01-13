@@ -1,0 +1,33 @@
+Title: Mendips I
+Date: 2017-01-13
+Location: Mendips
+Summary: We return to the Mendips for our annual baptism in Sump 1. Two teams in Swildon's on Saturday, and one in Longwood Swallet. The SMCC has a fantastic new squeeze machine which we combined with a table to create our own speleolympics in the evening. Sunday saw a trip to GB and another Swildons round trip (as well as an expedition to a tea shop).
+Type: trip
+Photoarchive:
+Mainimg:
+Thumbl: 
+Thumbr: 
+Authors: Rhys Tyers
+Cavepeeps: DATE=2017-01-14; CAVE=Swildon's Hole; PEOPLE=Jack Hare, Tanguy Racine, Peter Ganson, Kenneth Tan, Larry Jiang, Shaun Kong;
+           DATE=2017-01-14; CAVE=Longwood Swallet; PEOPLE=Rhys Tyers, Ben Honan, David Wilson, James Wilson;
+           DATE=2017-01-15; CAVE=GB Cave; PEOPLE=Jack Hare, Peter Ganson, Larry Jiang, Shaun Kong;
+           DATE=2017-01-15; CAVE=Swildon's Hole; PEOPLE=Tanguy Racine, Rhys Tyers, David Wilson, James Wilson;
+Status: draft
+
+{{ mainimg }}
+{{ photolink }}
+#####{{ allpeople }}
+
+##Friday
+
+##Saturday
+
+###Swildon's: {{ DATE=2017-01-14; CAVE=Swildon's Hole; }}
+
+###Longwood Swallet: {{ DATE=2017-01-14; CAVE=Longwood Swallet; }}
+
+##Sunday
+
+###GB: {{ DATE=2017-01-15; CAVE=GB Cave; }}
+
+###Swildon's: {{ DATE=2017-01-15; CAVE=Swildon's Hole; }}
