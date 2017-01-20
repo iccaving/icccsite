@@ -6,6 +6,8 @@
 /photo_archive/
 #ignore virtualenv - use requirements.txt to install your own
 /.env/
+#ignore temporary work files
+/scratch/
 
 #ignore any photos
 *.jpg
