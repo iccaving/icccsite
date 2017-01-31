@@ -13,7 +13,7 @@ Cavepeeps: DATE=2016-12-17; CAVE=Vesper Pot; PEOPLE=Jarvist Frost, Rebecca Diss,
 					 DATE=2016-12-17; CAVE=Swinsto Hole; PEOPLE=Rhys Tyers, Will Scott, James Wilson;
 					 DATE=2016-12-17; CAVE=Simpsons Pot; PEOPLE=Jack Hare, Alex Seaton;
 					 DATE=2016-12-17; CAVE=Jingling Pot; PEOPLE=Dave Wilson, Arun Paul, James Perry;
-					 DATE=2016-12-18; CAVE=Lost Johns' Cave; PEOPLE=Jarvist Frost, Pete Hambly, Arun Paul, Ah Guan, Larry Jiang, James Wilson, Jack Hare, James Wilson, Rebecca Diss, Will Scott;
+					 DATE=2016-12-18; CAVE=Lost Johns' Cave; PEOPLE=Jarvist Frost, Pete Hambly, Arun Paul, Ah Guan, Larry Jiang, Jack Hare, James Wilson, Rebecca Diss, Will Scott;
 					 DATE=2016-12-18; CAVE=Boxhead Pot; PEOPLE=Alex Seaton;
 					 DATE=2016-12-18; CAVE=Boxhead Pot > Lost Johns' Cave; PEOPLE=Tanguy Racine, Ben Honan;
 					 DATE=2016-12-18; CAVE=Lost Johns' Cave > Boxhead Pot; PEOPLE=Rhys Tyers, James Perry;
