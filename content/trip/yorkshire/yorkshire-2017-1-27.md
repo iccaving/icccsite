@@ -84,6 +84,28 @@ It could, and soon started snowing outside. Fat, wet snowflakes drifted silently
 
 ####Tanguy Racine
 
+###King pot: {{DATE=2017-1-28; CAVE=King pot;}}
+
+I never turn down an excuse to visit King Pot; though often in setting my course there I am surprised to find ICCC cavers leaving the sinking ship as fast as I pack 9 mm into a tackle sack. Only Dave Wilson (the second), living up to his name, was wanting to come along. Everyone is just too aware of my predilections. 
+
+However, we had two innocents from Nottingham, shepherded by a rather happy-go-lucky leader, who all seemed strangely up for King yet had not yet visited its delights. Not knowing the known unknowns of caving ability, and having no idea of the unknown unknowns, we set off with a full set of ropes. One of the unknown unknowns was that Nottingham folk like playing chicken with cars, preferring to get changed in places often visited by wheels. This seems to help their natural delight in faff, as I have certainly never been on a caving trip delayed by hunting for where a central maillon had landed after being road killed. 
+
+Things took a curious turn after the first pitch, when Josh asked: "Is there a lot of crawling?" "Well, no, not really." "Mmm! It's only that I don't own any knee pads."
+
+A few minutes later while I lay on my side superman'ing in the flat-out section before the second pitch, huffing as I punched the tackle sack and my SRT gear bag along, "No one said it was tight - just awkward!" "But Josh, this trip is in the Black Book of Death (NFTFH), and we're on East Kingsdale!"
+
+At Lego inlet, we ate our Raisin bagels with Edam slices (Top caving nosh! Highly recommended. The Bagel plastic bags are also pretty waterproof.) After discussing tactics and how people were feeling, we decided to go on into the T-slot with just tackle for King Henry hall. 
+
+I went in front with the tackle, and things were all fine until we got to ICCC's rescue bolt (new navigation point!). This is where the rift gets wider and deeper, and the fear of being slurped down increases. The half-full tackle sack was grinning at me as it repeatedly slithered off the shelves I found for it, so I went to the end of the rift and shoved it through the tackle-sack window to the right of the hand line, then wedged myself in the rift and looked back to the lights. Much muttering was drifting down the rift, but there didn't seem much point adding my own suggestions. After a while, my arms and legs started to go numb, so I popped out the rift, pivoted around and grabbed the tackle sack. Murmurs were getting quieter, and I couldn't see any lights - so I thought I may as well pop down to Queensway while awaiting developments. Sated with a view of the metre long straw, I returned to find silence, and so dived back into the T-shaped passage with the tackle. I came upon Jacob, bringing the news that Josh had sensibly decided to bow out after not being able to get around a corner without dipping his shoulder into the rift, and not being certain that once having dipped his shoulder he would be able to climb back up. Also, a hand jammer had been dropped. 
+
+I quite like recovering gear from this rift, I think I'd now have enough for an entire belt if I got to keep it. I went down on a corner, committing the slow-motion Cossack dance moves I used to memory, so I'd be able to reverse my way back up through the ribbed rift. Snatching the edge of the jammer with a stretched out heel, I had it in my clasp, and then just my instructions to reverse. 
+
+We tapped our tea at Lego Inlet, drank at the stream, and then steadily progressed towards the exit. Everyone was quite happy with how far they'd got and seen some of the Kingly delights. "Discretion is the better part of valour", and there are always opportunities to return, forewarned and forearmed. 
+"Was there much cave beyond the T-shape passage?" "Ah, well, quite a bit."
+
+Walking back across the Fell, we saw Vesper-ish lights. It was the party in advance of Tanguy, who had rigged it. It had been wet down Vesper's, and the beck was now flowing, yet King hadn't particularly responded. Back and changed, and turned the van around just in time for Tanguy, who also reported seeing Rowten lights. Home in time for tea and medals, and a rather decadent pasta bake topped with crispy cheese. 
+
+####Jarv
 ##Sunday
 
 ###Sunset Hole: {{DATE=2017-1-29; CAVE=Sunset Hole;}}
