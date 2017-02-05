@@ -13,6 +13,7 @@ Cavepeeps: DATE=2017-1-28; CAVE=Rowten pot; PEOPLE=Stephanie Ford, Arun Paul, Da
            DATE=2017-1-28; CAVE=Vespers Pot; PEOPLE=Tanguy Racine, William French, Larry Jiyu-Jiang, James Perry;
            DATE=2017-1-29; CAVE=Great Douk; PEOPLE=Tanguy Racine, Will Norwood, Larry Jiyu-Jiang, Stephanie Ford, Joshua Marcinkowski, Dave Dubz, Jacob Puhalo-Smith;
            DATE=2017-1-29; CAVE=Sunset Hole; PEOPLE=Tanguy Racine, Will Norwood, Larry Jiyu-Jiang, Stephanie Ford, Joshua Marcinkowski, Dave Dubz, Jacob Puhalo-Smith;
+Status: Draft
 
 {{ mainimg }}
 {{ photolink }}
