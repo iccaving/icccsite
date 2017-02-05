@@ -25,3 +25,5 @@ ignore stupid files
 
 ignore sass cache
 .sass-cache/
+
+content/.DS_Store
