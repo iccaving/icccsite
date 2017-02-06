@@ -1,14 +1,11 @@
 from pelican import signals
 from pelican.settings import configure_settings, get_settings_from_file
-import six
-import os
-import logging
 
 # This is mostly ripped fomr Pelican.settings
 # It makes some of the relative urls in the subsite settings files absolute
 # And also does osme over the top validation that I didnt want to remove
 
-
+'''
 def relativise_path(local_settings, path):
     for p in ['PATH', 'OUTPUT_PATH', 'THEME', 'CACHE_PATH']:
         if p in local_settings and local_settings[p] is not None \
@@ -88,6 +85,21 @@ def subsites(pelican_obj):
             if hasattr(val, 'receivers'):
                 val.receivers = {}
         logging.debug('Subsite {}: Completed.'.format(subsite.replace('_', '').capitalize()))
+'''
 
+from pelican import signals
+from pelican.readers import MarkdownReader
+
+# Create a new reader class, inheriting from the pelican.reader.BaseReader
+class BetterMarkdownReader(MarkdownReader):
+    def read(self, filename):
+        content, metadata = super(BetterMarkdownReader, self).read(filename)
+        print(content)
+        return content, metadata
+
+def add_reader(readers):
+    readers.reader_classes['md'] = BetterMarkdownReader
+
+# This is how pelican works.
 def register():
-    signals.finalized.connect(subsites)
+    signals.readers_init.connect(add_reader)
