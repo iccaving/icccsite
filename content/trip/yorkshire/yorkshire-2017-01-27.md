@@ -8,11 +8,11 @@ Mainimg: 2017-01-29_14h22m-TanguyRacine-NikonD3200-SunsetHoleAndGreatDouk-Yorksh
 Thumbl: 2017-01-29_14h51m-TanguyRacine-NikonD3200-SunsetHoleAndGreatDouk-Yorkshire_IV_2017_-_47_of_52--thumb.jpg
 Thumbr: 2017-01-29_14h32m-TanguyRacine-NikonD3200-SunsetHoleAndGreatDouk-Yorkshire_IV_2017_-_34_of_52--thumb.jpg
 Authors: Tanguy Racine, Stephanie Ford, Jarvist Frost
-Cavepeeps: DATE=2017-1-28; CAVE=Rowten pot; PEOPLE=Stephanie Ford, Arun Paul, Dave Wilson, Fiona Hartley;
-           DATE=2017-1-28; CAVE=King pot; PEOPLE=Jarvist Frost, Dave Dubz, Jacob Puhalo-Smith, Will Norwood, Joshua Marcinkowski;
-           DATE=2017-1-28; CAVE=Vespers Pot; PEOPLE=Tanguy Racine, William French, Larry Jiyu-Jiang, James Perry;
-           DATE=2017-1-29; CAVE=Great Douk; PEOPLE=Tanguy Racine, Will Norwood, Larry Jiyu-Jiang, Stephanie Ford, Joshua Marcinkowski, Dave Dubz, Jacob Puhalo-Smith;
-           DATE=2017-1-29; CAVE=Sunset Hole; PEOPLE=Tanguy Racine, Will Norwood, Larry Jiyu-Jiang, Stephanie Ford, Joshua Marcinkowski, Dave Dubz, Jacob Puhalo-Smith;
+Cavepeeps: DATE=2017-01-28; CAVE=Rowten pot; PEOPLE=Stephanie Ford, Arun Paul, Dave Wilson, Fiona Hartley;
+           DATE=2017-01-28; CAVE=King pot; PEOPLE=Jarvist Frost, Dave Dubz, Jacob Puhalo-Smith, Will Norwood, Joshua Marcinkowski;
+           DATE=2017-01-28; CAVE=Vespers Pot; PEOPLE=Tanguy Racine, William French, Larry Jiyu-Jiang, James Perry;
+           DATE=2017-01-29; CAVE=Great Douk; PEOPLE=Tanguy Racine, Will Norwood, Larry Jiyu-Jiang, Stephanie Ford, Joshua Marcinkowski, Dave Dubz, Jacob Puhalo-Smith;
+           DATE=2017-01-29; CAVE=Sunset Hole; PEOPLE=Tanguy Racine, Will Norwood, Larry Jiyu-Jiang, Stephanie Ford, Joshua Marcinkowski, Dave Dubz, Jacob Puhalo-Smith;
 
 
 {{ mainimg }}
@@ -147,4 +147,3 @@ Then the drive back to the NPC – Perry did me the favour of resting during the
 
 
 ####Tanguy Racine
-
