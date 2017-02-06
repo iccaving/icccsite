@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg: 
 Thumbl: 
 Thumbr: 
-Authors: Tanguy Racine, Stephanie Ford,
+Authors: Tanguy Racine, Stephanie Ford, Jarvist Frost
 Cavepeeps: DATE=2017-1-28; CAVE=Rowten pot; PEOPLE=Stephanie Ford, Arun Paul, Dave Wilson, Fiona Hartley;
            DATE=2017-1-28; CAVE=King pot; PEOPLE=Jarvist Frost, Dave Dubz, Jacob Puhalo-Smith, Will Norwood, Joshua Marcinkowski;
            DATE=2017-1-28; CAVE=Vespers Pot; PEOPLE=Tanguy Racine, William French, Larry Jiyu-Jiang, James Perry;
