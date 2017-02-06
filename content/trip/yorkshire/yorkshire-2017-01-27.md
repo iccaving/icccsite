@@ -4,7 +4,7 @@ Location: Yorkshire
 Summary: We picked up three stray cavers hitch hiking along the M1 to swell our ranks in view of a three-pronged attack on Kingsdale. On Saturday we visited mighty King, pernicious Vespers and damp Rowten. Sunday saw a jaunt to Sunset Hole and Great Douk in wintry conditions.
 Type: trip
 Photoarchive:
-Mainimg: 2017-01-29_14h22m-TanguyRacine-NikonD3200-SunsetHoleAndGreatDouk-Yorkshire_IV_2017_-_13_of_52--thumb.jpg
+Mainimg: 2017-01-29_14h22m-TanguyRacine-NikonD3200-SunsetHoleAndGreatDouk-Yorkshire_IV_2017_-_13_of_52.jpg
 Thumbl: 2017-01-29_14h51m-TanguyRacine-NikonD3200-SunsetHoleAndGreatDouk-Yorkshire_IV_2017_-_47_of_52--thumb.jpg
 Thumbr: 2017-01-29_14h32m-TanguyRacine-NikonD3200-SunsetHoleAndGreatDouk-Yorkshire_IV_2017_-_34_of_52--thumb.jpg
 Authors: Tanguy Racine, Stephanie Ford, Jarvist Frost
