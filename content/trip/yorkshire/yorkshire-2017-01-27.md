@@ -27,7 +27,7 @@ This one was different. Perry had drunk 3 pints of ale before our stores meeting
 
 ##Saturday
 
-###Rowten Pot: {{DATE=2017-1-28; CAVE=Rowten pot;}}
+###Rowten Pot: {{DATE=2017-01-28; CAVE=Rowten pot;}}
 
 New year, new term, new caving trip!
 
@@ -54,7 +54,7 @@ The start of the snowfall - in huge soft flakes - caused general excitement and 
 
 
 
-###Vespers Pot: {{DATE=2017-1-28; CAVE=Vespers Pot;}}
+###Vespers Pot: {{DATE=2017-01-28; CAVE=Vespers Pot;}}
 Saturday was a Kingsdale day. We divided into three teams, King, Rowten and Vespers, all three caves being quite weatherproof for the majority of the way. I wanted to go back to the nice SRT of Vespers and convinced Perry, Larry and Will to accompany me. As we were driving off towards the foggy, damp fells, I realised I’d left my furry and thermals in the cottage. Once this was remedied, we set-off for Kingsale under slight drizzle, rolling mists and banks of cloud. 
 
 At the Braida Garth lay-by, we encountered some cavers from YUCC and Matt and Gary from the NPC, who were about to set off for Vespers too. We quickly agreed to give them a head start and derig their rope, which they would pick up the next morning at the NPC.  The King team departed after them, whilst we Vesperites killed some time playing contact in the bus. This was successful, and after half an hour we decided against getting  changed into the grim conditions, and did it in the minibus instead. 
@@ -84,7 +84,7 @@ It could, and soon started snowing outside. Fat, wet snowflakes drifted silently
 
 ####Tanguy Racine
 
-###King pot: {{DATE=2017-1-28; CAVE=King pot;}}
+###King pot: {{DATE=2017-01-28; CAVE=King pot;}}
 
 I never turn down an excuse to visit King Pot; though often in setting my course there I am surprised to find ICCC cavers leaving the sinking ship as fast as I pack 9 mm into a tackle sack. Only Dave Wilson (the second), living up to his name, was wanting to come along. Everyone is just too aware of my predilections. 
 
@@ -108,7 +108,7 @@ Walking back across the Fell, we saw Vesper-ish lights. It was the party in adva
 ####Jarv
 ##Sunday
 
-###Sunset Hole: {{DATE=2017-1-29; CAVE=Sunset Hole;}}
+###Sunset Hole: {{DATE=2017-01-29; CAVE=Sunset Hole;}}
 
 It was a reduced group who set off through the snowy hills for Eastgill on Sunday morning. I would never have found Sunset Hole, because the (two) entrances are hidden amongst a sort of river bed formation of rocks and boulders, and I was much more excited by a rock bridge just over the top of the ‘dry’ entrance!
 
