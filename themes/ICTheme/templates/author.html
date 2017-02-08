@@ -10,7 +10,7 @@
         <th>Date</th>
       </tr>
       {% for article in articles %}
-        {% if article.unlisted is not defined %}
+        {% if article.status != "unlisted" %}
         <tr>
           <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
             <br>

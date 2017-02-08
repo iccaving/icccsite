@@ -10,7 +10,7 @@
   <h1>Full list of all articles</h1>
   <dl>
   {% for article in dates %}
-      {% if article.unlisted is not defined %}
+      {% if article.status != "unlisted" %}
           <dt>{{ article.locale_date }}</dt>
           <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
       {% endif %}

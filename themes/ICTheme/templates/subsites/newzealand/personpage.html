@@ -1,0 +1,19 @@
+{% extends "subsites/newzealand/base.html" %}
+
+{% block banner %}{% endblock banner %}
+
+{% block content %}
+<div class="container">
+<div class="article-content">
+<h1>PEOPLE</h1>
+
+
+<table>
+{% for item in cavepeep_person %}
+<tr><td><a href="{{ SITEURL }}/cavers/{{ item }}.html">{{ item }}</a><br></td><td class="count">{{ cavepeep_person[item]|length }}</td></tr>
+{% endfor %}
+</table>
+
+</div>
+</div>
+{% endblock %}
