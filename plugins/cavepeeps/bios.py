@@ -88,7 +88,7 @@ def generate_cave_pages(generator, writer):
                             template = generator.get_template(template),
                             context = generator.context,
                             pagename=page_name,
-                            articles=sorted(page_data.articles, key=lambda x: x.date, reverse=True),
+                            cave_articles=sorted(page_data.articles, key=lambda x: x.date, reverse=True),
                             article=article)
 
     # ==========Write the index of caves================
@@ -147,7 +147,7 @@ def generate_person_pages(generator, writer):
                             template = generator.get_template(template),
                             context = generator.context,
                             personname=page_name,
-                            articles=sorted(page_data.articles, key=lambda x: x.date, reverse=True),
+                            caver_articles=sorted(page_data.articles, key=lambda x: x.date, reverse=True),
                             article=article,
                             authored=page_data.authored)
     pages = initialised_pages

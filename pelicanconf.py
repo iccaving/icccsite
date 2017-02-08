@@ -41,8 +41,7 @@ PAGINATION_PATTERNS = (
 DEFAULT_DATE_FORMAT = '%d-%m-%Y'
 
 PLUGIN_PATHS = ["plugins"]
-#PLUGINS = [, 'acyear', 'cavepeeps', 'subsites', 'oldurl', 'metainserter', , 'wiki']
-PLUGINS = ['subsites', 'acyear', 'metainserter', 'photoarchive', 'inlinephotos']
+PLUGINS = ['photoarchive', 'acyear', 'cavepeeps', 'subsites', 'oldurl', 'metainserter', 'minimiser', 'inlinephotos', 'wiki']
 
 
 MARKDOWN = {

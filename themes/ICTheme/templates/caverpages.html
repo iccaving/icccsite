@@ -32,7 +32,7 @@
           <th>Cave</th>
           <th>Date</th>
         </tr>
-        {% for cave, article, date in articles %}
+        {% for cave, article, date in caver_articles %}
         {% set cavelist = cave.split('>')[1:] %}
         {% set cave = cave.split('>')[0] %}
         <tr>
