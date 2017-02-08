@@ -12,7 +12,7 @@ def articles_by_academic_year(generator):
         if 'type' in article.metadata.keys():
             # Only do this if the article is a trip because it only matters for the sidebar
             # ordering
-            if article.type == 'trip' and 'unlisted' not in article.metadata.keys():
+            if article.type == 'trip' and not article.status == 'unlisted':
                 # The boundary is august/september
                 if int(article.date.strftime('%m')) > 8:
                     year1 = article.date.strftime('%Y')

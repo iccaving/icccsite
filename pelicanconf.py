@@ -41,7 +41,9 @@ PAGINATION_PATTERNS = (
 DEFAULT_DATE_FORMAT = '%d-%m-%Y'
 
 PLUGIN_PATHS = ["plugins"]
-PLUGINS = ['photoarchive', 'acyear', 'cavepeeps', 'subsites', 'oldurl', 'metainserter', 'inlinephotos', 'wiki']
+#PLUGINS = [, 'acyear', 'cavepeeps', 'subsites', 'oldurl', 'metainserter', , 'wiki']
+PLUGINS = ['subsites', 'acyear', 'metainserter', 'photoarchive', 'inlinephotos']
+
 
 MARKDOWN = {
     'extension_configs': {
@@ -55,10 +57,6 @@ ARTICLE_URL = 'articles/{slug}.html'
 ARTICLE_SAVE_AS = 'articles/{slug}.html'
 
 FAVICON = "assets/iclogo.png"
-
-DISQUS_SITENAME = u'iccc'
-
-SUBSITES = ["_newzealand", "_slovenia"]
 
 DELETE_OUTPUT_DIRECTORY = True
 

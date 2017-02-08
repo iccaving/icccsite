@@ -98,7 +98,7 @@ def cavepeep_linker_for_each_article(generator, content):
         article_link(cavepeep_partial, article, generator)
 
     # If unlisted DO NOT ADD TO MAIN CAVEPEEPS dictionary.
-    if 'cavepeeps' in article.metadata.keys() and 'unlisted' not in article.metadata.keys():
+    if 'cavepeeps' in article.metadata.keys() and article.status != 'unlisted':
         generator.context['cavepeep'] += cavepeep_partial
 
 

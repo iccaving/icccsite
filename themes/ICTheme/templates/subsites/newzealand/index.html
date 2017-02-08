@@ -1,0 +1,76 @@
+{% extends "subsites/newzealand/base.html" %}
+{% block banner %}
+Imperial College Caving Club
+{% endblock banner %}
+
+{% block content %}
+<div class="container">
+  {% if articles %}
+    {% for article in articles %}
+      {% if article.location == 'sticky' %}
+        <div class="content-box">
+          <div class="content-header">
+            <div class="content-left">
+              <div><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
+            </div>
+          </div>
+          <div class="content">
+            {{ article.content }}
+          </div>
+          <div class="content-footer">
+            <div class="content-footer-center">
+              <a class="footer-button" href="{{ SITEURL }}/{{ article.url }}">More</a>
+            </div>
+          </div>
+        </div>
+
+      {% endif %}
+    {% endfor %}
+    {% for article in articles %}
+      {% if article.location != 'sticky' %}
+        <div class="content-box">
+          <div class="content-header">
+            <div class="content-left">
+              <div><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
+            </div>
+            <div class="content-right">
+              <div>{{ article.date.strftime('%d-%m-%Y') }}</div>
+            </div>
+          </div>
+          <div class="content">
+              {% if article.thumbl is defined %}
+                {% if article.thumbl != '' %}
+                <div class="index-thumbl">
+                  <a href="{{ article.archiveloc }}?image={{ article.thumbl|replace("--thumb", "") }}"><img src="{{ article.archiveloc }}{{ article.thumbl }}"></a>
+                </div>
+                {% endif %}
+              {% endif %}
+              {% if article.thumbr is defined %}
+                {% if article.thumbr != '' %}
+                <div class="index-thumbr">
+                  <a href="{{ article.archiveloc }}?image={{ article.thumbr|replace("--thumb", "") }}"><img src="{{ article.archiveloc }}{{ article.thumbr }}"></a>
+                </div>
+                {% endif %}
+              {% endif %}
+              <div class="content-summary">
+              {{ article.summary }}
+              </div>
+          </div>
+          <div class="content-footer">
+            <div class="content-footer-left">
+              <a class="footer-button" href="{{ SITEURL }}/{{ article.url }}">More</a>
+            </div>
+            <div class="content-footer-right">
+              {% if article.archiveloc is defined %}
+                  <a class="footer-button" href="{{ article.archiveloc }}">Photos</a>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+</div>
+{% endblock content %}
