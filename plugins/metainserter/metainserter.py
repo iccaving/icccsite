@@ -38,6 +38,8 @@ class MetaWriter(Writer):
                 # Subsite pages are really articles because they can't access the full article list if they're pages for some reason
                 # so make page = article so the page template can still work
                 kwargs["page"] = kwargs["article"]
+                print(article.url)
+
                 
                 # Make sure subsite pages only display subsite articles
                 rel_path = article.source_path.replace(os.path.join(context['PATH'], "_" + metadata['subsite'], ''), '')

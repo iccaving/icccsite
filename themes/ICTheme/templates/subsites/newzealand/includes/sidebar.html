@@ -16,7 +16,7 @@
           <div class="sidebar-inner" id="posts-inner">
             {% for article in articles %}
               {% if article.location != "sticky" %}
-                <div class="sidebar-sub-item"><a href="{{ SITEURL }}/newzealand/{{ article.url }}">{{ article.title }}</a></div>
+                <div class="sidebar-sub-item"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
               {% endif %}
             {% endfor %}
           </div>

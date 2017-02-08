@@ -10,8 +10,6 @@ Cavepeeps: 	DATE=2016-02-20; CAVE=It's A Cracker > Boxhead Pot; PEOPLE=Jack Hare
 				DATE=2016-02-21; CAVE=Notts Pot 2; PEOPLE=Jack Hare, Rhys Tyers, Kevin Li, Kenneth Tan, Edith Huebner, Arun Paul;
 Status:
 
-<div class='center'><h1>Report</h1></div>
-
 #####{{ allpeople }}
 
 ## Friday

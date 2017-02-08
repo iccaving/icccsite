@@ -50,7 +50,7 @@
   <div class="sidebar-item expandable-menu"><a href="#" onclick="return false;">Tours</a></div>
   <div class="sidebar-outer collapsed">
     <div class="sidebar-inner nodisplay">
-      {% for article in articles %} {% if article.type == 'tour' and article.status != 'unlisted' %}
+      {% for article in articles %} {% if article.type == 'tour' %}
       <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} {{ article.date.strftime('%Y') }}</a></div>
       {% endif %} {% endfor %}
     </div>

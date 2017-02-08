@@ -10,7 +10,7 @@
         <th>Date</th>
       </tr>
       {% for article in articles %}
-        {% if article.status != "unlisted" %}
+        {% if article.type != "unlisted" %}
         <tr>
           <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
             <br>

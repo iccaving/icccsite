@@ -1,6 +1,7 @@
 from pelican import signals
 from pelican.readers import MarkdownReader
 from pelican.utils import slugify
+from pelican import ArticlesGenerator
 import os
 import datetime
 
@@ -24,21 +25,26 @@ class BetterMarkdownReader(MarkdownReader):
             page_type = rel_path_split[1]
             template = os.path.join("subsites", subsite, "article")
             save_as = os.path.join(subsite, "articles", slugify(basename) + ".html")
+            url = os.path.join(self.settings["SITEURL"], subsite, "articles", slugify(basename) + ".html")
             metadata["ispage"] = False
-            
+
             if page_type == "pages":
                 metadata["date"] = datetime.datetime.strptime("2000-01-01", "%Y-%m-%d")
                 template = os.path.join("subsites", subsite, "page")
                 save_as = os.path.join(subsite, "pages", slugify(basename) + ".html")
+                url = os.path.join(self.settings["SITEURL"], subsite, "pages", slugify(basename) + ".html")
                 metadata["ispage"] = True
 
             if ''.join(rel_path_split[1:]) == "index.md":
                 template = os.path.join("subsites", subsite, "index")
                 save_as = os.path.join(subsite, "index.html")
+                url = os.path.join(self.settings["SITEURL"], subsite, "index.html")
+                metadata["slug"] = slugify(subsite + "-" + basename)
 
             metadata["template"] = template
             metadata["save_as"] = save_as
             metadata["subsite"] = subsite
+            metadata["url"] = url
 
         return content, metadata
 
