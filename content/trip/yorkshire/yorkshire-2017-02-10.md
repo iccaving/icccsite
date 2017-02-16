@@ -20,7 +20,53 @@ Status: draft
 
 ##Friday
 
+"Tanguy has a plan." The whispers had started already, and as the cold winds rose we went north, the minibus filled with but seven brave souls.
+"Tanguy has a plan." We had only rumours, fragments, crumbs, but it was enough to spark excitement, anticipation, and yes, a small but growing worm of fear curled deep in our guts.
+"Tanguy has a plan." After a winding detour off the M6 we arrived at the NPC before 1 am, and settled into sleep, nervous, fidgety, and curious to see what the morning would bring.
+
+#### Jack
+
 ##Saturday
+
+An Easegill traverse.
+But not a short one, like Tanguy did on Winter tour, a mere Top Sink to Lancaster Hole, but even further, to from Top to Mistral.
+The furthest I've been was County to Lancaster, and I was excited to see the rest of the system.
+We were off early, changing at Bullpot Farm in a blizzard, and Tanguy volunteered to rig Lancaster whilst the rest of us faffed our way across the fell to Top Sink.
+Tanguy caught us quickly by taking a cunning short cut, and we dropped into Top, an entrance near the flowing stream in a small and unlikely looking depression.
+
+Top begins with a rickety ladder climb down into a tight rift, with an active streamway.
+The rift is passed sideways, legs bent, and is wider at the bottom &mdash; this is useful when it gets too tight as you can back up and crawl through at the low level.
+Soon we reached the first pitch, and I explained to Tanguy how we'd rig it for a canyoning trip as we were doing a pull through &mdash; feed the rope through both bolts, and tie  a clove hitch around the spine of a big karabiner to 'block' the rope, abseiling off the other end.
+I stood in the nice crows nest at the top of the pitch, helping the others onto the rope before descending myself.
+It's a fine pitch of dark rock, lashed by spray, reminiscent of the final pitch in the Adamsons route of Notts 1.
+I had a shiny new steel bobbin on my simple, and despite Rhys' warnings that it'd be super fast, I found it no quicker than my old, extremely worn aluminium bobbin.
+
+Tanguy assured my that the streamway got larger at this point, but I saw no evidence of that being true as we thrutched our way towards the second, far smaller pitch.
+Here Tanguy clipped the krab to the bolt for safety, but as Rhys didn't realise this he had to ascend back up and sort it out before we could pull through.
+My memory is a bit of a blur here &mdash; lots of streamway, getting larger, plenty of inlets on the left (ignore those) and then a complicated junction where you need to climb high above the stream and cross over to the right and then back over a rock bridge to the left before free climbing up inside a rift into Nagasaki chamber.
+I suspect the Not for the Faint Hearted description is adequate here as Tanguy had no problems the first time through.
+
+We stopped for super-saturated lemon vitaminski (thanks DW!) and sugar hot drink before ploughing on.
+Tanguy leads us to the Easter Grotto, a fantastically well decorated chamber with plentiful straws on the ceiling.
+With three flashes and plenty of people, Rhys and I take a few photographs as the others shiver.
+Sated, we drop down into the main route on, and eventually we arrive in Stop Pot, spot our usual lunch spot, and head up the ladder in Fall Pot.
+From here on, it's familiar territory, as we plunge through the high level fossil passage singing 'On Ilkley Moor Ba'tat'.
+Soon we pass round Scylla and Charybdis, less intimidating than the first time I did them, and we get to Stake Pot.
+One way on is to Mistral, the other is to Lancaster Hole &mdash; I look at my watch and see it is 5 pm, and we have a 10 pm call out.
+What with the walk and the drive back, it looks like we'll be pushing it, but Tanguy is keen and we construct an argument whereby DW is the one at the NPC and is quite sensible, and would presumably call Bullpot Farm to see if we were out before contacting the CRO.
+Rhys volunteers to head out Lancaster with Diss and Ryan, as he's keen to use all three flashes to photograph on the way.
+
+This leaves me, Tanguy, and, of course, the Dubz Bruvs.
+We backtrack, find the quite obvious route on, and armed with NFTFH laminates I lead the way for all of fifteen metres before going wrong.
+Davie Dubz spots the crawl on the right, low to the floor but well polished, and we squeeze through, following the winding network of passages through to the 88 foot Aven.
+This is an impressively deep winding rift with some good wooden stemples and an in situ rope (though NFTFH suggests bring your own 55 m for the pull through.)
+As I prepared to unclip my cowstails and descend, I paused to check my omni. It was open. Swearing slightly, I hauled myself away from the 30 m drop and did it up, joining the others at the bottom with a bit of a distant look in my eye.
+
+The lower passages in Easegill are remarkable. Why are they there? Between the 88 foot aven and Echo pot is a series of interesting stooping passages and active streamway which passes under Easegill Beck before sumping.
+At Echo Aven Tanguy went up one of the two fixed ropes before declaring it the right way, and I waited at the bottom, utilising the acoustics to their full as Jimmy and Davie climbed.
+At the top, Tanguy had been searching for the way on. NFTFH doesn't describe this section (apparently it's described in another bit we didn't have, which is sub-optimal)
+
+#### Jack
 
 On Saturday morning, after a large breakfast (smaller numbers = more food!), we drove out to Casterton Fell on the Easegill system. The weather was cold and snowy, so we were anxious to get into the caves and out of the wind. After about a 45 minute hike from the minibus and through Easegill Beck, we arrives at the entrance at Top Sink which consisted of a well-used hole with a surprisingly stable ladder going down into the caving area. The caverns of the cave initially consisted of tight walls, winding endlessly to the SRT zone. After rappelling down an underground waterfall, we found ourselves in some large caverns. The latter two-thirds of the cave consisted of moderately large caverns and passageways involving an extensive degree of traversing.  At Stake Pot we decided to split as Rhys, Rebecca and I took a shorter (and much drier) diversion to the exit. Overall the cave was a great experience and could be compared to the caves in Wales due to the high degree of traversing.  
 
