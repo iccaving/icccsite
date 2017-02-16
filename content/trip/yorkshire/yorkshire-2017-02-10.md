@@ -64,7 +64,31 @@ As I prepared to unclip my cowstails and descend, I paused to check my omni. It 
 
 The lower passages in Easegill are remarkable. Why are they there? Between the 88 foot aven and Echo pot is a series of interesting stooping passages and active streamway which passes under Easegill Beck before sumping.
 At Echo Aven Tanguy went up one of the two fixed ropes before declaring it the right way, and I waited at the bottom, utilising the acoustics to their full as Jimmy and Davie climbed.
-At the top, Tanguy had been searching for the way on. NFTFH doesn't describe this section (apparently it's described in another bit we didn't have, which is sub-optimal)
+At the top, Tanguy is searching for the way on, and has tried several grim leads.
+NFTFH doesn't describe this section (apparently it's described in another bit we didn't have, which is sub-optimal), but Tanguy kindly offers me a particular grim lead.
+At the top of the pitch, take the left fork and immediately crawl up through the boulder choke on the right into a small chamber.
+The chamber is mostly filled with boulders, but at the far side a flat out crawl curves to the left and eventually breaks out into a shattered streamway.
+The wind here was cold and strong, and I could smell the outside as Davie Dubz cursed and thrashed his way through behind.
+
+We regrouped, spotted a carbide arrow high on the right wall and crawled above a fossil streamway through to the bottom of Link, which was marked by numerous very tall cairns.
+The directions told us to look for an obscure climb up, and after checking out a far less obscure one, we found the correct climb.
+It's truly obscure, but very, very pretty and obvious once you find it.
+Buouyed by this discovery, we pressed on, eyeing the directions with a rising sense of doom.
+Words like 'wet', 'flat out' and 'muddy' swam in front of my eyes as I followed behind the others.
+
+I have no specific memories, except for Davie Dubz getting 'stuck', described below, but over all I would not recommend Link Crawl.
+I got extremely wet and quite cold, and it is rather thrutchy.
+After an age, I realised those ahead of me had stopped spluttering and moaning, and soon afterwards I joined them at Dusty Junction.
+Tanguy turned to me and said 'Next time I try to do something that stupid, please stop me.'
+I pointed out that I'd advocated for everyone going out of Lancaster hole, and Tanguy suggested that physical restraint may be necessary.
+
+The way out to Mistral is easy in comparison, just a slightly tight crawl best done on one side.
+The surface was freezing cold, and although I had a large stone in my welly (later shown to be potato sized) I didn't feel like removing it, and so trudged downstream with my fingers balled into fists inside my gloves.
+As we got closer to Bullpot Farm, Tanguy and I split off to derig Lancaster.
+I asked Tanguy is he wanted to have the pleasure of being out of the wind derigging, but he reckoned he hadn't the strength after dragging 70 m of rope through Link crawl and let me do it.
+
+Soon we were back at the minibus and Tanguy helped removed my welly and the offending potato stone.
+Rhys drove us back in a baking hot bus and we made a delicious mushroom risotto with Tanguy's stairs pie for dinner.
 
 #### Jack
 
@@ -85,13 +109,31 @@ Now began the wet wallows and the muddy wallows. The wet wallows were a grim cra
 
 ####James ‘Jimmy Dubz’ Wilson
 
-
-
 ##Sunday
 
 On Sunday we arrived at Alum Pot (north flank of Ingleborough) on another cold, rainy and snowy day. Our groups decided to split off (with Rhys and Tanguy heading to another cave nearby). We entered in Long Churn crawling along a stream followed by a ~3 meter free climb until we arrived at the SRT area. After rappelling down the flat underground face, we popped out half way down the Alum Pot main shaft which was open to the surface. The area had some amazing views and lighting which made for some great photography. After rappelling and traversing across the main shaft, we arrived at an SRT zone rigged below a large, leaning boulder.  While the positioning of the set-up made it challenging to rappel (involving swinging out below the boulder), everyone made it to the bottom of the shaft in good time. The shaft continued on lower into the cave, but we decided against going any further due to time constraints. Overall the experience within the cave was one of my best ones to date and I would highly recommend it to those looking to take in some amazing views and gain some SRT experience.
 
 ####Ryan
+
+Tanguy proposed Washpot &mdash; I wanted to go, but it obviously wasn't suitable for the entire group so I agreed to do Alum and bank some credit for doing a tough trip some other time.
+After all, I had unfinished business with Alum &mdash; the last two times I'd gone to rig the hanging rebelay off the underside of the central boulder, I'd chickened out and got someone else to do it.
+This trip it was easy, and I rigged two traverse lines around to the y-hang, one high and tight, and one slack so it could be grabbed on the way up.
+Tanguy apparently rigs this with a short rebelay, which I can definitely see the merit of.
+
+Alum was beautiful in the blizzard, with huge snowflakes caught in fractal vortices whirling through the air, catching the pale winter sun as they fell all the way to the stream at the bottom.
+Jimmy Dubz derigged, aided by Davie who took a rope bag, and I waited at the bottom of the top pitch, watching them along with three people from Cambridge who were doing a Sunday bimble with a complete novice who was (rightfully) in awe of the cave.
+We had to wait a bit for them to climb up the rope (note to self - always rig the high route, no one else does!) and met Bristol on the way out, who were insisting on doing SRT on the easy free climb above the pitch.
+They were unwilling to let us quickly climb up, so we decided to find another way out.
+I climbed up to the cheese press, but a shout from Davie Dubz let me know there was a way over the top &mdash; there is, but it's quite exposed as it pops out above the second free climb.
+Still, good to know about, and we were soon on the surface.
+
+Back at the minibus, we were all changed and ready to do when a distressed group of walkers showed up.
+They had got turned around on Ingleborough and wanted to get back to their coach in Ingleton.
+I'm unsure how they got that badly turned around (180 degrees!) but I was keen not to give the CRO any more work than we usually do, so they sat in the back as we drove carefully along the winding roads.
+Mistakenly believing their were Scottish, I played a fair bit of Silly Wizard, which was apparently much appreciated.
+I was later informed they were Scouse, so I'll own my ignorance to admitting to it here...
+
+####Jack
 
 The muscles around my shoulder blades ached abominably on Sunday morning. The day before options around Alum Pot were discussed and seeing as everybody was up for caving again I looked for neighbouring caves I hadn’t visited before. Washfold was one such, and the description from NFTFH had a conspicuous dearth of superlatives such as ‘very tight’ or ‘extremely wet’. Instead, and Washfold is probably the unique cave described there as ‘uncomplicated’. That was good enough for me…
 
@@ -99,7 +141,7 @@ Rhys thought he’d come with me since Jack led the luminous Alum group so we dr
 
 Outside, the wind was howling and there was moisture in the cold air. Once changed, and therefore invicible, Rhys and I walked up the hill, past the Long Churn entrances and along the top of the scar to the north where Washfold was. With the use of GPS, the entrance was quickly located. It was a fenced off little shakehole, not far from the stone walls. Underneath our feet, several holes led down to a small stream passage.
 
-Tucking the GPS under a tuft of grass in a tupperware box, we adjusted our bags, SRT kits packed inside and climbed down to the stream, which we followed to a large calcite obstruction where the passage  turns 180° to the left. We had to climb up to the roof bedding plane, squeeze through the opening and climb back down the steps of the calcite flowstone to the enlarging streamway. 
+Tucking the GPS under a tuft of grass in a tupperware box, we adjusted our bags, SRT kits packed inside and climbed down to the stream, which we followed to a large calcite obstruction where the passage  turns 180° to the left. We had to climb up to the roof bedding plane, squeeze through the opening and climb back down the steps of the calcite flowstone to the enlarging streamway.
 
 I then carried down at stream level for another downclimb, mostly using friction against the scalloped passage walls to land on a churning pool of water. A white jet of water sprayed the darkness beyond, falling with a deep, thunderous rumble. This I then assumed was the large, first pitch, and Rhys, looking ahead from a higher level of the rift spotted the traverse bolts.
 
@@ -107,9 +149,9 @@ I clambered back up to the ledge where he sat and we put our SRT kit on. The fir
 
 At the base of the pitch, the draught and chill were palpable, so I walked downstream for ten metres, waiting for Rhys to join me and carry on the exploration. He was soon down. We were both enjoying the moment, the new cave, the simplicity of the pitch, Yorkshire caving at its best! Further downstream, the stream passage gave way to a decorated rift, with ‘memorable’ climbs down angular flakes. Thankfully, there was a rope for the first 11m climb down, which we descended, but the next was unprotected and we were not happy with going down freestyle or otherwise. I carried on traversing for a little while at a well decorated level, marked by an undercut beneath the rift walls where a grey and ochre mud formation had weathered more rapidly than the surrounding limestone. Many other caves have this ‘stratum’ : Little Hull, at the bottom of the big pitch sprang to mind, Easegill too, just above the level of Main Drain.
 
-The way out was relatively uneventful, that is, until the very last climb out of the cave where, losing my footing as I was passing a bag up to a ledge, I slipped down to stream level (2m below). I was unhurt: Rhys had quickly sprang into action and spotted me, but there was an easier way up which he scouted afterwards: the middle of the three holes leading to the stream. We vowed to return to Washfold, as it was a nice day out, but we’ll bring more ropes to protect the free-climbs and make our way to the sump. 
+The way out was relatively uneventful, that is, until the very last climb out of the cave where, losing my footing as I was passing a bag up to a ledge, I slipped down to stream level (2m below). I was unhurt: Rhys had quickly sprang into action and spotted me, but there was an easier way up which he scouted afterwards: the middle of the three holes leading to the stream. We vowed to return to Washfold, as it was a nice day out, but we’ll bring more ropes to protect the free-climbs and make our way to the sump.
 
-Outside, the world was turning white, as large snowflaked fell on the moors, blanketing the flanks of Ingleborough. Arriving at Long Churn entrances, we quickly sought the relative warmth of the cave, where we picked up Diss before making a break for the minibus. There we had great fun watching a novice caver struggle with wellies for twenty minutes, then with their central maillon and finally with their oversuit. Much to our amusement, their mentor jumped out of the car and yanked the oversuit by the collar with one brisk move, as if they were skinning a rabbit. 
+Outside, the world was turning white, as large snowflaked fell on the moors, blanketing the flanks of Ingleborough. Arriving at Long Churn entrances, we quickly sought the relative warmth of the cave, where we picked up Diss before making a break for the minibus. There we had great fun watching a novice caver struggle with wellies for twenty minutes, then with their central maillon and finally with their oversuit. Much to our amusement, their mentor jumped out of the car and yanked the oversuit by the collar with one brisk move, as if they were skinning a rabbit.
 
 In time, the rest of the Alum team emerged from the mists, followed by a couple of hikers who asked for a lift back to Ingleton, we agreed, having two spare seats left and drove back in time for tea and medals, or rather reheated but ever more scrumptious risotto.
 
