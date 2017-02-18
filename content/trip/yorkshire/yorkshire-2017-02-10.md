@@ -4,9 +4,9 @@ Location: Yorkshire
 Summary: Unencumbered by most of the committee, a mean, lean team set off from London in a dodgy minibus with one goal &mdash; to cave until we could cave no more. On Saturday Tanguy lead us on a mad dash from Top Sink through to Stake Pot, where a photography group peeled off to the Colonnades and exited out Lanc, whilst the rest of the group endured the Link Crawl and exited via Mistral. On Sunday we tackled the glories of Alum and the thrutchy majesty of Washfold, and rescued a bunch of Scouse doggers from a blizzard.
 Type: trip
 Photoarchive:
-Mainimg:
-Thumbl:
-Thumbr:
+Mainimg: RhysTyers-Easegill-DSC04026.jpg
+Thumbl: RhysTyers-Easegill-DSC04048--thumb.jpg
+Thumbr: RhysTyers-Easegill-DSC04036--thumb.jpg
 Authors: Jack Hare, Ryan Clark, Tanguy Racine, James Wilson;
 Cavepeeps: DATE=2017-02-11; CAVE=Top Sink>Lancaster Hole; PEOPLE=Rhys Tyers, Rebecca Diss, Ryan Clark;
            DATE=2017-02-11; CAVE=Top Sink>Mistral Hole; PEOPLE=Jack Hare, Tanguy Racine, David Wilson, James Wilson;
@@ -178,3 +178,5 @@ The way out is pleasant with two. Very quick. I derig (and also carry the ridicu
 The weather has worsened on the surface. Big fat snow flakes whipping horizontally across the fell. We amble towards Alum, nicely chilled by the time we reach the entrance (and we don't see the toadstool shaped rock :O). Glad to be in the relative warmth of the cave we nip down to the first pitch where a father/very small child duo are doing SRT practice. We wait for them and they take an age. Below we can hear people who sound like ICCC. Some are, some aren't. There is a Cambridge person that sounds identical to Ryan adding to the confusion. Diss comes up and we decide to extract her from the cave, leaving the others, as we are getting cold.
 
 We change at the bus and wait for the other. They are a while but all is fine. I see Hitler in the subtle shadings of fog on the windscreen. Some scousers appear and ask for a lift to Ingleton, apparently having been lost on Ingleborough. We oblige. Solid day.
+
+####Rhys
