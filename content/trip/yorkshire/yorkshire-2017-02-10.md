@@ -25,6 +25,8 @@ Cavepeeps: DATE=2017-02-11; CAVE=Top Sink>Lancaster Hole; PEOPLE=Rhys Tyers, Reb
 
 #### Jack
 
+On our way up one of the Dubs brothers informed us that the M6 is the most haunted motorway in Britain, boasting amongst other spectral appearances, ghosts of Roman soldiers and phantom lorries (are the soldiers driving the lorries?). We decided that this was 👻 2spooky4us 👻 and so diverted into the countryside for hours until the rozzers (who are in league with the phantasmic forces) closed off enough roads to forces us back onto the M6. A quick blood sacrifice ensured that we made it to the NPC in good time untroubled by spooks.
+
 ##Saturday
 
 An Easegill traverse.
