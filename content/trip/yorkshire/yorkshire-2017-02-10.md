@@ -31,67 +31,25 @@ On our way up one of the Dubs brothers informed us that the M6 is the most haunt
 
 ##Saturday
 
-An Easegill traverse.
-But not a short one, like Tanguy did on Winter tour, a mere Top Sink to Lancaster Hole, but even further, to from Top to Mistral.
-The furthest I've been was County to Lancaster, and I was excited to see the rest of the system.
-We were off early, changing at Bullpot Farm in a blizzard, and Tanguy volunteered to rig Lancaster whilst the rest of us faffed our way across the fell to Top Sink.
-Tanguy caught us quickly by taking a cunning short cut, and we dropped into Top, an entrance near the flowing stream in a small and unlikely looking depression.
+An Easegill traverse. But not a short one, like Tanguy did on Winter tour, a mere Top Sink to Lancaster Hole, but even further, to from Top to Mistral. The furthest I've been was County to Lancaster, and I was excited to see the rest of the system. We were off early, changing at Bullpot Farm in a blizzard, and Tanguy volunteered to rig Lancaster whilst the rest of us faffed our way across the fell to Top Sink. Tanguy caught us quickly by taking a cunning short cut, and we dropped into Top, an entrance near the flowing stream in a small and unlikely looking depression.
 
-Top begins with a rickety ladder climb down into a tight rift, with an active streamway.
-The rift is passed sideways, legs bent, and is wider at the bottom &mdash; this is useful when it gets too tight as you can back up and crawl through at the low level.
-Soon we reached the first pitch, and I explained to Tanguy how we'd rig it for a canyoning trip as we were doing a pull through &mdash; feed the rope through both bolts, and tie  a clove hitch around the spine of a big karabiner to 'block' the rope, abseiling off the other end.
-I stood in the nice crows nest at the top of the pitch, helping the others onto the rope before descending myself.
-It's a fine pitch of dark rock, lashed by spray, reminiscent of the final pitch in the Adamsons route of Notts 1.
-I had a shiny new steel bobbin on my simple, and despite Rhys' warnings that it'd be super fast, I found it no quicker than my old, extremely worn aluminium bobbin.
+Top begins with a rickety ladder climb down into a tight rift, with an active streamway. The rift is passed sideways, legs bent, and is wider at the bottom &mdash; this is useful when it gets too tight as you can back up and crawl through at the low level. Soon we reached the first pitch, and I explained to Tanguy how we'd rig it for a canyoning trip as we were doing a pull through &mdash; feed the rope through both bolts, and tie  a clove hitch around the spine of a big karabiner to 'block' the rope, abseiling off the other end. I stood in the nice crows nest at the top of the pitch, helping the others onto the rope before descending myself. It's a fine pitch of dark rock, lashed by spray, reminiscent of the final pitch in the Adamsons route of Notts 1. I had a shiny new steel bobbin on my simple, and despite Rhys' warnings that it'd be super fast, I found it no quicker than my old, extremely worn aluminium bobbin.
 
-Tanguy assured my that the streamway got larger at this point, but I saw no evidence of that being true as we thrutched our way towards the second, far smaller pitch.
-Here Tanguy clipped the krab to the bolt for safety, but as Rhys didn't realise this he had to ascend back up and sort it out before we could pull through.
-My memory is a bit of a blur here &mdash; lots of streamway, getting larger, plenty of inlets on the left (ignore those) and then a complicated junction where you need to climb high above the stream and cross over to the right and then back over a rock bridge to the left before free climbing up inside a rift into Nagasaki chamber.
-I suspect the Not for the Faint Hearted description is adequate here as Tanguy had no problems the first time through.
+Tanguy assured my that the streamway got larger at this point, but I saw no evidence of that being true as we thrutched our way towards the second, far smaller pitch. Here Tanguy clipped the krab to the bolt for safety, but as Rhys didn't realise this he had to ascend back up and sort it out before we could pull through. My memory is a bit of a blur here &mdash; lots of streamway, getting larger, plenty of inlets on the left (ignore those) and then a complicated junction where you need to climb high above the stream and cross over to the right and then back over a rock bridge to the left before free climbing up inside a rift into Nagasaki chamber. I suspect the Not for the Faint Hearted description is adequate here as Tanguy had no problems the first time through.
 
-We stopped for super-saturated lemon vitaminski (thanks DW!) and sugar hot drink before ploughing on.
-Tanguy leads us to the Easter Grotto, a fantastically well decorated chamber with plentiful straws on the ceiling.
-With three flashes and plenty of people, Rhys and I take a few photographs as the others shiver.
-Sated, we drop down into the main route on, and eventually we arrive in Stop Pot, spot our usual lunch spot, and head up the ladder in Fall Pot.
-From here on, it's familiar territory, as we plunge through the high level fossil passage singing 'On Ilkley Moor Ba'tat'.
-Soon we pass round Scylla and Charybdis, less intimidating than the first time I did them, and we get to Stake Pot.
-One way on is to Mistral, the other is to Lancaster Hole &mdash; I look at my watch and see it is 5 pm, and we have a 10 pm call out.
-What with the walk and the drive back, it looks like we'll be pushing it, but Tanguy is keen and we construct an argument whereby DW is the one at the NPC and is quite sensible, and would presumably call Bullpot Farm to see if we were out before contacting the CRO.
-Rhys volunteers to head out Lancaster with Diss and Ryan, as he's keen to use all three flashes to photograph on the way.
+We stopped for super-saturated lemon vitaminski (thanks DW!) and sugar hot drink before ploughing on. Tanguy leads us to the Easter Grotto, a fantastically well decorated chamber with plentiful straws on the ceiling. With three flashes and plenty of people, Rhys and I take a few photographs as the others shiver. Sated, we drop down into the main route on, and eventually we arrive in Stop Pot, spot our usual lunch spot, and head up the ladder in Fall Pot. From here on, it's familiar territory, as we plunge through the high level fossil passage singing 'On Ilkley Moor Ba'tat'. Soon we pass round Scylla and Charybdis, less intimidating than the first time I did them, and we get to Stake Pot. One way on is to Mistral, the other is to Lancaster Hole &mdash; I look at my watch and see it is 5 pm, and we have a 10 pm call out. What with the walk and the drive back, it looks like we'll be pushing it, but Tanguy is keen and we construct an argument whereby DW is the one at the NPC and is quite sensible, and would presumably call Bullpot Farm to see if we were out before contacting the CRO. Rhys volunteers to head out Lancaster with Diss and Ryan, as he's keen to use all three flashes to photograph on the way.
 
-This leaves me, Tanguy, and, of course, the Dubz Bruvs.
-We backtrack, find the quite obvious route on, and armed with NFTFH laminates I lead the way for all of fifteen metres before going wrong.
-Davie Dubz spots the crawl on the right, low to the floor but well polished, and we squeeze through, following the winding network of passages through to the 88 foot Aven.
-This is an impressively deep winding rift with some good wooden stemples and an in situ rope (though NFTFH suggests bring your own 55 m for the pull through.)
-As I prepared to unclip my cowstails and descend, I paused to check my omni. It was open. Swearing slightly, I hauled myself away from the 30 m drop and did it up, joining the others at the bottom with a bit of a distant look in my eye.
+This leaves me, Tanguy, and, of course, the Dubz Bruvs. We backtrack, find the quite obvious route on, and armed with NFTFH laminates I lead the way for all of fifteen metres before going wrong. Davie Dubz spots the crawl on the right, low to the floor but well polished, and we squeeze through, following the winding network of passages through to the 88 foot Aven. This is an impressively deep winding rift with some good wooden stemples and an in situ rope (though NFTFH suggests bring your own 55 m for the pull through.) As I prepared to unclip my cowstails and descend, I paused to check my omni. It was open. Swearing slightly, I hauled myself away from the 30 m drop and did it up, joining the others at the bottom with a bit of a distant look in my eye.
 
-The lower passages in Easegill are remarkable. Why are they there? Between the 88 foot aven and Echo pot is a series of interesting stooping passages and active streamway which passes under Easegill Beck before sumping.
-At Echo Aven Tanguy went up one of the two fixed ropes before declaring it the right way, and I waited at the bottom, utilising the acoustics to their full as Jimmy and Davie climbed.
-At the top, Tanguy is searching for the way on, and has tried several grim leads.
-NFTFH doesn't describe this section (apparently it's described in another bit we didn't have, which is sub-optimal), but Tanguy kindly offers me a particular grim lead.
-At the top of the pitch, take the left fork and immediately crawl up through the boulder choke on the right into a small chamber.
-The chamber is mostly filled with boulders, but at the far side a flat out crawl curves to the left and eventually breaks out into a shattered streamway.
-The wind here was cold and strong, and I could smell the outside as Davie Dubz cursed and thrashed his way through behind.
+The lower passages in Easegill are remarkable. Why are they there? Between the 88 foot aven and Echo pot is a series of interesting stooping passages and active streamway which passes under Easegill Beck before sumping. At Echo Aven Tanguy went up one of the two fixed ropes before declaring it the right way, and I waited at the bottom, utilising the acoustics to their full as Jimmy and Davie climbed. At the top, Tanguy is searching for the way on, and has tried several grim leads. NFTFH doesn't describe this section (apparently it's described in another bit we didn't have, which is sub-optimal), but Tanguy kindly offers me a particular grim lead. At the top of the pitch, take the left fork and immediately crawl up through the boulder choke on the right into a small chamber. The chamber is mostly filled with boulders, but at the far side a flat out crawl curves to the left and eventually breaks out into a shattered streamway. The wind here was cold and strong, and I could smell the outside as Davie Dubz cursed and thrashed his way through behind.
 
-We regrouped, spotted a carbide arrow high on the right wall and crawled above a fossil streamway through to the bottom of Link, which was marked by numerous very tall cairns.
-The directions told us to look for an obscure climb up, and after checking out a far less obscure one, we found the correct climb.
-It's truly obscure, but very, very pretty and obvious once you find it.
-Buouyed by this discovery, we pressed on, eyeing the directions with a rising sense of doom.
-Words like 'wet', 'flat out' and 'muddy' swam in front of my eyes as I followed behind the others.
+We regrouped, spotted a carbide arrow high on the right wall and crawled above a fossil streamway through to the bottom of Link, which was marked by numerous very tall cairns. The directions told us to look for an obscure climb up, and after checking out a far less obscure one, we found the correct climb. It's truly obscure, but very, very pretty and obvious once you find it. Buouyed by this discovery, we pressed on, eyeing the directions with a rising sense of doom. Words like 'wet', 'flat out' and 'muddy' swam in front of my eyes as I followed behind the others.
 
-I have no specific memories, except for Davie Dubz getting 'stuck', described below, but over all I would not recommend Link Crawl.
-I got extremely wet and quite cold, and it is rather thrutchy.
-After an age, I realised those ahead of me had stopped spluttering and moaning, and soon afterwards I joined them at Dusty Junction.
-Tanguy turned to me and said 'Next time I try to do something that stupid, please stop me.'
-I pointed out that I'd advocated for everyone going out of Lancaster hole, and Tanguy suggested that physical restraint may be necessary.
+I have no specific memories, except for Davie Dubz getting 'stuck', described below, but over all I would not recommend Link Crawl. I got extremely wet and quite cold, and it is rather thrutchy. After an age, I realised those ahead of me had stopped spluttering and moaning, and soon afterwards I joined them at Dusty Junction. Tanguy turned to me and said 'Next time I try to do something that stupid, please stop me.' I pointed out that I'd advocated for everyone going out of Lancaster hole, and Tanguy suggested that physical restraint may be necessary.
 
-The way out to Mistral is easy in comparison, just a slightly tight crawl best done on one side.
-The surface was freezing cold, and although I had a large stone in my welly (later shown to be potato sized) I didn't feel like removing it, and so trudged downstream with my fingers balled into fists inside my gloves.
-As we got closer to Bullpot Farm, Tanguy and I split off to derig Lancaster.
-I asked Tanguy is he wanted to have the pleasure of being out of the wind derigging, but he reckoned he hadn't the strength after dragging 70 m of rope through Link crawl and let me do it.
+The way out to Mistral is easy in comparison, just a slightly tight crawl best done on one side. The surface was freezing cold, and although I had a large stone in my welly (later shown to be potato sized) I didn't feel like removing it, and so trudged downstream with my fingers balled into fists inside my gloves. As we got closer to Bullpot Farm, Tanguy and I split off to derig Lancaster. I asked Tanguy is he wanted to have the pleasure of being out of the wind derigging, but he reckoned he hadn't the strength after dragging 70 m of rope through Link crawl and let me do it.
 
-Soon we were back at the minibus and Tanguy helped removed my welly and the offending potato stone.
-Rhys drove us back in a baking hot bus and we made a delicious mushroom risotto with Tanguy's stairs pie for dinner.
+Soon we were back at the minibus and Tanguy helped removed my welly and the offending potato stone. Rhys drove us back in a baking hot bus and we made a delicious mushroom risotto with Tanguy's stairs pie for dinner.
 
 #### Jack
 
@@ -118,23 +76,11 @@ On Sunday we arrived at Alum Pot (north flank of Ingleborough) on another cold, 
 
 ####Ryan
 
-Tanguy proposed Washpot &mdash; I wanted to go, but it obviously wasn't suitable for the entire group so I agreed to do Alum and bank some credit for doing a tough trip some other time.
-After all, I had unfinished business with Alum &mdash; the last two times I'd gone to rig the hanging rebelay off the underside of the central boulder, I'd chickened out and got someone else to do it.
-This trip it was easy, and I rigged two traverse lines around to the y-hang, one high and tight, and one slack so it could be grabbed on the way up.
-Tanguy apparently rigs this with a short rebelay, which I can definitely see the merit of.
+Tanguy proposed Washpot &mdash; I wanted to go, but it obviously wasn't suitable for the entire group so I agreed to do Alum and bank some credit for doing a tough trip some other time. After all, I had unfinished business with Alum &mdash; the last two times I'd gone to rig the hanging rebelay off the underside of the central boulder, I'd chickened out and got someone else to do it. This trip it was easy, and I rigged two traverse lines around to the y-hang, one high and tight, and one slack so it could be grabbed on the way up. Tanguy apparently rigs this with a short rebelay, which I can definitely see the merit of.
 
-Alum was beautiful in the blizzard, with huge snowflakes caught in fractal vortices whirling through the air, catching the pale winter sun as they fell all the way to the stream at the bottom.
-Jimmy Dubz derigged, aided by Davie who took a rope bag, and I waited at the bottom of the top pitch, watching them along with three people from Cambridge who were doing a Sunday bimble with a complete novice who was (rightfully) in awe of the cave.
-We had to wait a bit for them to climb up the rope (note to self - always rig the high route, no one else does!) and met Bristol on the way out, who were insisting on doing SRT on the easy free climb above the pitch.
-They were unwilling to let us quickly climb up, so we decided to find another way out.
-I climbed up to the cheese press, but a shout from Davie Dubz let me know there was a way over the top &mdash; there is, but it's quite exposed as it pops out above the second free climb.
-Still, good to know about, and we were soon on the surface.
+Alum was beautiful in the blizzard, with huge snowflakes caught in fractal vortices whirling through the air, catching the pale winter sun as they fell all the way to the stream at the bottom. Jimmy Dubz derigged, aided by Davie who took a rope bag, and I waited at the bottom of the top pitch, watching them along with three people from Cambridge who were doing a Sunday bimble with a complete novice who was (rightfully) in awe of the cave. We had to wait a bit for them to climb up the rope (note to self - always rig the high route, no one else does!) and met Bristol on the way out, who were insisting on doing SRT on the easy free climb above the pitch. They were unwilling to let us quickly climb up, so we decided to find another way out. I climbed up to the cheese press, but a shout from Davie Dubz let me know there was a way over the top &mdash; there is, but it's quite exposed as it pops out above the second free climb. Still, good to know about, and we were soon on the surface.
 
-Back at the minibus, we were all changed and ready to do when a distressed group of walkers showed up.
-They had got turned around on Ingleborough and wanted to get back to their coach in Ingleton.
-I'm unsure how they got that badly turned around (180 degrees!) but I was keen not to give the CRO any more work than we usually do, so they sat in the back as we drove carefully along the winding roads.
-Mistakenly believing their were Scottish, I played a fair bit of Silly Wizard, which was apparently much appreciated.
-I was later informed they were Scouse, so I'll own my ignorance to admitting to it here...
+Back at the minibus, we were all changed and ready to do when a distressed group of walkers showed up. They had got turned around on Ingleborough and wanted to get back to their coach in Ingleton. I'm unsure how they got that badly turned around (180 degrees!) but I was keen not to give the CRO any more work than we usually do, so they sat in the back as we drove carefully along the winding roads. Mistakenly believing they were Scottish, I played a fair bit of Silly Wizard, which was apparently much appreciated. I was later informed they were Scouse, so I'll own my ignorance to admitting to it here...
 
 ####Jack
 
