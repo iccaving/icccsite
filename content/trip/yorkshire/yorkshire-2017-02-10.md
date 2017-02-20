@@ -10,7 +10,7 @@ Thumbr: RhysTyers-Easegill-DSC04036--thumb.jpg
 Authors: Jack Hare, Ryan Clark, Tanguy Racine, James Wilson;
 Cavepeeps: DATE=2017-02-11; CAVE=Top Sink>Lancaster Hole; PEOPLE=Rhys Tyers, Rebecca Diss, Ryan Clark;
            DATE=2017-02-11; CAVE=Top Sink>Mistral Hole; PEOPLE=Jack Hare, Tanguy Racine, David Wilson, James Wilson;
-           DATE=2017-02-12; CAVE=Alum Pot; PEOPLE=Jack Hare, David Wilson, James Wilson, Ryan Clark, Rebecca Diss;
+           DATE=2017-02-12; CAVE=Alum Pot; PEOPLE=Jack Hare, David Wilson, James Wilson, Ryan Clark, Rebecca Diss, Tanguy Racine, Rhys Tyers;
            DATE=2017-02-12; CAVE=Washfold Pot; PEOPLE=Tanguy Racine, Rhys Tyers;
 
 {{ mainimg }}
