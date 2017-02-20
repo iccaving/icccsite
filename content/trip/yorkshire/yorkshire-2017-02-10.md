@@ -1,7 +1,7 @@
 ﻿Title: Yorkshire V
 Date: 2017-02-10
 Location: Yorkshire
-Summary: Unencumbered by most of the committee, a mean, lean team set off from London in a dodgy minibus with one goal &mdash; to cave until we could cave no more. On Saturday Tanguy lead us on a mad dash from Top Sink through to Stake Pot, where a photography group peeled off to the Colonnades and exited out Lanc, whilst the rest of the group endured the Link Crawl and exited via Mistral. On Sunday we tackled the glories of Alum and the thrutchy majesty of Washfold, and rescued a bunch of Scouse doggers from a blizzard.
+Summary: A mean, lean team set off from London with one goal &mdash; to cave until we could cave no more. On Saturday Tanguy lead us on a mad dash from Top Sink through to Stake Pot, splitting into a Lank and Mistral team. On Sunday we tackled the glories of Alum and the thrutchy majesty of Washfold.
 Type: trip
 Photoarchive:
 Mainimg: RhysTyers-Easegill-DSC04026.jpg
