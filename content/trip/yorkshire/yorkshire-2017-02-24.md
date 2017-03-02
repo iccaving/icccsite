@@ -52,3 +52,7 @@ We climb over the top and wander to the next stream across the fell. Again its c
 This one crosses under the road right by the minibus. We hop the wall with varying success (Yuqi had half a dry stone wall fall on her. We rebuilt it and her as best we could with the technology we had at hand , rocks.). A lovely way to spend the last hour of daylight. Tanguy drives us up to the valley head and back round the other side of Ingleborough to gawp at a few swollen rivers and marvellous viaducts.
 
 #### Rhys
+
+## Sunday
+
+The weather was still poor on Sunday so we opted for a bimble in Easegill. Ben and Peter leading a trip into Lanc, for some SRT and rigging practice, and Tanguy, Kenneth and I leading a trip into Wretched rabbit. The rain began again as we walked across the posted fell. It was a pleasant and fairly uneventful trip. Nice slippy sideways walking down the streamway, pop up into 4 ways chamber and on to the master cave. Wandered perhaps as far as Snail Cavern then turned around. Wind and sideways rain for the walk back.
