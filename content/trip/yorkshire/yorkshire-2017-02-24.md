@@ -56,3 +56,5 @@ This one crosses under the road right by the minibus. We hop the wall with varyi
 ## Sunday
 
 The weather was still poor on Sunday so we opted for a bimble in Easegill. Ben and Peter leading a trip into Lanc, for some SRT and rigging practice, and Tanguy, Kenneth and I leading a trip into Wretched rabbit. The rain began again as we walked across the posted fell. It was a pleasant and fairly uneventful trip. Nice slippy sideways walking down the streamway, pop up into 4 ways chamber and on to the master cave. Wandered perhaps as far as Snail Cavern then turned around. Wind and sideways rain for the walk back.
+
+#### Rhys
