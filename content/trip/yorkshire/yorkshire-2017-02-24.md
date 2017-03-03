@@ -4,16 +4,15 @@ Location: Yorkshire
 Summary: Throughly pissed on by the back end of Doris we were rained out of several caves on Saturday. Jingling, Bull and Rowten all too wet! Sunday trips to Easegill (Lanc and WR) with mixed success.
 Type: trip
 Photoarchive:
-Mainimg:
-Thumbl: 
-Thumbr: 
-Authors:
+Mainimg: 2017-02-26_14h57m-RhysTyers-SonyRX100II-EasegillWretchedRabbit-DSC04149.jpg 
+Thumbl: 2017-02-26_14h48m-RhysTyers-SonyRX100II-EasegillWretchedRabbit-DSC04094--thumb.jpg
+Thumbr: 2017-02-25_14h18m-RhysTyers-SonyRX100II-Rowten-DSC04072--thumb.jpg 
+Authors: Rhys Tyers
 Cavepeeps: DATE=2017-02-25; CAVE=Rowten Pot; PEOPLE=Rhys Tyers, Ben Honan, Peter Ganson, Carla Huynh;
            DATE=2017-02-25; CAVE=Bull Pot; PEOPLE=Dave Wilson, Kenneth Tan, Devansh Agarwal, Ho Yan Jin;
            DATE=2017-02-25; CAVE=Jingling Pot; PEOPLE=Tanguy Racine, Yuqi Wang;
            DATE=2017-02-26; CAVE=Wretched Rabbit; PEOPLE=Rhys Tyers, Tanguy Racine, Kenneth Tan, Devansh Agarwal, Ho Yan Jin;
            DATE=2017-02-26; CAVE=Lancaster Hole; PEOPLE=Ben Honan, Peter Ganson, Yuqi Wang, Carla Huynh;
-Status: draft
 
 {{ mainimg }}
 {{ photolink }}
@@ -21,7 +20,9 @@ Status: draft
 
 ## Saturday
 
-{{ DATE=2017-02-25; CAVE=Rowten Pot; }}
+### Bull Pot: {{ DATE=2017-02-25; CAVE=Bull Pot; }}
+### Jingling Pot: {{ DATE=2017-02-25; CAVE=Jingling Pot; }}
+### Rowten Pot: {{ DATE=2017-02-25; CAVE=Rowten Pot; }}
 
 Apocalypse predicted we decided to play it safe with our cave choices. Bull. Jingling, Rowten all supposedly weather proof. On top of that a box of shiny new meanders promised to keep all but the most die hard fabric fans cosy and dry. 
 
@@ -54,6 +55,9 @@ This one crosses under the road right by the minibus. We hop the wall with varyi
 #### Rhys
 
 ## Sunday
+
+### Lancaster Hole: {{ DATE=2017-02-26; CAVE=Lancaster Hole; }}
+### Wretched Rabbit: {{ DATE=2017-02-26; CAVE=Wretched Rabbit; }}
 
 The weather was still poor on Sunday so we opted for a bimble in Easegill. Ben and Peter leading a trip into Lanc, for some SRT and rigging practice, and Tanguy, Kenneth and I leading a trip into Wretched rabbit. The rain began again as we walked across the posted fell. It was a pleasant and fairly uneventful trip. Nice slippy sideways walking down the streamway, pop up into 4 ways chamber and on to the master cave. Wandered perhaps as far as Snail Cavern then turned around. Wind and sideways rain for the walk back.
 
