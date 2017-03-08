@@ -3,6 +3,7 @@
 from __future__ import unicode_literals
 from gfm import TaskListExtension
 from markdown.extensions.tables import TableExtension
+from markdown.extensions.toc import TocExtension
 
 AUTHOR = u'ICCC'
 SITENAME = u'Imperial College Caving Club'
@@ -49,7 +50,8 @@ PLUGINS = ['photoarchive', 'acyear', 'cavepeeps', 'subsites', 'oldurl', 'metains
 MARKDOWN = {
     'extension_configs': {
          TaskListExtension():'',
-         TableExtension():''
+         TableExtension():'',
+         TocExtension():''
     }
 }
 
