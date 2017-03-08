@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from gfm import TaskListExtension
+from markdown.extensions.tables import TableExtension
 
 AUTHOR = u'ICCC'
 SITENAME = u'Imperial College Caving Club'
@@ -23,8 +25,8 @@ DEFAULT_LANG = u'en'
 CATEGORY_SAVE_AS = ''
 TAG_SAVE_AS = ''
 
-AUTHOR_URL            = 'author/{slug}/'
-AUTHOR_SAVE_AS        = 'author/{slug}/index.html'
+AUTHOR_URL = 'author/{slug}/'
+AUTHOR_SAVE_AS = 'author/{slug}/index.html'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -46,7 +48,8 @@ PLUGINS = ['photoarchive', 'acyear', 'cavepeeps', 'subsites', 'oldurl', 'metains
 
 MARKDOWN = {
     'extension_configs': {
-         'gfm':{},
+         TaskListExtension():'',
+         TableExtension():''
     }
 }
 
