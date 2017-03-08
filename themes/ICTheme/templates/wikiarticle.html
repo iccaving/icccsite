@@ -16,9 +16,7 @@
   {% set total_path = SITEURL + "/wiki" %}
   {% for page in breadcrumbs %}
     {% set total_path = total_path + "/" + page %}
-    {% if not loop.last %}
     / <a class="wiki-crumbs" href="{{ total_path }}">{{ page }}</a>
-    {% endif %}
   {% endfor %}</nav>
   <nav class="wiki-nav">
     <ul class="wiki-links nodisplay">
