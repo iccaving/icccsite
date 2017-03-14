@@ -8,8 +8,8 @@ Mainimg:
 Thumbl: 
 Thumbr: 
 Authors: Rhys Tyers
-Cavepeeps: DATE=2017-03-10; CAVE=James Hall > Peak Cavern; PEOPLE=Rhys Tyers, Ben Honan, Isha Shaz, Ryan Clark, David Wilson, William French, Sam Page;
-           DATE=2017-03-10; CAVE=James Hall; PEOPLE=Rhys Tyers, Ben Honan, Isha Shaz;
+Cavepeeps: DATE=2017-03-10; CAVE=James Hall > Peak Cavern; PEOPLE=Rhys Tyers, Ben Honan, Isha Kaur, Ryan Clark, David Wilson, William French, Sam Page;
+           DATE=2017-03-10; CAVE=James Hall; PEOPLE=Rhys Tyers, Ben Honan, Isha Kaur;
            DATE=2017-03-10; CAVE=Peak Cavern; PEOPLE=Ryan Clark, David Wilson, Sam Page;
 Status: draft
 

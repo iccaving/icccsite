@@ -10,8 +10,8 @@ Thumbr: 2016-11-13_14h39m-RhysTyers-SonyRX100II-ValleyEntrance-DSC03391--thumb.j
 Authors: Rhys Tyers, Jarvist Frost
 Cavepeeps: DATE=2016-11-12; CAVE=Jingling Pot; PEOPLE=Rhys Tyers, Ben Honan, Carla Huynh, Liam Johnstone;
            DATE=2016-11-12; CAVE=Aquamole Pot; PEOPLE=Kenneth Tan, Peter Ganson, Kong You Liow, Ah Guan;
-           DATE=2016-11-12; CAVE=Bull Pot; PEOPLE=Jarvist Frost, Isha Shaz, Rebecca Diss, James Wilson;ß
-           DATE=2016-11-13; CAVE=Valley Entrance; PEOPLE=Rhys Tyers, Jarvist Frost, Isha Shaz, James Wilson, Carla Huynh, Kong;
+           DATE=2016-11-12; CAVE=Bull Pot; PEOPLE=Jarvist Frost, Isha Kaur, Rebecca Diss, James Wilson;ß
+           DATE=2016-11-13; CAVE=Valley Entrance; PEOPLE=Rhys Tyers, Jarvist Frost, Isha Kaur, James Wilson, Carla Huynh, Kong;
 
 {{ mainimg }}
 {{ photolink }}

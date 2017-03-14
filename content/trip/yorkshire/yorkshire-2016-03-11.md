@@ -8,10 +8,10 @@ Mainimg: TanguyRacine-DSC_0613.jpg
 Thumbl: RhysTyers-DSC01579--thumb.jpg
 Thumbr: RhysTyers-DSC01684--thumb.jpg
 Authors: Rhys Tyers, Jack Hare, Tanguy Racine
-Cavepeeps: DATE=2016-03-12; CAVE=Vesper Pot > Spectacle Pot; PEOPLE=Rhys Tyers, Isha Shaz, Celia Tinsley, Will French;
+Cavepeeps: DATE=2016-03-12; CAVE=Vesper Pot > Spectacle Pot; PEOPLE=Rhys Tyers, Isha Kaur, Celia Tinsley, Will French;
 				   DATE=2016-03-12; CAVE=Spectacle Pot > Vesper Pot; PEOPLE=Tanguy Racine, Will Scott, Kelvin Choi, Dave Kirkpatrick;
 				   DATE=2016-03-12; CAVE=King Pot; PEOPLE=Jack Hare, Kenneth Tan, Miriam North-Ridao;
-				   DATE=2016-03-13; CAVE=Alum Pot; PEOPLE=Jack Hare, Kenneth Tan, Miriam North-Ridao, Tanguy Racine, Will Scott, Kelvin Choi, Rhys Tyers, Isha Shaz, Will French;
+				   DATE=2016-03-13; CAVE=Alum Pot; PEOPLE=Jack Hare, Kenneth Tan, Miriam North-Ridao, Tanguy Racine, Will Scott, Kelvin Choi, Rhys Tyers, Isha Kaur, Will French;
 
 {{ mainimg }}
 {{ photolink }}

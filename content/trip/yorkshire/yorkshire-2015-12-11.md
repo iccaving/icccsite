@@ -8,8 +8,8 @@ Mainimg: JH_Y3_15_8299.JPG
 Thumbl:  JH_Y3_15_8287--thumb.jpg
 Thumbr: JH_Y3_15_8314--thumb.jpg
 Authors: Jack Hare, Jarvist Frost, Nuria Devos, Max Hörmann, Bhavik Lodhia
-Cavepeeps: 	DATE=2015-12-12; CAVE=Lost Johns' Cave; PEOPLE=Jack Hare, Oliver Myerscough, Ben Honan, Peter Ganson, Alex Seaton, Jarvist Frost, William French, Nuria Devos, Arianna Renzini, Max Hörmann, Layla Aston, Kenneth Tan, Bhavik Lodhia, Dave Wilson, Edith Huebner, Isha Shaz;
-			DATE=2015-12-13; CAVE=Notts Pot 2; PEOPLE=Jack Hare, Peter Ganson, Alex Seaton,  William French, Nuria Devos,  Max Hörmann, Layla Aston, Kenneth Tan,  Edith Huebner, Isha Shaz;
+Cavepeeps: 	DATE=2015-12-12; CAVE=Lost Johns' Cave; PEOPLE=Jack Hare, Oliver Myerscough, Ben Honan, Peter Ganson, Alex Seaton, Jarvist Frost, William French, Nuria Devos, Arianna Renzini, Max Hörmann, Layla Aston, Kenneth Tan, Bhavik Lodhia, Dave Wilson, Edith Huebner, Isha Kaur;
+			DATE=2015-12-13; CAVE=Notts Pot 2; PEOPLE=Jack Hare, Peter Ganson, Alex Seaton,  William French, Nuria Devos,  Max Hörmann, Layla Aston, Kenneth Tan,  Edith Huebner, Isha Kaur;
 Status:
 
 {{ mainimg }}

@@ -9,9 +9,9 @@ Thumbl: 2016-09-24_15h26m-RhysTyers-SonyRX100III-LargePot-DSC03129--thumb.jpg
 Thumbr: 2016-09-24_14h46m-RhysTyers-SonyRX100III-LargePot-DSC03105--thumb.jpg
 Authors: Tanguy Racine, Jarvist Frost
 Cavepeeps: DATE=2016-06-24; CAVE=Large Pot; PEOPLE=Rhys Tyers, Tanguy Racine, Will Scott, Kenneth Tan;
-           DATE=2016-06-24; CAVE=Marble Steps; PEOPLE=Jim Evans, Christina Picken, Jarvist Frost, William French, Isha Shaz, Saber King;
+           DATE=2016-06-24; CAVE=Marble Steps; PEOPLE=Jim Evans, Christina Picken, Jarvist Frost, William French, Isha Kaur, Saber King;
            DATE=2016-06-24; CAVE=Ireby Pot; PEOPLE=Jack Hare, Ben Honan, Celia Tinsley, Bogdan Galilo;
-           DATE=2016-06-25; CAVE=Link Pot > Mistral Hole; PEOPLE=Jarvist Frost, Will Scott, William French, Saber King, Celia Tinsley, Isha Shaz;
+           DATE=2016-06-25; CAVE=Link Pot > Mistral Hole; PEOPLE=Jarvist Frost, Will Scott, William French, Saber King, Celia Tinsley, Isha Kaur;
            DATE=2016-06-25; CAVE=Small Mammal Pot; PEOPLE=Tanguy Racine; Christina Picken;
 
 {{ mainimg }}

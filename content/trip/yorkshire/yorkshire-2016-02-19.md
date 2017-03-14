@@ -6,7 +6,7 @@ Type: trip
 Authors: Arun Paul, Rhys Tyers, Jack Hare
 Cavepeeps: 	DATE=2016-02-20; CAVE=It's A Cracker > Boxhead Pot; PEOPLE=Jack Hare, Will Scott, Edith Huebner, Kenneth Tan;
 				DATE=2016-02-20; CAVE=Boxhead Pot > It's A Cracker; PEOPLE=Rhys Tyers, Kevin Li, Cecilia Kan, Arun Paul, Dave Kirkpatrick;
-				DATE=2016-02-20; CAVE=Rowten Pot; PEOPLE=Dave Wilson, William French, Isha Shaz, Kelvin Choi;
+				DATE=2016-02-20; CAVE=Rowten Pot; PEOPLE=Dave Wilson, William French, Isha Kaur, Kelvin Choi;
 				DATE=2016-02-21; CAVE=Notts Pot 2; PEOPLE=Jack Hare, Rhys Tyers, Kevin Li, Kenneth Tan, Edith Huebner, Arun Paul;
 Status:
 

@@ -8,9 +8,9 @@ Mainimg: 2016-12-10_16h39m-RhysTyers-SonyRX100II-Notts1-DSC03583.jpg
 Thumbl: 2016-12-11_14h09m-RhysTyers-SonyRX100II-LostJohns-DSC03625--thumb.jpg
 Thumbr: 2016-12-10_16h35m-RhysTyers-SonyRX100II-Notts1-DSC03561--thumb.jpg
 Authors: Rhys Tyers, James Perry, Jack Hare, Stephanie Ford
-Cavepeeps: DATE=2016-12-09; CAVE=Notts Pot 1; PEOPLE=Rhys Tyers, Yuqi Wang, Zoe Young, James Perry, Isha Shaz, Jack Hare, Rebecca Diss, Alex Seaton, Sam, Kenneth Tan, Augustinas Prusokas, Peter Ganson, Stephanie Ford;
+Cavepeeps: DATE=2016-12-09; CAVE=Notts Pot 1; PEOPLE=Rhys Tyers, Yuqi Wang, Zoe Young, James Perry, Isha Kaur, Jack Hare, Rebecca Diss, Alex Seaton, Sam, Kenneth Tan, Augustinas Prusokas, Peter Ganson, Stephanie Ford;
            DATE=2016-12-10; CAVE=Notts Pot 2; PEOPLE=Rhys Tyers, Yuqi Wang, Zoe Young, Jack Hare, Rebecca Diss, Alex Seaton, Sam, Kenneth Tan, Augustinas Prusokas, Peter Ganson, Stephanie Ford;
-           DATE=2016-12-10; CAVE=Lost Johns' Cave; PEOPLE=Rhys Tyers, James Perry, Isha Shaz;
+           DATE=2016-12-10; CAVE=Lost Johns' Cave; PEOPLE=Rhys Tyers, James Perry, Isha Kaur;
 
 {{ mainimg }}
 {{ photolink }}
