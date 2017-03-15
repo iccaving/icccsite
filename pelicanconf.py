@@ -49,9 +49,9 @@ PLUGINS = ['photoarchive', 'acyear', 'cavepeeps', 'subsites', 'oldurl', 'metains
 
 MARKDOWN = {
     'extension_configs': {
-         TaskListExtension():'',
-         TableExtension():'',
-         TocExtension():''
+        TaskListExtension():'',
+        TableExtension():'',
+        TocExtension():''
     }
 }
 

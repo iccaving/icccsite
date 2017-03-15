@@ -12,11 +12,14 @@
   <h1 class="article-title">{{ meta.title }}</h1>
 
   <nav><a class="wiki-nav-button">Expand Menu</a> / <a class="wiki-crumbs" href="{{ SITEURL }}/wiki/Home.html">Home</a>
-  {% set breadcrumbs = path.split("/") %}
   {% set total_path = SITEURL + "/wiki" %}
-  {% for page in breadcrumbs %}
+  {% for page, type in breadcrumbs %}
     {% set total_path = total_path + "/" + page %}
-    / <a class="wiki-crumbs" href="{{ total_path }}">{{ page }}</a>
+    {% if type == "a" %}
+      / <a class="wiki-crumbs" href="{{ total_path }}">{{ page }}</a>
+    {% elif type == "p" %}
+      / <p class="wiki-crumbs">{{ page }}</p>
+    {% endif %}
   {% endfor %}</nav>
   <nav class="wiki-nav">
     <ul class="wiki-links nodisplay">

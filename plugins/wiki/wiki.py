@@ -78,13 +78,20 @@ def generate_wiki_pages(generator, writer):
     nice_list = parse_dict(structure, 0, [])
 
     for page in wiki_list:
-        filename = os.path.join('wiki',  page[1].replace('.md', '.html'))
+        filename = os.path.join('wiki', page[1].replace('.md', '.html'))
         content = page[2].content
         metadata = page[2].metadata
         path = page[0]
+        breadcrumbs = []
+        for name in path.split('/'):
+            name_match = [item[1] for item in nice_list if item[0] == name]
+            if len(name_match) > 0 and name_match[0] == "indexdir":
+                breadcrumbs.append((name, "a"))
+            else:
+                breadcrumbs.append((name, "p"))
         file = page[1]
         writer.write_file(filename, template, generator.context,
-                          meta=metadata, content=content, file=file, path=path, links=nice_list)
+                          meta=metadata, content=content, file=file, path=path, links=nice_list, breadcrumbs=breadcrumbs)
 
 
 def register():
