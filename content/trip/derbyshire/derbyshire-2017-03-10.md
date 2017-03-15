@@ -4,9 +4,9 @@ Location: Derbyshire
 Summary: A trip to the surprsingly pleasant Peak District. Our party did the classic JH to Peak trip (through Colostomy crawl of course) on Saturday and on Sunday some explored more of Peak and others derigged JH.
 Type: trip
 Photoarchive:
-Mainimg: 
-Thumbl: 
-Thumbr: 
+Mainimg: DSC04193.jpg
+Thumbl: DSC04175--thumb.jpg
+Thumbr: DSC04220--thumb.jpg
 Authors: Rhys Tyers
 Cavepeeps: DATE=2017-03-10; CAVE=James Hall > Peak Cavern; PEOPLE=Rhys Tyers, Ben Honan, Isha Kaur, Ryan Clark, David Wilson, William French, Sam Page;
            DATE=2017-03-10; CAVE=James Hall; PEOPLE=Rhys Tyers, Ben Honan, Isha Kaur;
