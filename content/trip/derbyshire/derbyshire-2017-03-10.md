@@ -11,7 +11,6 @@ Authors: Rhys Tyers
 Cavepeeps: DATE=2017-03-11; CAVE=James Hall > Peak Cavern; PEOPLE=Rhys Tyers, Ben Honan, Isha Kaur, Ryan Clark, David Wilson, William French, Sam Page;
            DATE=2017-03-12; CAVE=James Hall; PEOPLE=Rhys Tyers, Ben Honan, Isha Kaur;
            DATE=2017-03-12; CAVE=Peak Cavern; PEOPLE=Ryan Clark, David Wilson, Sam Page;
-Status: draft
 
 {{ mainimg }}
 {{ photolink }}
