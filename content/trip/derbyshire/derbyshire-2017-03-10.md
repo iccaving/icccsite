@@ -8,9 +8,9 @@ Mainimg: DSC04193.jpg
 Thumbl: DSC04175--thumb.jpg
 Thumbr: DSC04220--thumb.jpg
 Authors: Rhys Tyers
-Cavepeeps: DATE=2017-03-10; CAVE=James Hall > Peak Cavern; PEOPLE=Rhys Tyers, Ben Honan, Isha Kaur, Ryan Clark, David Wilson, William French, Sam Page;
-           DATE=2017-03-10; CAVE=James Hall; PEOPLE=Rhys Tyers, Ben Honan, Isha Kaur;
-           DATE=2017-03-10; CAVE=Peak Cavern; PEOPLE=Ryan Clark, David Wilson, Sam Page;
+Cavepeeps: DATE=2017-03-11; CAVE=James Hall > Peak Cavern; PEOPLE=Rhys Tyers, Ben Honan, Isha Kaur, Ryan Clark, David Wilson, William French, Sam Page;
+           DATE=2017-03-12; CAVE=James Hall; PEOPLE=Rhys Tyers, Ben Honan, Isha Kaur;
+           DATE=2017-03-12; CAVE=Peak Cavern; PEOPLE=Ryan Clark, David Wilson, Sam Page;
 Status: draft
 
 {{ mainimg }}
@@ -25,7 +25,7 @@ Suspiciously easy trip out of London and very little traffic all the way to Derb
 
 ## Saturday
 
-### JH -> Peak Cavern: {{ DATE=2017-03-10; CAVE=James Hall > Peak Cavern; }}
+### JH -> Peak Cavern: {{ DATE=2017-03-11; CAVE=James Hall > Peak Cavern; }}
 
 JH to Peak lined up for everyone. Will and I had done it before, it was new for everyone else. My vague memories promised a sporting trip. Arriving at the Rowter farm Ben offered an IOU to the farmer (which was accepted) and fawned over the exceptionally friendly farm cat. The rest of us changed and lugged the rather large amount of tackle over the field. It's not a long walk, just in an adjacent field to the farm, the one with all the little bumpy hillocks. 
 
@@ -58,5 +58,14 @@ I couldn't find a good description of the route, probably because it's relativel
 - After the bung head all the way downstream until you get to the impassable low bit with a climb on the left. Then back track ~20m to take the first right turn (looking upstream) into a crawl. This pops back out into the streamway and shortly you'll arrive in a larger passage with the ladders to colostomy.
 - In Colostomy I think you just need to keep left. I forget the order but at one point there is a tiny chamber with a ladder on the right that you should ignore. Instead duck into the strongly draughting squeeze on the left. At some point you also step out of the crawl into standing passage. A tight looking passage leads off to the right but you should follow the more obvious way straight on. Finally, I think near the end, a very low crawl goes to the right, taking the water, but the way on is straight on over a mound of mud into nicer looking passage.
 - From where you pop out into treasury chamber, ignore the boulder slope down to the right and walk straight ahead into the rift. This shortly leads to an intersection  much bigger passage. Turn left and follow it, eventually through the ducks, to the intersection with the main stream. The bathing pool is ahead, the way to the show cave to the left
+
+#### Rhys
+
+## Sunday
+
+### Peak: {{ DATE=2017-03-12; CAVE=Peak Cavern; }}
+### JH: {{ DATE=2017-03-12; CAVE=James Hall; }}
+
+Nice derig bounce into JH on Sunday. Isha did the work whilst Ben and I took some photos and chilled like villains.
 
 #### Rhys
