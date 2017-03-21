@@ -1,4 +1,4 @@
-[submodule "content/wiki"]
+[submodule "wiki"]
 	path = content/wiki
 	url = https://github.com/iccavingrepo/icccwiki.wiki.git
 	branch = master
