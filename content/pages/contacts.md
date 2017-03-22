@@ -20,6 +20,38 @@ South Kensington <br>
 London SW7 2BB
 </address>
 
+##Committee 2017-2018
+<div style="text-align: center;"><span>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/James%20Perry.html"><img src="/rcc/caving/photo_archive/mugshots/James%20Perry--thumb.jpg"></a>
+<figcaption><strong>President:</strong><br>James Perry</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Arun%20Paul.html)"><img src="/rcc/caving/photo_archive/mugshots/Arun%20Paul--thumb.jpg"></a>
+<figcaption><strong>Treasurer:</strong><br>Arun Paul</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Rebecca%20Diss.html"><img src="/rcc/caving/photo_archive/mugshots/Rebecca%20Diss--thumb.jpg"></a>
+<figcaption><strong>Secretary / Social Secretary:</strong><br>Rebecca Diss</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Peter%20Ganson.html"><img src="/rcc/caving/photo_archive/mugshots/Peter%20Ganson--thumb.jpg"></a>
+<figcaption><strong>Tackle Master:</strong><br>Peter Ganson</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Isha%20Shaz.html"><img src="/rcc/caving/photo_archive/mugshots/Isha%20Shaz--thumb.jpg"></a>
+<figcaption><strong>Tours Secretary:</strong><br>Isha Shaz</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Jarvist%20Frost.html"><img src="/rcc/caving/photo_archive/mugshots/Jarvist%20Frost--thumb.jpg"></a>
+<figcaption><strong>Medical Officer:</strong><br>Jarvist Frost</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/James%%20Wilson.html"><img src="/rcc/caving/photo_archive/mugshots/James%20Wilson--thumb.jpg"></a>
+<figcaption><strong>Health and Safety Officer:</strong><br>James Wilson</figcaption>
+</figure>
+</span></div>
+
 ##Committee 2016-2017
 <div style="text-align: center;"><span>
 <figure style="display: inline-block; margin: 0;">
@@ -175,31 +207,6 @@ Health &amp; Safety Officer - Konrad Domanski,<br>
 Tackle Master - Clare Tan, <br>
 </dt></dl>
 
-<h2>Committee 2011-2012</h2>
-<div style="text-align: center;"><span>
-<a href="/caving/photo_archive/mugshots/Clare%20Tan.html">
-<img  src="/caving/photo_archive/mugshots/Clare%20Tan--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Thomas%20MCW.html">
-<img  src="/caving/photo_archive/mugshots/Thomas%20MCW--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Kate%20Smith.html">
-<img  src="/caving/photo_archive/mugshots/Kate%20Smith--thumb.jpg">
-</a>
-</span></div>
-<dl>
-<dt><strong>President:</strong> </dt><dd><i>Clare Tan</i><br>
-<dt><strong>Treasurer:</strong></dt> <dd><i>Thomas McCarthy-Ward</i><br>
-<dt><strong>Club Secretary:</strong></dt> <dd><i>Kate Smith</i><br>
-<dt>
-<strong>Internal Positions:</strong>
-Foreign Secretary - Jean Maillard,<br>
-Medical Officer - Myles Denton,<br>
-Health &amp; Safety Officer - Nikolas Kral,<br>
-Tackle Meister - Jonny Hardman, <br>
-Entertaining Officers - Jan and Jana <br>
-</dt></dl>
-
 <h2>Hall of Fame:</h2>
 <div class="table-container">
 
@@ -214,6 +221,14 @@ Entertaining Officers - Jan and Jana <br>
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>2011-2012</td>
+<td>Clare Tan</td>
+<td>Thomas McCarthy-Ward</td>
+<td>Kate Smith</td>
+<td>Jean Maillard (Foreign Secretary)<br/>Myles Denton (Medical Officer)<br/>Nikolas Kral (Health &amp; Safety Officer)<br/>Jonny Hardman (Tackle Meister)<br/>Jan and Jana (Entertaining Officers)<br/></td>
+</tr>
+<tr>
 <tr>
 <td>2010-2011</td>
 <td>Clare Tan</td>
