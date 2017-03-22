@@ -29,12 +29,12 @@ Congratulations to the new committee:
 <figcaption><strong>Tours Secretary:</strong><br>Isha Shaz</figcaption>
 </figure>
 <figure style="display: inline-block; margin: 0;">
-<a href="/rcc/caving/photo_archive/mugshots/Jarvist%20Frost.html"><img src="/rcc/caving/photo_archive/mugshots/Jarvist%20Frost--thumb.jpg"></a>
-<figcaption><strong>Medical Officer:</strong><br>Jarvist Frost</figcaption>
-</figure>
-<figure style="display: inline-block; margin: 0;">
 <a href="/rcc/caving/photo_archive/mugshots/James%%20Wilson.html"><img src="/rcc/caving/photo_archive/mugshots/James%20Wilson--thumb.jpg"></a>
 <figcaption><strong>Health and Safety Officer:</strong><br>James Wilson</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Jarvist%20Frost.html"><img src="/rcc/caving/photo_archive/mugshots/Jarvist%20Frost--thumb.jpg"></a>
+<figcaption><strong>Medical Officer:</strong><br>Jarvist Frost</figcaption>
 </figure>
 </span></div>
 
