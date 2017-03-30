@@ -6,7 +6,7 @@ Type: stickyindex
 
 |Date              | Destination                          | Hut                                                                                  | Caves  |
 | ---              |  ---                                 | ---                                                                                  |  ---  |
-|21st March, 7 pm | Annual General Meeting | Union Bar | Nope |
 |28th March - 4th April| Hungary | Hopefully | [Bükk Mountains](https://en.wikipedia.org/wiki/B%C3%BCkk)|
+|24th June - 1st July| France | Hopefully | [Chartreuse Mountains](https://en.wikipedia.org/wiki/Chartreuse_Mountains)|
 |7th July - 7th August| Slovenia Expedition | Migovec | [Sistem Migovec](https://union.ic.ac.uk/rcc/caving/slovenia/)|
 
