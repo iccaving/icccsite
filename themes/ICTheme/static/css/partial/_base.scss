@@ -65,6 +65,12 @@ h5 {
 	color: $light-red;
 	margin: 1rem 0;
 }
+h6 {
+	font-family: $sans;
+	font-size: 1rem;
+	font-weight: $h5weight;
+	margin: 1rem 0;
+}
 a {
 	color: $links;
 	text-decoration: underline;
