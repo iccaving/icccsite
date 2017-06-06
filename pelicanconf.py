@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-from gfm import TaskListExtension
+from gfm import TaskListExtension, StrikethroughExtension
 from markdown.extensions.tables import TableExtension
 from markdown.extensions.toc import TocExtension
 
@@ -51,7 +51,8 @@ MARKDOWN = {
     'extension_configs': {
         TaskListExtension():'',
         TableExtension():'',
-        TocExtension():''
+        TocExtension():'',
+        StrikethroughExtension():'',
     }
 }
 
