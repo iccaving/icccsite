@@ -19,7 +19,7 @@
 
   <div class="sidebar-content-box">
 
-    <div class="sidebar-item expandable-menu"><a href="#" onclick="return false;">Trips</a></div>
+    <div class="sidebar-item expandable-menu"><a href="/archives.html" onclick="return false;">Trips</a></div>
     <div class="sidebar-outer collapsed">
       <div class="sidebar-inner nodisplay">
 	      {% set vars = {'year': ''} %}
@@ -31,7 +31,7 @@
             </div>
             {% endif %}
             {% if vars.update({'year':trip.academic_year}) %} {% endif %}
-            <div class="sidebar-sub-item expandable-menu"><a href="#" onclick="return false;">{{ trip.academic_year }}</a></div>
+            <div class="sidebar-sub-item expandable-menu"><a href="/archives.html" onclick="return false;">{{ trip.academic_year }}</a></div>
             <div class="sidebar-outer collapsed" style="overflow: hidden;">
               <div class="sidebar-inner nodisplay">
                 <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ trip.article.url }}">{{ trip.article.title }} ({{ trip.article.date.strftime('%b') }} '{{ trip.article.date.strftime('%y') }})</a></div>
@@ -47,7 +47,7 @@
   </div>
 </div>
 
-  <div class="sidebar-item expandable-menu"><a href="#" onclick="return false;">Tours</a></div>
+  <div class="sidebar-item expandable-menu"><a href="/archives.html" onclick="return false;">Tours</a></div>
   <div class="sidebar-outer collapsed">
     <div class="sidebar-inner nodisplay">
       {% for article in articles %} {% if article.type == 'tour' %}
@@ -56,7 +56,7 @@
     </div>
   </div>
 
-<div class="sidebar-item expandable-menu"><a href="#" onclick="return false;">Expeditions</a></div>
+<div class="sidebar-item expandable-menu"><a href="/archives.html" onclick="return false;">Expeditions</a></div>
 <div class="sidebar-outer collapsed">
   <div class="sidebar-inner nodisplay">
     <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/slovenia/">Slovenia</a></div>

@@ -8,7 +8,9 @@ table.sortable th {
 	}
 }
 table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
-	content: " \25B4\25BE";
+	content: " \25B2\25BC";
+	font-size: 0.5rem;
+	vertical-align: middle;
 }
 /*For index on main page*/
 /*Mostly just the calender/agenda*/

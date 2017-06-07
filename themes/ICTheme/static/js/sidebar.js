@@ -51,6 +51,7 @@ function adjustHeights(element, amount) {
 var go = true;
 
 function clicked(event) {
+  event.preventDefault();
   if (go) {
     go = false
     var outerContainer =  event.target.parentElement.nextSibling.nextSibling;
