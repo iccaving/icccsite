@@ -84,3 +84,15 @@ window.addEventListener("resize", function() {
 window.addEventListener("load", function() {
   document.querySelector('.photoreel-container').style.height = document.querySelector('.photoreel-photo-' + count).offsetHeight + "px";
 });
+
+window.addEventListener("keydown", function(e) {
+  e = e || window.event;
+  if (e.keyCode == '37') {
+    clearInterval(intervalID);
+    moveleft();
+  }
+  else if (e.keyCode == '39') {
+    clearInterval(intervalID);
+    moveright();
+  }
+});
