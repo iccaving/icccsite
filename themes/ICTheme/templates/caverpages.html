@@ -46,22 +46,23 @@
 
       {% if authored is defined and authored is not none %}
       <h3>Articles Written</h3>
-      <table class="sortable widetable">
-        <tr>
-          <th>Report</th>
-          <th>Date</th>
-        </tr>
-        {% for article in authored %}
-          {% if article.type != "unlisted" %}
+      <div class="table-container">
+        <table class="sortable widetable">
           <tr>
-            <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></td>
-            <td>{{ article.date.strftime('%d-%m-%Y') }}</td>
+            <th>Report</th>
+            <th>Date</th>
           </tr>
-          {% endif %}
-        {% endfor %}
-      </table>
+          {% for article in authored %}
+            {% if article.type != "unlisted" %}
+            <tr>
+              <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></td>
+              <td>{{ article.date.strftime('%d-%m-%Y') }}</td>
+            </tr>
+            {% endif %}
+          {% endfor %}
+        </table>
+      </div>
       {% endif %}
-
   </div>
 </div>
 

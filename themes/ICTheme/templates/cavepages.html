@@ -23,20 +23,21 @@
       {{ article.content }}
 
       <h2>Reports</h2>
-      <table class="sortable widetable">
-        <tr>
-          <th>Report</th>
-          <th>Date</th>
-        </tr>
-        {% for subarticle, date in cave_articles %}
-        <tr>
-          <td><a href="{{ SITEURL }}/{{ subarticle.url }}">{{ subarticle.title }}</a>
-          </td>
-          <td>{{ date.strftime('%d-%m-%Y') }}</td>
-        </tr>
-        {% endfor %}
-      </table>
-
+      <div class="table-container">
+        <table class="sortable widetable">
+          <tr>
+            <th>Report</th>
+            <th>Date</th>
+          </tr>
+          {% for subarticle, date in cave_articles %}
+          <tr>
+            <td><a href="{{ SITEURL }}/{{ subarticle.url }}">{{ subarticle.title }}</a>
+            </td>
+            <td>{{ date.strftime('%d-%m-%Y') }}</td>
+          </tr>
+          {% endfor %}
+        </table>
+      </div>
   </div>
 </div>
 
