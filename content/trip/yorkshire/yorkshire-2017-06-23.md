@@ -21,8 +21,20 @@ Status: draft
 ## Saturday
 
 ### Marble Steps: {{ DATE=2017-06-24; CAVE=Marble Steps; }}
+
+Marble Steps was supposedly an old club classic that we seem to have forgotten about until quite recently. We had a trip there at the start of the year but I wasn't on it and due to, ahem, unforeseen circumstances they didn't have the rope to make it to the bottom. 
+
+We barreled up to the water works and ground to a halt on the cobbled path just shy of the Turbary road. Changing was pleasant, a grade 1 summer change at most. Ben and I had both committed the aerial google maps view of the area to memory but from the parking spot you can see, up on the fell, the copse of trees that surround Marble Steps. On top of that the path is quite clear (almost excessively so) if you choose to follow it.
+
+We walked up, following the Ireby group. They turned off too early, leading us into knee-deep grass and moss. The actual path is rather extravagant paving stones and so there's no advantage to cutting the corner as we accidental did. Evenutally we rejoined the actual path and soon approached Marble Steps. The entrance is a large gully with a small (probably sometimes large) stream entering from one side. 
+
+We meandered down the dry side, finding some in-situ tat that got use almost all the way to the Gully Route pitch head. From the looks of the poorly hidden spade the rope goes as far as someones horrible dig. Ben started rigging the Gully route which drops straight of the edge of a ledge. I began rigging the Sidewinder route which involves rigging a traverse round to a window on the other side. It looks moderately indtimidating as the bolts ascend steeply up what looks to be a very slippery wall but once you're over there it turns out to be pretty easy.
+
+Davey Dubz and Peter followed me into the window. Trailing the rope from the traverse I dropped a couple of short free climbable pitches to rejoin the small stream. Here we examined our rope and decided that whilst something odd was happening with the order they were in
+
 ### Ireby Fell Cavern: {{ DATE=2017-06-24; CAVE=Ireby Fell Cavern; }}
-Last caving trip of the academic year!  Yorkshire.  Threats and rumours of heavy downpours during Saturday were treated with due caution and suspicion (the weather outside was overcast, slightly breezy but warm). We somehow talked ourselves out of doing Penyghent for which we had the permit and followed a brilliant idea by Dr Jack to look at caves in the Marble Steps area. 
+
+Last caving trip of the academic year!  Yorkshire.  Threats and rumors of heavy downpours during Saturday were treated with due caution and suspicion (the weather outside was overcast, slightly breezy but warm). We somehow talked ourselves out of doing Penyghent for which we had the permit and followed a brilliant idea by Dr Jack to look at caves in the Marble Steps area. 
 
 I’d only visited Large Pot, so learning new caves sounded enticing. When Dr Jack and Cecilia came back from their rope collection errand, they brought half whispered news of great trips to be had at the bottom of Ireby Fell Cavern. This suited me, so Dr Jack, Mr Jack, Stephanie and myself formed a crack team, intent on bottoming the pothole and looking at the extensions in the master cave. 
 
@@ -30,7 +42,7 @@ Before this trip, I’d only had one introduction to the vastness, complexity an
 
 Following Jack’s lead, we made our way to the entrance shakehole, with its stream disappearing down boulder choked rifts and a concrete tube entrance. With my rope tacklesack in tow, I descended the boulder slope past a drippy aven to the first pitch and began rigging the drop. There was a ledge traverse and a further ‘Y’-hang to descend the second pitch, but I had been over-generous with the loops further up and found myself short of 2m of rope. Stephanie had got to the traverse by then, but I ascended back up and tightened the line and fed the extra rope through the ‘Y’-hang knot.  It reached, but only just.
 
-The spray near the landing gave me more cause for concern however.  The active waterfall dropped to the right, with its water channelled by a small trench in the rock and splashed downwards merrily towards the third pitch. There, the profusion of P-bolts was disconcerting, but there were two clear options: a damp route, and an extra-damp route. This was lovely. 
+The spray near the landing gave me more cause for concern however.  The active waterfall dropped to the right, with its water channeled by a small trench in the rock and splashed downwards merrily towards the third pitch. There, the profusion of P-bolts was disconcerting, but there were two clear options: a damp route, and an extra-damp route. This was lovely. 
 
 The spray, the film of water on the walls, the small jets squirting from unlikely recesses, all combined to make progress unpleasant, but with each lunge for the next bolt, I carried on. The traverse continued at high level and I failed to notice an extra bolt around a corner, so my next ‘Y’-hang was rather far from the deviation bolt around the meander. Expedition rigging.  The deviation itself gave me some trouble, as it needed to be quite short to avoid rope rub.
 
