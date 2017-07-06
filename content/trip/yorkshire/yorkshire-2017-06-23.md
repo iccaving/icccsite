@@ -1,7 +1,7 @@
 Title: Yorkshire VII
 Date: 2017-06-23
 Location: Yorkshire
-Summary: 
+Summary: The weather was a little unsettled for our planned Penyghent assault so instead we wandered up Masongill for a go at Marble Steps and Ireby on Saturday. Sensible people returned to Ireby on Sunday whilst some severely misled people visited Rift Pot.
 Type: trip
 Photoarchive:
 Mainimg: RhysTyers-DSC05285.jpg 
