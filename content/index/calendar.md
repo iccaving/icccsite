@@ -1,5 +1,5 @@
-﻿Title: Calendar Spring/Summer 2017
-Date: 2016-08-03
+﻿Title: Calendar Autumn 2017
+Date: 2017-09-19
 Authors:
 Location:
 Type: stickyindex
