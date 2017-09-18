@@ -1,7 +1,7 @@
 Country: United Kingdom
 Region: Yorkshire
-Subregion: Casterton Fell
-System: Easegill
+Subregion: West Kingsdale
+System: Kingsdale
 Location: 54.199909,-2.46249
 
 ###Location
