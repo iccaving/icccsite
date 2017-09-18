@@ -9,3 +9,12 @@
 		margin: 0;
 	}
 }
+.badges {
+	line-height: 0;
+	border: 1px solid black;
+	display: inline-block;
+}
+.badge {
+	display: inline-block;
+	margin: 5px;
+}

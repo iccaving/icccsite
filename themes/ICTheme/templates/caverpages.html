@@ -9,12 +9,19 @@
   <div class="article-content">
 
       <h1 class="article-title">{{ personname }}</h1>
+      {% if article.metadata.badges %}
+      <div class="badges">
+      {% for badge in article.metadata.badges.split(',') %}
+        <div class="badge"><img src='{{ ASSET_LOCATION }}/badges/{{ BADGES[badge].src }}' alt='{{ BADGES[badge].alt }} badge' title='{{ BADGES[badge].alt }}'></div>
+      {% endfor %}
+      </div>
+      {% endif %}
 
       <div class="personimg">
-      <a href="{{ SITEURL }}/photo_archive/mugshots/{{ personname }}.html"><img onerror='this.style.display = "none"' src="{{ SITEURL }}/photo_archive/mugshots/{{ personname }}.jpg" type="image/jpg"></a>
+      <a href="{{ PHOTO_LOCATION }}/mugshots/{{ personname }}.html"><img onerror='this.style.display = "none"' src="{{ SITEURL }}/photo_archive/mugshots/{{ personname }}.jpg" type="image/jpg"></a>
       </div>
 
-      {{ bio }}
+      {{ article.content }}
 
       <h2>Trips attended</h2>
 

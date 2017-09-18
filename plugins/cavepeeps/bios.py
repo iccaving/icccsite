@@ -131,6 +131,10 @@ def generate_person_pages(generator, writer):
             content=''
             metadata=''
             authored=[]
+            if key in content_dictionary:
+                logging.debug("Cavebios: Content added to " + key)
+                content = content_dictionary[key].content
+                metadata = content_dictionary[key].metadata
             #print(key)
             #print(author_list.keys())
             if key in author_list.keys():
