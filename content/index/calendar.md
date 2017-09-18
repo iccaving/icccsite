@@ -6,7 +6,10 @@ Type: stickyindex
 
 |Date              | Destination                          | Hut                                                                                  | Caves  |
 | ---              |  ---                                 | ---                                                                                  |  ---  |
-| 23rd - 25th June | Yorkshire | NPC | [Penyghent](/rcc/caving/caves/Penyghent%20Pot.html) |
-|~~24th June - 1st July~~| ~~France~~ | Cancelled | ~~[Chartreuse Mountains](https://en.wikipedia.org/wiki/Chartreuse_Mountains)~~|
-|7th July - 7th August| [Slovenia Expedition](https://union.ic.ac.uk/rcc/caving/wiki/ExpeditionInformationForNovices) | Migovec | [Sistem Migovec](https://union.ic.ac.uk/rcc/caving/slovenia/)|
+| 13th - 15th October | Wales | SWCC | [OFD](/rcc/caving/caves/Ogof%20Ffynnon%20Ddu.html) |
+| 27th - 29th October | Wales | CSS Whitewalls | [Agen Allwedd](/rcc/caving/caves/Ogof%20Agen%20Allwedd.html) | 
+| 10th - 13th November | Yorkshire | NPC | [Easegill](/rcc/caving/caves/?search=Easegill) |
+| 24th - 27th November | Yorkshire | CHECC | CHECC |
+| 8th - 11th  December | Yorkshire | NPC | [Lost Johns'](/rcc/caving/caves/Lost%20Johns'%20Cave.html) | 
+| 30th December - 6th January | Yorkshire | NPC | [Winter Tour!](/rcc/caving/caves/?search=Yorkshire) |
 
