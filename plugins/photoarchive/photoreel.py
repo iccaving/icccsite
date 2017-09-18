@@ -42,7 +42,7 @@ def photoreel(generator):
     <script src='""" + siteurl + """/theme/js/photoreel.js'></script>
     """
 
-    metadata = { 'title':'Imperial College Caving Club',
+    metadata = { 'title':'Recent Trips',
                  'date': datetime.strptime('9999-12-31', '%Y-%m-%d'),
                  'category': Category('Photo Reel', generator.settings),
                  'type': 'stickyindex',
