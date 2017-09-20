@@ -14,6 +14,12 @@
 	border: 1px solid black;
 	display: inline-block;
 }
+@media screen and (max-width: $mobile-breakpoint) {
+
+	.badges {
+		margin: 1rem;
+	}
+}
 .badge {
 	display: inline-block;
 	margin: 5px;
