@@ -76,7 +76,7 @@ Juniper Gulf is certainly a classic.
 
 ## Sunday
 
-### Jingling Pot: {{DATE=2017-09-17; CAVE=Jingling Pot}}
+### Jingling Pot: {{ DATE=2017-09-17; CAVE=Jingling Pot; }}
 
 {"Jingling pot; Diss demonstrating the quality of ICCC oversuits. Diss loves ventilation." left}(DSC06825.jpg)
 
