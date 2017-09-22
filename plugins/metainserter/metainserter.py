@@ -25,12 +25,14 @@ class MetaWriter(Writer):
             article = kwargs["article"]
             content = article.content
             metadata = article.metadata
-            
+
             # Replace {{ tags }} with the data they should have
             if "data" in dir(article):
                 for key in article.data:
                     htmlkey = key.replace(">", "&gt;")
                     content = re.sub(r'({{\s*?)(' + htmlkey + r')(\s*?}})', article.data[key], content)
+                    content = re.sub(r'<p>[\s\n\r]*<figure', '<figure', content)
+                    content = re.sub(r'</figure>[\s\n\r]*</p>', '</figure>', content)
             modified_article = Article(content, article.metadata, settings=article.settings, source_path=article.source_path, context=context)
             kwargs["article"] = modified_article
 
