@@ -38,7 +38,7 @@ The rigging guide is somewhat unhelpful here, suggesting bolts that don't exist 
 
 Soon I was back up to the traverse line, rerigging two bolts as a y-hang and then down to a rebelay bolt five metres below. Yes, the 50 m hang is all off a single bolt - why there weren't two is beyond me. Primadonna is better rigged! The descent was glorious, a beautiful fluted shaft of black rock, the waterfall thundering next to you and your light unable to pick out the cave above or below.
 
-{"The final pitch with a Davey Dubz on it. Davey loves pitches." right}(DSC06785.jpg)
+{"The final pitch with a Davey Dubz on it. Davey loves pitches." center}(DSC06785.jpg)
 
 At the bottom I was lashed with spray and a strong draft, and proceeded to put on all my extra layers as the others descended. I failed to find the flake to rebelay off to visit the sump, though the others eventually found something three metres up one wall that they used. Conscious of how cold I'd gotten waiting around, I was keen to be off, and went up the pitch after negotiating the derig with the others. I was barely warm at the top, a commentary either on my efficient prussiking or how cold I'd gotten.
 
