@@ -1,7 +1,7 @@
 /*-----------------------------Global Page Properties-----------------------------*/
 html {
 	@media screen and (max-width: $mobile-breakpoint) {
-		width: 100vw;
+		//width: 100vw;
 		overflow-x: hidden;
 	}
 }
@@ -16,7 +16,7 @@ body {
 	@media screen and (max-width: $mobile-breakpoint) {
 		margin: 0px;
 		padding: 0px;
-		width: 100vw;
+		//width: 100vw;
 	}
 }
 /*-----------------------------Global Text and link properties-----------------------------*/
