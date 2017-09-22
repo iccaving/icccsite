@@ -62,7 +62,7 @@
         border: 1px solid $light-grey;
     }
     @media screen and (max-width: $mobile-breakpoint) {
-        width: calc(100% - 10px);
+        width: 100%;
         img {
             border-left: 0;
             border-right: 0;
