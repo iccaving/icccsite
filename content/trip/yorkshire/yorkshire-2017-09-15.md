@@ -38,7 +38,7 @@ The rigging guide is somewhat unhelpful here, suggesting bolts that don't exist 
 
 Soon I was back up to the traverse line, rerigging two bolts as a y-hang and then down to a rebelay bolt five metres below. Yes, the 50 m hang is all off a single bolt - why there weren't two is beyond me. Primadonna is better rigged! The descent was glorious, a beautiful fluted shaft of black rock, the waterfall thundering next to you and your light unable to pick out the cave above or below.
 
-{"The final pitch with a Davey Dubz on it. Davey loves pitches." center}(DSC06785.jpg)
+{"The final pitch with a Davey Dubz on it. Davey loves pitches." right}(DSC06785.jpg)
 
 At the bottom I was lashed with spray and a strong draft, and proceeded to put on all my extra layers as the others descended. I failed to find the flake to rebelay off to visit the sump, though the others eventually found something three metres up one wall that they used. Conscious of how cold I'd gotten waiting around, I was keen to be off, and went up the pitch after negotiating the derig with the others. I was barely warm at the top, a commentary either on my efficient prussiking or how cold I'd gotten.
 
@@ -78,7 +78,7 @@ Juniper Gulf is certainly a classic.
 
 ### Jingling Pot: {{ DATE=2017-09-17; CAVE=Jingling Pot; }}
 
-{"Jingling pot; Diss demonstrating the quality of ICCC oversuits. Diss loves ventilation." left}(DSC06825.jpg)
+{"Jingling pot; Diss demonstrating the quality of ICCC oversuits. Diss loves ventilation." center}(DSC06825.jpg)
 
 Rigging practice was the order of Sunday. I was meant to go to Aquamole with Diss, but we found it occupied and decided to join Rhys, Mr Jack and James in Jingling next door. I waited on the surface in the sun until I got bored of the pleasant weather and dropped down to rig the long hang down. It's an awkward one - rig it as a y-hang and the rope rubs, so I setteld for an ultra tight traverse line and a fig 8, which sort of worked. At the bottom, I lay on the rocks looking up as the sun illuminated the sides of the shaft. It's a really lovely cave, and I can see how some people enjoy coming back to it over and over again.
 
