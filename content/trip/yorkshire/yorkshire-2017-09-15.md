@@ -38,9 +38,9 @@ The rigging guide is somewhat unhelpful here, suggesting bolts that don't exist 
 
 Soon I was back up to the traverse line, rerigging two bolts as a y-hang and then down to a rebelay bolt five metres below. Yes, the 50 m hang is all off a single bolt - why there weren't two is beyond me. Primadonna is better rigged! The descent was glorious, a beautiful fluted shaft of black rock, the waterfall thundering next to you and your light unable to pick out the cave above or below.
 
-At the bottom I was lashed with spray and a strong draft, and proceeded to put on all my extra layers as the others descended. I failed to find the flake to rebelay off to visit the sump, though the others eventually found something three metres up one wall that they used. Conscious of how cold I'd gotten waiting around, I was keen to be off, and went up the pitch after negotiating the derig with the others. I was barely warm at the top, a commentary either on my efficient prussiking or how cold I'd gotten.
-
 {"The final pitch with a Davey Dubz on it. Davey loves pitches." right}(DSC06785.jpg)
+
+At the bottom I was lashed with spray and a strong draft, and proceeded to put on all my extra layers as the others descended. I failed to find the flake to rebelay off to visit the sump, though the others eventually found something three metres up one wall that they used. Conscious of how cold I'd gotten waiting around, I was keen to be off, and went up the pitch after negotiating the derig with the others. I was barely warm at the top, a commentary either on my efficient prussiking or how cold I'd gotten.
 
 Getting out of the cave was easy with Diss right behind me, and we relaxed in the sun on surface. Soon Ben and Mr Jack joined us, and we headed down the hill to the bus. We passed many, many walkers, all tired and worried and slightly panicked to see people in yellow suits jogging passed them. At the minibus we listened to belle and Sebastian and admired the sunset as the others came down the hill. Back to Greenclose for shakshuka and some whisky - a solid day. Not maybe one of my top five caves in the UK, but still very impressive and worth doing if the forecast is fair.
 
@@ -62,9 +62,9 @@ The rigging guide suggested there would be a flake on the wall to belay off to m
 
 With nothing to do whilst we waited for people to climb the 40m pitch on this windy ledge, those of us left below continued to work at the thread. I got Mr. Jack (also fairly tall) to thread my dyneema foot loop through, hoping to use it to pull the sling back through. This did not work and nearly resulted in me leaving my dyneema footloop permanently embedded in Juniper Gulf. With some yanking it came free eventually. In the end the solution as usual was to apply the Dubz Bruvs. By carefully stacking one on top of the other they were able, with the power of twin telepathy, to thread a sling through from a comfortable position. 
 
-With a completely solid belay in place I descended the final 4m into the streamway. I was followed by Jimmy and Davey and we scrambled down the narrow stream. The water often goes quite deep and there is some fun traversing to be done to avoid getting your feet wet. The rock is also sculpted in quite interesting ways, leaving sharp buttresses and arches across the rift. It is not far to the sump however and for most of the way foam lines the walls, eventually going ominously far above your head. The sump itself was an uninviting bubble bath. With a two Wilson photography kit I took some photos and we headed back towards the pitch.
-
 {"Jimmy at the sump. Jimmy loves sumps." right}(DSC06768.jpg)
+
+With a completely solid belay in place I descended the final 4m into the streamway. I was followed by Jimmy and Davey and we scrambled down the narrow stream. The water often goes quite deep and there is some fun traversing to be done to avoid getting your feet wet. The rock is also sculpted in quite interesting ways, leaving sharp buttresses and arches across the rift. It is not far to the sump however and for most of the way foam lines the walls, eventually going ominously far above your head. The sump itself was an uninviting bubble bath. With a two Wilson photography kit I took some photos and we headed back towards the pitch.
 
 I took some photos on the big pitch as well before heading out. I was 'supervising' Jimmy and Davey derigging. Davey cleverly tricked Jimmy into taking the 90m rope bag almost all the way out after he derigged the final pitch. I enoyed the way out a lot and appreciated the cave somewhat more. This is often the case though.
 
