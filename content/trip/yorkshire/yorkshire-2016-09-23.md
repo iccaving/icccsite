@@ -19,8 +19,8 @@ Cavepeeps: DATE=2016-09-24; CAVE=Large Pot; PEOPLE=Rhys Tyers, Tanguy Racine, Wi
 #####{{ allpeople }}
 
 ## Saturday
-###Ireby Pot: {{ DATE=2016-06-24; CAVE=Ireby Pot; }}
-###Large Pot: {{ DATE=2016-06-24; CAVE=Large Pot; }}
+###Ireby Pot: {{ DATE=2016-09-24; CAVE=Ireby Pot; }}
+###Large Pot: {{ DATE=2016-09-24; CAVE=Large Pot; }}
 
 Morning breakfast, tea, conversations. The plan for the day was to explore the Marble Steps area, with two trips going down that cave, another group in Ireby Fell and a last group visiting Large Pot. We drove up Masongill lane and parked by the barn, where we changed into our gear. Kenneth, Rhys, Will S and I had elected to go to Large pot, and quickly we were all ready to go, with Darren drums filled with flapjacks and chocolates.
 
