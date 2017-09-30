@@ -5,7 +5,9 @@ Summary:
 Type: expedition
 Authors: ICCC
 
-{!center}(/rcc/caving/photo_archive/slovenia/2015/CeciliaKan_P8031325.jpg)
+{!center}(/rcc/caving/photo_archive/slovenia/2015/CeciliaKan_P8031325.JPG)
+
+[Bivi Recipe Book](/rcc/caving/FILES/expeditions/slovenia/slov2017/BiviRecipes2017.pdf).
 
 An army marches on its stomach, and so too does the expedition. We are naturally limited in our food choice by the need to carry anything we wish to eat up a vertical kilometre and for it to survive 5 weeks (and often significantly longer) without refrigeration (or controllable refrigeration anyway). This means that the menu du jour is principally; pulses, grains, rice, dried vegetables etc.
 
