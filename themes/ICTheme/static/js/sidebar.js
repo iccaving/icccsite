@@ -2,11 +2,12 @@
 function load() {
   var list;
   if (window.location.href.indexOf("https://union.ic.ac.uk/rcc/caving/slovenia/") > -1) {
-    list = window.localStorage.getItem("slovenia-sidebar").split(',');
+    list = window.localStorage.getItem("slovenia-sidebar");
   } else {
-    list = window.localStorage.getItem("sidebar").split(',');
+    list = window.localStorage.getItem("sidebar");
   }
   if (list != null) {
+    list = list.split(',')
     var outers = document.querySelectorAll(".sidebar-outer");
     for (var i=0; i < outers.length; i++) {
       if (list[i] == 1) {
@@ -67,6 +68,8 @@ function clicked(event) {
           outers[i].classList.add("collapsed");
           inners[i].classList.add("nodisplay");
         }
+      } else if (event.target.classList.contains("sidebar-outer")) {
+        event.target.style.maxHeight = event.target.querySelector('.sidebar-inner').offsetHeight + "px"
       }
       go = true
       store();
