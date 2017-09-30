@@ -16,7 +16,7 @@ Expedition base camp is located at 1880m above sea level on the western edge of 
 
 ##Reports, Surveys and Data
 
-Every year we take hundreds of photos, survey our new findings, produce a extensive written report and full drawn surveys of the entire cave system. You'll find those all on this site. Each year has a page dedicated to it, check the menu, and the page for 2016 is [here](/rcc/caving/slovenia/articles/2016-07-08-slovenia.html).
+Every year we take hundreds of photos, survey our new findings, produce a extensive written report and full drawn surveys of the entire cave system. You'll find those all on this site. Each year has a page dedicated to it, check the menu, and the page for 2017 is [here](/rcc/caving/slovenia/articles/2017-07-07-slovenia.html) though its still a WIP. Complete, if slightly out of date, data can be found on the 2016 page [here](/rcc/caving/slovenia/articles/2016-07-08-slovenia.html) . 
 
 All of our cave data, updated and worked on throughout the year, is freely accessible in our [Github repo.](https://github.com/jarvist/migovecsurveydata). 
 
@@ -25,4 +25,4 @@ We have also produced a book full of entertaining stories, anecdotes, maps, surv
 
 ##Latest News
 
-[Check the latest output from the 2016 expedition.](/rcc/caving/slovenia/articles/2016-07-08-slovenia.html)
+[Check the latest output from the 2017 expedition.](/rcc/caving/slovenia/articles/2017-07-07-slovenia.html)
