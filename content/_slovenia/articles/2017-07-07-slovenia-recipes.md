@@ -1,5 +1,5 @@
 Title: Bivi Recipe Book
-Date: 2017-07-08
+Date: 2017-07-06
 Location: Slovenia
 Summary:
 Type: expedition
