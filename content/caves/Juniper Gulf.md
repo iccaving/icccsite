@@ -2,7 +2,7 @@ Country: United Kingdom
 Region: Yorkshire 
 Subregion: Ingleborough
 System:
-Cave Location: 54.155192, -2.360154
+Location: 54.155192, -2.360154
 
 ###Location
 
