@@ -12,7 +12,7 @@
 
   {{ article.content }}
 
-  <div id="edit-button"><a href="{{ SITEURL }}/apps/editor/?state={{ article.metadata.source_path }}">Edit</a></div>
   {% include 'includes/license.html' %}
+  <div id="edit-button"><a href="{{ SITEURL }}/apps/editor/?state={{ article.metadata.source_path }}">Edit this page</a></div>  
 </div>
 {% endblock %}
