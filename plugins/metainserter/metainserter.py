@@ -25,6 +25,9 @@ class MetaWriter(Writer):
             article = kwargs["article"]
             content = article.content
             metadata = article.metadata
+            # Useful bit of metadata to have access to
+            if article.source_path is not None:
+                metadata['source_path'] = article.source_path.replace(os.path.join(os.getcwd(), ""), "")
 
             # Replace {{ tags }} with the data they should have
             if "data" in dir(article):
@@ -33,7 +36,7 @@ class MetaWriter(Writer):
                     content = re.sub(r'({{\s*?)(' + htmlkey + r')(\s*?}})', article.data[key], content)
                     content = re.sub(r'<p>[\s\n\r]*<figure', '<figure', content)
                     content = re.sub(r'</figure>[\s\n\r]*</p>', '</figure>', content)
-            modified_article = Article(content, article.metadata, settings=article.settings, source_path=article.source_path, context=context)
+            modified_article = Article(content, metadata, settings=article.settings, source_path=article.source_path, context=context)
             kwargs["article"] = modified_article
 
             if "subsite" in metadata.keys():
