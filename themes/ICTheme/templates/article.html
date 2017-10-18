@@ -8,11 +8,11 @@
 {% block content %}
 
 <div class="article-content">
-
   <h1 class="article-title">{{ article.title }} <span class="banner-date">{{ article.date.strftime('%d-%m-%Y') }}</span></h1>
 
   {{ article.content }}
 
+  <div id="edit-button"><a href="{{ SITEURL }}/apps/editor/?state={{ article.metadata.source_path }}">Edit</a></div>
   {% include 'includes/license.html' %}
 </div>
 {% endblock %}
