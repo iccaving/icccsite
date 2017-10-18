@@ -21,7 +21,7 @@ Cavepeeps: DATE=2017-06-24; CAVE=Marble Steps; PEOPLE=Rhys Tyers, Ben Honan, Pet
 
 ### Marble Steps: {{ DATE=2017-06-24; CAVE=Marble Steps; }}
 
-Marble Steps was supposedly an old club classic that we seem to have forgotten about until quite recently. We had a trip there at the start of the year but I wasn't on it and due to, ahem, unforeseen circumstances they didn't have the rope to make it to the bottom. 
+Marble Steps was supposedly an old club classic that we seem to have forgotten about until quite recently. We had a trip there at the start of the year but I wasn't on it and due to, ahem, unforeseen circumstances they didn't have the rope to make it to the bottom. lol
 
 We barreled up to the water works and ground to a halt on the cobbled path just shy of the Turbary road. Changing was pleasant, a grade 1 summer change at most. Ben and I had both committed the aerial google maps view of the area to memory but from the parking spot you can see, up on the fell, the copse of trees that surround Marble Steps. On top of that the path is quite clear (almost excessively so) if you choose to follow it.
 
