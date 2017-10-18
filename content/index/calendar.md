@@ -1,4 +1,4 @@
-﻿Title: Calendar Autumn 2017
+Title: Calendar Autumn 2017
 Date: 2017-09-19
 Authors:
 Location:
