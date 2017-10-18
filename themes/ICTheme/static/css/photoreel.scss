@@ -32,6 +32,9 @@ div[class^='photoreel-photo'] {
     text-align: center;
     width: 100%;
     left: 100%;
+    display: flex;
+    align-items: center;
+    max-height: 100%;
 }
 div[class^='photoreel-photo'].animate {
     -webkit-transition: left 1s;
@@ -41,8 +44,8 @@ div.photoreel-photo-0 {
     left: 0;
 }
 div[class^='photoreel-photo'] img {
-    max-height: 400px;
-    max-width: 85%;
+    //max-height: 400px;
+    width: 100%;
     display: block;
     margin: auto;
 
