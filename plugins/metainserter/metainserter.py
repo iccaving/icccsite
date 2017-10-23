@@ -33,7 +33,7 @@ class MetaWriter(Writer):
             if "data" in dir(article):
                 for key in article.data:
                     htmlkey = key.replace(">", "&gt;")
-                    content = re.sub(r'({{\s*?)(' + htmlkey + r')(\s*?}})', article.data[key], content)
+                    content = re.sub(r'(<p>[\s\n\r]*)?({{\s*?)(' + htmlkey + r')(\s*?}})([\s\n\r]*</p>)?', article.data[key], content)
                     content = re.sub(r'<p>[\s\n\r]*<figure', '<figure', content)
                     content = re.sub(r'</figure>[\s\n\r]*</p>', '</figure>', content)
             modified_article = Article(content, metadata, settings=article.settings, source_path=article.source_path, context=context)
