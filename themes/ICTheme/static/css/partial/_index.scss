@@ -52,21 +52,35 @@
 .content {
 	display: table;
 	width: 100%;
+	@media screen and (max-width: $mobile-breakpoint) {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-around;
+	}
 }
 .content-summary {
 	padding: 0 15px;
 	vertical-align: top;
 	display: table-cell;
 	vertical-align: middle;
+	@media screen and (max-width: $mobile-breakpoint) {
+		order: 3;
+	}
 }
 .content-summary p {
 	margin: 15px 0;
 }
 .index-thumbl {
 	padding: 10px 0 0 10px;
+	@media screen and (max-width: $mobile-breakpoint) {
+		order: 1;
+	}
 }
 .index-thumbr {
 	padding: 10px 10px 0 0;
+	@media screen and (max-width: $mobile-breakpoint) {
+		order: 2;
+	}
 }
 .index-thumbl, .index-thumbr {
 	max-width: 225px;
@@ -74,9 +88,13 @@
 	vertical-align: middle;
 	img {
 		max-width: 225px;
+		width: 100%;
+		vertical-align: bottom;
 	}
 	@media screen and (max-width: $mobile-breakpoint) {
-		display: none;
+		margin-top: -1px;
+		flex-basis: 50%;
+		padding: 0;
 	}
 }
 .content-footer {
