@@ -6,6 +6,9 @@ div.photoreel-container {
     overflow: hidden;
     transition-property: height;
     transition-duration: 0.5s;
+    @media screen and (max-width:  750px) {
+        height: 240px;
+    }
 }
 div.photoreel-left, div.photoreel-right {
     display: inline-block;
