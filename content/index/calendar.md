@@ -11,5 +11,5 @@ Type: stickyindex
 | 10th - 13th November | Yorkshire | [NPC](http://northernpennineclub.org.uk/greenclose/greenclose.htm) | [Easegill](/rcc/caving/caves/?search=Easegill) |
 | 24th - 27th November | Yorkshire | [CHECC](http://checc.org/checc-forum/) | [CHECC](http://checc.org/checc-forum/) |
 | 8th - 11th  December | Yorkshire | [NPC](http://northernpennineclub.org.uk/greenclose/greenclose.htm) | [Lost Johns'](/rcc/caving/caves/Lost%20Johns'%20Cave.html) | 
-| 30th December - 6th January | Yorkshire | [NPC](http://northernpennineclub.org.uk/greenclose/greenclose.htm) | [Winter Tour!](/rcc/caving/caves/?search=Yorkshire) |
+| 15th - 23rd December | Yorkshire | [NPC](http://northernpennineclub.org.uk/greenclose/greenclose.htm) | [Winter Tour!](/rcc/caving/caves/?search=Yorkshire) |
 
