@@ -1,7 +1,7 @@
 Title: Yorkshire I
 Date: 2017-11-10
 Location: yorkshire
-Summary: A summary.
+Summary: Good to be back in Yorkshire! 15 of us jumped into Easegill with 4 more diving head first into Kingsdale (**Spoilers** we all survive). Sunday was a bit of an epic in Lost John's. No rope was left at the hut, everyone remembered maillons, no fresher mistakes were made and we got back to London at a reasonable time.
 Type: trip
 Photoarchive:
 Mainimg: RhysTyers-DSC07227.jpg
@@ -52,7 +52,17 @@ Time was ticking on so Peter allowed me to lead through Wretched Rabbit. Twistin
 I nipped back across to derig Lanc, meeting a freezing Alex at the entrance. We instructed Davey to derig and I waited for their group to emerge and walked back with them. A brief interlude whilst we 'lost' the minibus keys and we were soon back at the NPC. It seemed like everyone had had a pretty good day! I was certainly satisfied with our trip.
 
 #### Rhys
-It had been a while since I had done any SRT so was glad to be back in Yorkshire. Top to wretched turned out to be a fantastic trip which I would definitely do again! It had it all, decent pitches for novices with a good ability to supervise from the pitch head. Pretty descents through some spray lead to a great cave that had large chambers, streamway, crawls, mud, climbs and pretties, the lot! The only downside would have to be the long walk but was hard to complain since we had beautiful weather and would be a shorter walk back. We didn't rig a pull through since Diss and Jarvist were intending to do the opposite trip to us and so would appreciate the rope. We met up with their group and made the decision to take Augustinas and Rita back out through wretched as we were getting weary of time. Having to appear competent in front of 4 novices was certainly daunting and only went wrong once when the group got split up. However we all ended up out of the cave early enough to enjoy some chatter with the glasgow cavers whilst we waited for rhys’s group. Jack and Jarv headed back with Tom to make food and we followed closely behind them. The key was left in the Cowl Panel so was easily located, sometimes it’s put in the glovebox or the ignition or even back in the tire but fortunately it wasn’t. By the time we had got to the hut Jarv had enough time to make a pea soup starter, much appreciated. Caving games were fun, I stole Rhys of Diss for pot and sling and he liked it, so soft. Fack was a brilliant addition to the caving games playlist. I drank beer then slept.
+It had been a while since I had done any SRT so was glad to be back in Yorkshire. Top to wretched turned out to be a fantastic trip which I would definitely do again! It had it all, decent pitches for novices with a good ability to supervise from the pitch head. Pretty descents through some spray lead to a great cave that had large chambers, streamway, crawls, mud, climbs and pretties, the lot! The only downside would have to be the long walk but was hard to complain since we had beautiful weather and would be a shorter walk back. We didn't rig a pull through since Diss and Jarvist were intending to do the opposite trip to us and so would appreciate the rope. We met up with their group and made the decision to take Augustinas and Rita back out through wretched as we were getting weary of time. Having to appear competent in front of 4 novices was certainly daunting and only went wrong once when the group got split up. However we all ended up out of the cave early enough to enjoy some chatter with the glasgow cavers whilst we waited for rhys’s group.
+
+Some useful notes:
+- Don't forget rope
+- Don't go back for rope and forget maillons
+- Don't let novices wear all their day clothes caving
+- Check harnesses are doubled back
+- Check the bonnet for minibus keys
+- Don't walk really far for signal, use the pay phone
+
+ Jack and Jarv headed back with Tom to make food and we followed closely behind them. The key was left in the Cowl Panel so was easily located, sometimes it’s put in the glovebox or the ignition or even back in the tire but fortunately it wasn’t. By the time we had got to the hut Jarv had enough time to make a pea soup starter, much appreciated. Caving games were fun, I stole Rhys of Diss for pot and sling and he liked it, so soft. Fack was a brilliant addition to the caving games playlist. I drank beer then slept.
 ####Perry
 On Saturday, Rhys, Jack, Peter and I went into the Ease Gill system, and the plan was to enter by Lanc hole and exit by Wretched Rabbit. We met a group of cavers who were alumni of their university’s caving club. They had fancy equipment and looked legitimate so we let them go first, thinking they would be fast. Turns out we were wrong and they took bout half an hour to rig the ropes and get 5 people down. Their rigging was also really awkward and it was a pain descending past it since it kept getting tangled with our rope. 
 
