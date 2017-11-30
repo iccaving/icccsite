@@ -10,15 +10,21 @@ Thumbr: RhysTyers-DSC07218--thumb.jpg
 Authors: Rhys Tyers
 Cavepeeps: DATE=2017-11-11; CAVE=Lancaster Hole > Wretched Rabbit; PEOPLE=Rhys Tyers, Peter Ganson, Ho Yan Jin, Jack Halliday;
            DATE=2017-11-11; CAVE=Wretched Rabbit > Top Sink; PEOPLE=Jarvist Frost, Rebecca Diss;
-           DATE=2017-11-11; CAVE=Top Sink > Wretched Rabbit; PEOPLE=Jack Hare, Thomas Porter;
-           DATE=2017-11-11; CAVE=Wretched Rabbit; PEOPLE=Rita  Cookson;
+           DATE=2017-11-11; CAVE=Top Sink > Wretched Rabbit; PEOPLE=Jack Hare, James Perry,  Thomas Porter, Chris Bradley;
+           DATE=2017-11-11; CAVE=Wretched Rabbit; PEOPLE=Rita  Cookson, Augustinas Prusokas;
            DATE=2017-11-11; CAVE=Lancaster Hole; PEOPLE=David Wilson, Alex Seaton, Tunvez Boulic;
-           DATE=2017-11-12; CAVE=Lost Johns' Cave; PEOPLE=Rhys Tyers, Rebecca Diss, Augustinas Prusokas, Ho Yan Jin, Rita Borg, Dave Wilson;
-Status: draft
+
+           DATE=2017-11-11; CAVE=Jingling Pot; PEOPLE= Dave Wilson,David Kirkpatrick, Shaun Kong, Nick Koukoulekidis ;
+           DATE=2017-11-12; CAVE=Lost Johns' Cave; PEOPLE=Rhys Tyers, Rebecca Diss,Peter Ganson, Alex Seaton, Jarvist Frost, Jack Halliday, Shaun Kong, David Wilson, Chris Bradley, Nick Koukoulekidis, Thomas Porter, Augustinas Prusokas, Ho Yan Jin, Rita Cookson, Dave Wilson;
+Status: 
 
 {{ mainimg }}
 {{ photolink }}
 ##### {{ allpeople }}
+##Friday
+
+We had plenty of drivers on the way up to Yorkshire for what was about to be a great trip. All in all we had 19 cavers splitting up for multiple trips mostly through easegill. When we got to the hut Diss (and apparently DKP?) had made us a cake with cake mix and lemonade which turned out to be great. 
+####Perry
 
 ## Saturday
 
@@ -47,6 +53,18 @@ Time was ticking on so Peter allowed me to lead through Wretched Rabbit. Twistin
 I nipped back across to derig Lanc, meeting a freezing Alex at the entrance. We instructed Davey to derig and I waited for their group to emerge and walked back with them. A brief interlude whilst we 'lost' the minibus keys and we were soon back at the NPC. It seemed like everyone had had a pretty good day! I was certainly satisfied with our trip.
 
 #### Rhys
+It had been a while since I had done any SRT so was glad to be back in Yorkshire. Top to wretched turned out to be a fantastic trip which I would definitely do again! It had it all, decent pitches for novices with a good ability to supervise from the pitch head. Pretty descents through some spray lead to a great cave that had large chambers, streamway, crawls, mud, climbs and pretties, the lot! The only downside would have to be the long walk but was hard to complain since we had beautiful weather and would be a shorter walk back. We didn't rig a pull through since Diss and Jarvist were intending to do the opposite trip to us and so would appreciate the rope. We met up with their group and made the decision to take Augustinas and Rita back out through wretched as we were getting weary of time. Having to appear competent in front of 4 novices was certainly daunting and only went wrong once when the group got split up. However we all ended up out of the cave early enough to enjoy some chatter with the glasgow cavers whilst we waited for rhys’s group. Jack and Jarv headed back with Tom to make food and we followed closely behind them. The key was left in the Cowl Panel so was easily located, sometimes it’s put in the glovebox or the ignition or even back in the tire but fortunately it wasn’t. By the time we had got to the hut Jarv had enough time to make a pea soup starter, much appreciated. Caving games were fun, I stole Rhys of Diss for pot and sling and he liked it, so soft. Fack was a brilliant addition to the caving games playlist. I drank beer then slept.
+####Perry
+On Saturday, Rhys, Jack, Peter and I went into the Ease Gill system, and the plan was to enter by Lanc hole and exit by Wretched Rabbit. We met a group of cavers who were alumni of their university’s caving club. They had fancy equipment and looked legitimate so we let them go first, thinking they would be fast. Turns out we were wrong and they took bout half an hour to rig the ropes and get 5 people down. Their rigging was also really awkward and it was a pain descending past it since it kept getting tangled with our rope. 
+
+By the time we got down the only pitch, we had doubts as to whether we’d make the call out time, and whether we should continue out Wretched Rabbit or turn back at some point and out from where we came in. We had to press on ahead if we wanted to make it. It was fun but tiring to walk and climb for 2 hours straight. Whenever we had a brief stop to catch our breaths, Jack’s face was red and sweaty and he looked so done with all of this; I was carefully threading the boulders, trying not to fall or break any bones. Meanwhile, Rhys and Peter seemed to be in their natural habitat. (Also, thanks Rhys and Jack for lending me a shoulder/knee on many occasions.)
+
+Somewhere along, we got briefly lost (Rhys likes to call it a ‘detour’) because we were reading the directions in the opposite direction. But thankfully, we found our way and made far enough to know that we don’t want to turn back. When we rested, I got the chance to read the description of the Four Way Chamber (which is on the way to Wretched Rabbit) and it read ‘the chamber has several obscure holes in the floor dropping down to the streamway’. Well that was heartening to know.
+
+Wretched Rabbit was mainly all right except for the last few climbs looked terrifyingly high and smooth (so there weren’t very good grips or footholds). Thankfully the ropes and knots there were pleasantly good and I could pull myself up (by extension, that meant the rest could do it easily). We finally made it out, but still had a distance to walk so it seemed like caving didn’t end until we got changed. That night we got to know that Tunvez wore a shirt and jeans below her furry and we wondered how she survived and also how no one noticed.
+
+We played Pot and Sling at night and had two formidable teams (Rhys and Perry, Diss and I). Unfortunately, the guys’ advantage of experience outweighed our natural advantage of smaller hips and they won the game. When we swopped teams after that, Rhys and Diss won. Congratulations to all! Though I’m not sure if it’s something to be proud of, and if it was worth the pain.
+#### Yan Jin
 
 ## Sunday
 
@@ -59,3 +77,14 @@ I realised at the bottom of the first pitch that we also did not have the rope f
 Everyone was pretty quick up Centipede. Diss derigged and didn't die. First group out and we got to see the sunset! Lovely trip, would do a Sunday Lost Johns' trip (despite it delaying our departure from Yorkshire).
 
 #### Rhys
+
+I spent the whole day inside the hut. It was good.
+
+####Perry
+
+On Sunday morning, Jack, Jack and I (that was not a typo) made breakfast. Tunvez was amazed at how hot food just magically appears on the table and Jack Hare had a funny response to that (which I can’t recall). Those that decided to cave were off to the Lost John’s Cave. Don’t let the sun fool you because it was freezing cold and windy. To add on, we forgot a 10m rope and DW had to go back and get it. A part of me started to regret my decision to cave but thankfully that was soon dispelled when we started caving. Diss, Rhys, Rita, Augustinas and I went in through Dome and out from Centipede. The SRT was great fun since there were no rebelays. Rhys then realised we didn’t have rope for the second 10m pitch and decided it was ‘safe enough’ to free climb. It indeed was, but it looked impossible to climb back up without a rope (thankfully, it wasn’t something I had to worry about). The next improvisation came when Rhys realised he didn’t have a sling to do a deviation so used the rope bag for it. 
+
+We met the other group and did an exchange to come out by Centipede. A 40m followed by a 20m pitch was not fun to ascend on, but would have been very fun to descend. I led the way out and briefly doubted myself when we had to traverse round a pitch. The climbing and other traverses were generally quite safe with many grips, but it was still terrifying not being able to see the floor below. Nonetheless, this is probably my second favourite caving trip (aside from Hunt Pot)
+
+We were the first out and enjoyed the warmth in the minibus and games of Contact. Admittedly, we left Yorkshire really late, but nonetheless it was a great trip with great adventures and friends. 
+####Yan Jin
