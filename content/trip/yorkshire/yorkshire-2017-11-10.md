@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg: RhysTyers-DSC07227.jpg
 Thumbl: JackHare-DSC08591--thumb.jpg
 Thumbr: RhysTyers-DSC07218--thumb.jpg
-Authors: Rhys Tyers
+Authors: Rhys Tyers, Ho Yan Jin, James Perry
 Cavepeeps: DATE=2017-11-11; CAVE=Lancaster Hole > Wretched Rabbit; PEOPLE=Rhys Tyers, Peter Ganson, Ho Yan Jin, Jack Halliday;
            DATE=2017-11-11; CAVE=Wretched Rabbit > Top Sink; PEOPLE=Jarvist Frost, Rebecca Diss;
            DATE=2017-11-11; CAVE=Top Sink > Wretched Rabbit; PEOPLE=Jack Hare, James Perry,  Thomas Porter, Chris Bradley;
