@@ -1,23 +1,14 @@
 Title: Yorkshire CHECC Date: 2017-11-24 Location: yorkshire Summary: A sizeable contingent elected to sample the CHECC training sessions on Saturday, while others burned off their hangovers by caving in Vesper Pot. The crackedest chose King, and closely escaped its clutches. On Sunday,  
 Type: trip 
 Photoarchive: 
-  Mainimg: .jpg 
-  Thumbl: --thumb.jpg 
-  Thumbr: --thumb.jpg 
-  Authors: Rita Cookson, Tanguy Racine
-  Cavepeeps: 
-    DATE=2017-11-25; 
-      CAVE=Vesper pot; 
-      PEOPLE=Rhys Tyers, Ben Honan, Jennifer Ryder, Rebecca Diss, Arun Paul; 
-   DATE=2017-11-25; 
-       CAVE=King pot; 
-       PEOPLE=Tanguy Racine, Alex Seaton, Jack Halliday; 
-   DATE=2017-11-26; 
-       CAVE=Alum Pot; 
-       PEOPLE=Alex Seaton, Jack Halliday, Tanguy Racine, Peter Ganson, Rita Cookson, Rebecca Diss, Jennifer Ryder; 
-  
-       
-   Status:
+Mainimg: .jpg 
+Thumbl: --thumb.jpg 
+Thumbr: --thumb.jpg 
+Authors: Rita Cookson, Tanguy Racine
+Cavepeeps: DATE=2017-11-25; CAVE=Vesper pot; PEOPLE=Rhys Tyers, Ben Honan, Jennifer Ryder, Rebecca Diss, Arun Paul; 
+           DATE=2017-11-25; CAVE=King pot; PEOPLE=Tanguy Racine, Alex Seaton, Jack Halliday; 
+           DATE=2017-11-26; CAVE=Alum Pot; PEOPLE=Alex Seaton, Jack Halliday, Tanguy Racine, Peter Ganson, Rita Cookson, Rebecca Diss, Jennifer Ryder; 
+Status: draft
 
 {{ mainimg }} {{ photolink }}
 
