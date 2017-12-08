@@ -17,6 +17,7 @@ def parse_metadata(metadata, article):
     # trip is recorded in. Also create array of caves and the articles that
     # refer to the cave (could have a 'people who have been in this cave' thing
     # as well but I didn't think it was useful
+    trips_for_insert = {}
     cavepeep = []  # Set up list to hold named tuples
     row = namedtuple('row', 'date cave person article')
     # Ensure the metadata is a list. It will be a string if there is
@@ -27,6 +28,7 @@ def parse_metadata(metadata, article):
     # on a date.
     c = re.compile(r"""\s*DATE=\s*(\d\d\d\d-\d\d-\d\d)\s*;\s*CAVE=\s*([\s\w\D][^;]*)\s*;\s*PEOPLE=\s*([\s\w\D][^;]*);*[\n\t\r]*""")
     for entry in article_metadata:
+        # Create key/value relationship between trip identifier (Date + Cave) and list of cavers
         item_date = None
         item_caves = None
         item_people = None
@@ -46,12 +48,18 @@ def parse_metadata(metadata, article):
         item_people=item_people if type(item_people) is list else [item_people]
         item_people=[x.strip() for x in item_people]
 
+        n = 1
+        insert_key = "DATE=" + item_date.strftime('%Y-%m-%d') +"; CAVE=" + item_caves + ";"
+        while (insert_key + str(n)) in trips_for_insert:
+            n = n + 1
+        trips_for_insert[insert_key + str(n)] = item_people
+
         for person in item_people:
             cavepeep.append(row(item_date, item_caves, person, article))
-    return cavepeep
+    return (cavepeep, trips_for_insert)
 
 
-def article_link(cavepeep_partial, article, generator):
+def article_link(cavepeep_partial, trips_for_insert, article, generator):
     # Function to create lists of people on individual trips
     # and making those lists available to the article as a nice html string
 
@@ -79,6 +87,14 @@ def article_link(cavepeep_partial, article, generator):
     for key in trips:
         article.data[key] = trips[key]
 
+    for key in trips_for_insert:
+        html = ""
+        for index, name in enumerate(trips_for_insert[key]):
+            if index == 0:
+                html = "<a href='{0}/cavers/{1}.html'>{2}</a>""".format(generator.settings["SITEURL"], name.replace(" ", "%20"), name)
+            else:
+                html += ", {}".format("""<a href='{0}/cavers/{1}.html'>{2}</a>""".format(generator.settings["SITEURL"], name.replace(" ", "%20"), name))
+        article.data[key] = html
 
 #======================MAIN==========================
 
@@ -94,8 +110,8 @@ def cavepeep_linker_for_each_article(generator, content):
     if 'cavepeeps' in article.metadata.keys():
         # Parse metadata and return a list where each item contains a date,
         # cave, caver, and article reference
-        cavepeep_partial=parse_metadata(article.metadata['cavepeeps'], article)
-        article_link(cavepeep_partial, article, generator)
+        cavepeep_partial, trips_for_insert =parse_metadata(article.metadata['cavepeeps'], article)
+        article_link(cavepeep_partial, trips_for_insert, article, generator)
 
     # If unlisted DO NOT ADD TO MAIN CAVEPEEPS dictionary.
     if 'cavepeeps' in article.metadata.keys() and article.type != 'unlisted':
