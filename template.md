@@ -68,6 +68,18 @@ Again, thats just a list of plain links so format it nicely:
 
 ###Cave Name: {{ DATE=2016-01-01; CAVE=Jingling Pot; }}
 
+That will print a list of all the people who went to that cave on that day. If you have metadata like this:
+
+DATE=2016-01-01; CAVE=Agen Allwedd; PEOPLE=Caver A, Caver B;
+DATE=2016-01-01; CAVE=Agen Allwedd; PEOPLE=Caver C, Caver D;
+
+Where you want to show that different groupings of people went into the same cave on the same day then you can do this:
+
+###Cave Name - Group 1 route: {{ DATE=2016-01-01; CAVE=Jingling Pot;1 }}
+###Cave Name - Group 3 route: {{ DATE=2016-01-01; CAVE=Jingling Pot;2 }}
+
+Note the number at the end. This will just print the people in the nth grouping.
+
 There is a plugin active to allow easy inline posting of images. Similar to the way links work in standard markdown:
 
 {"Caption Goes Here Or Not" left}(filename.jpg)
