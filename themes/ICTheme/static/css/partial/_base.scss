@@ -1,16 +1,18 @@
 /*-----------------------------Global Page Properties-----------------------------*/
 html {
+	font-size: 100%;	
 	@media screen and (max-width: $mobile-breakpoint) {
 		//width: 100vw;
 		overflow-x: hidden;
+		font-size: 87.5%;		
 	}
 }
 body {
-	background-color: #efefef;
+	background-color: #F2F2F2;
 	color: $black;
 	font-family: $sans;
+	font-family: Calibri;
 	font-weight: $blackweight;
-	font-size: 100%;
 	margin: 0;
 	overflow-x: hidden;
 	@media screen and (max-width: $mobile-breakpoint) {
@@ -23,7 +25,8 @@ body {
 ol,
 p,
 ul {
-	line-height:  1.9rem;
+	line-height: 1.5rem;
+	font-size: 1rem;
 }
 h1 {
 	font-family: $sans;
