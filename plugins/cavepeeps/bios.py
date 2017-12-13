@@ -44,6 +44,22 @@ def get_data_from_metadata(metadata):
              data["map"] = """<div class="padmore"><iframe width="100%" height="450" frameborder="0" style="border:0" allowfullscreen src="https://www.google.com/maps/embed/v1/search?q=""" + re.sub(r',\s*', "%2C", metadata["location"].strip()) + """&maptype=satellite&key=AIzaSyB03Nzox4roDjtKoddF9xFcYsvm4vi26ig" allowfullscreen></iframe></div>"""
     return data
 
+def was_author_in_cave(article, cave_name):
+    if 'cavepeeps' not in article.article.metadata.keys():
+        return False
+    trips = article.article.metadata['cavepeeps']
+    authors = []
+    if 'author' in article.article.metadata.keys():
+        authors = article.article.metadata['author']
+    elif 'authors' in article.article.metadata.keys():
+        authors = article.article.metadata['authors']
+    for trip in trips:
+        if cave_name in trip:
+            for author in authors:
+                if str(author) in trip:
+                    return True
+    return False
+
 def generate_cave_pages(generator, writer):
     cave_bios=generator.context['cavebios']
     caves = generator.context['cavepeep_cave']
@@ -84,11 +100,13 @@ def generate_cave_pages(generator, writer):
     for page_name, page_data in initialised_pages.items():
         #logging.debug("Cavebios: Writing {}".format(page_name))
         article = Article(page_data.content, page_data.metadata)
+        cave_articles = [ (a, a.date, was_author_in_cave(a, page_name)) for a in page_data.articles ]
+        was_author_in_cave
         writer.write_file(  page_data.path,
                             template = generator.get_template(template),
                             context = generator.context,
                             pagename=page_name,
-                            cave_articles=sorted(page_data.articles, key=lambda x: x.date, reverse=True),
+                            cave_articles=sorted(cave_articles, key=lambda x: x[0].date, reverse=True),
                             article=article)
 
     # ==========Write the index of caves================

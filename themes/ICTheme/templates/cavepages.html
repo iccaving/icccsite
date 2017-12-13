@@ -28,12 +28,14 @@
           <tr>
             <th>Report</th>
             <th>Date</th>
+            <th>Report about cave</th>
           </tr>
-          {% for subarticle, date in cave_articles %}
+          {% for subarticle, date, verified in cave_articles %}
           <tr>
-            <td><a href="{{ SITEURL }}/{{ subarticle.url }}">{{ subarticle.title }}</a>
+            <td><a href="{{ SITEURL }}/{{ subarticle.article.url }}">{{ subarticle.article.title }}</a>
             </td>
             <td>{{ date.strftime('%d-%m-%Y') }}</td>
+            <td>{{ '✓' if verified else '✕' }}</td>
           </tr>
           {% endfor %}
         </table>
