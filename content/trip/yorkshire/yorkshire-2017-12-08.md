@@ -6,7 +6,7 @@ Title: Yorkshire II Date: 2017-12-08 Location: yorkshire Summary:Do you dare to 
 
 ## The Silent Watchers
 
-### Chapter 1 - The flight of the ravens
+### Chapter 1 - The Flight of the Ravens
 
 The old maester’s fingers were trembling. A soft snowflake whirled down, a glimmer of light across the gloomy sky. It settled on the parchment and lost its fire, melting fast on the ink and blurring the words. Cold winds rising, dark and terrible things screaming their fury through the northern wilderness.
 
@@ -14,7 +14,7 @@ Maester Yarwys seldom made the ascent to the rookery these days, but he had to w
 
 The first bird he caught bit his hand, but old age hadn’t robbed him of his strength, and the old maester sent it on its way. One raven may get lost in a storm, two, aye, that was not unheard of, but surely, of the ten he sent off, one might reach its destination, and bring with it the dire news. Or so he hoped.
 
-### Chapter 2 - A call to arms
+### Chapter 2 - A Call to Arms
 
 Two captains lost with the best of their command. The Commander had decreed that an expedition would set off north, into Pännhein mountains, to meet the new threat. The orders had come in sealed in a strong hide pouch, writ in the unmistakable hand of his she-bear underling, Rebbek’hdis, not three days after the raven. How the bird had survived the autumn storms no one knew, but it had caused some muttering among the men. Some had taken a keen interest on who might join the expeditionary force.
 
@@ -70,6 +70,7 @@ At that moment, a bird fluttered to the table, a Tawney with big, inquisitive go
 ‘Little Jon lost in the storms, send help by land. Dead things moving in the night. Reports confused - eyes gleaming in the darkness... Will wait for help three days out of Engl Tun on the north road. By the hand of Big Jon’
 
 ### Chapter 6 – An old Byrnie
+
 Tenguy Roote went through the camp with steaming bowls of stew in the early hours of the next morning, leather boots crunching over the old, dead snow. The sky was leaden and overcast as the company broke fast, bringing little comfort. Soon, the scouting party left, grey black figures vanishing in the pre-dawn gloom. 
 
 Mey and Reyson, loaded the mules in the absence of Petyr, and in single file, they left Grynclaus for Engl Tun, a little stone holdfast half a day’s ride to the west, nestled in a shadowy ravine at the foot of the mountain. 
@@ -86,7 +87,8 @@ Whispers echoed along the soot black rafters, and a thick fog of steam, tobacco 
 The murmurs had stopped, like a wasp’s nest, ready for a sudden outburst. But it was Jacques who broke the silence, spitting his black sourleaf.'You'll take gold you say. Fine, have your gold.' He slid a dagger from his belt, and pried open one of the leather pouches of his boots. Flicking the blade up, he sent a shiny coin spinning up and caught it in a gloved hand. 'Maybe that'll do, but for this price, we'll take all your rope, pick axes and ale casks, and don't you come barking for more. A dog knows his place.’
 
 
-### Chapter 7 Big Jon’s Tale
+### Chapter 7 - Big Jon’s Tale
+
 They set out again as the afternoon wore on, leaving by the western gates under a light snow flurry. The sky had turned milky white and the ruts of the small road filled with a brown slurry. Higher and higher they climbed, leaving the Engl Bru behind them. 
 
 They had another raven from maester Yarwys that day, warning of unrest in the capital, anarchist rounded up next to the Citadel, who had claimed to burn down the precinct, and with it the record of all civilisation. Brooding, Jayme Dobbes examined the maps by campfire light. ‘By now, we should have had information concerning this Little Jon who went missing.’ 
@@ -104,7 +106,8 @@ He frowned ‘Here, that river is passing odd’.
 
 The next morning was bathed in golden sunlight although the grounds remained icy, and it took the best part of an hour to break the carts free from the ruts. Further on, the path rose and wound its way over the bare brow of a line of hills, beyond the wild lands of Lychfäll awaited.
 
-###Chapter 8 The lost river
+### Chapter 8 - The Lost River
+
 The gateway was impressive. A high, drystone wall barred the way across the narrow ravine at the foot of which the advanced party had set up their camp. The only way through, was under a short, but broad tunnel which could easily be barricaded. Runes had been engraved on the archway, that spoke of terrible evil. 
 
 ‘Some will tell you that no Silent Watcher can go through that arch. I’m not sure I believe it myself’ remarked Jacques Rabbit. ‘The Watchers don’t exist, they’re part of a children’s tale. If they did, would that old wall stop them? Har! And those disappearing rivers… well, the water must go somewhere’.
@@ -128,7 +131,7 @@ Jayme had disappeared down the ravine, in a tangle of wood and leather tethers a
 
 
 
-###Chapter 9 A Journey in Darkness
+### Chapter 9 - A Journey in Darkness
 
 Someone had been there already. It was obvious from the sharp metal spikes driven into the rock, the rotten walkways, the old ropes dangling down the passage. Tenguy and Génie Fleur had gone with Dävke, Kryzh and Karela inside the mouth of the cavern, with the intention of finding Big Jon, and if possible Little Jon. 
 
@@ -156,7 +159,7 @@ Before they could continue however shouts echoed from the way they had come. It 
 
 And they watched in horror as his leg twitched, he lost his footing and fell down the abyss, but his sword caught on the rope they’d drawn across the chasm. It snapped and tangling with the fallen man’s limb tensioned again. The subsequent crash of flesh against rock, of bones pulled out of their sockets told them more about the manner of Aleksi’s death than they wished to hear.
 
-###Chapter 10 – The fall
+### Chapter 10 – The Fall
 ‘They’re all dead’ said Kryzh Brëdli. ‘we’re all dead. We can’t go back across.’
 ‘We’ll find another way… We have food for days, we’ll share one torch between five and follow the water for now’ said Tenguy. He took out the last rope and searched for a secure anchor. The darkness seemed to grow more tangible by the minute. At last, he fastened the hempen rope around a rock, and wrapping it above his waist started down.
 
