@@ -112,7 +112,7 @@ The gateway was impressive. A high, drystone wall barred the way across the narr
 
 ‘Some will tell you that no Silent Watcher can go through that arch. I’m not sure I believe it myself’ remarked Jacques Rabbit. ‘The Watchers don’t exist, they’re part of a children’s tale. If they did, would that old wall stop them? Har! And those disappearing rivers… well, the water must go somewhere’.
 
-But even then, they felt a knot in their stomach as they passed under the archway. The horses couldn’t fit, which was a shame, but they took the mules and the cart and followed the winding mountain path, as tall spires of craggy rock rose above them. There was a faint mist rising from the valley floor shrouding them in swirling silver banners giving the place an ethereal look. 
+But even then, they felt a knot in their stomach as they passed under the archway. The horses couldn’t fit, which was a shame, but they took the mules and the cart and followed the winding mountain path, as tall spires of craggy rock rose above them. There was a faint mist rising from the valley floor shrouding them in swirling silver banners, giving the place an ethereal look. 
 
 This part of the Pennhein was strangely silent. There was very little wind, and only shrubs grew on the old black rocks, rising from the otherwise ubiquitous spongy moss. This slowed down the progress to a crawl: picking one’s way around fallen boulders where the path disappeared momentarily. Following Jayme’s lead, they passed a narrow ravine and broke into a hidden valley, with the low rumble of stream rising from its depths.
 
@@ -126,7 +126,8 @@ Jayme had disappeared down the ravine, in a tangle of wood and leather tethers a
 
 ‘To the river’ said Rebekk’hdis. ‘We’re not turning back.’ So, they did, darting quick looks to the sides of the valleys, but they continued unhindered for a while. Then Tenguy stopped and raised an arm, pointing ahead where a wall of rock had appeared, blocking off the entire valley. 
 
-‘This is where the river vanishes. And look, the remains of a camp…’. It was as he said, the stream flowed over boulders, seemingly into the ground itself, and on one of the banks, a circle of stones. ‘There’s a message’ he picked up a rolled-up parchment from under one of the rough-hewn seats. ‘From Big Jon, they followed the water’.
+‘This is where the river vanishes. And look, the remains of a camp…’. It was as he said, the stream flowed over boulders, seemingly into the ground itself, and on one of the banks, a circle of stones. 
+‘There’s a message’ he picked up a rolled-up parchment from under one of the rough-hewn seats. ‘From Big Jon, they followed the water’.
 
 
 
@@ -161,9 +162,12 @@ And they watched in horror as his leg twitched, he lost his footing and fell dow
 
 ### Chapter 10 – The Fall
 ‘They’re all dead’ said Kryzh Brëdli. ‘we’re all dead. We can’t go back across.’
-‘We’ll find another way… We have food for days, we’ll share one torch between five and follow the water for now’ said Tenguy. He took out the last rope and searched for a secure anchor. The darkness seemed to grow more tangible by the minute. At last, he fastened the hempen rope around a rock, and wrapping it above his waist started down.
 
-The walls of the cavern started shaking. Rocks loosened from the walls, falling everywhere, whistling past their ears. Then one his true and Tenguy was also swallowed by the darkness… 
+‘We’ll find another way… We have food for days, we’ll share one torch between five and follow the water for now’ said Tenguy.
+
+He took out the last rope and searched for a secure anchor. The darkness seemed to grow more tangible by the minute. At last, he fastened the hempen rope around a rock, and wrapping it above his waist started down.
+
+The walls of the cavern started shaking. Rocks loosened from the walls, falling everywhere, whistling past their ears. Then one hit true and Tenguy was also swallowed by the darkness… 
 
 Silent watchers, he thought. Golden eyes gleaming through the darkness. The horned enemy. And then a thousand shrieks that turned into one… ‘BAAAAAHHHHHH’ ‘BAAAAAOOOOH’ ‘BOOOOOOOY!’
 
