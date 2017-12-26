@@ -1,4 +1,4 @@
-Title: Calendar Autumn 2017
+Title: Calendar Spring 2018
 Date: 2017-09-19
 Authors:
 Location:
