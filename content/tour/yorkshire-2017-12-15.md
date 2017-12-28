@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg: 
 Thumbl: 
 Thumbr: 
-Authors: Rhys Tyers
+Authors: Rhys Tyers, Jack Hare
 Cavepeeps: DATE=2017-12-16; CAVE=Yordas Pot > Yordas Cave; PEOPLE=Rhys Tyers, Arun Paul, Wesley Gaunt;
 		   DATE=2017-12-16; CAVE=Aquamole Pot; PEOPLE=James Perry, Jack Hare, Jay Chen, Alex Betts;
 		   DATE=2017-12-16; CAVE=Rowten Pot; PEOPLE=Alex Seaton, James Wilson, David Wilson;
@@ -138,11 +138,13 @@ I think I would try very hard to find alternatives before going back in Long Dro
 
 #### Rhys
 
+Alex and I went for a walk. It was initially sunny and clear. As we approached the summit the fog came down, which combined with the wind and the deep snow made Ingleborough quite inhospitable. We took a picture of Becky and her dog on the summit and headed down, getting back just before dark to help Perry, Arun and Dave W cook the massive, excellent Christmas dinner.
+
 ## Tuesday
 
 ### Lanc: {{ DATE=2000-12-19; CAVE=Lancaster Hole; }}
 
-With the entire experienced cohort of the club in rescue training it was left to the old and decrepit to lead a trip. We settled on a Lanc/Cow bimble, with me, Jack, DW, Alex and Ben. It would provide the oppurtunity for some photography, some SRT practice and an excellent introduction to Yorkshire caving for Ben.
+With the entire experienced cohort of the club in rescue training it was left to the old and decrepit to lead a trip. We settled on a Lanc/Cow bimble, with me, Jack, DW, Alex and Ben. It would provide the opportunity for some photography, some SRT practice and an excellent introduction to Yorkshire caving for Ben.
 
 The omens for the trip were poor. It had taken us a long while to get ready. The visibility on the road to Casterton was a few metres at most.  On the steep section, we met a car and had to reverse approximately 5 miles down the hill to a bend where they could pass. On one of the long straights a pair of fog lights loomed in the distance. All too soon, a huge tractor loomed right in front of us. It turns out that tractor headlights are very close together, making them look like a far away car in the fog.
 
@@ -159,6 +161,14 @@ Ben, Jack and I continued to look at the Painter’s Pallete before returning an
 We found DW and Alex at Lanc and waited our turn to exit. 
 
 #### Rhys
+
+"Watch out Rhys, there's a car ahead."
+"Fuck me, he's huge!" as the tractor looms out of the fog, its close set eyes like some mentally deficient gorilla with personal space issues.
+
+"Is all your kit in this rucksack then, Alex?"
+"What rucksack?"
+
+Solid trip, I love the streamway. It's always worth climbing down in Fall Pot to convince yourself you and everyone else knows the way out of the bolder choke, and to check the water level. Just upstream of the choke is a small sandbank, on the left facing downstream. If there isn't one there, then there's an awful lot of water in the stream and I wouldn't attempt it (and I love streamways).
 
 ### Stream to Bar: {{ DATE=2017-12-20; CAVE=Stream Passage Pot > Bar Pot; }} 
 
@@ -183,3 +193,23 @@ When I’d successfully tricked a few people into standing in the waterfall for 
 A good trip! Stream highly recommended even in wet weather.
 
 #### Rhys
+
+I'm pretty certain I straight up told Perry it was a bad idea to do Dihedral several times. I'm glad he didn't die. Now, enough of that, on with my trip:
+
+It was very foggy up on Ingleborough, and if Rhys hadn't known the way so well I'd never have found it. Still, we ended up at Bar and I was grateful our group (me, Ben, Alex and Diss) had no further to go. Diss rigged down competently, but Bar isn't a great place to hang around and I think we all got a bit cold. Still, now I know the proper route to the top of the Bar pitch - under the rock bridge and a traverse on the right, rather than continuing down the rift to an unpleasant tight rebelay.
+
+At the bottom, I rigged the traverse round the South East Aven. The amount of water coming down was stunning - anyone descending that would have been utterly soaked. This was the first firm evidence I got that Perry's plan was in trouble. The others soon joined me, and we got Ben to lead us, as is tradition. He didn't go wrong once, much to my chagrin, but that at least warmed us up as sped through the tunnels. The waterfall was incredibly load, the breathing of a giant with a terrible throat infection sending gusts of misty air through the network of tunnels.
+
+Soon we burst out into the main chamber, greeted by the last few shreds of daylight and a colossal amount of water. I scanned the ceiling, hoping not to see the Dihedral team, but it was only as we walked towards the waterfall that the Stream team turned on their lights and said hello. We were both puzzled where Dihedral had gotten too - we had spent a while rigging Bar and they were supposed to catch up with us if they bailed on their route. I had failed to consider the true alternative - they had tried Dihedral, it had been nasty and they had to retreat. Soon the remnants of that group joined us, and we tried as always to photograph the vast, water lashed chamber. 
+
+Rhys directed Ben Richards to stand quite close to the waterfall, with Arun and me as runners to sort out the flash bearers. I stood next to Ben for a few minutes until i was soaked to the skin and then I bailed - he must really love photos to have stood there for so long. Eventually we were done and we split into groups to head out. Rhys conned me into going out Stream with the Dubz Bruvs, which was truly excellent.
+
+We ran through the tunnels at a mad pace as I tried to warm up - it's nice to see the Dubz Bruvs out of breath and disoriented every now and again. The route finding is absolutely not difficult - just follow the polish, I didn't make a single wrong turn, or even stop to look around. As we approached the first pitch I realised how wet it was - the usual drippy avens were full fledged waterfalls, and I kissed my PVC in thanks as I dashed through.
+
+There was no way I was derigging when I had two highly competitive teenagers to bait, so I prussiked up, waiting every few pitches to check they were okay. Stream is fantastically noisy, and gives you a sense of extreme isolation - conversation is impossible unless you're within a few metres. I was impressed again by the rigging, which was really good given how far the bolts were apart. At one point we had to stop Davey untying a bit of rope that made up an insitu deviation.
+
+I took pity on Davey below the final pitch, and took his bag. I immediately regretted this as it is tight and wet, but I struggled out, mantling myself and 100 m of wet rope out the oil barrel entrance and into six inches of standing water on a fog strewn moor. I grabbed the GPS and made some practice walks to check the bearing was right. The fog swept across like a giant beast, revealing and blocking the lights of the towns below. Soon we were ready to go, and aside from Davey getting thigh deep in a bog (he couldn't see cos his glasses had steamed up) we made it back okay - it would've been impossible without a GPS, as even a compass bearing would've been hard to follow in such a featureless plain (leapfrogging techniques excepted...).
+
+We found the others huddled in a shelter in Bar and invited them to walk back with us, which seemed quicker than usual. A solid trip - it's a shame not to add in a new entrance, but given the conditions there weren't many viable options!
+
+#### Jack
