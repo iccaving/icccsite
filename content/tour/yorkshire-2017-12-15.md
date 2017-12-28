@@ -50,7 +50,7 @@ We were first back to the van, though a fell runner went back and forth and mana
 
 #### Rhys
 
-## Aquamole: {{CAVE=Aquamole Pot; PEOPLE=James Perry, Jack Hare, Jay Chen, Alex Betts;}}
+## Aquamole: {{DATE=2017-12-16; CAVE=Aquamole Pot;}}
 
 It was rigging practice for all, and Perry and I were off to Aquamole with Jay and Alex. I'd been down Aquamole once before and thought it was worth it if you did the last pitch. It was cold on the surface and we got a bit chilly as Perry rigged the first few rebelays. I popped down to check up on him, glad of the exercise, but his rigging was fine, so I returned to the surface to wait with the others.
 
@@ -66,11 +66,18 @@ Back home for delicious Diss-itos and some chat with Clive Westlake.
 
 ### Notts Pot: {{ DATE=2017-12-17; CAVE=Notts Pot 1; }}
 
+| In/Out  | Left        | Centre | Adamsons           |
+| --------|-------------|--------|--------------------|
+| Left    |             | Jack   | Davey              |
+| Centre  |             |        | Alex B, Diss       |
+| Adamsons|Arun, Rhys   |        |                    |
+
+
 Once again paired with Arun, this time for an assault on Notts 1. We walked up mostly as one group. The fog was thick and we did not have a great track record for locating Notts. We did send our most capable cavers, DKP and Alex, on ahead to do some prerigging. We were unperturbed that they walked in the wrong direction and trusted that they knew where they were going.
 
 This time we were armed with some particularly good tips. They are:
 
-Park at cattled grid
+Park at cattle grid
 Enter field by cattle grid
 Follow right collapsed dry stone wall a long way up the field
 Eventually two fence posts are reached with a beam of wood between them
@@ -95,7 +102,13 @@ I found Davey rigging the traverse up into the oxbow for the Twilight route. He 
 
 What seemed like an age and lot of swinging later, and Davey called rope free. I descended carefully, confused by the deviation which seemed to pull the rope in the opposite way than I thought it should. Davey had swung through a small window above the bottom of the shaft, on the other side from a swollen raging waterfall. So far, so fear inducing. But the bolts looked good and it did sort of match the rigging guide. As he continued I went back up to check there wasn't a better deviation - there wasn't. Back down and I called for Jean, who had now been freezing at the top for some time, to join us, which he swiftly did, enjoying the big swing into the window at the bottom of the shaft.
 
-The next pitch is short, and immediately leads to a single bolt rebelay down a larger shaft. There are many, many parallel shafts, testament 
+The next pitch is short, and immediately leads to a single bolt rebelay down a larger shaft. There are many, many parallel shafts, testament to the complex history of Notts. It is a stunning bit of cave in which to dangle from a rope and ponder. Below us the others whooped encouragement, as we were the last group down (though only by ten minutes). The whisky was well appreciate, as were the two soreen, and it took very little time to devise a plan on how to head out.
+
+Perry reckoned Centre was a bit wet from when he rigged it, so we decided on a small group with more confident novices out that way. I was barely able to keep up with Jean and Jay, who formed two-thirds of the J Team. We were at the top before I knew it, though there was definitely more water than usual - the bottoms of the pitches were a bit splashy. Back on the surface we tramped across the heather back to the bus, and as the fog had lifted we could see all the way to the Atlantic.
+
+Dinner was egg fried rice, using the left over sweetcorn and black bean rice from the Diss-itos.
+
+#### Jack
 
 ## Monday
 
