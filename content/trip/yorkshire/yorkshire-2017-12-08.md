@@ -1,21 +1,58 @@
 Title: Yorkshire II 
 Date: 2017-12-08 
 Location: yorkshire 
-Summary:Do you dare to open the blood soaked tome called 'The silent Watchers'. An epic fantasy, roller-coaster of a tale in ten chapters, full to the brim with sizzling gypsies. We also went to Lost Johns', Heron Pot and Yordas 
+Summary:Do you dare to open the blood soaked tome called 'The Silent Watchers'. An epic fantasy, roller-coaster of a tale in ten chapters, full to the brim with sizzling gypsies. We also went to Lost Johns', Heron Pot and Yordas 
 Type: trip 
 Photoarchive: 
-Mainimg: thingy.jpg 
-Thumbl: thingy--thumb.jpg 
-Thumbr: thingy--thumb.jpg 
-Authors: Tanguy Racine 
+Mainimg: JackHare-Yorkshire-2-2017-08636.jpg 
+Thumbl: JackHare-Yorkshire-2-2017-08695--thumb.jpg 
+Thumbr: JackHare-Yorkshire-2-2017-08645--thumb.jpg 
+Authors: Tanguy Racine, Jack Hare 
 Cavepeeps: DATE=2017-12-09; CAVE=Lost Johns' Cave; PEOPLE=Jack Hare, Carla Huynh, David Kirkpatrick, James Wilson, Jennifer Ryder, Tanguy Racine, Rebecca Diss, Chris Bradley, Sam Yen Shuang, Alexander Seaton, Rayson Ng, May Law, Nathaniel Oshunniyi, Joshua Newington; 
            DATE=2017-12-10; CAVE=Heron Pot; PEOPLE=Jack Hare, Carla Huynh, David Kirkpatrick, James Wilson, Jennifer Ryder; 
            DATE=2017-12-10; CAVE=Yordas Pot; PEOPLE= Tanguy Racine, Rebecca Diss, Chris Bradley, Sam Yen Shuang; 
-Status: draft
+Status:
 
 {{ mainimg }} {{ photolink }}
+#####{{ allpeople }}
 
-{{ allpeople }}
+First, the factual report. Read on for Tanguy's fantasy epic!
+
+
+# Saturday
+
+We got up, brushing the ice from our moustaches. Those who hadn't previously had a moustache had grown one during the night as a defensive measure against the cold. Soon we were up, huddled round the oven for warmth. Outside was beautiful and crisp, and we piled into the minibus, nervous about the drive up to Leck Fell. Tanguy drove up the fell road, badly eroded by all the construction traffic for the house half way up. We made it to the cattlegrid with some difficulty, but we were spooked at the thought of going back down in the dark, with the weather predicted to get colder. Instead we spun the minibus around very, very gently and trundled down the hill. Tanguy knocked on the farmer's door and she said we could park in the yard.
+
+It was a grade 1 change, made more amusing by all the city folk working out what the smell was and where all the 'mud' around the yard came from. Eventually, we were changed and we walked steadily up the hill, DKP bravely (suicidally) ferrying people up and down in waves. Checking we had all the rope bags, we split and entered the cave in waves. My team was Peter, Sam, May, Rayson and Diss and we were going down Centipede.
+
+I initially missed the climb up into the roof traverse for centipede - it really is very close to the nasty free climb down into the stream that represents the beginning of Monastery to me. Soon we were up, and no one struggled with the traverses, despite how sketchy they are. Peter began to rig, and I supervised our novices descending. After some slight confusion and mis-information from me (I had assumed Centipede was one long pitch and forgot about Mud before it...) Peter managed to get to the bottom of the big pitch, and we followed close behind.
+
+After all the faff getting to the cave, we'd elected not to take the Battleaxe and Valhalla ropes, and so we only rigged Candle and Shistol because we hadn't met the Dome team yet. It was a nice extra bit of SRT practice as the rebelays are slightly tricky, but we'd got all the way down and still no sign of Dome. We derigged and went to wait at the junction, where they soon arrived. Nothing was wrong, just everything had taken longer than expected. We called James back before he rigged down to Monastery - this was the right call as the Monastery team had respected the turn around time we'd set and we later found out they'd already left by this point.
+
+Nothing left but a simple exchange, Dome out Centipede and Centipede out Dome. Progress was as expected - slightly slow with novices, but no one got hung up or too tired to prussik. We enjoyed the swing out from Dome at the rebelay, and Peter derigged swiftly behind us. On the surface, it was clear and cold, and DKP had waited to take two lucky folks (Diss and Peter) back. Sam, May and Rayson insisted on walking back - apparently some of them had never seen snow in person before, so along with the first caving trip it was certainly a day for new experiences. Shortly after we started walking a friendly forrester picked us up and gave us a lift down the hill in the back of his van.
+
+#### Jack Hare
+
+# Sunday
+
+##Heron Pot: {{DATE=2017-12-10; CAVE=Heron Pot; }}
+
+{"Changing by the minibus." left}(JackHare-Yorkshire-2-2017-08637.jpg)
+
+With the cold weather continuing, we didn't want to risk any of the high fell roads. A Pennine member recommended Kingsdale as the road didn't go as high, so we flicked through the CNCC rigging guide and spotted Heron and Yordas, excellent caves which we'd never done. Heron looked a bit easy with only two pitches, but the high level route offered the opportunity for James to practice rigging, and DKP volunteered to join us in an unprecedented show of enthusiasm.
+
+The drive was fine, the steep bits of road being gritted and my driving being very cautious. A nice change in the brisk wind and we were off, Tanguy's group cutting left at Yordas Wood and my group heading across the frozen valley to Kingsdale Beck. We crossed at the place where Gaze Gill enters, on the other side of the valley. We followed Gaze Gill up, through a dry stone wall and then higher, checking out a few possible entrances along the way until we found one with warm air blowing out.
+
+There's a lot more to Heron than the CNCC rigging guide shows - 500 m or so of lovely, classic Yorkshire streamway, followed by two lovely pitches on the low route, right next to the water, rigging y-hangs in the spray perched on a small ledge. Above me, James and DKP whooped and swung acrobatically, as there weren't many foot holds and the bolts were far apart. Soon we were down, and Jennifer and I set up to get some photos of James and DKP descending.
+
+{"The pitch in Heron." right}(JackHare-Yorkshire-2-2017-08686.jpg)
+
+At the bottom we followed the streamway until it degenerated into a hands and knees crawl in the water. As we had to derig and we didn't know if the exit was sumped, we all headed out, swapping the derig to keep things interesting and then back down the hill in glorious sunshine. A real cracker of a trip and highly recommended - pairs well with Yordas.
+
+#### Jack Hare
+
+
+
 
 ## The Silent Watchers
 
