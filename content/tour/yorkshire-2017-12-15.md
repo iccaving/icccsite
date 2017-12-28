@@ -8,11 +8,20 @@ Mainimg:
 Thumbl: 
 Thumbr: 
 Authors: Rhys Tyers
-Cavepeeps: DATE=2017-12-16; CAVE=Yordas Pot > Yordas Cave; PEOPLE=Rhys Tyers, Arun Paul, Wes;
-           DATE=2017-12-17; CAVE=Notts Pot 1; PEOPLE=Rhys Tyers, Arun Paul, Jay;
-           DATE=2017-12-18; CAVE=Long Drop Pot; PEOPLE=Rhys Tyers, David Wilson, Jay, Wes;
-           DATE=2017-12-19; CAVE=Lancaster Hole; PEOPLE=Rhys Tyers, Jack Hare, Ben;
+Cavepeeps: DATE=2017-12-16; CAVE=Yordas Pot > Yordas Cave; PEOPLE=Rhys Tyers, Arun Paul, Wesley Gaunt;
+		   DATE=2017-12-16; CAVE=Aquamole Pot; PEOPLE=James Perry, Jack Hare, Jay Chen, Alex Betts;
+		   DATE=2017-12-16; CAVE=Rowten Pot; PEOPLE=Alex Seaton, James Wilson, David Wilson;
+		   DATE=2017-12-16; CAVE=Jingling Pot; PEOPLE=Rebecca Diss, David Kirkpatrick, Jean-Yves Burlet;
+           DATE=2017-12-17; CAVE=Notts Pot 1; PEOPLE=Rhys Tyers, Arun Paul, Jay Chen, Jack Hare, David Wilson, Jean-Yves Burlet, James Perry, Rebecca Diss, James Wilson, Alex Seaton, David Kirkpatrick, Wesley Gaunt;
+           DATE=2017-12-18; CAVE=Long Drop Pot; PEOPLE=Rhys Tyers, David Wilson, Jay Chen, Wesley Gaunt;
+           DATE=2017-12-18; CAVE=Death's Head Pot; PEOPLE=Rebecca Diss, James Wilson, Jean-Yves Burlet;
+           DATE=2017-12-19; CAVE=Lancaster Hole; PEOPLE=Rhys Tyers, Jack Hare, Ben Richards, Dave Wilson, Alex Betts;
            DATE=2017-12-20; CAVE=Stream Passage Pot > Bar Pot; PEOPLE=Rhys Tyers, Arun Paul, Jim Evans;
+           DATE=2017-12-20; CAVE=Bar Pot > Stream Passage Pot; PEOPLE=Jack Hare, David Wilson, James Wilson;
+           DATE=2017-12-20; CAVE=Bar Pot > Bar Pot; PEOPLE=Rebecca Diss, Alex Betts, Ben Richards, Jay Chen;
+           DATE=2017-12-21; CAVE=Notts Pot 2; PEOPLE=Jack Hare, Rhys Tyers, James Wilson, David Wilson, Rebecca Diss, Arun Paul, Ben Richards, Jay Chen;
+		   
+Status: draft
 {{ mainimg }}
 {{ photolink }}
 ##### {{ allpeople }}
@@ -41,9 +50,21 @@ We were first back to the van, though a fell runner went back and forth and mana
 
 #### Rhys
 
+## Aquamole: {{CAVE=Aquamole Pot; PEOPLE=James Perry, Jack Hare, Jay Chen, Alex Betts;}}
+
+It was rigging practice for all, and Perry and I were off to Aquamole with Jay and Alex. I'd been down Aquamole once before and thought it was worth it if you did the last pitch. It was cold on the surface and we got a bit chilly as Perry rigged the first few rebelays. I popped down to check up on him, glad of the exercise, but his rigging was fine, so I returned to the surface to wait with the others.
+
+Jay seemed pretty competent (he said he'd been to all the tree trainings, and was able to down prussik so I believed him) so I let him go first with Alex behind and me last. There's nothing too interesting in Aquamole apart from stopping to wonder at how crazy the whole idea of cave diving in and bolt climbing up is. Soon we got to the big final pitch, which was even larger than I'd remembered. Perry went down, trying valiantly to pretend he didn't need PVC, and put in one of the three deviations.
+
+I went last, added the second deviation, missed the third and regretted it on the way back up. As Perry climbed back up, the rest of us went for a cheeky piss in every available aven and sump. It's quite a slog for novices all the way back up, but everyone got there in the end through steady prussiking. I derigged, and we were soon on the surface again, a bit later than we'd intended to be but no longer after the others.
+
+Back home for delicious Diss-itos and some chat with Clive Westlake.
+
+#### Jack
+
 ## Sunday
 
-### Notts Pot: {{ DATE=2000-12-17; CAVE=Notts Pot 1; }}
+### Notts Pot: {{ DATE=2017-12-17; CAVE=Notts Pot 1; }}
 
 Once again paired with Arun, this time for an assault on Notts 1. We walked up mostly as one group. The fog was thick and we did not have a great track record for locating Notts. We did send our most capable cavers, DKP and Alex, on ahead to do some prerigging. We were unperturbed that they walked in the wrong direction and trusted that they knew where they were going.
 
@@ -67,6 +88,14 @@ Arun made quick work of the rigging. We zipped down and quickly landed on the Ce
 Arun and I went up Left, tailed by Jimmy Dubz who derigged. There was entertaining rigging on the way out including a deviation that seemed to be there more for moral support than anything else. Someone had thought it was really funny to pack all ~125m of rope into a single large bag. It was very funny when Jimmy was derigging, but a lot less funny when I had to carry it out the entrance pitches. 
 
 #### Rhys
+
+I confirm Rhys' directions from DW are the best. It was a miserable foggy day, but at least the ice had all melted and we could drive right to the cattlegrid. Waiting on the surface is always grim, and I looked in vain for any rocks you could rig another rope from down the entrance shaft, but it really is very rock free around there. There was a slight queue above the second pitch, which was very sociable. We'd carefully sent the riggers first so I was keen to catch up with Davey and see if he'd gone the correct way - 'Left Route' could be confusing for some. In fact, it turned out Alex had gone that way, but was rescued before he got too far.
+
+I found Davey rigging the traverse up into the oxbow for the Twilight route. He rigged it as a beautiful tension traverse, very tight and safe. At the pitch head Jean and I waited for him to descend and call rope free. Instead, he rigged a temporary rebelay and invited me down to have a look. Sadly, my hand drawn rigging guide missed off all the other routes, and there was a plethora of bolts to tempt us. In the end, we spotted a deviation below the broad, curving ledge we were on, and so I poppsed back up the shaft to let Davey keep descending.
+
+What seemed like an age and lot of swinging later, and Davey called rope free. I descended carefully, confused by the deviation which seemed to pull the rope in the opposite way than I thought it should. Davey had swung through a small window above the bottom of the shaft, on the other side from a swollen raging waterfall. So far, so fear inducing. But the bolts looked good and it did sort of match the rigging guide. As he continued I went back up to check there wasn't a better deviation - there wasn't. Back down and I called for Jean, who had now been freezing at the top for some time, to join us, which he swiftly did, enjoying the big swing into the window at the bottom of the shaft.
+
+The next pitch is short, and immediately leads to a single bolt rebelay down a larger shaft. There are many, many parallel shafts, testament 
 
 ## Monday
 
