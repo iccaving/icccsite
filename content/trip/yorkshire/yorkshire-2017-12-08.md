@@ -19,7 +19,7 @@ Status:
 First, the factual report. Read on for Tanguy's fantasy epic!
 
 
-# Saturday
+## Saturday
 
 We got up, brushing the ice from our moustaches. Those who hadn't previously had a moustache had grown one during the night as a defensive measure against the cold. Soon we were up, huddled round the oven for warmth. Outside was beautiful and crisp, and we piled into the minibus, nervous about the drive up to Leck Fell. Tanguy drove up the fell road, badly eroded by all the construction traffic for the house half way up. We made it to the cattlegrid with some difficulty, but we were spooked at the thought of going back down in the dark, with the weather predicted to get colder. Instead we spun the minibus around very, very gently and trundled down the hill. Tanguy knocked on the farmer's door and she said we could park in the yard.
 
@@ -33,9 +33,9 @@ Nothing left but a simple exchange, Dome out Centipede and Centipede out Dome. P
 
 #### Jack Hare
 
-# Sunday
+## Sunday
 
-##Heron Pot: {{DATE=2017-12-10; CAVE=Heron Pot; }}
+##Heron Pot: {{ DATE=2017-12-10; CAVE=Heron Pot; }}
 
 {"Changing by the minibus." left}(JackHare-Yorkshire-2-2017-08637.jpg)
 
