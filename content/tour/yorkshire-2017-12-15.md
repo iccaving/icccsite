@@ -2,8 +2,8 @@ Title: Yorkshire Winter Tour
 Date: 2017-12-15
 Location: yorkshire
 Summary: A superb winter tour which saw almost all of the rigging carried out by the next generation of leaders. We tackled club classics like Notts 1 and Gaping Ghyll, and tackled a few less usual ones like Death's Head and Yordas.
-Type: trip
-Photoarchive:
+Type: tour
+Photoarchive: /rcc/caving/photo_archive/tours/2017%20-%20yorkshire%20winter/
 Mainimg: RhysTyers-DSC07611.jpg
 Thumbl: RhysTyers-DSC07587--thumb.jpg
 Thumbr: RhysTyers-DSC07274--thumb.jpg

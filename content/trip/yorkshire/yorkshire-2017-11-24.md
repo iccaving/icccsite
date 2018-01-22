@@ -3,14 +3,14 @@ Date: 2017-11-24
 Location: yorkshire
 Summary: This weekend was a trip like no other. Instead of 15 ICCC cavers heading to the NPC for a weekend of caving and mild debauchery, ~17 clubs from across the UK came together for a weekend of hard drinking (and maybe some caving/training). For anyone that doesn’t know, CHECC (Council for Higher Education Caving Clubs) “is a national organisation set up to support and encourage caving amongst university students”. They basically organise weekends of training (amongst other things) throughout the year where all the clubs come together to learn new skills and get very drunk. They also have lots of competitions which gain clubs points throughout the weekend and the club with the most wins a bunch of caving stuff. I’d say this weekend was basically a festival for university caving clubs and it was pretty good fun. - Diss \#TripleSec
 Type: trip
-Photoarchive:
+Photoarchive: /rcc/caving/photo_archive/trips/2017-11-24%20-%20yorkshire/
 Mainimg: DSC06787.jpg
 Thumbl: DSC06785--thumb.jpg
 Thumbr: DSC06768--thumb.jpg
 Authors: Rita Cookson, Tanguy Racine, Rebecca Diss
 Cavepeeps: DATE=2017-11-25; CAVE=Vesper pot; PEOPLE=Rhys Tyers, Ben Honan, Jennifer Ryder, Rebecca Diss, Arun Paul;
            DATE=2017-11-25; CAVE=King pot; PEOPLE=Tanguy Racine, Alex Seaton, Jack Halliday;
-           DATE=2017-11-26; CAVE=Alum Pot; PEOPLE=Alex Seaton, Jack Halliday, Tanguy Racine, Peter Ganson, Rita Cookson, Rebecca Diss, Jennifer Ryder, Rhys Tyers; 
+           DATE=2017-11-26; CAVE=Alum Pot; PEOPLE=Alex Seaton, Jack Halliday, Tanguy Racine, Peter Ganson, Rita Cookson, Rebecca Diss, Jennifer Ryder, Rhys Tyers;
 
 {{ mainimg }}
 {{ photolink }}
