@@ -1,12 +1,12 @@
 Title: Yorkshire Winter Tour
 Date: 2017-12-15
 Location: yorkshire
-Summary: A summary.
+Summary: A superb winter tour which saw almost all of the rigging carried out by the next generation of leaders. We tackled club classics like Notts 1 and Gaping Ghyll, and tackled a few less usual ones like Death's Head and Yordas.
 Type: trip
 Photoarchive:
-Mainimg: 
-Thumbl: 
-Thumbr: 
+Mainimg: RhysTyers-DSC07611.jpg
+Thumbl: RhysTyers-DSC07587--thumb.jpg
+Thumbr: RhysTyers-DSC07274--thumb.jpg
 Authors: Rhys Tyers, Jack Hare
 Cavepeeps: DATE=2017-12-16; CAVE=Yordas Pot > Yordas Cave; PEOPLE=Rhys Tyers, Arun Paul, Wesley Gaunt;
 		   DATE=2017-12-16; CAVE=Aquamole Pot; PEOPLE=James Perry, Jack Hare, Jay Chen, Alex Betts;
@@ -20,7 +20,6 @@ Cavepeeps: DATE=2017-12-16; CAVE=Yordas Pot > Yordas Cave; PEOPLE=Rhys Tyers, Ar
            DATE=2017-12-20; CAVE=Bar Pot > Stream Passage Pot; PEOPLE=Jack Hare, David Wilson, James Wilson;
            DATE=2017-12-20; CAVE=Bar Pot > Bar Pot; PEOPLE=Rebecca Diss, Alex Betts, Ben Richards, Jay Chen;
            DATE=2017-12-21; CAVE=Notts Pot 2; PEOPLE=Jack Hare, Rhys Tyers, James Wilson, David Wilson, Rebecca Diss, Arun Paul, Ben Richards, Jay Chen;	   
-Status: draft
 
 {{ mainimg }}
 {{ photolink }}
@@ -32,11 +31,11 @@ Status: draft
 
 A surprisingly entertaining cave is Yordas. Perfect for a quick Sunday, or rigging practice for the those with confident SRT skills. Two simple pitches and one epic traverse, over a roaring streamway (perhaps just the relatively wet weather?) and then the grand chamber of Yordas Cave.
 
-Arun wanted to rig so we picked Yordas. We parked (relatively close) and after changing stomped down the road, debating which wood it was that Yordas was located in. We stopped at the first and investigated. Pushing open a gate laden with warnings about how disputed this land was we made our way uphill. Quickly it became apparent that this was the perfect location for a cave and we stumbled upon Yordas Cave in the left wall of a gully. 
+Arun wanted to rig so we picked Yordas. We parked (relatively close) and after changing stomped down the road, debating which wood it was that Yordas was located in. We stopped at the first and investigated. Pushing open a gate laden with warnings about how disputed this land was we made our way uphill. Quickly it became apparent that this was the perfect location for a cave and we stumbled upon Yordas Cave in the left wall of a gully.
 
 Slightly further up we found the stream disappearing into a dark crevice, and some tempting p bolts. There’s was already some rope on these, and voices echoing up. Oh well, Arun would have some guidance for his rigging at least. He set about on the first pitch, a simple traverse to a drop.
 
-The second pitch is much the same, again Arun following the rope of the other party. The final pitch is the worthwhile one. Arun began the long traverse but soon noticed the other party on their way up derigging. He paused to wait for them and I took the opportunity to flash everyone (for photography purposes). 
+The second pitch is much the same, again Arun following the rope of the other party. The final pitch is the worthwhile one. Arun began the long traverse but soon noticed the other party on their way up derigging. He paused to wait for them and I took the opportunity to flash everyone (for photography purposes).
 
 Whilst we waited we tried to get to the alternative entrances but we found the way on would require a flat out crawl in the cobbly streamway. We bailed on that, content to wait in the dry.
 
@@ -92,7 +91,7 @@ We went our separate ways again. Arun doing the surprisingly dodgy first climb u
 
 Arun made quick work of the rigging. We zipped down and quickly landed on the Centrists in the meet up chamber. The Leftists soon made an appearance, rigging out along a traverse I had not know existed, keen I assume to avoid the torrent of water below. We all went to have a look at the scary amount of water thundering down the next pitch but we had agreed to turn back in the morning, as it would certainly be too wet to be enjoyable.
 
-Arun and I went up Left, tailed by Jimmy Dubz who derigged. There was entertaining rigging on the way out including a deviation that seemed to be there more for moral support than anything else. Someone had thought it was really funny to pack all ~125m of rope into a single large bag. It was very funny when Jimmy was derigging, but a lot less funny when I had to carry it out the entrance pitches. 
+Arun and I went up Left, tailed by Jimmy Dubz who derigged. There was entertaining rigging on the way out including a deviation that seemed to be there more for moral support than anything else. Someone had thought it was really funny to pack all ~125m of rope into a single large bag. It was very funny when Jimmy was derigging, but a lot less funny when I had to carry it out the entrance pitches.
 
 #### Rhys
 
@@ -114,9 +113,9 @@ Dinner was egg fried rice, using the left over sweetcorn and black bean rice fro
 
 ### Long Drop Pot: {{ DATE=2000-12-18; CAVE=Long Drop Pot; }}
 
-A shorter day today (not that there had been any epics so far). The imperative of the day was to be back in time for Christmas dinner. As such, Diss and Jimmy lead Jean down Death’s head. Diss was their to conquer her demons having bailed on the trip last time. 
+A shorter day today (not that there had been any epics so far). The imperative of the day was to be back in time for Christmas dinner. As such, Diss and Jimmy lead Jean down Death’s head. Diss was their to conquer her demons having bailed on the trip last time.
 
-My plan was to ‘supervise’ Davey rigging Long Drop cave which we had read was a wet weather classic on Leck Fell. I fear this description was some sick joke. 
+My plan was to ‘supervise’ Davey rigging Long Drop cave which we had read was a wet weather classic on Leck Fell. I fear this description was some sick joke.
 
 We located the cave by walking to Death’s head then walking diagonally back up, towards the distant farm house. It is in a large fenced off shakehole with many trees. It probably isn’t hard to find by following the obvious dry valley from Rumbling either. The entrance is a delightfully smooth drop into a small chamber, with the first pitch immediately there. Davey wiggle in to rig.
 
@@ -130,7 +129,7 @@ He picks downstream first, finding a crawl through deep water, with just enough 
 
 Not very far at all we found a sump, under a small aven. It was not entirely sumped though. A pencil width air space was blowing an impressive draught into the chamber. This may be the duck, or it may be the sump into Death’s Head but there was certainly no getting past it today.
 
-Back at the rope, Davey inserted himself into the upstream lead which became to grim even for him. Satisfied we began out. I derigged and enjoyed the cave more, as I was able to stay warmer. No one had any serious problems with the pitch heads and we were out in time for dusk. 
+Back at the rope, Davey inserted himself into the upstream lead which became to grim even for him. Satisfied we began out. I derigged and enjoyed the cave more, as I was able to stay warmer. No one had any serious problems with the pitch heads and we were out in time for dusk.
 
 We wandered over to Death’s Head to find a lonely Jean, who we assumed having killed Diss and Jimmy, was waiting to harvest their souls when they floated out the shaft. We left him to it.
 
@@ -148,17 +147,17 @@ With the entire experienced cohort of the club in rescue training it was left to
 
 The omens for the trip were poor. It had taken us a long while to get ready. The visibility on the road to Casterton was a few metres at most.  On the steep section, we met a car and had to reverse approximately 5 miles down the hill to a bend where they could pass. On one of the long straights a pair of fog lights loomed in the distance. All too soon, a huge tractor loomed right in front of us. It turns out that tractor headlights are very close together, making them look like a far away car in the fog.
 
-We reversed approximately 10 miles before the farmer deigned to use his entirely capable tractor to pull over onto to some grass and let us pass. We found that where we had first met him was a double passing place. 
+We reversed approximately 10 miles before the farmer deigned to use his entirely capable tractor to pull over onto to some grass and let us pass. We found that where we had first met him was a double passing place.
 
 At Bull Pot it was quickly established that Alex had forgotten his entire kit. DW arrived in time to ferry Alex back to the NPC to get it. Jack and I decided then that we would abandon Cow (as it was only Jack and I that wanted to it) and instead rig Lanc with Ben, hoping that DW and Alex would catch up.
 
-We arrived to a deserted Lanc (shocking!) and Jack rigged down. We climbed into the colonnades to do some photography, leaving a bag as a signal to DW and Alex. Ben proved keen and able with the camera and we spent a good while in their before continuing along the main drag toward Stake Pot. 
+We arrived to a deserted Lanc (shocking!) and Jack rigged down. We climbed into the colonnades to do some photography, leaving a bag as a signal to DW and Alex. Ben proved keen and able with the camera and we spent a good while in their before continuing along the main drag toward Stake Pot.
 
-On the way past Fall Pot we clambered down to check the water levels, finding them to be adequate for a return in the streamway. At Stake Pot we finally met with Alex and DW who, having interpreted our bag signal in a very different way, had overtaken us right at the start. They started heading out (aborting on the streamway due to concerns over the levels). 
+On the way past Fall Pot we clambered down to check the water levels, finding them to be adequate for a return in the streamway. At Stake Pot we finally met with Alex and DW who, having interpreted our bag signal in a very different way, had overtaken us right at the start. They started heading out (aborting on the streamway due to concerns over the levels).
 
-Ben, Jack and I continued to look at the Painter’s Pallete before returning and braving the streamway. Jack and I both reckoned we’d done it in higher water conditions so we gave it a go. The first section is exciting and commiting, with some fast meanders and deep pots but it gets easier as you go. Alas we were very quickly back to Fall Pot. 
+Ben, Jack and I continued to look at the Painter’s Pallete before returning and braving the streamway. Jack and I both reckoned we’d done it in higher water conditions so we gave it a go. The first section is exciting and commiting, with some fast meanders and deep pots but it gets easier as you go. Alas we were very quickly back to Fall Pot.
 
-We found DW and Alex at Lanc and waited our turn to exit. 
+We found DW and Alex at Lanc and waited our turn to exit.
 
 #### Rhys
 
@@ -170,15 +169,17 @@ We found DW and Alex at Lanc and waited our turn to exit.
 
 Solid trip, I love the streamway. It's always worth climbing down in Fall Pot to convince yourself you and everyone else knows the way out of the bolder choke, and to check the water level. Just upstream of the choke is a small sandbank, on the left facing downstream. If there isn't one there, then there's an awful lot of water in the stream and I wouldn't attempt it (and I love streamways).
 
-### Stream to Bar: {{ DATE=2017-12-20; CAVE=Stream Passage Pot > Bar Pot; }} 
+## Wednesday
+
+### Stream to Bar: {{ DATE=2017-12-20; CAVE=Stream Passage Pot > Bar Pot; }}
 
 The highlight of the tour. The one everyone had been looking forward to. Gaping Ghill. And gosh what a day for it. Constant relentless drizzle hounded us dampening our spirits and clothes. Still we managed to motivate ourselves to get over to Clapham and change in said drizzle. (Some of the more depraved opted to change in the children's playground, sheltering their naked bodies in play houses and under slides).
 
-We had a plan for a Bar, Stream and err Dihedral exchange. As we passed the waterfall in Clapham I said things like “Ooh, that’s a lot of water” and “I wouldn’t like to be dangling in that” but it had no effect on the determined Perry. The drizzle turned eventually to fog as we climbed upwards. I was glad we had brought the GPS for stream as it turned out to be quite useful for finding our way at all. 
+We had a plan for a Bar, Stream and err Dihedral exchange. As we passed the waterfall in Clapham I said things like “Ooh, that’s a lot of water” and “I wouldn’t like to be dangling in that” but it had no effect on the determined Perry. The drizzle turned eventually to fog as we climbed upwards. I was glad we had brought the GPS for stream as it turned out to be quite useful for finding our way at all.
 
 We dropped off the Barred and Stream team escorted the Diehards to Dihedral. The fog was thick enough that from the fence you could barely see the stream. But it was clear there was a fair amount of water. We bade Perry and his followers good luck and went to find Stream.
 
-I was pleased to be paired again with Arun, and accompanied by Jim. We arrived at the entrance which, true to its name, had a stream running into it.  Arun allowed me to rig so I slithered down the entrance tube into the first drippy chamber, desperately looking for a dry patch. I quickly rigged down and waited in the first big chamber for the others. 
+I was pleased to be paired again with Arun, and accompanied by Jim. We arrived at the entrance which, true to its name, had a stream running into it.  Arun allowed me to rig so I slithered down the entrance tube into the first drippy chamber, desperately looking for a dry patch. I quickly rigged down and waited in the first big chamber for the others.
 
 The rest of Stream was lovely! I gather it got a bit cold for Jim in his fabric but in PVC Arun and I were fine. The rigging is superb, with the traverses staying high above the stream and the bolts are almost always close enough to reach from the previous. There are two places where it seems like the traverse could be extended a bit but oh well. Jarv’s scrawled warning in the rigging guide about the rope lengths being a bit tight proved true. We took the exact lengths and there wasn’t a meter to spare on any of them (and I rigged quite sparingly).
 
@@ -194,13 +195,15 @@ A good trip! Stream highly recommended even in wet weather.
 
 #### Rhys
 
+### Bar to Stream: {{ DATE=2017-12-20; CAVE=Bar Pot > Stream Passage Pot; }}
+
 I'm pretty certain I straight up told Perry it was a bad idea to do Dihedral several times. I'm glad he didn't die. Now, enough of that, on with my trip:
 
 It was very foggy up on Ingleborough, and if Rhys hadn't known the way so well I'd never have found it. Still, we ended up at Bar and I was grateful our group (me, Ben, Alex and Diss) had no further to go. Diss rigged down competently, but Bar isn't a great place to hang around and I think we all got a bit cold. Still, now I know the proper route to the top of the Bar pitch - under the rock bridge and a traverse on the right, rather than continuing down the rift to an unpleasant tight rebelay.
 
 At the bottom, I rigged the traverse round the South East Aven. The amount of water coming down was stunning - anyone descending that would have been utterly soaked. This was the first firm evidence I got that Perry's plan was in trouble. The others soon joined me, and we got Ben to lead us, as is tradition. He didn't go wrong once, much to my chagrin, but that at least warmed us up as sped through the tunnels. The waterfall was incredibly load, the breathing of a giant with a terrible throat infection sending gusts of misty air through the network of tunnels.
 
-Soon we burst out into the main chamber, greeted by the last few shreds of daylight and a colossal amount of water. I scanned the ceiling, hoping not to see the Dihedral team, but it was only as we walked towards the waterfall that the Stream team turned on their lights and said hello. We were both puzzled where Dihedral had gotten too - we had spent a while rigging Bar and they were supposed to catch up with us if they bailed on their route. I had failed to consider the true alternative - they had tried Dihedral, it had been nasty and they had to retreat. Soon the remnants of that group joined us, and we tried as always to photograph the vast, water lashed chamber. 
+Soon we burst out into the main chamber, greeted by the last few shreds of daylight and a colossal amount of water. I scanned the ceiling, hoping not to see the Dihedral team, but it was only as we walked towards the waterfall that the Stream team turned on their lights and said hello. We were both puzzled where Dihedral had gotten too - we had spent a while rigging Bar and they were supposed to catch up with us if they bailed on their route. I had failed to consider the true alternative - they had tried Dihedral, it had been nasty and they had to retreat. Soon the remnants of that group joined us, and we tried as always to photograph the vast, water lashed chamber.
 
 Rhys directed Ben Richards to stand quite close to the waterfall, with Arun and me as runners to sort out the flash bearers. I stood next to Ben for a few minutes until i was soaked to the skin and then I bailed - he must really love photos to have stood there for so long. Eventually we were done and we split into groups to head out. Rhys conned me into going out Stream with the Dubz Bruvs, which was truly excellent.
 
@@ -211,5 +214,13 @@ There was no way I was derigging when I had two highly competitive teenagers to 
 I took pity on Davey below the final pitch, and took his bag. I immediately regretted this as it is tight and wet, but I struggled out, mantling myself and 100 m of wet rope out the oil barrel entrance and into six inches of standing water on a fog strewn moor. I grabbed the GPS and made some practice walks to check the bearing was right. The fog swept across like a giant beast, revealing and blocking the lights of the towns below. Soon we were ready to go, and aside from Davey getting thigh deep in a bog (he couldn't see cos his glasses had steamed up) we made it back okay - it would've been impossible without a GPS, as even a compass bearing would've been hard to follow in such a featureless plain (leapfrogging techniques excepted...).
 
 We found the others huddled in a shelter in Bar and invited them to walk back with us, which seemed quicker than usual. A solid trip - it's a shame not to add in a new entrance, but given the conditions there weren't many viable options!
+
+#### Jack
+
+## Thursday
+
+### Notts 2: {{DATE=2017-12-21; CAVE=Notts Pot 2;}}
+
+A quick bimble into Notts 2 - always a pleasure. We checked out a few of the inlets far upstream, believing (wrongly) that they were the way into Lost Johns'/Boxhead. On the drive back the front left wheel almost fell off the minibus, but Perry's careful driving saw us all the way back to South Ken.
 
 #### Jack
