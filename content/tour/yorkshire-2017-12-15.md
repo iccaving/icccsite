@@ -139,6 +139,8 @@ I think I would try very hard to find alternatives before going back in Long Dro
 
 Alex and I went for a walk. It was initially sunny and clear. As we approached the summit the fog came down, which combined with the wind and the deep snow made Ingleborough quite inhospitable. We took a picture of Becky and her dog on the summit and headed down, getting back just before dark to help Perry, Arun and Dave W cook the massive, excellent Christmas dinner.
 
+#### Jack
+
 ## Tuesday
 
 ### Lanc: {{ DATE=2000-12-19; CAVE=Lancaster Hole; }}
