@@ -49,7 +49,7 @@ We were first back to the van, though a fell runner went back and forth and mana
 
 #### Rhys
 
-## Aquamole: {{DATE=2017-12-16; CAVE=Aquamole Pot;}}
+### Aquamole: {{ DATE=2017-12-16; CAVE=Aquamole Pot; }}
 
 It was rigging practice for all, and Perry and I were off to Aquamole with Jay and Alex. I'd been down Aquamole once before and thought it was worth it if you did the last pitch. It was cold on the surface and we got a bit chilly as Perry rigged the first few rebelays. I popped down to check up on him, glad of the exercise, but his rigging was fine, so I returned to the surface to wait with the others.
 
@@ -111,7 +111,7 @@ Dinner was egg fried rice, using the left over sweetcorn and black bean rice fro
 
 ## Monday
 
-### Long Drop Pot: {{ DATE=2000-12-18; CAVE=Long Drop Pot; }}
+### Long Drop Pot: {{ DATE=2017-12-18; CAVE=Long Drop Pot; }}
 
 A shorter day today (not that there had been any epics so far). The imperative of the day was to be back in time for Christmas dinner. As such, Diss and Jimmy lead Jean down Death’s head. Diss was their to conquer her demons having bailed on the trip last time.
 
@@ -143,7 +143,7 @@ Alex and I went for a walk. It was initially sunny and clear. As we approached t
 
 ## Tuesday
 
-### Lanc: {{ DATE=2000-12-19; CAVE=Lancaster Hole; }}
+### Lanc: {{ DATE=2017-12-19; CAVE=Lancaster Hole; }}
 
 With the entire experienced cohort of the club in rescue training it was left to the old and decrepit to lead a trip. We settled on a Lanc/Cow bimble, with me, Jack, DW, Alex and Ben. It would provide the opportunity for some photography, some SRT practice and an excellent introduction to Yorkshire caving for Ben.
 
