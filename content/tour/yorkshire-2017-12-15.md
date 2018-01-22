@@ -169,6 +169,8 @@ We found DW and Alex at Lanc and waited our turn to exit.
 
 Solid trip, I love the streamway. It's always worth climbing down in Fall Pot to convince yourself you and everyone else knows the way out of the bolder choke, and to check the water level. Just upstream of the choke is a small sandbank, on the left facing downstream. If there isn't one there, then there's an awful lot of water in the stream and I wouldn't attempt it (and I love streamways).
 
+#### Jack
+
 ## Wednesday
 
 ### Stream to Bar: {{ DATE=2017-12-20; CAVE=Stream Passage Pot > Bar Pot; }}
