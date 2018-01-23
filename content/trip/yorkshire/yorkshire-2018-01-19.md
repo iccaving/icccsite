@@ -9,7 +9,7 @@ Thumbl:
 Thumbr: 
 Authors: Jarv
 Cavepeeps: 
-Status:
+Status: draft
 
 {{ mainimg }} {{ photolink }}
 #####{{ allpeople }}
