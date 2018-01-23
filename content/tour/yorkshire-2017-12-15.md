@@ -61,6 +61,20 @@ Back home for delicious Diss-itos and some chat with Clive Westlake.
 
 #### Jack
 
+### Jingling: {{ DATE=2017-12-16; CAVE=Jingling Pot; }}
+
+"Rigging 101 with Professor DKP"
+
+After a small amount of totally not going the wrong way, we spied the tree that pinpoints the location of Jingling (best cave). It was very cold, so we were keen to get on with it ASAP. I rigged the first bolt before some heads appeared at the bottom of the pitch – another team on their way out. I climbed back out and we ran around in an attempt to keep warm whilst we waited for them to leave. This took way longer than expected and I was very cold.
+
+Finally, in the cave, rigging started off just fine (Lateral Cleft route). The first bit is pretty easy and then you come to the weird traverse which isn’t hard when rigged but is quite psychologically challenging when your lifeline is a descender rigged several metres down from the previous bolt. “It’s fine” they all say. The hardest part is getting up onto the ledge but once that’s done you’re quite well wedged and it’s not scary. I was very slow but managed to rig it all, with Dave’s practical and mental support. My main issues are that I am very afraid of all things which makes me very hesitant and my lack of knot practice which means I take yonks to dress and alter them. Despite having a longer rope than needed, it didn’t quite reach the bottom (maybe half a metre up) but I did so it was fine.
+
+I managed to get Dave to de-rig, stressing how “incredibly slow” I’d be and “didn’t he want to get out and get drinking quickly?”. Sucker.  The ascent was really pleasant – I went first, followed by Jean – and we sang many a song. The singing continued on the way down the fell and we were changed and zooming off in DKPs car in no time.
+
+Back at the hut, we baked brownies which DKP bought the ingredients for (best Dave?). The NPC oven is a real piece of work and the brownies took perhaps double the time to be about ¾ cooked. We gave up and ate them in their gooey state, a great idea in hindsight. Gooey brownies are the best brownies.
+
+#### Diss
+
 ## Sunday
 
 ### Notts Pot: {{ DATE=2017-12-17; CAVE=Notts Pot 1; }}
@@ -109,6 +123,18 @@ Dinner was egg fried rice, using the left over sweetcorn and black bean rice fro
 
 #### Jack
 
+"Nott(s) your cup of tea?"
+
+The trip started with an impressively well-navigated walk to Notts 1. It was a bit drizzly and my holey-crotched PVC over suit left me with a damp bottom, but my spirits remained intact. Our route was Centre with Perry rigging, supervised by the not-much-more-experienced Jimmy, followed by Alex B and me at the back. It went well for the most part, although it was very cold. Alex and I sang to distract from the numb extremities and we were down before we knew it. The most memorable part for me is where I ended up wedged at a rebelay for a slightly painful time waiting for rope free. In hindsight I should have stayed at the top, but I didn’t know how the cave went so it wasn’t a predictable situation. It was made especially uncomfortable by the fact that I could see it would be quite a tricky rebelay, the loop being too low to stand up in, so my mode of action was to wedge myself just above the bolt, putting all my weight on my kneepad-less knees. Being like this for over five minutes was sad but worth it to avoid getting stuck later.
+
+We met with the other teams at the bottom, where I was instructed to stand under a waterfall by Rhys. God knows what for. Sufficiently soaked from the ripped over suit, I made my way out of Adamson’s with Davey de-rigging. There is a nice big pitch that we waited at for some time because it was very hard to hear whether Alex was saying “rope free” or “no” because he says the free part in a different pitch/tone/whatever that is, and so you can often just hear “Rope” which sounds like “no” when so far apart.
+
+I had one job on the way out – wait for Davey at the top of the pitch to take the tackle sack from him and give him my empty one. Naturally, I forgot to do this, and my ascent was rudely interrupted by squeaks from Davey below me. We decided I should go down one rebelay and just drop the tackle sack (clipped into the rope) down. This would’ve worked better if there wasn’t a large flask of squash in the sack, it didn’t hit Davey on the head though so it’s all fine (if you aren’t out to kill him).
+
+My next great decision was made at the bottom of the entrance series. Perry (the last one before me and Davey to exit) had forgotten the tackle sack from the bottom and called down to me to see if he should come back to get it. The answer should definitely have been yes. No matter, I had no trouble derigging whilst Davey carried two (rather large) tackle sacks out. The walk back was made all the more interesting by the rather-weighed-down Davey sinking maybe thigh deep into the bog. I attempted to help him out but lost my balance and just ended up aiding him into a worse position. He sorted himself out and we were back in the bus reasonably quickly.
+
+#### Diss
+
 ## Monday
 
 ### Long Drop Pot: {{ DATE=2017-12-18; CAVE=Long Drop Pot; }}
@@ -141,6 +167,18 @@ Alex and I went for a walk. It was initially sunny and clear. As we approached t
 
 #### Jack
 
+### Death's Head: {{ DATE=2017-12-18; CAVE=Death's Head Hole; }}
+
+"This will be the Death(s head) of me?"
+
+Today, Jimmy lead Jean and I into the pit from hell – aka Deaths Head. I had been defeated once before by this cave last winter tour and I was ready for a rematch. The entrance went well, rigged first off of a reassuringly wobbly fence post, followed by a tree before using actual bolts. Jimmy’s rigging was really nice – all of the rebelay loops were the perfect length to stand up in. Despite this, it’s still quite daunting and being able to see the whole time because it’s so open makes it all the more scary. I got past the rebelay I’d turned back at last time without even noticing it – either I am more skilled, the rigging was a better height for me or I had a moment of madness before. Guess we will never know.
+
+Here comes the scarier bit. We traversed around the wall of the shaft (vaguely matching what was in the rigging topo) which was very muddy and loose and must have been terrifying to rig. When I got to the bottom, Jimmy said he’d run out of rope and had to use ropes for the later pitches. Hmm, something was wrong. No matter, we continued with the caving and found some streamway before reaching the final pitch which we couldn’t descend due to lack of rope. There was a fun bit of scaffolding and a climb with rope anchored by a single stal. I should really have de-rigged the whole thing as Jimmy had rigged it all, but I was pretty sketched out and so only derigged the first, muddy bit. In hindsight this was probably unnecessary as the scariest bits were there although I did get to avoid the traverse which I would have struggled with. The ascent was long and terrifying – there was a scary bit of possible rope rub that was probably fine but made me fear for my life with every motion.
+
+This trip was a bit different to how it was described – mainly the looseness of the pitches when in the actual chamber (and the rope lengths). We got back and were informed we had gone the wrong way – apparently this route is for when you’re doing an exchange from a different cave (described as loose and scary). It wasn’t obvious that there were two ways on when in the cave so perhaps an easy mistake to make. Hmm.
+
+#### Diss
+
 ## Tuesday
 
 ### Lanc: {{ DATE=2017-12-19; CAVE=Lancaster Hole; }}
@@ -172,6 +210,12 @@ We found DW and Alex at Lanc and waited our turn to exit.
 Solid trip, I love the streamway. It's always worth climbing down in Fall Pot to convince yourself you and everyone else knows the way out of the bolder choke, and to check the water level. Just upstream of the choke is a small sandbank, on the left facing downstream. If there isn't one there, then there's an awful lot of water in the stream and I wouldn't attempt it (and I love streamways).
 
 #### Jack
+
+"Tuesday snoozeday?"
+
+Today was for rescue practice - a nice rest from actually being in a cave but without actually resting. Tony is a great teacher and I definitely feel a bit more confident with general rigging now. We practiced knots and how to rig a cave so it’s easy to have a rescue if need be. Also featured was how to work pulley jammers and a novel way of using mismatched pulleys and hand jammers as well as Z-rigs. Then on to the SRT tower to put it all into practice.
+
+#### Diss
 
 ## Wednesday
 
@@ -220,6 +264,22 @@ I took pity on Davey below the final pitch, and took his bag. I immediately regr
 We found the others huddled in a shelter in Bar and invited them to walk back with us, which seemed quicker than usual. A solid trip - it's a shame not to add in a new entrance, but given the conditions there weren't many viable options!
 
 #### Jack
+
+### Bar to Bar: {{ DATE=2017-12-20; CAVE=Bar Pot > Bar Pot; }}
+
+"The Gaping Gill Extravaganza" 
+
+Perry decided that Dihedral was a great idea, so we planned to have teams going down there, Stream and Bar. The weather wasn’t at all wet and the walk was fine. No hand jammers were forgotten and we all felt great about the day.
+ 
+I was to rig Bar, a route I’d been down (and up) once before. It started off excellently with me forgetting how to tie a bowline on a bight. Things went a bit better from there, seeing as there isn’t actually any rigging for a while. We then found the real route down the main shaft, which apparently has eluded many an ICCC caver on previous trips. There was a traverse around to the pitch head, over a lovely large ledge. This wasn’t technically challenging but my lack of practice was evident, and it took me a long time. Finally at the pitch head, I was quite scared to descend. I had never rigged a pitch this large before and my faith in my own knots is far from absolute. I managed it and then the next wave of fear arrived – what if the rope doesn’t reach the bottom? Doing a change over and coming back up to re-rig was very unappealing. I was tense, descending slowly whilst pulling the rope from the bag to make sure I could see the end before I hit the knot. The floor loomed closer, the tackle bag grew lighter, my heart beat harder. 10m, 5m, 1m…oh I could probably just put my feet on the ground now. Well that was anticlimactic, but a relief.
+ 
+On to the Gaping Gill main chamber to hopefully find Perry’s group alive. I really enjoy the stooping passage bits but hate the stooping part so just crawl as fast as possible. Tends to be faster than stooping for me, I get very off balance. In the main chamber, we were met with darkness and some may say a little above average water levels. We walked further in and were jumped by some doggers that turned out to be Rhys’ group with their lights off. No sign of Perry’s group. This was concerning because their back up plan was to follow us down bar. Seeing as I was rigging they really should have caught up. Hmm.
+ 
+A bit of chat before photography attempts were made. Arun, Ben and I were lighting up the waterfall from the side whilst Jack took photos. At some point, lights appeared, and to our relief it was Perry’s group but missing the Perry element. Jimmy’s response to “what happened?” was “I’m only telling the story once” so we went back to where the others huddled, and the story was told. I’ll leave Perry to tell it because I’m sure he knows what happened better than I do, but basically, he was back at the bus and everything was fine as always. 
+
+I left pretty quickly with Jim and Alex and a lovely unnecessary tackle sack, courtesy of Davey Dubz. 
+
+#### Diss
 
 ## Thursday
 
