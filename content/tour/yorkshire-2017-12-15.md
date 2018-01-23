@@ -167,7 +167,7 @@ Alex and I went for a walk. It was initially sunny and clear. As we approached t
 
 #### Jack
 
-### Death's Head: {{ DATE=2017-12-18; CAVE=Death's Head Hole; }}
+### Death's Head: {{ DATE=2017-12-18; CAVE=Death's Head Pot; }}
 
 "This will be the Death(s head) of me?"
 
