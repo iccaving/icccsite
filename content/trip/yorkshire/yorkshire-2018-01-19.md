@@ -54,3 +54,10 @@ Jarv
 
 #### Jarv
 
+A tight and muddy fissure
+for the loose limbed connoisseur
+
+Colossus without a drip
+is a trip without a fuss.
+#### Tanguy
+
