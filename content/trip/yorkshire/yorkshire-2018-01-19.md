@@ -8,7 +8,8 @@ Mainimg:
 Thumbl: 
 Thumbr: 
 Authors: Jarv
-Cavepeeps: 
+Cavepeeps: DATE=2018-01-20; CAVE=Ireby Fell Cavern; PEOPLE=Jack Hare, Rhys Tyers, Tom Porter, Jack Halliday;
+			DATE=2018-01-20; CAVE=Large Pot; PEOPLE=Tanguy Racine, David Wilson, Alex Seaton, Jarvist Frost;
 Status: draft
 
 {{ mainimg }} {{ photolink }}
@@ -17,7 +18,7 @@ Status: draft
 
 ## Saturday
 
-##Large Pot: Tanguy, Alex, David Wilson (the younger), Jarv
+### Large Pot: {{DATE=2018-01-20; CAVE=Large Pot;}}
 
 "A man who is not afraid of [Large pot] will soon be [stuck], he said, for he will be going [in] on a day he shouldn't. But we do be afraid of [Large pot], and we do only be [stucked] now and again." ~ with apologies to John Millington Synge 
 
@@ -60,4 +61,25 @@ for the loose limbed connoisseur
 Colossus without a drip
 is a trip without a fuss.
 #### Tanguy
+
+##Ireby Fell Cavern: {{DATE=2018-01-20; CAVE=Ireby Fell Cavern;}}
+
+I've been quite interested in Ireby Fell Cavern ever since [https://union.ic.ac.uk/rcc/caving/articles/yorkshire-2017-06-23.html](Yorkshire 0) last year. Ben, Rhys and I made it through the Skyline that joins Duke Street I to Duke Street II, an impressive 170 m dug out phreatic tube. On the other side we found Escalator Rift, but uncertain of the age of the ropes leading up, we turned round.
+
+This time, I'd checked on UKCaving that the ropes were okay, and so equipped with two keen novices, Mr Jack and Tom, Rhys and I again delved into the depths of the Earth. At the start, the cave was wet - in fact, so wet I was worried we'd have to turn around at Well, repeating the Saturday trip of Y0 2017. Rhys quickly rigged the first two rebelays, and then I split off with Mr Jack to do the Shadow route. This is fantastically good value, as it traverses further out and then swoops through a window into a parallel shaft,rigged with a single bolt in the ceiling from astride a stone saddle.
+
+After this, the pitch changes direction, and requires a swing through a narrow slot. I hard-locked and kicked off, making it through the slot and onto the other side, where I could see Rhys and Rom twenty metres below on the other route. I then rigged a rebelay and dropped down to join them, but on consulting my rigging guide I realised the true Shadow Route didn't rejoin until the bottom of the next pitch. Unwilling not to have the full experience, I prussiked back up, and swung around to the left (facing the last bolt) into another parallel shaft.
+
+So far, so dry, but halfway down the next pitch the water came in, filling the shaft. I looked around for the deviation bolt to pull the rope from the steeply sloping rock face, and my heart sank as I saw it just beneath where the water came in. I abseiled down, hard locked and ducked my head to crate an airspace in the pounding waterfall. The deviation bolt was pulled half out of the wall, but I figured it'd be good for one more go (since reported to the CNCC) and I plummeted down at high speed to avoid getting too wet.
+
+Mr Jack appeared to be having some problems with the narrow slot, but he eventually caught the rest of us up at the bottom of the pitch, and we barrelled on. The streamway always lasts longer than I expect it to, but soon we were at the final few pitches, which Rhys rigged quickly and out of the water. The way to Duke Street I was clear.
+
+We scampered down the passages, stopping only to eat our bagels at Duke Street I, before prussiking up int the skyline. I set off ahead with Tom in hot pursuit, and it didn't half take an age to get through the crawl. At the far end I waited for the others - I wasn't going to stand in the canal waiting for them. They arrived, and I descended with difficulty on the very thick, muddy rope. At the bottom, I turned right (facing the pitch bolt) and waded up-canal - the flow is barely noticeable so it is easy to go the wrong way. I almost avoided getting into deep water, but at one corner my left testicle just dipped into the ice cold canal and I let out a muffled shriek.
+
+The others soon joined me, and we went up Duke Street II to find Escalator Rift. Tanguy had printed us a description from Northern Caves 3 (the new one) on special waterproof paper, and this was very useful - the correct ropes up start at an incredible rocking boulder, wedge in the rift but unable to fall down. The rigging is a bit more expo style, but not too awful, and the pitch is mostly clear of loose rocks. What follows is four or five 10 m pitches, with traverses in between, zigging and zagging back and forth in the rift. At the top is a tight 3 m crawl into a small aven. Here instead of taking the next rope up, the way on is on the left, through a flat out crawl in Jupiter Cavern.
+
+Jupiter Cavern is a bit of a disappointment. It's very large, but with a dark, muddy rock that refuses to show off its grandeur. For all the effort to get here, I'm not convinced it's entirely worth it, but as we photographed the chamber we definitely had that feeling of being far from the surface. Looking at the time, I thought we'd be late, but as we exited the cave things went very smoothly. Rhys derigged the Shadow Route, I barely caught up with Mr Jack and Tom, and we were out to the last remains of sunset at 1730, back at the minibus at 1800.
+
+Ireby Fell is far more than just a good novice SRT cave. It has lots of extensions, fun side passages and serious depths - it's well worth an explore!
+
 
