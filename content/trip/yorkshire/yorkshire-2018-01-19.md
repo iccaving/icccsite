@@ -15,6 +15,16 @@ Status: draft
 {{ mainimg }} {{ photolink }}
 #####{{ allpeople }}
 
+## Friday
+For the second time running I bought the cheese and onion focaccia at the Leamington Spa Morrisons on the way up to Yorkshire. Together with chocolate muffins, some apple juice and a pork pie, these make for a particularly satisfying Friday evening munch, without which I might not have so readily accepted the last spell of driving. 
+
+The road turned out to be fine, even though we chose to leave the M6 at junction 36 to take the A65 to Kirby Lonsdale, and thence to Greenclose. We arrived to a full carpark, with a sizeable NPC contingent. Lively and lovely discussions, cups of tea, beers… I knew the time was ripe to whip out a survey of Large Pot and ensnare some cavers in my trap. David and Alex fell for it almost at once. 
+
+I had a plan of going down to Colossus pitch (one of the two prescribed routes in NFTFH – the other is Red Herring Series, a well rounded trip in itself but too wet by far to be attempted on that weekend).  Anything found beneath this 42m hang would be bonus, but I obviously had a plan to find the bypass to the Mousehole. ‘They’ could ruddy well laugh.
+
+I tried all the dormitories and finding myself in a non-sociable mood, took the entire lower bunk space in the far room above the kitchen. I slept wonderfully…
+
+#### Tanguy
 
 ## Saturday
 
@@ -55,11 +65,41 @@ Jarv
 
 #### Jarv
 
-A tight and muddy fissure
+"A tight and muddy fissure
 for the loose limbed connoisseur
 
 Colossus without a drip
-is a trip without a fuss.
+is a trip without a fuss." Anon
+
+At breakfast, we experimented with more sausages than bacon for the meat eaters, and fewer mushrooms than average for the veggies the following morning. Still, with the ropes already packed and breakfast out of the way,  we only needed to wait for Tom, who showed up not long after before zooming to Masongill. 
+
+The minibus brakes seemed to work fine, which came in handy, when on the fell lane we met up an incoming vehicle. They, being the smaller of the two, and hence disproportionately filled with a sense of self-righteousness, refused to reverse to the easily reached passing place behind them. Typical… Change of drivers, so we reversed for a while until they managed to pass by us on the left-hand side. 
+
+Then we had a heated conversation about the merits of the grading system for the grimness of the change into caving gear. It wasn’t that bad, and soon we trudged up the Turbary road. We split between Jarv, Alex, David and I going to Large Pot, and Jack, Rhys, Jack and Tom heading west by northwest into the cloud base. Apparently they went caving. 
+
+We on the other hand we on to a much more exciting mission: wriggling through the entrance series of Large. To find the entrance is very easy when keeping within 20m from the drystone wall to the left, and going up, and up and up the hill. Turbary Road bends to the right, but we carried on up to the fenced shakehole which contains Little Pot. Between that and the wall is a smaller depression with the lidded entrance. 
+
+The first pitch is formed in the very top of the cavern-hosting limestone sequence of the Yorkshire Dale. It is very dark and sharp, with runnels going down the pitch so deeply entrenched that they are more like vertical blades protruding from the shaft walls. It depends how one sees it I suppose.
+
+Then, the wriggle through to the second pitch head, I rigged from three P-bolts. Down the slot, which opened up, led to a rebelay, followed by deviation and immediately the third pitch, which is comparatively roomy, to land in Thornton Hall. I started singing, oblivious to all the Jarv-Davie shenanigans. Alex joined me, and finally the other two. In the meantime, I checked out the start of the Red Herring Series (which is a simple walk downstream), answered the call of nature and came back to join Alex on a flat rock. 
+
+Then Large gets interesting, with the pit (down up 4 metres), the junction with Anal Inlet and the start of Secret Seven passage. The muddy crawl, which takes a fair draught relents at a choice between a tight rift and further, wetter crawling. The jury’s still out on which is the best option. Both routes join up again at a three way junction: Tinkle Inlet (upstream) and Tinkle Passage (downstream). Downstream is fun crawling on pebbles, with many more straws on the side than I remembered at first. Zigzags, meanders, screeches of croll against rock, fun times.
+
+And then, Large gets pernicious. A rooftube from which Davy superman’ed his way out. Moonmilk and mud in profusion throughout Arcadia, where I eventually got my wellies wet, some decent formations and gours and the noticeable draught. Colossus: a massive hang which Davie rigged, then descended. He had a very dim light, which must have added to the sense of excitement. I followed after, until the unimaginable happened. Alex, who had been standing at the top of the pitch shifted his stance. How dare he! The accumulated water behind his welly rushed over the pitch head in one gigantic surge and drenched me.
+
+But then, so did the waterfall from the pitch.
+
+At the bottom, once all had descended we climbed onto a large mud bank to have lunch: pork pie, bagel and cheese, and jelly babies of the finest quality. All of it washed down with hot squash. Luxurious.
+
+Then Large gets seriously impressive: the Necropolis, not five minutes away from the bottom of Colossus. Large space, some delicate formations, easy walking, interesting sediment. What’s not to like, especially after three hours of toil through the high level series?
+
+But then, Large hits you back with a gloriously tight, wet muddy and loose boulder choke. We crawled through the Eldon extension, and crawled and squeezed and climbed to the bypass (which we found and turned around in before it required excavation), and crawled some more, and squeezed again (SRT off) to see the Mousehole. A faint breeze blew across the surface of the bathtub of mudwater. Time to turn around…
+
+By the time we got out, ticking all the obstacles in reverse, the sun had set, leaving a starry sky, and a beautiful ‘Lune Cendree’ (ashen Moon?). The snow cover had iced up, and the Ireby fell team was waiting for us in the bus. Apparently, they’d been caving. 
+
+I contributed to dinner with a sweet potato curry, while Jarv/Jack prepared some brown rice and pea soup to go with it.  The smell of fermenting cabbage made quite an impression the following morning but that’s another story.
+
+
 #### Tanguy
 
 ##Ireby Fell Cavern: {{DATE=2018-01-20; CAVE=Ireby Fell Cavern;}}
