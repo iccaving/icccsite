@@ -5,7 +5,7 @@ Type: page
 
 # Apps
 
-Some apps useful for armchair caving.  
+Some apps useful for armchair caving, planning caving, and writing exagerated tales post caving.  
 [CaveView](/rcc/caving/apps/CaveView)  
 [Rain Gauge](/rcc/caving/apps/rain)  
 [Report Editor](rcc/caving/apps/rain)  
@@ -19,7 +19,7 @@ Some apps useful for armchair caving.
 
 [CaveView](/rcc/caving/apps/CaveView) is a in browser viewer for 3d cave survey data. We have this instance showing the latest System Migovec survey data. This is the cave that ICCC explores every year in Slovenia with the JSPDT.
 
-Credit to [https://github.com/aardgoose/CaveView.js](aardgoose).
+Credit to [aardgoose](https://github.com/aardgoose/CaveView.js) on Github.
 
 ## Rain Gauge
 
@@ -32,12 +32,12 @@ Credit to [https://github.com/aardgoose/CaveView.js](aardgoose).
 
 {!center}(/rcc/caving/apps/editor/preview.png, /rcc/caving/apps/CaveView/)
 
-The [Report Editor](rcc/caving/apps/rain) allows people to edit this website. The source files are on Github and the Editor app interfaces with the Github API to provide an online trip report editor.
+The [Report Editor](rcc/caving/apps/rain) allows authorised users to edit this website. The source files are on Github and the Editor app interfaces with the Github API to provide an online trip report editor. Source available at [https://github.com/rhyst/github-editor](https://github.com/rhyst/github-editor) and [https://github.com/rhyst/github-relay](https://github.com/rhyst/github-relay).
 
 ## Photo Processor
 
-The [Photo Processor](/rcc/caving/apps/photos/) allows people to run the scripts that generate our photo gallery from a web page.
+The [Photo Processor](/rcc/caving/apps/photos/) allows authorised users to run the scripts that generate our photo gallery from a web page.
 
 ## Counters
 
-We currently have two counters. We have the [Slovenia Countdown](/rcc/caving/apps/slov/) which counts down the days until we are returned to our true lives, exploring the caves of Migovec. The [Rescue Countup](/rcc/caving/apps/rescue/) counts the days since we last had to call a cave rescue service on a club trip or expedition.
+There are two simple time counters. The [Slovenia Countdown](/rcc/caving/apps/slov/) counts down the days until we are returned to our true lives, exploring the caves of Migovec. The [Rescue Countup](/rcc/caving/apps/rescue/) counts the days since we last had to call a cave rescue service on a club trip or expedition.
