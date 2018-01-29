@@ -1,22 +1,24 @@
 Title: CHECC 2017
 Date: 2017-11-24
 Location: yorkshire
-Summary: This weekend was a trip like no other. Instead of 15 ICCC cavers heading to the NPC for a weekend of caving and mild debauchery, ~17 clubs from across the UK came together for a weekend of hard drinking (and maybe some caving/training). For anyone that doesn’t know, CHECC (Council for Higher Education Caving Clubs) “is a national organisation set up to support and encourage caving amongst university students”. They basically organise weekends of training (amongst other things) throughout the year where all the clubs come together to learn new skills and get very drunk. They also have lots of competitions which gain clubs points throughout the weekend and the club with the most wins a bunch of caving stuff. I’d say this weekend was basically a festival for university caving clubs and it was pretty good fun. - Diss \#TripleSec
+Summary: 17 clubs from across the UK came together for a weekend of hard drinking (and maybe some caving/training).
 Type: trip
-Photoarchive:
-Mainimg: DSC06787.jpg
-Thumbl: DSC06785--thumb.jpg
-Thumbr: DSC06768--thumb.jpg
+Photoarchive: /rcc/caving/photo_archive/trips/2017-11-24%20-%20yorkshire/
+Mainimg: TanguyRacine-alex%20queensway%202.jpg
+Thumbl: LydiaLeather_ClubInterRelations--thumb.jpg
+Thumbr: RhysTyers-DSC07248--thumb.jpg
 Authors: Rita Cookson, Tanguy Racine, Rebecca Diss
-Cavepeeps: DATE=2017-11-25; CAVE=Vesper pot; PEOPLE=Rhys Tyers, Ben Honan, Jennifer Ryder, Rebecca Diss, Arun Paul; 
-           DATE=2017-11-25; CAVE=King pot; PEOPLE=Tanguy Racine, Alex Seaton, Jack Halliday; 
-           DATE=2017-11-26; CAVE=Alum Pot; PEOPLE=Alex Seaton, Jack Halliday, Tanguy Racine, Peter Ganson, Rita Cookson, Rebecca Diss, Jennifer Ryder, Rhys Tyers; 
-Status: draft
+Cavepeeps: DATE=2017-11-25; CAVE=Vesper pot; PEOPLE=Rhys Tyers, Ben Honan, Jennifer Ryder, Rebecca Diss, Arun Paul;
+           DATE=2017-11-25; CAVE=King pot; PEOPLE=Tanguy Racine, Alex Seaton, Jack Halliday;
+           DATE=2017-11-26; CAVE=Alum Pot; PEOPLE=Alex Seaton, Jack Halliday, Tanguy Racine, Peter Ganson, Rita Cookson, Rebecca Diss, Jennifer Ryder, Rhys Tyers;
 
 {{ mainimg }}
 {{ photolink }}
 ##### {{ allpeople }}
 
+## Summary
+
+This weekend was a trip like no other. Instead of 15 ICCC cavers heading to the NPC for a weekend of caving and mild debauchery, ~17 clubs from across the UK came together for a weekend of hard drinking (and maybe some caving/training). For anyone that doesn’t know, CHECC (Council for Higher Education Caving Clubs) “is a national organisation set up to support and encourage caving amongst university students”. They basically organise weekends of training (amongst other things) throughout the year where all the clubs come together to learn new skills and get very drunk. They also have lots of competitions which gain clubs points throughout the weekend and the club with the most wins a bunch of caving stuff. I’d say this weekend was basically a festival for university caving clubs and it was pretty good fun. - Diss \#TripleSec
 
 ## Friday
 
@@ -25,7 +27,7 @@ First thing’s first – cake baking! After I had a very rushed morning finishi
 The journey was long, but the tunes were good, and we made it to our home for the weekend (a poo-filled field occasionally scattered with snow) by ~12:30. We got the tents up in the cold and quickly added several layers of clothing before grabbing our alcohol and making our way to the vague warmth of the rave room and non-rave room that I don’t have a name for. A drinking game I assume is called Simmy Simmy was introduced to us by Arun and this lead to much table banging, shouting and alcohol consumption. Another game that I can only describe as “voop voop” was started by yellow T-Shirt guy (later to be called Patrick from an unknown caving club) and we were left with a very drunk Arun. Water was consumed, and he seemed ok. I can’t say I remember many specifics about the night, but we drank and chatted and there was some wrestling and attempts at table traverse. In bed by about 5 without feeling too ill.
 ####Diss
 
-The logistics of the CHECC weekend demanded that we find a cave to explore before dropping off the CHECC contigent at Dalesbridge in the small hours of Saturday morning: the plan was to agree on a suitable cave or caves in the minibus. Given the dire weather reports, and the extensive amount of rainfall in the week leading up to the weekend, as well as the expectations of the ACHECCers to do a reasonable trip ( I was certainly keen to push for a harder trip), we ended up formulating these plans. King Pot for Alex, Jack and I, and Vesper Pot for the rest of the cavers not tied up in a training session of some sort. 
+The logistics of the CHECC weekend demanded that we find a cave to explore before dropping off the CHECC contigent at Dalesbridge in the small hours of Saturday morning: the plan was to agree on a suitable cave or caves in the minibus. Given the dire weather reports, and the extensive amount of rainfall in the week leading up to the weekend, as well as the expectations of the ACHECCers to do a reasonable trip ( I was certainly keen to push for a harder trip), we ended up formulating these plans. King Pot for Alex, Jack and I, and Vesper Pot for the rest of the cavers not tied up in a training session of some sort.
 
 ####Tanguy
 
@@ -87,7 +89,7 @@ We regrouped at the far end of the rift, into the high aven chamber. We had a ch
 
 I want to go back, to go further into King Pot, but the cave is objectively tough, unforgiving, reluctant to yield its secrets. Maybe this is what grips the imagination of the more experienced cavers out there.
 
-We had a chat back at the NPC, until the early hours of Sunday, trying to get to the bottom of what happened. For one thing, I take pride in taking people in new, hard to get to places. I believe their achievements reflect on my leadership, but it certainly tells a whole lot more about me, as an enabler, rather than the actual achievers. Maybe it is better that newer members achieve other things with minimal help in easier caves, and can call it their own, and that calls for more humility as a leader. This is certain: the close escape made me ask serious questions about my caving/leadership style and will be having (hopefully) positive influences on how I cave henceforth. 
+We had a chat back at the NPC, until the early hours of Sunday, trying to get to the bottom of what happened. For one thing, I take pride in taking people in new, hard to get to places. I believe their achievements reflect on my leadership, but it certainly tells a whole lot more about me, as an enabler, rather than the actual achievers. Maybe it is better that newer members achieve other things with minimal help in easier caves, and can call it their own, and that calls for more humility as a leader. This is certain: the close escape made me ask serious questions about my caving/leadership style and will be having (hopefully) positive influences on how I cave henceforth.
 
 ####Tanguy
 
@@ -101,7 +103,7 @@ We started the ascent, Jennifer first, followed by me and the others. We weren�
 
 A quick stop at the NPC to drop of the aCHECCers and all the kit so it could be repacked, and we went back to CHECC to sort out our tents and pick up Arun and Ben. Thankfully they had packed everything away and we were quickly on the way back to London via the NPC for a quick snack and minibus filling. There was a long game of contact before an hour or so napping and we were back at around 12.30am.
 
-Overall CHECC is good fun - lots of games and drinking plus the T-Shirts which are awesome. Not sure how much better it is than the regular trips we have had this term but i'll definitely be going back, if only to try and get rid of Imperial's apparent reputation for being antisocial. 
+Overall CHECC is good fun - lots of games and drinking plus the T-Shirts which are awesome. Not sure how much better it is than the regular trips we have had this term but i'll definitely be going back, if only to try and get rid of Imperial's apparent reputation for being antisocial.
 
 PS. Take toilet roll to CHECC because it runs out far too quickly
 
@@ -121,7 +123,6 @@ Pressed for time as we were, we only got down the first pre-rigged pitch before 
 
 After a quick scan up and down the cave, it appeared everyone had left so I went back to the bus, where indeed, everyone was getting changed. We had also gained Rhys, whom Dave had dropped off not long ago and this made the next bit of the plan come together easily.
 
-We went first at Ingleton to refuel, then dropped the caving kits at the NPC, emptying the van completely. Rhys drove back to Dalesbridge to pick up Arun and Ben. In the meantime, Alex, Jack and I enjoyed the remains of a chicken curry and sorted out the hut. Quickly afterwards, the group came back, loaded the van and had a cup of tea. We left at 6pm, but still had to drop off extra rubbish at Ingleton on the way, which made for a 0.30am arrival in London. Not too bad, but I won’t be doing one of those trips in a hurry! 
+We went first at Ingleton to refuel, then dropped the caving kits at the NPC, emptying the van completely. Rhys drove back to Dalesbridge to pick up Arun and Ben. In the meantime, Alex, Jack and I enjoyed the remains of a chicken curry and sorted out the hut. Quickly afterwards, the group came back, loaded the van and had a cup of tea. We left at 6pm, but still had to drop off extra rubbish at Ingleton on the way, which made for a 0.30am arrival in London. Not too bad, but I won’t be doing one of those trips in a hurry!
 
 ####Tanguy
-
