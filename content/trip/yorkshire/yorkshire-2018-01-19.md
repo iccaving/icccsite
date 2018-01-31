@@ -103,7 +103,7 @@ I contributed to dinner with a sweet potato curry, while Jarv/Jack prepared some
 
 ##Ireby Fell Cavern: {{DATE=2018-01-20; CAVE=Ireby Fell Cavern;}}
 
-I've been quite interested in Ireby Fell Cavern ever since [https://union.ic.ac.uk/rcc/caving/articles/yorkshire-2017-06-23.html](Yorkshire 0) last year. Ben, Rhys and I made it through the Skyline that joins Duke Street I to Duke Street II, an impressive 170 m dug out phreatic tube. On the other side we found Escalator Rift, but uncertain of the age of the ropes leading up, we turned round.
+I've been quite interested in Ireby Fell Cavern ever since [Yorkshire 0](https://union.ic.ac.uk/rcc/caving/articles/yorkshire-2017-06-23.html) last year. Ben, Rhys and I made it through the Skyline that joins Duke Street I to Duke Street II, an impressive 170 m dug out phreatic tube. On the other side we found Escalator Rift, but uncertain of the age of the ropes leading up, we turned round.
 
 This time, I'd checked on UKCaving that the ropes were okay, and so equipped with two keen novices, Mr Jack and Tom, Rhys and I again delved into the depths of the Earth. At the start, the cave was wet - in fact, so wet I was worried we'd have to turn around at Well, repeating the Saturday trip of Y0 2017. Rhys quickly rigged the first two rebelays, and then I split off with Mr Jack to do the Shadow route. This is fantastically good value, as it traverses further out and then swoops through a window into a parallel shaft,rigged with a single bolt in the ceiling from astride a stone saddle.
 
