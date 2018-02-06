@@ -8,7 +8,7 @@ Mainimg:
 Thumbl: 
 Thumbr: 
 Authors:David Kirkpatrick
-Cavepeeps: DATE=2018-02-03; CAVE=Little Hull Pot; PEOPLE=David Kirkpatrick, Rhys Tyers, Ben Honan, Jack Halliday; 
+Cavepeeps: DATE=2018-02-03; CAVE=Little Hull Pot; PEOPLE=Dave Kirkpatrick, Rhys Tyers, Ben Honan, Jack Halliday; 
 
     DATE=2018-02-03; CAVE=Stream Passage Pot > Stream Passage Pot; PEOPLE = ; 
     DATE=2018-02-03; CAVE=Flood Entrance Pot > Flood Entrance Pot; PEOPLE = ; 

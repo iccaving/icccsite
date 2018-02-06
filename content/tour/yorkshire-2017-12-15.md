@@ -11,8 +11,8 @@ Authors: Rhys Tyers, Jack Hare
 Cavepeeps: DATE=2017-12-16; CAVE=Yordas Pot > Yordas Cave; PEOPLE=Rhys Tyers, Arun Paul, Wesley Gaunt;
 		   DATE=2017-12-16; CAVE=Aquamole Pot; PEOPLE=James Perry, Jack Hare, Jay Chen, Alex Betts;
 		   DATE=2017-12-16; CAVE=Rowten Pot; PEOPLE=Alex Seaton, James Wilson, David Wilson;
-		   DATE=2017-12-16; CAVE=Jingling Pot; PEOPLE=Rebecca Diss, David Kirkpatrick, Jean-Yves Burlet;
-           DATE=2017-12-17; CAVE=Notts Pot 1; PEOPLE=Rhys Tyers, Arun Paul, Jay Chen, Jack Hare, David Wilson, Jean-Yves Burlet, James Perry, Rebecca Diss, James Wilson, Alex Seaton, David Kirkpatrick, Wesley Gaunt;
+		   DATE=2017-12-16; CAVE=Jingling Pot; PEOPLE=Rebecca Diss, Dave Kirkpatrick, Jean-Yves Burlet;
+           DATE=2017-12-17; CAVE=Notts Pot 1; PEOPLE=Rhys Tyers, Arun Paul, Jay Chen, Jack Hare, David Wilson, Jean-Yves Burlet, James Perry, Rebecca Diss, James Wilson, Alex Seaton, Dave Kirkpatrick, Wesley Gaunt;
            DATE=2017-12-18; CAVE=Long Drop Pot; PEOPLE=Rhys Tyers, David Wilson, Jay Chen, Wesley Gaunt;
            DATE=2017-12-18; CAVE=Death's Head Pot; PEOPLE=Rebecca Diss, James Wilson, Jean-Yves Burlet;
            DATE=2017-12-19; CAVE=Lancaster Hole; PEOPLE=Rhys Tyers, Jack Hare, Ben Richards, Dave Wilson, Alex Betts;
