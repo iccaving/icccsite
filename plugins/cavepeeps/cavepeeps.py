@@ -7,7 +7,7 @@ import string
 import sys
 import re
 import copy
-from .bios import *
+from .bios import generate_cave_pages, generate_person_pages, construct_bios
 
 # =====================Functions============================
 
