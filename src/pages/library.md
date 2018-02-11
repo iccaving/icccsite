@@ -8,12 +8,12 @@ Type: page
 ##Newsletters
 Newsletters from ICCC's glorious pre-internet days.
 
-[ICCC Newsletters]({filename}/pages/icccjournals.md)
+[ICCC Newsletters](/pages/icccjournals.html)
 
 ##LUCC Journals
 Journals of the London University Caving Clubs of which ICCC is sadly the sole surviving member.
 
-[LUCC Journals]({filename}/pages/luccjournals.md)
+[LUCC Journals](/pages/luccjournals.html)
 
 ##Awards
 ICCC has two yearly awards. Voting takes place at our AGM (March).
