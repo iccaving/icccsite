@@ -38,7 +38,7 @@ def parse_wiki_pages(sender, context, articles):
             if ".git" not in dirname and ".git" not in filename:
                 with codecs.open(os.path.join(dirname, filename), 'r', encoding='utf8') as md_file:
                     reader = Reader(md_file.read())
-                    metadata, raw_content = reader.parse_meta()
+                    metadata, raw_content = reader.parse()
                 content = context.MD(raw_content)
                 wikiarticle = Map({'content': content, 'metadata': metadata})
                 try:
