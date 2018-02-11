@@ -1,5 +1,6 @@
 #ignore gnerated site
 /output/
+/dist/
 #ignore cache folder
 /cache/
 #ignore photo_archive folder
