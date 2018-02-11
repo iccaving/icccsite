@@ -25,7 +25,7 @@ def photoreel(sender, context, articles):
     else:
         nextslidetime = 3
     count = 0
-    content = "<div class='photoreel-container'><div class='photoreel-left'><a><img src='" + context['SITEURL'] + "/assets/arrows-left.svg' style='height: 30px;'></a></div>"
+    content = "<div class='photoreel-container'><div class='photoreel-left'><a><img src='" + context['ASSET_LOCATION'] + "/arrows-left.svg' style='height: 30px;'></a></div>"
     dots = "<div class='photoreel-dots'>"
     for article in articles:
         if 'archiveloc' in article.metadata.keys() and 'mainimg' in article.metadata.keys() and article.type != 'unlisted':
@@ -34,7 +34,7 @@ def photoreel(sender, context, articles):
             count += 1
         if count == maxcount:
             break
-    content += "<div class='photoreel-right'><a><img src='" + context['SITEURL'] + "/assets/arrows-right.svg' style='height: 30px;'></a></div>" + dots + "</div>"
+    content += "<div class='photoreel-right'><a><img src='" + context['ASSET_LOCATION'] + "/arrows-right.svg' style='height: 30px;'></a></div>" + dots + "</div>"
     content += """
     <link rel="stylesheet" href='""" + siteurl + """/theme/css/photoreel.css' type="text/css" />
     <script>var maxcount = """ + str(maxcount) + """;var transtime = """ + str(transtime) + """;var nextslidetime = """ + str(nextslidetime) + """;</script>

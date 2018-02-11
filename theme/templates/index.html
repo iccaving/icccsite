@@ -88,12 +88,15 @@ Imperial College Caving Club
     {% endfor %}
   {% endif %}
 
-  {% if previous_page %}
-  <a href={{ previous_page }}>previous</a>
-  {% endif %}
-  {% if next_page %}
-  <a href={{ next_page }}>next</a>
-  {% endif %}
+  <p class="paginator">
+    {% if previous_page %}
+    <a href={{ previous_page }}>«</a>
+    {% endif %}
+    Page {{ current_page_number }} / {{ index_pages|length }}
+    {% if next_page %}
+    <a href={{ next_page }}>»</a>
+    {% endif %}
+  </p>
 
   {% include 'includes/license.html' %}
   <div id="new-button"><a href="{{ SITEURL }}/apps/editor/?state=new">Create new article</a></div>  
