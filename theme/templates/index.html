@@ -35,32 +35,32 @@ Imperial College Caving Club
             </div>
           </div>
           <div class="content">
-              {% if article.thumbl is defined %}
-                {% if article.thumbl != '' %}
+              {% if 'thumbl' in article.metadata %}
+                {% if article.metadata['thumbl'] != '' %}
                 <div class="index-thumbl">
-                  <a href="{{ article.archiveloc }}{{ article.thumbl|replace("--thumb.jpg", ".html") }}"><img alt="Thumbnail of photo from this article" src="{{ article.archiveloc }}{{ article.thumbl }}"></a>
+                  <a href="{{ article.metadata['archiveloc'] }}{{ article.metadata['thumbl']|replace("--thumb.jpg", ".html") }}"><img alt="Thumbnail of photo from this article" src="{{ article.metadata['archiveloc'] }}{{ article.metadata['thumbl'] }}"></a>
                 </div>
                 {% endif %}
               {% endif %}
               <div class="content-summary">
               {% if article.type != 'index' %}{{ article.summary }}{% else %}{{ article.content }}{% endif %}
               </div>
-              {% if article.thumbr is defined %}
-                {% if article.thumbr != '' %}
+              {% if 'thumbr' in article.metadata %}
+                {% if article.metadata['thumbr'] != '' %}
                 <div class="index-thumbr">
-                  <a href="{{ article.archiveloc }}{{ article.thumbr|replace("--thumb.jpg", ".html") }}"><img alt="Thumbnail of photo from this article" src="{{ article.archiveloc }}{{ article.thumbr }}"></a>
+                  <a href="{{ article.metadata['archiveloc'] }}{{ article.metadata['thumbr']|replace("--thumb.jpg", ".html") }}"><img alt="Thumbnail of photo from this article" src="{{ article.metadata['archiveloc'] }}{{ article.metadata['thumbr'] }}"></a>
                 </div>
                 {% endif %}
               {% endif %}
           </div>
           <div class="content-footer">
             {% if article.type != 'index' %}
-              {% if article.archiveloc is defined %}
+              {% if article.metadata['archiveloc'] is defined %}
               <div class="content-footer-left">
                 <a class="footer-button" href="{{ SITEURL }}/{{ article.url }}">More</a>
               </div>
               <div class="content-footer-right">
-                    <a class="footer-button" href="{{ article.archiveloc }}">Photos</a>
+                    <a class="footer-button" href="{{ article.metadata['archiveloc'] }}">Photos</a>
               </div>
               {% else  %}
               <div class="content-footer-center">
@@ -68,12 +68,12 @@ Imperial College Caving Club
               </div>
               {% endif %}
             {% else %}
-              {% if article.archiveloc is defined %}
+              {% if article.metadata['archiveloc'] is defined %}
               <div class="content-footer-left">
                 <a class="footer-button" href="{{ article.link }}">{{ article.linktext }}</a>
               </div>
               <div class="content-footer-right">
-                    <a class="footer-button" href="{{ article.archiveloc }}">Photos</a>
+                    <a class="footer-button" href="{{ article.metadata['archiveloc'] }}">Photos</a>
               </div>
               {% else  %}
               <div class="content-footer-center">
