@@ -90,11 +90,11 @@ Imperial College Caving Club
 
   <p class="paginator">
     {% if previous_page %}
-    <a href={{ previous_page }}>«</a>
+    <a href={{ SITEURL }}/{{ previous_page }}>«</a>
     {% endif %}
     Page {{ current_page_number }} / {{ index_pages|length }}
     {% if next_page %}
-    <a href={{ next_page }}>»</a>
+    <a href={{ SITEURL }}/{{ next_page }}>»</a>
     {% endif %}
   </p>
 
