@@ -39,6 +39,7 @@ SETTINGS = {
             'BASEURL': '',
             'SITEURL': "/slovenia",
             'PHOTOREEL': False,
+            'ARTICLE_SLUG': '{date}-{location}.html'
         }
     }
 }
