@@ -24,7 +24,7 @@ Imperial College Caving Club
       {% endif %}
     {% endfor %}
     {% for article in current_page %}
-      {% if article.type != 'stickyindex' and article.type != "unlisted" %}
+      {% if article.type != 'stickyindex' and article.status != "unlisted" %}
         <div class="content-box">
           <div class="content-header">
             <div class="content-left">

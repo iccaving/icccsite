@@ -28,7 +28,7 @@ def photoreel(sender, context, articles):
     content = "<div class='photoreel-container'><div class='photoreel-left'><a><img src='" + context['ASSET_LOCATION'] + "/arrows-left.svg' style='height: 30px;'></a></div>"
     dots = "<div class='photoreel-dots'>"
     for article in articles:
-        if 'archiveloc' in article.metadata.keys() and 'mainimg' in article.metadata.keys() and article.type != 'unlisted':
+        if 'archiveloc' in article.metadata.keys() and 'mainimg' in article.metadata.keys() and article.status != 'unlisted':
             content += "<div class='photoreel-photo photoreel-photo-" + str(count) + "'><a href='" + siteurl + "/" + article.url + "'><img src='" + os.path.join(article.metadata['archiveloc'], article.metadata['mainimg']) + "'><span class='photoreel-title'>" + article.metadata['title'] + "</span></a></div>"
             dots += "<a class='photoreel-dot photoreel-dot-" + str(count) + "' data-count='" + str(count) + "'></a>"
             count += 1
