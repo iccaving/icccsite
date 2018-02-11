@@ -2,10 +2,11 @@ Title: Yorkshire V Rescue
 Date: 2016-02-20
 Location: Yorkshire
 Summary:
-Type: unlisted
+Type: trip
 Authors: Arun Paul, Cecilia Kan, Rhys Tyers
 Cavepeeps: 	DATE=2016-02-20; CAVE=It's A Cracker > Boxhead Pot; PEOPLE=Jack Hare, Will Scott, Edith Huebner, Kenneth Tan;
-			DATE=2016-02-20; CAVE=Boxhead Pot > It's A Cracker; PEOPLE=Rhys Tyers, Kevin Li, Cecilia Kan, Arun Paul, Dave Kirkpatrick;
+			DATE=2016-02-20; CAVE=Boxhead Pot > It's a Cracker; PEOPLE=Rhys Tyers, Kevin Li, Cecilia Kan, Arun Paul, Dave Kirkpatrick;
+Status: unlisted
 
 #####{{ allpeople }}
 
@@ -16,7 +17,7 @@ This is an account of CRO incident 9/2016. We are extremely grateful to the CRO 
 ## Saturday
 
 
-###Boxhead > It's A Cracker: {{DATE=2016-02-20; CAVE=Boxhead Pot > It's a Cracker; }}
+###Boxhead > It's A Cracker: {{ DATE=2016-02-20; CAVE=Boxhead Pot > It's a Cracker; }}
 
 My team, Cecilia, Arun, Kevin and DKP, followed on a little way behind Jack’s group on the way to the caves. Walking right past Lost John’s and along a relatively subtle path brings you to the South side of a fenced enclosure, the entrance to Lost Pot. As we got there Jack waved us over. Boxhead was the obvious concrete tube sticking out of the adjacent shakehole.
 

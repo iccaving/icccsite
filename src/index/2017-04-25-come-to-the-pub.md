@@ -2,7 +2,7 @@ Title: Six great reasons to come to the pub: number six will shock you!
 Date: 2017-04-25
 Location: Yorkshire
 Summary:
-Type: unlisted
+Status: unlisted
 
 1. Studies have shown that socialising with friends releases oxytocin into your blood stream, which according to [this website](https://www.mindbodygreen.com/0-20069/why-spending-time-with-friends-boosts-your-oxytocin.html) makes you a model in a stock photo.
 
