@@ -12,7 +12,7 @@ Cavepeeps: DATE=2018-02-03; CAVE=Little Hull Pot; PEOPLE=Dave Kirkpatrick, Rhys 
     DATE=2018-02-03; CAVE=Stream Passage Pot > Stream Passage Pot; PEOPLE=Dan Greenwald; 
     DATE=2018-02-03; CAVE=Flood Entrance Pot > Flood Entrance Pot; PEOPLE=James Wilson; 
     DATE=2018-02-03; CAVE=Marilyn > Marilyn; PEOPLE= ; 
-    DATE=2018-02-04: CAVE=Sell Gill; PEOPLE=Ho Yan Jin;
+    DATE=2018-02-04; CAVE=Sell Gill; PEOPLE=Ho Yan Jin;
     DATE=2018-02-04; CAVE=Cliff Force Cave; PEOPLE=Alex Seaton, Rhys Tyers, David Kirkpatrick, Rebecca Diss
 Status: draft
 

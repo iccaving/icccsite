@@ -1,5 +1,7 @@
 from functools import partial
 import re
+import os
+
 try:
     # Is the C implementation of ElementTree available?
     import xml.etree.cElementTree as etree
@@ -45,7 +47,7 @@ def handleMatch(m, metadata):
                     archive_loc += str(metadata['date']) + '%20-%20' + str(metadata['location']) + '/'
                 archive_loc = archive_loc.lower()
             else:
-                archive_loc = metadata['photoarchive']
+                archive_loc = os.path.join(metadata['photoarchive'],'')
         if len(m.group(6).split(",")) > 1:
             img.set('src', archive_loc + m.group(6).split(",")[0].strip())
             a.set('href', m.group(6).split(",")[1].strip())
