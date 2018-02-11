@@ -7,7 +7,7 @@ Imperial College Caving Club
 <div class="container">
   {% if articles %}
     {% for article in articles %}
-      {% if article.location == 'sticky' %}
+      {% if article.type == 'stickyindex' %}
         <div class="content-box">
           <div class="content-header">
             <div class="content-left">
@@ -27,7 +27,7 @@ Imperial College Caving Club
       {% endif %}
     {% endfor %}
     {% for article in articles %}
-      {% if article.location != 'sticky' %}
+      {% if article.type != 'stickyindex' %}
         <div class="content-box">
           <div class="content-header">
             <div class="content-left">
