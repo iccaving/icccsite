@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}Photo Archives{% endblock %}
+
+{% block banner %}Photo Archives{% endblock banner %}
+
+
+{% block content %}
+<div class="container">
+  <div class="article-content">
+    <h2>List of photo archives</h1>
+      <ul>
+    {% for url, name, date in photoarchives %}
+      <li><a href="{{ url }}">{{ name }} - {{ date }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+</div>
+{% endblock %}

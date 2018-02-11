@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}Archives - {{ SITENAME }}{% endblock %}
+{% block head %}<BASE href="{{ SITEURL }}/archives.html">
+<script src="{{ SITEURL }}/theme/js/sorttable.js"></script>
+{% endblock %}
+
+{% block banner %}ICCC Archives{% endblock banner %}
+
+
+{% block content %}
+<div class="article-content">
+  <h1>Full list of all articles</h1>
+  <div class="table-container">
+    <table class="sortable widetable">
+        <thead><tr><th>Date</th><th>Title</th><th>Type</th></tr></thead>
+    {% for article in dates %}
+        {% if article.type != "unlisted" %}
+            <tr>
+                <td>{{ article.locale_date }}</td>
+                <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></td>
+                <td>{% if article.subsite %}
+                        {{ article.subsite | capitalize | replace('zealand', ' Zealand') }} Expedition
+                    {% elif article.type == "index" or article.type == "stickyindex" %}
+                        Announcement
+                    {% else %}
+                        {{ article.type | capitalize }} Report
+                    {% endif %}
+                </td>
+            </tr>
+        {% endif %}
+    {% endfor %}
+    </table>
+</div>
+  {% include 'includes/license.html' %}
+</div>
+{% endblock %}

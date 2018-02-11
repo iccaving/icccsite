@@ -1,0 +1,519 @@
+<IfModule mod_mime.c>
+
+  # Data interchange
+
+    AddType application/atom+xml                        atom
+    AddType application/json                            json map topojson
+    AddType application/ld+json                         jsonld
+    AddType application/rss+xml                         rss
+    AddType application/vnd.geo+json                    geojson
+    AddType application/xml                             rdf xml
+
+  # JavaScript
+
+    AddType application/javascript                      js
+
+
+  # Manifest files
+
+    AddType application/x-web-app-manifest+json         webapp
+    AddType text/cache-manifest                         appcache
+
+
+  # Media files
+
+    AddType audio/mp4                                   f4a f4b m4a
+    AddType audio/ogg                                   oga ogg opus
+    AddType image/bmp                                   bmp
+    AddType image/svg+xml                               svg svgz
+    AddType image/webp                                  webp
+    AddType video/mp4                                   f4v f4p m4v mp4
+    AddType video/ogg                                   ogv
+    AddType video/webm                                  webm
+    AddType video/x-flv                                 flv
+    AddType image/x-icon                                cur ico
+
+
+  # Web fonts
+
+    AddType application/font-woff                       woff
+    AddType application/font-woff2                      woff2
+    AddType application/vnd.ms-fontobject               eot
+    AddType application/x-font-ttf                      ttc ttf
+    AddType font/opentype                               otf
+
+
+  # Other
+
+    AddType application/octet-stream                    safariextz
+    AddType application/x-bb-appworld                   bbaw
+    AddType application/x-chrome-extension              crx
+    AddType application/x-opera-extension               oex
+    AddType application/x-xpinstall                     xpi
+    AddType text/vcard                                  vcard vcf
+    AddType text/vnd.rim.location.xloc                  xloc
+    AddType text/vtt                                    vtt
+    AddType text/x-component                            htc
+
+</IfModule>
+
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+</IfModule>
+
+# `FileETag None` doesn't work in all cases.
+<IfModule mod_headers.c>
+    Header unset ETag
+</IfModule>
+
+FileETag None
+
+<IfModule mod_expires.c>
+
+    ExpiresActive on
+    ExpiresDefault                                      "access plus 1 week"
+
+  # CSS
+    ExpiresByType text/css                              "access plus 1 week"
+
+  # Data interchange
+    ExpiresByType application/atom+xml                  "access plus 1 hour"
+    ExpiresByType application/rdf+xml                   "access plus 1 hour"
+    ExpiresByType application/rss+xml                   "access plus 1 hour"
+
+    ExpiresByType application/json                      "access plus 0 seconds"
+    ExpiresByType application/ld+json                   "access plus 0 seconds"
+    ExpiresByType application/schema+json               "access plus 0 seconds"
+    ExpiresByType application/vnd.geo+json              "access plus 0 seconds"
+    ExpiresByType application/xml                       "access plus 0 seconds"
+    ExpiresByType text/xml                              "access plus 0 seconds"
+
+  # Favicon (cannot be renamed!) and cursor images
+    ExpiresByType image/vnd.microsoft.icon              "access plus 1 week"
+    ExpiresByType image/x-icon                          "access plus 1 week"
+
+  # HTML
+    ExpiresByType text/html                             "access plus 0 seconds"
+
+  # JavaScript
+    ExpiresByType application/javascript                "access plus 1 week"
+    ExpiresByType application/x-javascript              "access plus 1 week"
+    ExpiresByType text/javascript                       "access plus 1 week"
+
+  # Manifest files
+    ExpiresByType application/manifest+json             "access plus 1 week"
+
+    ExpiresByType application/x-web-app-manifest+json   "access plus 0 seconds"
+    ExpiresByType text/cache-manifest                   "access plus 0 seconds"
+
+  # Media files
+    ExpiresByType audio/ogg                             "access plus 1 week"
+    ExpiresByType image/bmp                             "access plus 1 week"
+    ExpiresByType image/gif                             "access plus 1 week"
+    ExpiresByType image/jpeg                            "access plus 1 week"
+    ExpiresByType image/png                             "access plus 1 week"
+    ExpiresByType image/svg+xml                         "access plus 1 week"
+    ExpiresByType image/webp                            "access plus 1 week"
+    ExpiresByType video/mp4                             "access plus 1 week"
+    ExpiresByType video/ogg                             "access plus 1 week"
+    ExpiresByType video/webm                            "access plus 1 week"
+
+  # Web fonts
+
+    # Embedded OpenType (EOT)
+    ExpiresByType application/vnd.ms-fontobject         "access plus 1 week"
+    ExpiresByType font/eot                              "access plus 1 week"
+
+    # OpenType
+    ExpiresByType font/opentype                         "access plus 1 week"
+
+    # TrueType
+    ExpiresByType application/x-font-ttf                "access plus 1 week"
+
+    # Web Open Font Format (WOFF) 1.0
+    ExpiresByType application/font-woff                 "access plus 1 week"
+    ExpiresByType application/x-font-woff               "access plus 1 week"
+    ExpiresByType font/woff                             "access plus 1 week"
+
+    # Web Open Font Format (WOFF) 2.0
+    ExpiresByType application/font-woff2                "access plus 1 week"
+
+  # Other
+    ExpiresByType text/x-cross-domain-policy            "access plus 1 week"
+
+</ifmodule>
+
+AddDefaultCharset utf-8
+
+## BEGIN GZIP ##
+<ifmodule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript image/svg+xml
+</ifmodule>
+## END GZIP ##
+
+## REDIRECTS ##
+#Redirect from old style report to new style report
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2015-03-06.php /articles/yorkshire-2015-03-06.html
+
+Redirect 301 /rcc/caving/derbyshire/derbyshire-2015-02-20.php /articles/derbyshire-2015-02-20.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2015-01-23.php /articles/mendips-2015-01-23.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2014-winter-tour.php /articles/yorkshire-2014-12-30.html
+
+Redirect 301 /rcc/caving/derbyshire/derbyshire-2014-12-12.php /articles/derbyshire-2014-12-12.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2014-11-28.php /articles/yorkshire-2014-11-28.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2014-11-14.php /articles/yorkshire-2014-11-14.html
+
+Redirect 301 /rcc/caving/wales/wales-2014-10-31.php /articles/wales-2014-10-31.html
+
+Redirect 301 /rcc/caving/wales/wales-2014-10-17.php /articles/wales-2014-10-17.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2014-09-19.php /articles/yorkshire-2014-09-19.html
+
+Redirect 301 /rcc/caving/switzerland/switzerland-2014-14-06.php /articles/switzerland-2014-09-14.html
+
+Redirect 301 /rcc/caving/france/france-2014-06-24.php /articles/france-2014-06-24.html
+
+Redirect 301 /rcc/caving/wales/wales-2014-06-13.php /articles/wales-2014-06-13.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2014-04-25.php /articles/yorkshire-2014-04-25.html
+
+Redirect 301 /rcc/caving/sardinia/sardinia14.php /articles/sardinia-2014-03-31.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2014-03-21.php /articles/yorkshire-2014-03-21.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2014-02-21.php /articles/yorkshire-2014-02-21.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2014-02-07.php /articles/yorkshire-2014-02-07.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2014-01-24.php /articles/mendips-2014-01-24.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2013-winter-tour.php /articles/yorkshire-2013-12-13.html
+
+Redirect 301 /rcc/caving/derbyshire/derbyshire-2013-11-22.php /articles/derbyshire-2013-11-22.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2013-11-08.php /articles/yorkshire-2013-11-08.html
+
+Redirect 301 /rcc/caving/wales/wales-2013-10-25.php /articles/wales-2013-10-25.html
+
+Redirect 301 /rcc/caving/wales/wales-2013-10-11.php /articles/wales-2013-10-11.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2013-09-27.php /articles/mendips-2013-09-27.html
+
+Redirect 301 /rcc/caving/derbyshire/derbyshire-2013-06-07.php /articles/derbyshire-2013-06-07.html
+
+Redirect 301 /rcc/caving/andalucia/andalucia13.php /articles/andalucia-2013-04-16.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2013-03-22.php /articles/yorkshire-2013-03-22.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2013-03-08.php /articles/yorkshire-2013-03-08.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2013-02-22.php /articles/yorkshire-2013-02-22.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2013-02-08.php /articles/yorkshire-2013-02-08.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2013-01-25.php /articles/mendips-2013-01-25.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2012-winter-tour.php /articles/yorkshire-2012-12-14.html
+
+Redirect 301 /rcc/caving/derbyshire/derbyshire-2012-11-23.php /articles/derbyshire-2012-11-23.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2012-11-09.php /articles/yorkshire-2012-11-09.html
+
+Redirect 301 /rcc/caving/wales/wales-2012-10-26.php /articles/wales-2012-10-26.html
+
+Redirect 301 /rcc/caving/wales/wales-2012-10-12.php /articles/wales-2012-10-12.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2012-09-28-50th-anniversary.php /articles/yorkshire-2012-09-28.html
+
+Redirect 301 /rcc/caving/mallorca/mallorca12.php /articles/mallorca-2012-04-01.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2012-03-23.php /articles/yorkshire-2012-03-23.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2012-02-17.php /articles/yorkshire-2012-02-17.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2012-02-03.php /articles/yorkshire-2012-02-03.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2012-01-20.php /articles/mendips-2012-01-20.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2011-winter-tour.php /articles/yorkshire-2011-12-16.html
+
+Redirect 301 /rcc/caving/derbyshire/derbyshire-2011-11-25.php /articles/derbyshire-2011-11-25.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2011-11-11.php /articles/yorkshire-2011-11-11.html
+
+Redirect 301 /rcc/caving/wales/wales-2011-10-28.php /articles/wales-2011-10-28.html
+
+Redirect 301 /rcc/caving/wales/wales-2011-10-14.php /articles/wales-2011-10-14.html
+
+Redirect 301 /rcc/caving/wales/bcra-2011-09-23.php /articles/wales-2011-09-23.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2011-06-10.php /articles/yorkshire-2011-06-10.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2011-04-28.php /articles/yorkshire-2011-04-28.html
+
+Redirect 301 /rcc/caving/sardinia/caving_spring_tour_report_2011.pdf /articles/sardinia-2011-03-27.html
+
+Redirect 301 /rcc/caving/derbyshire/derbyshire-2011-03-27.php /articles/derbyshire-2011-03-27.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2011-03-04.php /articles/yorkshire-2011-03-04.html
+
+Redirect 301 /rcc/caving/derbyshire/derbyshire-2011-02-19.php /articles/derbyshire-2011-02-19.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2011-02-04.php /articles/yorkshire-2011-02-04.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2011-01-21.php /articles/mendips-2011-01-21.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2010-winter-tour.php /articles/yorkshire-2010-12-17.html
+
+Redirect 301 /rcc/caving/derbyshire/derbyshire-2011-11-26.php /articles/derbyshire-2010-11-26.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2010-11-12.php /articles/yorkshire-2010-11-12.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2010-10-29.php /articles/yorkshire-2010-10-29.html
+
+Redirect 301 /rcc/caving/newzealand/newzealand-2010-10-15.php /articles/newzealand-2010-10-15.html
+
+Redirect 301 /rcc/caving/wales/wales-2010-10-15.php /articles/wales-2010-10-15.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2010-10-01.php /articles/yorkshire-2010-10-01.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2010-06-18.php /articles/yorkshire-2010-06-18.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2010-04-16.php /articles/yorkshire-2010-05-08.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2010-04-16.php /articles/yorkshire-2010-04-16.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2010-03-19.php /articles/yorkshire-2010-03-19.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2010-03-05.php /articles/yorkshire-2010-03-05.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2010-01-22.php /articles/mendips-2010-01-22.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2009-winter-tour.php /articles/yorkshire-2009-12-11.html
+
+Redirect 301 /rcc/caving/derbyshire/derbyshire-2009-11-23.php /articles/derbyshire-2009-11-27.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2009-11-13 /articles/yorkshire-2009-11-13.html
+
+Redirect 301 /rcc/caving/wales/wales-2009-10-30.php /articles/wales-2009-10-30.html
+
+Redirect 301 /rcc/caving/wales/wales-2009-10-16.php /articles/wales-2009-10-16.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2009-10-02.php /articles/yorkshire-2009-10-02.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2009-05-25.php /articles/yorkshire-2009-05-25.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2009-05-01.php /articles/yorkshire-2009-05-01.html
+
+Redirect 301 /rcc/caving/france/vercors-2009-04.php /articles/france-2009-04-09.html
+
+Redirect 301 /rcc/caving/derbyshire/derbyshire-2009-03-20.php /articles/derbyshire-2009-03-20.html
+
+Redirect 301 /rcc/caving/slovenia/slovenia-2009-02-27.php /articles/slovenia-2009-02-27.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2009-01-20.php /articles/yorkshire-2009-02-20.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2009-01-23.php /articles/mendips-2009-01-23.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2008-winter-tour.php /articles/yorkshire-2008-12-12.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2008-12-05.php /articles/yorkshire-2008-12-05.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2008-11-21.php /articles/yorkshire-2008-11-21.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2008-11-07.php /articles/yorkshire-2008-11-07.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2008-10-31.php /articles/mendips-2008-10-31.html
+
+Redirect 301 /rcc/caving/wales/wales-2008-10-17.php /articles/wales-2008-10-17.html
+
+Redirect 301 /rcc/caving/daren/daren-2008-10-10.php /articles/wales-2008-10-10.html
+
+Redirect 301 /rcc/caving/wiki.php?n=Trip.Italy-2008-06-13 /articles/italy-2008-06-13.html
+
+Redirect 301 /rcc/caving/wiki.php?n=Trip.Yorkshire-2008-06-06 /articles/yorkshire-2008-06-06.html
+
+Redirect 301 /rcc/caving/wiki.php?n=Trip.Yorkshire-2008-04-25 /articles/yorkshire-2008-04-25.html
+
+Redirect 301 /rcc/caving/old/wiki.php?n=Main.AvalancheInletGapingGill /articles/yorkshire-2008-04-08.html
+
+Redirect 301 /rcc/caving/wiki.php?n=Main.Croatia2008Writeup /articles/croatia-2008-03-28.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2008-03-07.php /articles/yorkshire-2008-03-07.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2008-02-22.php /articles/yorkshire-2008-02-22.html
+
+Redirect 301 /rcc/caving/derbyshire/derbyshire-2008-02-08.php /articles/derbyshire-2008-02-08.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2008-01-25.php /articles/yorkshire-2008-01-25.html
+
+Redirect 301 /rccyorkshire/yorkshire-2007-winter-tour.php /articles/yorkshire-2007-12-15.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2007-11-30.php /articles/yorkshire-2007-11-30.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2007-11-23.php /articles/mendips-2007-11-23.html
+
+Redirect 301 /rcc/caving/derbyshire/derbyshire-2007-11-09.php /articles/derbyshire-2007-11-09.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2007-10-26.php /articles/yorkshire-2007-10-26.html
+
+Redirect 301 /rcc/caving/wales/wales-2007-10-12.php /articles/wales-2007-10-12.html
+
+Redirect 301 /rcc/caving/wales/bcra-2007-09-21.php /articles/yorkshire-2007-09-21.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2007-05-25.php /articles/yorkshire-2007-05-25.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2007-05-05.php /articles/yorkshire-2007-05-05.html
+
+Redirect 301 /rcc/caving/wales/wales-2007-04-12.php /articles/wales-2007-04-12.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2007-03-09.php /articles/yorkshire-2007-03-09.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2007-02-16.php /articles/yorkshire-2007-02-16.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2007-02-02.php /articles/mendips-2007-02-02.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2007-01-19.php /articles/yorkshire-2007-01-19.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2006-winter-tour.php /articles/yorkshire-2006-12-15.html
+
+Redirect 301 /rcc/caving/derbyshire/derbyshire-2006-12-08.php /articles/derbyshire-2006-12-08.html
+
+Redirect 301 /rcc/caving/wales/wales-2006-11-24.php /articles/wales-2006-11-24.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2006-11-10.php /articles/yorkshire-2006-11-10.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2006-10-20.php /articles/mendips-2006-10-20.html
+
+Redirect 301 /rcc/caving/derbyshire/derbyshire-2006-10-13.php /articles/derbyshire-2006-10-13.html
+
+Redirect 301 /caving/austria/austria_felix.php /articles/austria-2006-07-15.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2006-04-28.php /articles/yorkshire-2006-04-28.html
+
+Redirect 301 /caving/derbyshire/derbyshire-2006-03-17.php /articles/derbyshire-2006-03-17.html
+
+Redirect 301 /rcc/caving/usa/franklin-2006-03-03.php /articles/usa-2006-03-03.html
+
+Redirect 301 /caving/yorkshire/yorkshire-2006-02-17.php /articles/yorkshire-2006-02-17.html
+
+Redirect 301 /rcc/caving/dean/dean-2006-01-22.php /articles/dean-2006-01-22.html
+
+Redirect 301 /caving/yorkshire/yorkshire-2005-11-25.php /articles/yorkshire-2005-11-25.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2005-11-04.php /articles/yorkshire-2005-11-04.html
+
+Redirect 301 /rcc/caving/wales/wales-2005-10-14.php /articles/wales-2005-10-14.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2005-10-09.php /articles/mendips-2005-10-09.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2005-09-25-bcra.php /articles/mendips-2005-09-25.html
+
+Redirect 301 /caving/yorkshire/yorkshire-2005-06-24.php /articles/yorkshire-2005-06-24.html
+
+Redirect 301 /caving/yorkshire/yorkshire-2005-06-10.php /articles/yorkshire-2005-06-10.html
+
+Redirect 301 /caving/yorkshire/yorkshire-2005-04-15.php /articles/yorkshire-2005-04-15.html
+
+Redirect 301 /rcc/caving/japan/japan-2005-04-01.php /articles/japan-2005-04-01.html
+
+Redirect 301 /rcc/caving/mallorca/mallorca05.php /articles/mallorca-2005-03-27.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2005-03-13.php /articles/mendips-2005-03-13.html
+
+Redirect 301 /caving/mendips/mendip-2005-02-25.php /articles/mendips-2005-02-25.html
+
+Redirect 301 /rcc/caving/mendips/mendip-2005-02-11.php /articles/mendips-2005-02-11.html
+
+Redirect 301 /caving/france/grenoble-2005-02-10.php /articles/france-2005-02-10.html
+
+Redirect 301 /caving/derbyshire/derbyshire-2005-01-28.php /articles/derbyshire-2005-01-28.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2004-christmas-tour.php /articles/yorkshire-2004-12-25.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2004-11-26.php /articles/yorkshire-2004-11-26.html
+
+Redirect 301 /caving/mendips/mendip1004.php /articles/mendips-2004-10-15.html
+
+Redirect 301 /rcc/caving/yorkshire/yorkshire-2004-10-05.php /articles/yorkshire-2004-10-05.html
+
+Redirect 301 /caving/slovenia/slov2004/slov2004.php /articles/slovenia-2004-08-12.html
+
+Redirect 301 /caving/france/canyoning0604.php /articles/france-2004-06-28.html
+
+Redirect 301 /rcc/caving/italy/dolomiti.php /articles/italy-2004-06-14.html
+
+Redirect 301 /caving/yorkshire/yorkshire0504.php /articles/yorkshire-2004-05-21.html
+
+Redirect 301 /caving/yorkshire/yorkshire0304.php /articles/yorkshire-2004-03-27.html
+
+Redirect 301 /caving/yorkshire/yorkshire0204.php /articles/yorkshire-2004-02-21.html
+
+Redirect 301 /caving/belgium/belgium0204.php /articles/belgium-2004-02-06.html
+
+Redirect 301 /caving/yorkshire/yorkshire1103.php /articles/yorkshire-2003-11-14.html
+
+Redirect 301 /caving/australia/oz1003.php /articles/australia-2003-10-18.html
+
+Redirect 301 /caving/wales/wales1003.php /articles/wales-2003-10-17.html
+
+Redirect 301 /caving/belgium/belgium1003.php /articles/belgium-2003-10-12.html
+
+Redirect 301 /caving/mendips/mendip210603.php /articles/mendips-2003-06-21.html
+
+Redirect 301 /caving/yorkshire/yorkshire0706.php /articles/yorkshire-2003-06-07.html
+
+Redirect 301 /caving/france/crolles0503.php /articles/france-2003-05-23.html
+
+Redirect 301 /caving/yorkshire/yorkshire0503.php /articles/yorkshire-2003-05-10.html
+
+Redirect 301 /caving/wales/wales0303.php /articles/wales-2003-04-08.html
+
+Redirect 301 /caving/mendips/mendip0303.php /articles/mendips-2003-04-01.html
+
+Redirect 301 /caving/wales/wales0704.php /articles/wales-2003-03-06.html
+
+Redirect 301 /caving/ireland/fermanagh0203.php; /articles/ireland-2003-01-31.html
+
+Redirect 301 /caving/yorkshire/yorkshire1202.php /articles/yorkshire-2002-12-14.html
+
+Redirect 301 /caving/yorkshire/fireworks02.php /articles/ireland-2002-11-10.html
+
+Redirect 301 /caving/wales/freshers2.php /articles/wales-2002-10-26.html
+
+Redirect 301 /caving/wales/freshers1.php /articles/wales-2002-10-12.html
+
+Redirect 301 /caving/ireland/clare1002.php /articles/ireland-2002-10-05.html
+
+Redirect 301 /caving/yorkshire/yorkshire0602.php /articles/yorkshire-2002-06-22.html
+
+Redirect 301 /caving/france/diau.php /articles/france-2002-06-01.html
+
+Redirect 301 /caving/ireland/fermanagh0402.php; /articles/ireland-2002-04-01.html
+
+Redirect 301 /caving/yorkshire/yorkshire0102.php /articles/yorkshire-2002-01-26.html
+
+Redirect 301 /caving/ireland/fermanagh0102.php; /articles/ireland-2002-01-01.html
+
+
+#If 404 check if the theres an equivlent legacy report
+RewriteEngine On
+RewriteBase /rcc/caving/
+
+#If file or directory exists at url, don't rewrite
+RewriteCond %{REQUEST_FILENAME} -f [or]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule (.*) - [S=1]
+#If file/dir doesnt exist then check if there's something when you insert
+#'old' into the url, and redirect if there is
+RewriteCond %{DOCUMENT_ROOT}/rcc/caving/old/$1 -f [or]
+RewriteCond %{DOCUMENT_ROOT}/rcc/caving/old/$1 -d
+RewriteRule ^(.*)$ old/$1 [L,R=301]
+## END REDIRECTS ##
+
+ErrorDocument 404 /rcc/caving/404.html

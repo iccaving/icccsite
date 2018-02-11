@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+{% block banner %}
+Imperial College Caving Club
+{% endblock banner %}
+
+{% block content %}
+<div class="index-container">
+  {% if articles %}
+    {% for article in articles %}
+      {% if previous_page == None %}
+        {% if article.type == 'stickyindex' %}
+          <div class="content-box">
+            <div class="content-header">
+              <div class="content-left">
+                <div><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
+              </div>
+            </div>
+            <div class="content">
+              {{ article.content }}
+            </div>
+          </div>
+
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% for article in current_page %}
+      {% if article.type != 'stickyindex' and article.type != "unlisted" %}
+        <div class="content-box">
+          <div class="content-header">
+            <div class="content-left">
+              <div><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
+            </div>
+            <div class="content-right">
+              <div>{{ article.date.strftime('%d-%m-%Y') }}</div>
+            </div>
+          </div>
+          <div class="content">
+              {% if article.thumbl is defined %}
+                {% if article.thumbl != '' %}
+                <div class="index-thumbl">
+                  <a href="{{ article.archiveloc }}{{ article.thumbl|replace("--thumb.jpg", ".html") }}"><img alt="Thumbnail of photo from this article" src="{{ article.archiveloc }}{{ article.thumbl }}"></a>
+                </div>
+                {% endif %}
+              {% endif %}
+              <div class="content-summary">
+              {% if article.type != 'index' %}{{ article.summary }}{% else %}{{ article.content }}{% endif %}
+              </div>
+              {% if article.thumbr is defined %}
+                {% if article.thumbr != '' %}
+                <div class="index-thumbr">
+                  <a href="{{ article.archiveloc }}{{ article.thumbr|replace("--thumb.jpg", ".html") }}"><img alt="Thumbnail of photo from this article" src="{{ article.archiveloc }}{{ article.thumbr }}"></a>
+                </div>
+                {% endif %}
+              {% endif %}
+          </div>
+          <div class="content-footer">
+            {% if article.type != 'index' %}
+              {% if article.archiveloc is defined %}
+              <div class="content-footer-left">
+                <a class="footer-button" href="{{ SITEURL }}/{{ article.url }}">More</a>
+              </div>
+              <div class="content-footer-right">
+                    <a class="footer-button" href="{{ article.archiveloc }}">Photos</a>
+              </div>
+              {% else  %}
+              <div class="content-footer-center">
+                <a class="footer-button" href="{{ SITEURL }}/{{ article.url }}">More</a>
+              </div>
+              {% endif %}
+            {% else %}
+              {% if article.archiveloc is defined %}
+              <div class="content-footer-left">
+                <a class="footer-button" href="{{ article.link }}">{{ article.linktext }}</a>
+              </div>
+              <div class="content-footer-right">
+                    <a class="footer-button" href="{{ article.archiveloc }}">Photos</a>
+              </div>
+              {% else  %}
+              <div class="content-footer-center">
+                <a class="footer-button" href="{{ article.link }}">{{ article.linktext }}</a>
+              </div>
+              {% endif %}
+            {% endif %}
+          </div>
+        </div>
+
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% if previous_page %}
+  <a href={{ previous_page }}>previous</a>
+  {% endif %}
+  {% if next_page %}
+  <a href={{ next_page }}>next</a>
+  {% endif %}
+
+  {% include 'includes/license.html' %}
+  <div id="new-button"><a href="{{ SITEURL }}/apps/editor/?state=new">Create new article</a></div>  
+</div>
+{% endblock content %}

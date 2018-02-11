@@ -1,0 +1,69 @@
+<div class="sidebar">
+  <div class="logo">
+    <img alt="Imperial College Caving Club Migovec Cave exploration logo" src="{{ ASSET_LOCATION }}/slovenia/sidebariclogo.png">
+  </div>
+  <div style="overflow-y: auto; overflow-x: hidden; height: 100%; display: flex; flex-flow: column nowrap;">
+
+  <hr class="hrsidebartop">
+
+  <div class="sidebar-content-box">
+    <div class="sidebar-item"><a href="{{ SITEURL }}/">Home</a></div>
+    <div class="sidebar-item"><a href="{{ SITEURL }}/pages/surveyrepo.html">Cave Data</a></div>
+    <div class="sidebar-item"><a href="{{ SITEURL }}/pages/hollowmountain.html">The Hollow Mountain</a></div>
+    <div class="sidebar-item"><a href="http://migovec.wordpress.com/">Migovec Blog</a></div>
+  </div>
+
+  <hr class="hrsidebar">
+
+<div class="sidebar-content-box">
+  <div class="sidebar-item expandable-menu"><a href="#" onclick="return false;">Expeditions</a></div>
+  <div class="sidebar-outer collapsed">
+  <div class="sidebar-inner nodisplay">
+  {% set expedname = {"2017":"Čez Rob", "2016":"Neprehojene Poti", "2015":"Pivo Moz", "2014":"Skozi Zrcalo", "2013":"Z Miga na Kuk", "2012":"Sledi Vetra", "2011":"Izgubljeni Raj", "2010":"Vodna Sled", "2009":"Brezzvezdna Noč", "2008":"Votla Gora ", "2007":"Slovenia", "2006":"Slovenia Recce", "2005":"Slovenia", "2004":"Slovenia", "2003":"Slovenia", "2001":"Slovenia", "2000":"Slovenia"} %}
+  {% set vars = {'year': ''} %}
+  {% for article in articles %}
+      {% if article.date.strftime('%Y')|int > 1999 and article.type == "expedition" %}
+            {% if article.date.strftime('%Y') != vars.year %}
+                  {% if vars.year != '' %}</div></div>{% endif%}
+                  {% if vars.update({'year':article.date.strftime('%Y')}) %}{% endif %}
+                  <div class="sidebar-sub-item expandable-menu"><a href="#" onclick="return false;">{{ expedname[vars.year] }} {{ vars.year }}</a></div>
+                  <div class="sidebar-outer collapsed" style="overflow: hidden;">
+                  <div class="sidebar-inner nodisplay">
+            {% endif %}
+            <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
+            {% if article.photoarchive is defined %}<div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ article.photoarchive }}">{{ vars.year }} Photos</a></div>{% endif %}
+            {% if article.sidebarlink is defined %}<div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ article.sidebarlink }}">{{ article.sidebarlinktitle }}</a></div>{% endif %}
+      {% endif %}
+  {% endfor %}
+            </div></div></div></div>
+
+            <div class="sidebar-item expandable-menu"><a href="#" onclick="return false;">Early History </a></div>
+            <div class="sidebar-outer collapsed">
+              <div class="sidebar-inner nodisplay">
+              <div class="sidebar-sub-item"><a href="/caving/FILES/expeditions/slovenia/slovpre2000/slov_cookbook.pdf">Cookbook [PDF]</a></div>
+              <div class="sidebar-sub-item"><a href="/caving/FILES/expeditions/slovenia/slovpre2000/1998_scuz_diary.pdf">Scuz's 1998 Diary [PDF]</a></div>
+              <div class="sidebar-sub-item"><a href="/caving/FILES/expeditions/slovenia/slovpre2000/1998_slov_report.pdf">1998 Report [PDF]</a></div>
+              <div class="sidebar-sub-item"><a href="/caving/FILES/expeditions/slovenia/slovpre2000/1999_slov_report.pdf">1999 Report [PDF]</a></div>
+              <div class="sidebar-sub-item"><a href="/caving/FILES/expeditions/slovenia/slovpre2000/1997_slov_report.pdf">1997 Report [PDF]</a></div>
+            {% for article in articles %}
+            {% if article.date.strftime('%Y')|int < 2000 and article.type == "expedition" %}
+                <div class="sidebar-sub-item"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
+          {% endif %}
+  {% endfor %}
+  </div></div>
+</div>
+
+<hr class="hrsidebar">
+
+<div class="sidebar-content-box">
+<div class="sidebar-item"><a href="{{ BASEURL }}/">Main ICCC Site</a></div>
+</div>
+
+<div id="sidebar-fill" class="sidebar-content-box">
+</div>
+
+<div class="sidebar-content-box">
+  <div class="sidebar-item"><a href="http://www.google.com/recaptcha/mailhide/d?k=01pKgPf4L76j23E4ymTAu8fw==&c=CoX_UvK7tWMqLjrzhcaEXTCP8fRKKSw-Cl1eAzdIcj4=">Email Us</a></div>
+</div>
+</div>
+</div>

@@ -1,0 +1,96 @@
+.banner {
+	display: none;
+	height: 50px;
+	background-color: $dark-grey;
+	overflow: hidden;
+	width: 100%;
+	position: fixed;
+	border-bottom: 1px $offwhite solid;
+	z-index: 2;
+	text-align: center;
+	
+	@media screen and (max-width: $mobile-breakpoint) {
+		margin: 0;
+		height: 65px;
+		min-height: 65px;
+		position: fixed;
+		top: 0;
+		display: table;
+	}
+}
+.banner-wrap {
+	display: table-row;
+	
+	@media screen and (max-width: $mobile-breakpoint) {
+		display: block;
+	}
+}
+.menu-icon {
+	font-size: 3rem;
+	color: $white;
+	vertical-align: middle;
+	text-align: center;
+	display: none;
+
+	@media screen and (max-width: $mobile-breakpoint) {
+		display: table-cell;
+	}
+}
+.banner-title {
+	font-size: 2rem;
+	font-family: $sans;
+	font-weight: 900;
+	color: $offwhite;
+	display: table-cell;
+	width: 100%;
+	vertical-align: middle;
+	
+	@media screen and (max-width: $mobile-breakpoint) {
+		font-size: 1.2rem;
+		text-align: center;
+		width: 50%;
+	}
+}
+.banner-title-logo {
+	display: none;
+	text-align: center;
+	vertical-align: middle;
+	width: 25%;
+	padding: 5px;
+	& > img {
+	  height: 55px;
+	  vertical-align: middle;
+	}
+	
+	@media screen and (max-width: $mobile-breakpoint) {
+		display: table-cell;
+	}
+}
+.banner-date {
+	color: $light-red;
+	display: inline-block;
+}
+.logo {
+	text-align: center;
+	display: block;
+	& img {
+		width: 100px;
+		vertical-align: middle;
+		margin:10px;	
+	}
+	
+	@media screen and (max-width: $mobile-breakpoint) {
+		display:none;
+	}
+}
+.logo-text {
+	color: $offwhite;
+  font-weight: 700;
+  margin-left: -10px;
+	&:nth-of-type(1) {
+		margin-top: 10px;
+	}
+	&:nth-of-type(2) {
+		margin-bottom: 10px;
+	}
+}

@@ -1,30 +1,28 @@
-from pelican import signals, utils
-from collections import namedtuple, defaultdict, OrderedDict
 import os
-import logging
 
-
-def getoldurl(generator):
+def getoldurl(sender, context, articles):
     oldurls = []
-    for article in generator.articles:  # Loop through articles
+    for article in articles:  
+        # Loop through articles
         # If the article has the oldurl metadata
         if 'oldurl' in article.metadata.keys():
             if article.metadata['oldurl'] is not '':
                 oldurls.append(
-                    (article.metadata['oldurl'], generator.settings["SITEURL"] + "/" + article.url))
-    generator.context['oldurls'] = oldurls
+                    (article.metadata['oldurl'], context["SITEURL"] + "/" + article.url))
+    context['oldurls'] = oldurls
 
 
-def generatehtaccess(generator, writer):
-    oldurls = generator.context['oldurls']
-    template = generator.get_template('htaccess')
-    filename = '.htaccess'
-    writer.write_file(filename, template, generator.context, oldurls=oldurls)
-
+def generatehtaccess(sender, context, Writer):
+    filename=os.path.join(context.OUTPUT_FOLDER, '.htaccess')
+    writer = Writer(
+        context, 
+        filename, 
+        'htaccess.html',
+       )
+    writer.write_file()
 
 def register():
-    # Registers the various functions to run during particar Pelican processes
-    # Run after the article list has been generated
-    signals.article_generator_finalized.connect(getoldurl)
-    # Run after the articles have been written
-    signals.article_writer_finalized.connect(generatehtaccess)
+    return [
+        ("AFTER_ALL_ARTICLES_READ", getoldurl),
+        ("BEFORE_WRITING", generatehtaccess)
+    ]

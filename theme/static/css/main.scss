@@ -1,0 +1,24 @@
+/* IC caving web site style sheet for main pages*/
+
+/*Variables*/
+@import 'partial/variables';
+/*Global styles, header sizes, colours etc.*/
+@import 'partial/base';
+/*Column layout and bakground images*/
+@import 'partial/layout';
+
+@import 'partial/banner';
+@import 'partial/sidebar';
+
+/*Individual page styling*/
+@import 'partial/index';
+@import 'partial/article';
+@import 'partial/personpage';
+@import 'partial/wiki';
+@import 'partial/photopage'; //possibly defunct
+
+/*Other useful global styles*/
+@import 'partial/usefulclasses';
+@import 'partial/table';
+@import 'partial/horizontalrule';
+@import 'partial/license';

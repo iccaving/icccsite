@@ -1,0 +1,94 @@
+<div class="sidebar">
+  <div class="logo">
+    <div class="logo-text">Imperial College</div>
+    <a href="{{ SITEURL }}/"><img alt="Imperial College Caving Club logo" src="{{ ASSET_LOCATION }}/iclogowhite.svg"></a>
+    <div class="logo-text">Caving Club</div>
+  </div>
+  <div style="overflow-y: auto; overflow-x: hidden; height: 100%; display: flex; flex-flow: column nowrap;">
+
+  <hr class="hrsidebartop">
+
+  <div class="sidebar-content-box">
+    <div class="sidebar-item"><a href="{{ SITEURL }}/">Home</a></div>
+    <div class="sidebar-item"><a href="{{ SITEURL }}/pages/clubinfo.html">Club Info</a></div>
+    <div class="sidebar-item"><a href="{{ SITEURL }}/pages/clubinfo.html#faq">FAQ</a></div>
+    <div class="sidebar-item"><a href="{{ SITEURL }}/pages/contacts.html">Contacts</a></div>
+  </div>
+
+  <hr class="hrsidebar">
+
+  <div class="sidebar-content-box">
+
+    <div class="sidebar-item expandable-menu"><a href="{{ SITEURL }}/archives.html" onclick="return false;">Trips</a></div>
+    <div class="sidebar-outer collapsed">
+      <div class="sidebar-inner nodisplay">
+	      {% set vars = {'year': ''} %}
+        {% for trip in trips_by_academic_year %} 
+          {% if trip.academic_year != vars.year %} 
+            {% if vars.year != '' %}
+            {# Closing year sub-item inner/outer container #}
+              </div>
+            </div>
+            {% endif %}
+            {% if vars.update({'year':trip.academic_year}) %} {% endif %}
+            <div class="sidebar-sub-item expandable-menu"><a href="{{ SITEURL }}/archives.html" onclick="return false;">{{ trip.academic_year }}</a></div>
+            <div class="sidebar-outer collapsed" style="overflow: hidden;">
+              <div class="sidebar-inner nodisplay">
+                <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ trip.article.url }}">{{ trip.article.title }} ({{ trip.article.date.strftime('%b') }} '{{ trip.article.date.strftime('%y') }})</a></div>
+          {% else %}
+                <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ trip.article.url }}">{{ trip.article.title }} ({{ trip.article.date.strftime('%b') }} '{{ trip.article.date.strftime('%y') }})</a></div>
+          {% endif %}
+        {% endfor %}
+        {% if trips_by_academic_year|count > 0 %}
+        {# Closing Trips item inner/outer container #}
+      </div>
+    </div>
+        {% endif %}
+  </div>
+</div>
+
+  <div class="sidebar-item expandable-menu"><a href="{{ SITEURL }}/archives.html" onclick="return false;">Tours</a></div>
+  <div class="sidebar-outer collapsed">
+    <div class="sidebar-inner nodisplay">
+      {% for article in articles %}{% if article.type == 'tour' %}
+      <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} {{ article.date.strftime('%Y') }}</a></div>
+      {% endif %} {% endfor %}
+    </div>
+  </div>
+
+<div class="sidebar-item expandable-menu"><a href="{{ SITEURL }}/archives.html" onclick="return false;">Expeditions</a></div>
+<div class="sidebar-outer collapsed">
+  <div class="sidebar-inner nodisplay">
+    <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/slovenia/">Slovenia</a></div>
+    <div class="sidebar-sub-sub-item"><a href="{{ SITEURL }}/newzealand/">New Zealand 2015</a></div>
+  </div>
+</div>
+
+<!--
+<div class="sidebar-item"><a href="{{ SITEURL }}/photo_archive/">Photos</a></div>
+</div>
+-->
+
+<div class="sidebar-item"><a href="/caving/photo_archive/dirindex.html">Photos</a></div>
+</div>
+
+<hr class="hrsidebar">
+
+<div class="sidebar-content-box">
+  <div class="sidebar-item"><a href="{{ SITEURL }}/caves/">Caves</a></div>
+  <div class="sidebar-item"><a href="{{ SITEURL }}/cavers/">Cavers</a></div>
+  <div class="sidebar-item"><a href="{{ SITEURL }}/pages/library.html">Library</a></div>
+  <div class="sidebar-item"><a href="{{ SITEURL }}/wiki/">Wiki</a></div>
+</div>
+
+<div id="sidebar-fill" class="sidebar-content-box">
+</div>
+
+<div class="sidebar-content-box">
+  <div class="sidebar-item"><a href="http://www.google.com/recaptcha/mailhide/d?k=01pKgPf4L76j23E4ymTAu8fw==&c=CoX_UvK7tWMqLjrzhcaEXTCP8fRKKSw-Cl1eAzdIcj4=">Email Us</a></div>
+</div>
+<div class="sidebar-content-box">
+  <div class="sidebar-item"><a href="{{ SITEURL }}/old/index.php">Legacy Site</a></div>
+</div>
+</div>
+</div>

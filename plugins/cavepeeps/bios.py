@@ -1,10 +1,13 @@
 from collections import namedtuple
-from pelican.contents import Article
-from pelican import signals
 import os
-import logging
 import re
 import copy
+import time
+
+from olm.article import Article
+from olm.logger import get_logger
+
+logger = get_logger('olm.plugins.cavepeep')
 
 def create_or_add(dictionary, key_to_add, data_to_add):
     if key_to_add in dictionary:
@@ -12,30 +15,25 @@ def create_or_add(dictionary, key_to_add, data_to_add):
     else:
         dictionary[key_to_add] = data_to_add
 
-def construct_bios(generator):
-    settings=generator.settings
-    readers=generator.readers
-    contentpath=os.path.realpath(os.path.abspath(settings.get("PATH", "content")))
-    logging.debug("Cavebios: Cavebios starting")
+def construct_bios(sender, context):
+    time_start = time.time()
+    contentpath=context.SOURCE_FOLDER
+    logger.debug("Cavebios starting")
 
     def get_bios(path):
         dictionary = {}
         for dirpath, dirnames, filenames in os.walk(path):
             for afile in filenames:
-                logging.debug("Cavebios: Reading {}/{}".format(dirpath, afile))
-                article = readers.read_file(
-                            base_path=dirpath,
-                            path=afile,
-                            content_class=Article,
-                            context=generator.context)
+                logger.debug("Cavebios: Reading {}/{}".format(dirpath, afile))
+                article = Article(context, os.path.join(dirpath, afile))
                 dictionary[os.path.splitext(afile)[0]]=article
         return dictionary
 
-    generator.context['caverbios']= get_bios(os.path.join(contentpath, "cavers"))
-    logging.debug("Cavepeep: Caver bios assembled")
+    context['caverbios']= get_bios(os.path.join(contentpath, "cavers"))
+    logger.debug("Caver bios assembled")
 
-    generator.context['cavebios'] = get_bios(os.path.join(contentpath, "caves"))
-    logging.debug("Cavepeep: Cave bios assembled")
+    context['cavebios'] = get_bios(os.path.join(contentpath, "caves"))
+    logger.info("Cave bios assembled in %.3f seconds", (time.time() - time_start))
 
 def get_data_from_metadata(metadata):
     data = {}
@@ -60,9 +58,9 @@ def was_author_in_cave(article, cave_name):
                     return True
     return False
 
-def generate_cave_pages(generator, writer):
-    cave_bios=generator.context['cavebios']
-    caves = generator.context['cavepeep_cave']
+def generate_cave_pages(context, Writer):
+    cave_bios=context['cavebios']
+    caves = context['cavepeep_cave']
     caves_dict = {}
 
     # Split the through trips into individual caves.
@@ -82,12 +80,12 @@ def generate_cave_pages(generator, writer):
 
     for key in dictionary.keys():
         if key not in initialised_pages.keys():
-            logging.debug("Cavebios: Adding {} to list of pages to write".format(key))
+            #logging.debug("Cavebios: Adding {} to list of pages to write".format(key))
             content=''
             metadata=''
             data={}
             if key in content_dictionary:
-                logging.debug("Cavebios: Content added to " + key)
+                #logging.debug("Cavebios: Content added to " + key)
                 content = content_dictionary[key].content
                 metadata = content_dictionary[key].metadata
                 metadata['data'] = get_data_from_metadata(metadata)
@@ -99,91 +97,95 @@ def generate_cave_pages(generator, writer):
 
     for page_name, page_data in initialised_pages.items():
         #logging.debug("Cavebios: Writing {}".format(page_name))
-        article = Article(page_data.content, page_data.metadata)
         cave_articles = [ (a, a.date, was_author_in_cave(a, page_name)) for a in page_data.articles ]
-        was_author_in_cave
-        writer.write_file(  page_data.path,
-                            template = generator.get_template(template),
-                            context = generator.context,
-                            pagename=page_name,
-                            cave_articles=sorted(cave_articles, key=lambda x: x[0].date, reverse=True),
-                            article=article)
+        writer = Writer(
+            context, 
+            page_data.path, 
+            template + '.html',
+            content=page_data.content,
+            metadata=page_data.metadata,
+            cave_articles=sorted(cave_articles, key=lambda x: x[0].date, reverse=True),
+            pagename=page_name)
+        writer.write_file()
 
     # ==========Write the index of caves================
+    logger.info("writing %s cave pages", len(initialised_pages))
     pages = initialised_pages
     row=namedtuple('row', 'name number recentdate meta')
     rows = []
     for page_name in pages.keys():
-        name = page_name;
+        name = page_name
         number = len(pages[page_name].articles)
         recentdate = max([article.date for article in pages[page_name].articles])
         meta = content_dictionary[page_name].metadata if page_name in content_dictionary.keys() else None
         rows.append(row(name, number, recentdate, meta))
     filename=os.path.join(output_path, 'index.html')
-    writer.write_file(  filename,
-                        template = generator.get_template(template + "_index"),
-                        context = generator.context,
-                        rows=sorted(rows, key=lambda x: x.name))
+    writer = Writer(
+            context, 
+            filename, 
+            template + "_index.html",
+            rows=sorted(rows, key=lambda x: x.name))
+    writer.write_file()
 
-def generate_person_pages(generator, writer):
+def generate_person_pages(context, Writer):
     # For each person generate a page listing the caves they have been in and the article that
     # describes that trip
     author_list={}
-    caver_bios=generator.context['caverbios']
-    cavers=generator.context['cavepeep_person']
+    caver_bios=context['caverbios']
+    cavers=context['cavepeep_person']
 
     dictionary = cavers
     content_dictionary = caver_bios
     output_path = "cavers"
     template = "caverpages"
 
-    for item in generator.authors:
-        author_list[item[0].name]=item[1]
-
     row = namedtuple('row', 'path content metadata articles authored')
     initialised_pages = {}
 
     for key in dictionary.keys():
         if key not in initialised_pages.keys():
-            logging.debug("Cavebios: Adding {} to list of pages to write".format(key))
+            logger.debug("Adding {} to list of pages to write".format(key))
             content=''
             metadata=''
             authored=[]
             if key in content_dictionary:
-                logging.debug("Cavebios: Content added to " + key)
+                logger.debug("Content added to " + key)
                 content = content_dictionary[key].content
                 metadata = content_dictionary[key].metadata
-            #print(key)
-            #print(author_list.keys())
-            if key in author_list.keys():
-                authored = author_list[key]
+            if key in context.authors:
+                authored = sorted(context.authors[key], key=lambda k: (k.date), reverse=True)
             path= os.path.join(output_path, str(key) + '.html')
             initialised_pages[key]=(row(path, content, metadata, dictionary[key], authored))
         else:
             initialised_pages[key].articles.extend(dictionary[key])
-
+    
+    logger.info("Writing %s caver pages", len(initialised_pages))
     for page_name, page_data in initialised_pages.items():
-        #logging.debug("Cavebios: Writing {}".format(page_name))
-        article = Article(page_data.content, page_data.metadata)
-        writer.write_file(  page_data.path,
-                            template = generator.get_template(template),
-                            context = generator.context,
-                            personname=page_name,
-                            caver_articles=sorted(page_data.articles, key=lambda x: x.date, reverse=True),
-                            article=article,
-                            authored=page_data.authored)
+        writer = Writer(
+            context, 
+            page_data.path, 
+            template + '.html',
+            content=page_data.content,
+            metadata=page_data.metadata,
+            caver_articles=sorted(page_data.articles, key=lambda x: x.date, reverse=True),
+            personname=page_name,
+            authored=page_data.authored)
+        writer.write_file()
     pages = initialised_pages
     # ==========Write the index of cavers================
     row=namedtuple('row', 'name number recentdate meta')
     rows = []
     for page_name in pages.keys():
-        name = page_name;
+        name = page_name
         number = len(pages[page_name].articles)
         recentdate = max([article.date for article in pages[page_name].articles])
         meta = content_dictionary[page_name].metadata if page_name in content_dictionary.keys() else None
         rows.append(row(name, number, recentdate, meta))
     filename=os.path.join(output_path, 'index.html')
-    writer.write_file(  filename,
-                        template = generator.get_template(template + "_index"),
-                        context = generator.context,
-                        rows=sorted(sorted(rows, key=lambda x: x.name), key=lambda x: x.recentdate, reverse=True))
+    writer = Writer(
+        context, 
+        filename, 
+        template + "_index.html",
+        rows=sorted(sorted(rows, key=lambda x: x.name), key=lambda x: x.recentdate, reverse=True))
+    writer.write_file()
+

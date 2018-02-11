@@ -1,0 +1,55 @@
+
+.left-col {
+	height: 100%;
+	width: 180px;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	overflow-x: hidden;
+	transition: 0.5s;
+	background-color: $dark-grey;
+	z-index: 10;
+	
+	@media screen and (max-width: $mobile-breakpoint) {
+		display: block;
+		float: none;
+		position: fixed;
+		top: 65px;
+		margin-left: -185px;
+		width: 185px;
+		overflow-y: auto;
+		height: calc(100vh - 65px);
+		transition: margin .5s;
+	}
+}
+.center-col {
+	float: left;
+	vertical-align: top;
+	height: 100%;
+	width: 100%;
+	
+	@media screen and (max-width: $mobile-breakpoint) {
+		float: none;
+		margin: 65px 0 0 0; 
+		transition: margin .5s;
+	}
+}
+
+.stal-img-left {
+	position: fixed;
+	left: 179px;
+	top: -1px;
+	height: 80%;
+	@media screen and (max-width: 1250px) {
+		display: none;
+	}
+}
+
+.stal-img-right {
+	position: fixed;
+	right: 0;
+	@media screen and (max-width: 1500px) {
+		display: none;
+	}
+}

@@ -1,0 +1,25 @@
+{% extends "base.html" %} {% block head %}
+<script src="{{ SITEURL }}/theme/js/sorttable.js"></script>
+{% endblock %} {% block banner %} {{ author }}{% endblock banner %}
+{% block content %}
+<div class="article-content">
+    <h1 class="article-title">{{ author }}</h1>
+    <table class="sortable widetable">
+      <tr>
+        <th>Report</th>
+        <th>Date</th>
+      </tr>
+      {% for article in articles %}
+        {% if article.type != "unlisted" %}
+        <tr>
+          <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+            <br>
+          </td>
+          <td>{{ article.date.strftime('%d-%m-%Y') }}</td>
+        </tr>
+        {% endif %}
+      {% endfor %}
+    </table>
+    {% include 'includes/license.html' %}
+</div>
+{% endblock %}

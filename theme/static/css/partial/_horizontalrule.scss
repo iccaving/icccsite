@@ -1,0 +1,43 @@
+hr.hrstyle {
+	border: 0;
+	height: 1px;
+	background: #333;
+	background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
+	background-image: -moz-linear-gradient(left, #ccc, #333, #ccc);
+	background-image: -ms-linear-gradient(left, #ccc, #333, #ccc);
+	background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
+}
+hr.hrsidebar {
+	border-top: 1px solid $offwhite;
+	//border-top: 1px solid $dark-grey;
+	border-bottom: 0 solid transparent;
+	width: 100%;
+	flex: 0 0 auto;
+}
+hr.hrsidebartop {
+	border-top: 1px solid $offwhite;
+	//border-top: 1px solid $dark-grey;
+	border-bottom: 0 solid transparent;
+	margin-top: 0;
+	width: 100%;
+	flex: 0 0 auto;
+}
+
+hr.fancy {
+	padding: 0;
+	border: none;
+	border-top: medium double #ab4444;
+	color: #ab4444;
+	text-align: center;
+	height: 0px;
+	width: 60%;
+}
+hr.fancy:after {
+	content: "§";
+	display: inline-block;
+	position: relative;
+	top: -0.7em;
+	font-size: 1.5em;
+	padding: 0 0.25em;
+	background-color: #2d2d2d;
+}
