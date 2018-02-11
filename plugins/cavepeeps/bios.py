@@ -26,6 +26,9 @@ def construct_bios(sender, context):
             for afile in filenames:
                 logger.debug("Cavebios: Reading {}/{}".format(dirpath, afile))
                 article = Article(context, os.path.join(dirpath, afile))
+                article = Article(context, os.path.join(dirpath, afile))
+                article.data = get_data_from_metadata(article.metadata)
+                context['all_files'].append(article)
                 dictionary[os.path.splitext(afile)[0]]=article
         return dictionary
 
@@ -83,12 +86,10 @@ def generate_cave_pages(context, Writer):
             #logging.debug("Cavebios: Adding {} to list of pages to write".format(key))
             content=''
             metadata=''
-            data={}
             if key in content_dictionary:
                 #logging.debug("Cavebios: Content added to " + key)
                 content = content_dictionary[key].content
                 metadata = content_dictionary[key].metadata
-                metadata['data'] = get_data_from_metadata(metadata)
 
             path= os.path.join(output_path, str(key) + '.html')
             initialised_pages[key]=(row(path, content, metadata, dictionary[key]))
