@@ -23,7 +23,7 @@ SETTINGS = {
             'JS_FOLDER': os.path.join('{{ BASE_FOLDER }}', 'theme', 'static', 'subsites', 'newzealand', 'js'),            
             'OUTPUT_CSS_FOLDER': os.path.join('{{ OUTPUT_FOLDER }}', 'theme', 'subsites', 'newzealand', 'css'),
             'OUTPUT_JS_FOLDER': os.path.join('{{ OUTPUT_FOLDER }}', 'theme', 'subsites', 'newzealand', 'js'),
-            'ARTICLE_TYPES': [''],
+            'ARTICLE_TYPES': [None],
             'BASEURL': '/rcc/caving',
             'SITEURL': "/rcc/caving/source/dist/newzealand",
             'PHOTOREEL': False,
