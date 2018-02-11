@@ -39,6 +39,7 @@ SETTINGS = {
             'BASEURL': '/rcc/caving',
             'SITEURL': "/rcc/caving/source/dist/slovenia",
             'PHOTOREEL': False,
+            'ARTICLE_SLUG': '{date}-{location}.html'
         }
     }
 }
