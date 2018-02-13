@@ -23,6 +23,7 @@ ignore stupid files
 *.pid
 *.py.save
 *.py.swp
+cache*.pickle
 
 ignore sass cache
 .sass-cache/

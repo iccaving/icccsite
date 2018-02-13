@@ -28,6 +28,7 @@ def construct_bios(sender, context):
                 article = Article(context, os.path.join(dirpath, afile))
                 article = Article(context, os.path.join(dirpath, afile))
                 article.data = get_data_from_metadata(article.metadata)
+                article.cache_id = afile
                 context['all_files'].append(article)
                 dictionary[os.path.splitext(afile)[0]]=article
         return dictionary
@@ -78,7 +79,7 @@ def generate_cave_pages(context, Writer):
     template = "cavepages"
 
 
-    row = namedtuple('row', 'path content metadata articles')
+    row = namedtuple('row', 'path content metadata articles same_as_cache')
     initialised_pages = {}
 
     for key in dictionary.keys():
@@ -86,19 +87,25 @@ def generate_cave_pages(context, Writer):
             #logging.debug("Cavebios: Adding {} to list of pages to write".format(key))
             content=''
             metadata=''
+            same_as_cache = False
             if key in content_dictionary:
                 #logging.debug("Cavebios: Content added to " + key)
                 content = content_dictionary[key].content
                 metadata = content_dictionary[key].metadata
+                same_as_cache = content_dictionary[key].same_as_cache
+            else:
+                same_as_cache = context.is_cached
 
             path= os.path.join(output_path, str(key) + '.html')
-            initialised_pages[key]=(row(path, content, metadata, dictionary[key]))
+            initialised_pages[key]=(row(path, content, metadata, dictionary[key], same_as_cache))
         else:
             initialised_pages[key].articles.extend(dictionary[key])
 
     for page_name, page_data in initialised_pages.items():
-        #logging.debug("Cavebios: Writing {}".format(page_name))
         cave_articles = [ (a, a.date, was_author_in_cave(a, page_name)) for a in page_data.articles ]
+        if page_data.same_as_cache:
+            continue
+        #logging.debug("Cavebios: Writing {}".format(page_name))
         writer = Writer(
             context, 
             page_data.path, 
@@ -140,7 +147,7 @@ def generate_person_pages(context, Writer):
     output_path = "cavers"
     template = "caverpages"
 
-    row = namedtuple('row', 'path content metadata articles authored')
+    row = namedtuple('row', 'path content metadata articles authored same_as_cache')
     initialised_pages = {}
 
     for key in dictionary.keys():
@@ -149,19 +156,25 @@ def generate_person_pages(context, Writer):
             content=''
             metadata=''
             authored=[]
+            same_as_cache = False
             if key in content_dictionary:
                 logger.debug("Content added to " + key)
                 content = content_dictionary[key].content
                 metadata = content_dictionary[key].metadata
+                same_as_cache = content_dictionary[key].same_as_cache
+            else:
+                same_as_cache = context.is_cached
             if key in context.authors:
                 authored = sorted(context.authors[key], key=lambda k: (k.date), reverse=True)
             path= os.path.join(output_path, str(key) + '.html')
-            initialised_pages[key]=(row(path, content, metadata, dictionary[key], authored))
+            initialised_pages[key]=(row(path, content, metadata, dictionary[key], authored, same_as_cache))
         else:
             initialised_pages[key].articles.extend(dictionary[key])
     
     logger.info("Writing %s caver pages", len(initialised_pages))
     for page_name, page_data in initialised_pages.items():
+        if page_data.same_as_cache:
+            continue
         writer = Writer(
             context, 
             page_data.path, 
