@@ -11,7 +11,7 @@ SETTINGS = {
     'NO_SCAN': ['wiki','caves','cavers'],
     'PHOTO_LOCATION': 'https://union.ic.ac.uk/rcc/caving/photo_archive/',
     'ASSET_LOCATION': 'https://union.ic.ac.uk/rcc/caving/assets/',
-    'SITEURL': "/rcc/caving/source/dist",
+    'SITEURL': "/rcc/caving/source/output",
     'PHOTOREEL': True,
     "BADGES": {
         'lightning': {
@@ -31,7 +31,7 @@ SETTINGS = {
             'OUTPUT_JS_FOLDER': os.path.join('{{ OUTPUT_FOLDER }}', 'theme', 'subsites', 'newzealand', 'js'),
             'ARTICLE_TYPES': [None],
             'BASEURL': '/rcc/caving',
-            'SITEURL': "/rcc/caving/source/dist/newzealand",
+            'SITEURL': "/rcc/caving/source/output/newzealand",
             'PHOTOREEL': False,
             'ARTICLE_SLUG': '{basename}.html'
         },
@@ -44,7 +44,7 @@ SETTINGS = {
             'OUTPUT_JS_FOLDER': os.path.join('{{ OUTPUT_FOLDER }}', 'theme', 'subsites', 'slovenia', 'js'),
             'ARTICLE_TYPES': ['expedition'],
             'BASEURL': '/rcc/caving',
-            'SITEURL': "/rcc/caving/source/dist/slovenia",
+            'SITEURL': "/rcc/caving/source/output/slovenia",
             'PHOTOREEL': False,
             'ARTICLE_SLUG': '{date}-{location}.html'
         }
