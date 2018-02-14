@@ -1,6 +1,10 @@
 import os
 
 SETTINGS = {
+    'SOURCE_FOLDER': os.path.join('{{ BASE_FOLDER }}', 'content'),
+    'OUTPUT_FOLDER': os.path.join('{{ BASE_FOLDER }}', 'output'),
+    'OUTPUT_CSS_FOLDER': os.path.join('{{ OUTPUT_FOLDER }}', 'theme', 'css'),
+    'OUTPUT_JS_FOLDER': os.path.join('{{ OUTPUT_FOLDER }}', 'theme', 'js'),
     'ARTICLE_TYPES': ['trip', 'tour'],
     'INDEX_TYPES': ['index', 'stickyindex'],
     'PLUGINS': ['inlinephotos', 'acyear', 'cavepeeps', 'photoarchive', 'metainserter', 'oldurl', 'wiki'],
