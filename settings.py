@@ -15,6 +15,8 @@ SETTINGS = {
             'alt': 'In the bivi'
         }
     },
+    "PAGE_REFRESH_META": ['title', 'location', 'date'],
+    "ARTICLE_REFRESH_META": ['title', 'location', 'date'],
     "SUBSITES": {
         "newzealand": {
             'PLUGINS': ['inlinephotos', 'photoarchive', 'metainserter'],
