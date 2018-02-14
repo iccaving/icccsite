@@ -8,7 +8,7 @@ Mainimg:
 Thumbl: 
 Thumbr: 
 Authors: Jarv
-Cavepeeps: DATE=2018-01-20; CAVE=Ireby Fell Cavern; PEOPLE=Jack Hare, Rhys Tyers, Tom Porter, Jack Halliday;
+Cavepeeps: DATE=2018-01-20; CAVE=Ireby Fell Cavern; PEOPLE=Jack Hare, Rhys Tyer, Tom Porter, Jack Halliday;
 			DATE=2018-01-20; CAVE=Large Pot; PEOPLE=Tanguy Racine, David Wilson, Alex Seaton, Jarvist Frost;
 Status: draft
 
