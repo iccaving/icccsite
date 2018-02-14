@@ -159,7 +159,7 @@ def cavepeep_linker_final(sender, context, Writer):
     context['cavepeep_cave']=cavepeep_cave
     context['cavepeep_person']=cavepeep_person
 
-    logger.info("Assembled cavepeeps in %.3f seconds", (time.time() - time_start))
+    logger.info("Processed cavepeeps in %.3f seconds", (time.time() - time_start))
 
     time_start = time.time()
     generate_cave_pages(context, Writer)

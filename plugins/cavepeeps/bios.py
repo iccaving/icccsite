@@ -55,10 +55,8 @@ def construct_bios(sender, context):
         return dictionary
 
     context['caverbios']= get_bios("cavers")
-    logger.debug("Caver bios assembled")
-
     context['cavebios'] = get_bios("caves")
-    logger.info("Cave bios assembled in %.3f seconds", (time.time() - time_start))
+    logger.info("Processed cave and caver bios in %.3f seconds", (time.time() - time_start))
 
 def get_data_from_metadata(metadata):
     data = {}
@@ -158,7 +156,7 @@ def generate_cave_pages(context, Writer):
         writer.write_file()
     logger.info("Wrote %s changed cave pages out of %s total cave pages", number_written, len(initialised_pages))
     # ==========Write the index of caves================
-    logger.info("writing %s cave pages", len(initialised_pages))
+    logger.debug("writing %s cave pages", len(initialised_pages))
     pages = initialised_pages
     row=namedtuple('row', 'name number recentdate meta')
     rows = []
@@ -231,7 +229,7 @@ def generate_person_pages(context, Writer):
                 people, caves = parse_metadata(modified['cavepeeps'][1])
                 changed_people.extend(people)
 
-    logger.info("Writing caver pages")
+    logger.debug("writing %s caver pages", len(initialised_pages))
     number_written = 0
     for page_name, page_data in initialised_pages.items():
         if page_data.same_as_cache and page_name not in changed_people:
