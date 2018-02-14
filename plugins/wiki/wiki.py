@@ -68,7 +68,7 @@ def parse_wiki_pages(sender, context, articles):
     context['wikilist'] = wikilist
     context['wiki'] = structure
     context['all_files'].extend(all_files)
-    logger.info("Wiki read and assembled in %.3f seconds", time.time() - time_start)
+    logger.info("Processed wiki in %.3f seconds", time.time() - time_start)
 
 
 def parse_dict(structure, level, nice_list):
