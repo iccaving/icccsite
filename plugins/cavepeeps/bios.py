@@ -10,6 +10,7 @@ from olm.logger import get_logger
 logger = get_logger('olm.plugins.cavepeep')
 
 def parse_metadata(metadata):
+    metadata = [metadata] if not isinstance(metadata, list) else metadata
     c = re.compile(r"""\s*DATE=\s*(\d\d\d\d-\d\d-\d\d)\s*;\s*CAVE=\s*([\s\w\D][^;]*)\s*;\s*PEOPLE=\s*([\s\w\D][^;]*);*[\n\t\r]*""")
     people = []
     caves = []
@@ -21,8 +22,9 @@ def parse_metadata(metadata):
             try:
                 item_caves=m.group(2)
                 item_people=m.group(3).split(',')
-            except AttributeError:
+            except AttributeError as e:
                 logger.error("Error parsing metadata for caching")
+                logger.error(e)
                 continue
             people.extend([ p.strip() for p in item_people ])
             caves.extend([ c.strip() for c in item_caves.split('>')])
@@ -34,7 +36,7 @@ def create_or_add(dictionary, key_to_add, data_to_add):
     else:
         dictionary[key_to_add] = data_to_add
 
-def construct_bios(sender, context):
+def construct_bios(sender, context, **kwargs):
     time_start = time.time()
     contentpath=context.SOURCE_FOLDER
     logger.debug("Cavebios starting")

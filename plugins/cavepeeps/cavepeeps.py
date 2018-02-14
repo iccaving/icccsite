@@ -172,7 +172,7 @@ def cavepeep_linker_final(sender, context, Writer):
 def register():
     return [
         ("INITIALISED", cavepeep_linker_initialise),
-        ("SITE_INITIALISED", construct_bios),
+        ("BEFORE_CACHING", construct_bios),
         ("AFTER_ARTICLE_READ", cavepeep_linker_for_each_article),
         ("BEFORE_WRITING", cavepeep_linker_final)
     ]
