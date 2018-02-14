@@ -2,8 +2,13 @@ from collections import namedtuple, OrderedDict
 import os
 import re
 import codecs
+import time
 from olm.helper import Map
 from olm.reader import Reader
+from olm.source import Source
+from olm.logger import get_logger
+
+logger = get_logger('olm.plugins.wiki')
 
 def add_to_structure(structure, path_list):
     folders = structure["folders"]
@@ -25,6 +30,7 @@ def add_to_structure(structure, path_list):
     return { "folders": folders, "articles": articles }
 
 def parse_wiki_pages(sender, context, articles):
+    time_start = time.time()
     contentpath = context.SOURCE_FOLDER
 
     root = os.path.realpath(
@@ -39,8 +45,11 @@ def parse_wiki_pages(sender, context, articles):
                 with codecs.open(os.path.join(dirname, filename), 'r', encoding='utf8') as md_file:
                     reader = Reader(md_file.read())
                     metadata, raw_content = reader.parse()
+                basename, ext = os.path.splitext(filename)
                 content = context.MD(raw_content)
-                wikiarticle = Map({'content': content, 'metadata': metadata})
+                wikiarticle = Source(context, metadata=metadata, content=content, basename=basename)
+                wikiarticle.cache_id = basename
+                wikiarticle.cache_type = 'WIKI'
                 try:
                     path = metadata["path"]
                     org = metadata["path"].split("/")
@@ -59,7 +68,7 @@ def parse_wiki_pages(sender, context, articles):
     context['wikilist'] = wikilist
     context['wiki'] = structure
     context['all_files'].extend(all_files)
-    #logging.debug("Wiki: Wiki assembled")
+    logger.info("Wiki read and assembled in %.3f seconds", time.time() - time_start)
 
 
 def parse_dict(structure, level, nice_list):
@@ -77,11 +86,15 @@ def parse_dict(structure, level, nice_list):
     return nice_list
 
 def generate_wiki_pages(sender, context, Writer):
+    time_start = time.time()
     wiki_list = context['wikilist']
     structure = context['wiki']
     nice_list = parse_dict(structure, 0, [])
 
     for page in wiki_list:  
+        same_as_cache = page[2].same_as_cache
+        if same_as_cache:
+            continue
         filename = os.path.join('wiki', page[1].replace('.md', '.html'))
         content = page[2].content
         metadata = page[2].metadata
@@ -105,9 +118,10 @@ def generate_wiki_pages(sender, context, Writer):
             links=nice_list, 
             breadcrumbs=breadcrumbs)
         writer.write_file()
+    logger.info("Wiki written in %.3f seconds", time.time() - time_start)
 
 def register():
     return [
-        ("AFTER_ALL_ARTICLES_READ", parse_wiki_pages),
+        ("BEFORE_CACHING", parse_wiki_pages),
         ("AFTER_WRITING", generate_wiki_pages)
     ]

@@ -7,6 +7,9 @@ logger = get_logger('olm.plugins.metainserter')
 
 def meta_inserter(sender, context, Writer):
     for afile in context['all_files']:
+        if hasattr(afile, 'same_as_cache'):
+            if afile.same_as_cache:
+                continue
         content = afile.content
         metadata = afile.metadata
 
