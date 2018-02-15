@@ -91,10 +91,12 @@ def generate_wiki_pages(sender, context, Writer):
     structure = context['wiki']
     nice_list = parse_dict(structure, 0, [])
 
+    number_written = 0
     for page in wiki_list:  
         same_as_cache = page[2].same_as_cache
         if same_as_cache:
             continue
+        number_written = number_written + 1
         filename = os.path.join('wiki', page[1].replace('.md', '.html'))
         content = page[2].content
         metadata = page[2].metadata
@@ -118,7 +120,7 @@ def generate_wiki_pages(sender, context, Writer):
             links=nice_list, 
             breadcrumbs=breadcrumbs)
         writer.write_file()
-    logger.info("Wiki written in %.3f seconds", time.time() - time_start)
+    logger.info("Wrote %d changed wiki pages out of %d wiki pages in %.3f seconds", number_written, len(wiki_list), time.time() - time_start)
 
 def register():
     return [
