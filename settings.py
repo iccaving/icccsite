@@ -19,11 +19,11 @@ SETTINGS = {
             'alt': 'In the bivi'
         }
     },
-    "ARTICLE_REFRESH": ["ARTICLE.NEW_FILE"],
+    "ARTICLE_REFRESH": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
     "ARTICLE_REFRESH_META": ['title', 'location', 'date'],
-    "PAGE_REFRESH": ["ARTICLE.NEW_FILE"],
+    "PAGE_REFRESH": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
     "PAGE_REFRESH_META": ['title', 'location', 'date'],
-    "INDEX_REFRESH": ["ARTICLE.NEW_FILE"],
+    "INDEX_REFRESH": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
     "INDEX_REFRESH_META": ["title", "date", "location", "thumbr", "thumbl", "summary"],
     "SUBSITES": {
         "newzealand": {
