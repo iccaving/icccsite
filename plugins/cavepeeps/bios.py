@@ -4,7 +4,7 @@ import re
 import copy
 import time
 
-from olm.article import Article
+from olm.source import Source
 from olm.logger import get_logger
 
 logger = get_logger('olm.plugins.cavepeep')
@@ -47,8 +47,8 @@ def construct_bios(sender, context, **kwargs):
         for dirpath, dirnames, filenames in os.walk(path):
             for afile in filenames:
                 logger.debug("Cavebios: Reading {}/{}".format(dirpath, afile))
-                article = Article(context, os.path.join(dirpath, afile))
-                article = Article(context, os.path.join(dirpath, afile))
+                article = Source(context, os.path.join(dirpath, afile))
+                article = Source(context, os.path.join(dirpath, afile))
                 article.data = get_data_from_metadata(article.metadata)
                 article.cache_id = afile
                 article.cache_type = btype.upper()
