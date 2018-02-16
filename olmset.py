@@ -1,6 +1,7 @@
 import os
+from collections import OrderedDict
 
-SETTINGS = {
+SETTINGS = OrderedDict({
     'SOURCE_FOLDER': os.path.join('{{ BASE_FOLDER }}', 'content'),
     'OUTPUT_FOLDER': os.path.join('{{ BASE_FOLDER }}', 'output'),
     'OUTPUT_CSS_FOLDER': os.path.join('{{ OUTPUT_FOLDER }}', 'theme', 'css'),
@@ -53,4 +54,4 @@ SETTINGS = {
             'ARTICLE_SLUG': '{date}-{location}.html'
         }
     }
-}
+})
