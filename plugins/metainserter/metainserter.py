@@ -22,9 +22,9 @@ def meta_inserter(sender, context, Writer):
             key = match.group(1).strip().replace("&gt;", ">")
             
             if 'data' in dir(afile) and key in afile.data:
-                return afile.data[key]
+                return afile.data[key] + "\n"
             elif key in context:
-                return context[key]
+                return context[key] + "\n"
             else:
                 logger.warn("Failed to replace %s in file '%s %s'", match.group(0), afile.date.strftime('%Y-%m-%d'), afile.title)
                 return match.group(0)
