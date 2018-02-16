@@ -1,5 +1,5 @@
 import os
-from settings import SETTINGS
+from olmset import SETTINGS
 
 SETTINGS['SITEURL'] = "/rcc/caving/"
 SETTINGS["SUBSITES"]["newzealand"]['BASEURL'] = '/rcc/caving'
