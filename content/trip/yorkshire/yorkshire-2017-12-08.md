@@ -44,7 +44,7 @@ With the cold weather continuing, we didn't want to risk any of the high fell ro
 
 The drive was fine, the steep bits of road being gritted and my driving being very cautious. A nice change in the brisk wind and we were off, Tanguy's group cutting left at Yordas Wood and my group heading across the frozen valley to Kingsdale Beck. We crossed at the place where Gaze Gill enters, on the other side of the valley. We followed Gaze Gill up, through a dry stone wall and then higher, checking out a few possible entrances along the way until we found one with warm air blowing out.
 
-There's a lot more to Heron than the CNCC rigging guide shows - 500 m or so of lovely, classic Yorkshire streamway, followed by two lovely pitches on the low route, right next to the water, rigging y-hangs in the spray perched on a small ledge. Above me, James and DKP whooped and swung acrobatically, as there weren't many foot holds and the bolts were far apart. Soon we were down, and Jennifer and I set up to get some photos of James and DKP descending.
+There's a lot more to Heron than the CNCC rigging guide shows -500m or so of lovely, classic Yorkshire streamway, followed by two lovely pitches on the low route, right next to the water, rigging y-hangs in the spray perched on a small ledge. Above me, James and DKP whooped and swung acrobatically, as there weren't many foot holds and the bolts were far apart. Soon we were down, and Jennifer and I set up to get some photos of James and DKP descending.
 
 {"The pitch in Heron." right}(JackHare-Yorkshire-2-2017-08686.jpg)
 
