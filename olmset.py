@@ -41,7 +41,8 @@ SETTINGS = OrderedDict({
             'BASEURL': '',
             'SITEURL': "/newzealand",
             'PHOTOREEL': False,
-            'ARTICLE_SLUG': '{basename}.html'
+            'ARTICLE_SLUG': '{basename}.html',
+            'PAGE_SLUG': '{basename}.html'
         },
         "slovenia" : {
             'PLUGINS': ['inlinephotos', 'photoarchive', 'metainserter'],
