@@ -1,6 +1,7 @@
 import os
 
 SETTINGS = {
+    'SITENAME': 'Imperial College Caving Club',
     'SOURCE_FOLDER': os.path.join('{{ BASE_FOLDER }}', 'content'),
     'OUTPUT_FOLDER': os.path.join('{{ BASE_FOLDER }}', 'output'),
     'OUTPUT_CSS_FOLDER': os.path.join('{{ OUTPUT_FOLDER }}', 'theme', 'css'),
@@ -11,8 +12,10 @@ SETTINGS = {
     'NO_SCAN': ['wiki','caves','cavers'],
     'PHOTO_LOCATION': 'https://union.ic.ac.uk/rcc/caving/photo_archive/',
     'ASSET_LOCATION': 'https://union.ic.ac.uk/rcc/caving/assets/',
+    'FAVICON': 'assets/iclogo.png',
     'SITEURL': "",
     'PHOTOREEL': True,
+    'PHOTOREEL_NUM_ARTICLES': 6,
     "BADGES": {
         'lightning': {
             'src': 'lightning.png',
@@ -37,7 +40,8 @@ SETTINGS = {
             'BASEURL': '',
             'SITEURL': "/newzealand",
             'PHOTOREEL': False,
-            'ARTICLE_SLUG': '{basename}.html'
+            'ARTICLE_SLUG': '{basename}.html',
+            'PAGE_SLUG': '{basename}.html'
         },
         "slovenia" : {
             'PLUGINS': ['inlinephotos', 'photoarchive', 'metainserter'],
