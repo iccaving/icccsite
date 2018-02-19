@@ -17,7 +17,7 @@ Status:
 {{ photolink }}
 #####{{ allpeople }}
 
-First, the factual report. Read on for Tanguy's fantasy epic!
+First, the factual report. Read on for Tanguy's fantasy epic!!
 
 
 ## Saturday
