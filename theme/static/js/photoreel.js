@@ -28,9 +28,15 @@ function move(newcount) {
             document
                 .querySelector(".photoreel-dot-" + i)
                 .classList.add("selected");
+            document
+                .querySelector(".photoreel-photo-" + i)
+                .classList.add("selected");
         } else {
             document
                 .querySelector(".photoreel-dot-" + i)
+                .classList.remove("selected");
+            document
+                .querySelector(".photoreel-photo-" + i)
                 .classList.remove("selected");
         }
     }
@@ -43,7 +49,7 @@ function move(newcount) {
                 .offsetHeight + "px";
     }
     count = newcount;
-    setTimeout(function() {
+    setTimeout(function () {
         clickQuick = false;
     }, transtime * 1000);
 }
@@ -75,14 +81,14 @@ document
     .addEventListener("click", moveleft, false);
 document.querySelector(".photoreel-right").addEventListener(
     "click",
-    function() {
+    function () {
         clearInterval(intervalID);
     },
     false
 );
 document.querySelector(".photoreel-left").addEventListener(
     "click",
-    function() {
+    function () {
         clearInterval(intervalID);
     },
     false
@@ -93,7 +99,7 @@ for (i = 0; i < dots.length; ++i) {
     dots[i].addEventListener("click", dotClick, false);
     dots[i].addEventListener(
         "click",
-        function() {
+        function () {
             clearInterval(intervalID);
         },
         false
@@ -109,28 +115,32 @@ for (i = 0; i < titles.length; ++i) {
 var dotscont = document.querySelector(".photoreel-dots");
 dotscont.style.left = "calc(50% - " + dotscont.offsetWidth / 2 + "px)";
 
-window.addEventListener("resize", function() {
+window.addEventListener("resize", function () {
     if (
-        document.querySelector(".photoreel-photo-" + newcount + " img")
+        document.querySelector(".photoreel-photo.selected img")
             .naturalWidth > 0
     ) {
         document.querySelector(".photoreel-container").style.height =
-            document.querySelector(".photoreel-photo-" + newcount + " img")
+            document.querySelector(".photoreel-photo.selected img")
                 .offsetHeight + "px";
     }
+    var dotscont = document.querySelector(".photoreel-dots");
+    dotscont.style.left = "calc(50% - " + dotscont.offsetWidth / 2 + "px)";
 });
-window.addEventListener("load", function() {
+window.addEventListener("load", function () {
     if (
-        document.querySelector(".photoreel-photo-" + newcount + " img")
+        document.querySelector(".photoreel-photo-0 img")
             .naturalWidth > 0
     ) {
         document.querySelector(".photoreel-container").style.height =
-            document.querySelector(".photoreel-photo-" + newcount + " img")
+            document.querySelector(".photoreel-photo-0 img")
                 .offsetHeight + "px";
     }
+    var dotscont = document.querySelector(".photoreel-dots");
+    dotscont.style.left = "calc(50% - " + dotscont.offsetWidth / 2 + "px)";
 });
 
-window.addEventListener("keydown", function(e) {
+window.addEventListener("keydown", function (e) {
     e = e || window.event;
     if (e.keyCode == "37") {
         clearInterval(intervalID);
