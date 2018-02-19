@@ -23,11 +23,11 @@ SETTINGS = {
         }
     },
     "ARTICLE_REFRESH": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
-    "ARTICLE_REFRESH_META": ['title', 'location', 'date'],
+    "ARTICLE_REFRESH_META": ['title', 'location', 'date', 'status'],
     "PAGE_REFRESH": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
-    "PAGE_REFRESH_META": ['title', 'location', 'date'],
+    "PAGE_REFRESH_META": ['title', 'location', 'date', 'status'],
     "INDEX_REFRESH": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
-    "INDEX_REFRESH_META": ["title", "date", "location", "thumbr", "thumbl", "summary"],
+    "INDEX_REFRESH_META": ["title", "date", "location", "thumbr", "thumbl", "summary", "status"],
     "SUBSITES": {
         "newzealand": {
             'PLUGINS': ['inlinephotos', 'photoarchive', 'metainserter'],
