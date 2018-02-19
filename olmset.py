@@ -16,6 +16,7 @@ SETTINGS = OrderedDict({
     'FAVICON': 'assets/iclogo.png',
     'SITEURL': "",
     'PHOTOREEL': True,
+    'PHOTOREEL_NUM_ARTICLES': 6,
     "BADGES": {
         'lightning': {
             'src': 'lightning.png',
