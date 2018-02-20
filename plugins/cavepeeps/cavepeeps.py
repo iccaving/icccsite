@@ -8,6 +8,7 @@ import re
 import copy
 
 from olm.logger import get_logger
+from olm.constants import ArticleStatus
 from bios import generate_cave_pages, generate_person_pages, construct_bios
 
 logger = get_logger('olm.plugins.cavepeep')
@@ -115,8 +116,10 @@ def cavepeep_linker_for_each_article(sender, context, article):
         article_link(cavepeep_partial, trips_for_insert, article, context)
 
     # If unlisted DO NOT ADD TO MAIN CAVEPEEPS dictionary.
-    if 'cavepeeps' in article.metadata.keys() and article.status != 'unlisted':
+    print(article.status)
+    if 'cavepeeps' in article.metadata.keys() and article.status != ArticleStatus.UNLISTED:
         context['cavepeep'] += cavepeep_partial
+
 
 
 
