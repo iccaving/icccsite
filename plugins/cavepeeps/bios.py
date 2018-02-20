@@ -151,7 +151,7 @@ def generate_cave_pages(context, Writer):
             context, 
             page_data.path, 
             template + '.html',
-            content=page_data.content,
+            content=context.MD(page_data.content),
             metadata=page_data.metadata,
             cave_articles=sorted(cave_articles, key=lambda x: x[0].date, reverse=True),
             pagename=page_name)
@@ -241,7 +241,7 @@ def generate_person_pages(context, Writer):
             context, 
             page_data.path, 
             template + '.html',
-            content=page_data.content,
+            content=context.MD(page_data.content),
             metadata=page_data.metadata,
             caver_articles=sorted(page_data.articles, key=lambda x: x.date, reverse=True),
             personname=page_name,
