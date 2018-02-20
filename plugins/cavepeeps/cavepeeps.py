@@ -116,7 +116,6 @@ def cavepeep_linker_for_each_article(sender, context, article):
         article_link(cavepeep_partial, trips_for_insert, article, context)
 
     # If unlisted DO NOT ADD TO MAIN CAVEPEEPS dictionary.
-    print(article.status)
     if 'cavepeeps' in article.metadata.keys() and article.status != ArticleStatus.UNLISTED:
         context['cavepeep'] += cavepeep_partial
 
