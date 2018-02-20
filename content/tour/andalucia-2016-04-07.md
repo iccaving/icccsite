@@ -9,7 +9,7 @@ Thumbl: RhysTyers-DSC02102--thumb.jpg
 Thumbr: RhysTyers-DSC02237--thumb.jpg
 Cavepeeps: DATE=2016-04-08; CAVE=Sima Cacao; PEOPLE=Rhys Tyers, Tanguy Racine, Jack Hare, Sam Page, Kenneth Tan, Catalina Garcia, James Perry, Arun Paul, Peter Ganson;
            DATE=2016-04-09; CAVE=Sima Cabra; PEOPLE=Rhys Tyers, Tanguy Racine, Jack Hare, Catalina Garcia, Kenneth Tan;
-           DATE=2016-04-10; CAVE=Cueva de Hundidero; PEOPLE=Rhys Tyers, Tanguy Racine, Jack Hare, Sam Page, Kenneth Tan, Catalina Garcia, James Perry, Arun Paul, Peter Ganson;
+           DATE=2016-04-10; CAVE=Cueva de Hunidero; PEOPLE=Rhys Tyers, Tanguy Racine, Jack Hare, Sam Page, Kenneth Tan, Catalina Garcia, James Perry, Arun Paul, Peter Ganson;
            DATE=2016-04-11; CAVE=Sima Mones; PEOPLE=Tanguy Racine, Jack Hare, Kenneth Tan;
            DATE=2016-04-12; CAVE=Cueva de la Pileta; PEOPLE=Rhys Tyers, Tanguy Racine, Jack Hare, Sam Page, Kenneth Tan, Catalina Garcia, James Perry, Arun Paul, Peter Ganson;
 Authors: Tanguy Racine

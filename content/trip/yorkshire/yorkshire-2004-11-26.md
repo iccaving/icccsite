@@ -8,8 +8,8 @@ Thumbl: IMG_0667--thumb.jpg
 Thumbr: IMG_0666--thumb.jpg
 Authors: Jarvist Frost, Jan Evetts
 Cavepeeps: DATE=2004-11-27; CAVE=County Pot > Wretched Rabbit; PEOPLE=Dave Wilson, Jan Evetts, Jack Garrett-Jones, Nicholas Loh
-           DATE=2004-11-27; CAVE=Top Pot > Pool Sink; PEOPLE=Jarvist Frost, Joe King, Lester Loi;
-	   DATE=2004-11-27; CAVE=Pool Sink > Top Pot; PEOPLE=Clewin Griffiths, Alvin Chow, Charles Collicutt;
+           DATE=2004-11-27; CAVE=Top Sink > Pool Sink; PEOPLE=Jarvist Frost, Joe King, Lester Loi;
+	   DATE=2004-11-27; CAVE=Pool Sink > Top Sink; PEOPLE=Clewin Griffiths, Alvin Chow, Charles Collicutt;
 	   DATE=2004-11-28; CAVE=Aygill Caverns; PEOPLE=Jan Evetts, Jack Garret-Jones, Lester Loi, Alvin Chow, Nicholas Loh;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2004-11-26.php
 

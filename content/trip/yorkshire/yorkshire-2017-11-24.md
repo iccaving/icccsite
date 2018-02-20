@@ -8,8 +8,8 @@ Mainimg: TanguyRacine-alex%20queensway%202.jpg
 Thumbl: LydiaLeather_ClubInterRelations--thumb.jpg
 Thumbr: RhysTyers-DSC07248--thumb.jpg
 Authors: Rita Cookson, Tanguy Racine, Rebecca Diss
-Cavepeeps: DATE=2017-11-25; CAVE=Vesper pot; PEOPLE=Rhys Tyers, Ben Honan, Jennifer Ryder, Rebecca Diss, Arun Paul;
-           DATE=2017-11-25; CAVE=King pot; PEOPLE=Tanguy Racine, Alex Seaton, Jack Halliday;
+Cavepeeps: DATE=2017-11-25; CAVE=Vesper Pot; PEOPLE=Rhys Tyers, Ben Honan, Jennifer Ryder, Rebecca Diss, Arun Paul;
+           DATE=2017-11-25; CAVE=King Pot; PEOPLE=Tanguy Racine, Alex Seaton, Jack Halliday;
            DATE=2017-11-26; CAVE=Alum Pot; PEOPLE=Alex Seaton, Jack Halliday, Tanguy Racine, Peter Ganson, Rita Cookson, Rebecca Diss, Jennifer Ryder, Rhys Tyers;
 
 {{ mainimg }}
@@ -34,8 +34,8 @@ The logistics of the CHECC weekend demanded that we find a cave to explore befor
 
 ## Saturday
 
-### Vesper Pot: {{ DATE=2017-11-25; CAVE=Vesper pot; }}
-### King Pot: {{ DATE=2017-11-25; CAVE=King pot; }}
+### Vesper Pot: {{ DATE=2017-11-25; CAVE=Vesper Pot; }}
+### King Pot: {{ DATE=2017-11-25; CAVE=King Pot; }}
 
 Awake at the usually fine but now ungodly hour of 9.30am to realise that Arun is in Peter’s sleeping bag with him. Neither of them are sure how this happened but it appears that Arun came in very late and, expecting his sleeping bag to be where Peter was lying, dived in and slept without a second thought. Not a bad idea really - it was bloody cold. We queued for a saddening amount of time for a cooked breakfast including hash browns which made me sort of want to vomit (not because it wasn’t at least vaguely tasty; I blame the alcohol) but this passed quickly, and I was ready to get on with the day.
 

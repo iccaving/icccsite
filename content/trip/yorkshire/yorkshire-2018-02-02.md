@@ -1,12 +1,12 @@
 Title: Yorkshire IV
 Date: 2018-02-02
 Location: yorkshire
-Summary: A summary.
+Summary: A summary of this trip.
 Type: trip
 Photoarchive:
 Mainimg: RhysTyers-DSC07743.jpg
-Thumbl: RhysTyers-DSC07726-alt.jpg
-Thumbr: RhysTyers-DSC07766.jpg
+Thumbl: RhysTyers-DSC07726-alt--thumb.jpg
+Thumbr: RhysTyers-DSC07766--thumb.jpg
 Authors:David Kirkpatrick
 Cavepeeps: DATE=2018-02-03; CAVE=Little Hull Pot; PEOPLE=Dave Kirkpatrick, Rhys Tyers, Ben Honan, Jack Halliday; 
     DATE=2018-02-03; CAVE=Stream Passage Pot > Stream Passage Pot; PEOPLE=Dan Greenwald; 
@@ -14,7 +14,7 @@ Cavepeeps: DATE=2018-02-03; CAVE=Little Hull Pot; PEOPLE=Dave Kirkpatrick, Rhys 
     DATE=2018-02-03; CAVE=Marilyn > Marilyn; PEOPLE=James Perry; 
     DATE=2018-02-04; CAVE=Sell Gill; PEOPLE=Ho Yan Jin;
     DATE=2018-02-04; CAVE=Cliff Force Cave; PEOPLE=Alex Seaton, Rhys Tyers, David Kirkpatrick, Rebecca Diss
-Status: draft
+Status:
 
 {{ mainimg }}
 {{ photolink }}

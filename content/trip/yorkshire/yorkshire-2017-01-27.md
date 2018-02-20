@@ -11,7 +11,7 @@ Authors: Tanguy Racine, Stephanie Ford, Jarvist Frost
 Cavepeeps: DATE=2017-01-28; CAVE=Rowten Pot; PEOPLE=Stephanie Ford, Arun Paul, Dave Wilson, Fiona Hartley;
            DATE=2017-01-28; CAVE=King Pot; PEOPLE=Jarvist Frost, David Wilson, Jacob Puhalo-Smith, Will Norwood, Joshua Marcinkowski;
            DATE=2017-01-28; CAVE=Vesper Pot; PEOPLE=Tanguy Racine, William French, Larry Jiang, James Perry;
-           DATE=2017-01-29; CAVE=Great Douk; PEOPLE=Tanguy Racine, Will Norwood, Larry Jiang, Stephanie Ford, Joshua Marcinkowski, David Wilson, Jacob Puhalo-Smith;
+           DATE=2017-01-29; CAVE=Great Douk Cave; PEOPLE=Tanguy Racine, Will Norwood, Larry Jiang, Stephanie Ford, Joshua Marcinkowski, David Wilson, Jacob Puhalo-Smith;
            DATE=2017-01-29; CAVE=Sunset Hole; PEOPLE=Tanguy Racine, Will Norwood, Larry Jiang, Stephanie Ford, Joshua Marcinkowski, David Wilson, Jacob Puhalo-Smith;
 
 

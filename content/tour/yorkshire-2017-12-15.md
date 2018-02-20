@@ -14,7 +14,7 @@ Cavepeeps: DATE=2017-12-16; CAVE=Yordas Pot > Yordas Cave; PEOPLE=Rhys Tyers, Ar
 		   DATE=2017-12-16; CAVE=Jingling Pot; PEOPLE=Rebecca Diss, David Kirkpatrick, Jean-Yves Burlet;
            DATE=2017-12-17; CAVE=Notts Pot 1; PEOPLE=Rhys Tyers, Arun Paul, Jay Chen, Jack Hare, David Wilson, Jean-Yves Burlet, James Perry, Rebecca Diss, James Wilson, Alex Seaton, David Kirkpatrick, Wesley Gaunt;
            DATE=2017-12-18; CAVE=Long Drop Pot; PEOPLE=Rhys Tyers, David Wilson, Jay Chen, Wesley Gaunt;
-           DATE=2017-12-18; CAVE=Death's Head Pot; PEOPLE=Rebecca Diss, James Wilson, Jean-Yves Burlet;
+           DATE=2017-12-18; CAVE=Death's Head Hole; PEOPLE=Rebecca Diss, James Wilson, Jean-Yves Burlet;
            DATE=2017-12-19; CAVE=Lancaster Hole; PEOPLE=Rhys Tyers, Jack Hare, Ben Richards, Dave Wilson, Alex Betts;
            DATE=2017-12-20; CAVE=Stream Passage Pot > Bar Pot; PEOPLE=Rhys Tyers, Arun Paul, Jim Evans;
            DATE=2017-12-20; CAVE=Bar Pot > Stream Passage Pot; PEOPLE=Jack Hare, David Wilson, James Wilson;
@@ -167,7 +167,7 @@ Alex and I went for a walk. It was initially sunny and clear. As we approached t
 
 #### Jack
 
-### Death's Head: {{ DATE=2017-12-18; CAVE=Death's Head Pot; }}
+### Death's Head: {{ DATE=2017-12-18; CAVE=Death's Head Hole; }}
 
 "This will be the Death(s head) of me?"
 
