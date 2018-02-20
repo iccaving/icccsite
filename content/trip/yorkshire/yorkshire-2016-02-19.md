@@ -20,7 +20,7 @@ Arrived in stores at 6ish to pack up the van. Only 12 of us on this trip so we t
 
 ## Saturday
 
-### It's a Cracker to Boxhead Pot: {{DATE=2016-02-20; CAVE=It's A Cracker > Boxhead Pot;}}
+### It's a Cracker to Boxhead Pot: {{DATE=2016-02-20; CAVE=It's a Cracker > Boxhead Pot;}}
 
 We wanted to try some new and exciting caves this year, to shake things up for the leaders and prepare people for Slovenia. I'd recently found Simon Wilson's [excellent rigging guides](http://www.resinanchor.co.uk/6.html) for caves that he has placed resin anchors in, and the idea of an exchange on Leck Fell was tempting. We had to wrangle for permits for a bit to find an available weekend, but the CNCC were helpful and we were able to go ahead with the trip.
 
@@ -46,7 +46,7 @@ Boxhead seemed a lot more fun, but possibly because I was getting warm again fin
 
 On the surface I wandered around, noting the thick fog, and waited for Edith to arrive. I saw no point in freezing to death waiting for Will and Kenneth, so we headed back to the minibus, and they arrived shortly afterwards.
 
-### Boxhead Pot to It's a Cracker: {{DATE=2016-02-20; CAVE=Boxhead Pot > It's A Cracker;}}
+### Boxhead Pot to It's a Cracker: {{DATE=2016-02-20; CAVE=Boxhead Pot > It's a Cracker;}}
 
 My team, Cecilia, Arun, Kevin and DKP, followed on a little way behind Jack’s group on the way to the caves. Walking right past Lost John’s and along a relatively subtle path brings you to the South side of a fenced enclosure, the entrance to Lost Pot. As we got there Jack waved us over. Boxhead was the obvious concrete tube sticking out of the adjacent shakehole.
 
