@@ -108,6 +108,8 @@ def cavepeep_linker_initialise(sender, context):
 
 def cavepeep_linker_for_each_article(sender, context, article):
     cavepeep_partial = None
+    if 'status' in article.metadata.keys() and article.metadata['status'] == ArticleStatus.DRAFT:
+        return
     # If the article has the cavepeeps metadata
     if 'cavepeeps' in article.metadata.keys():
         # Parse metadata and return a list where each item contains a date,

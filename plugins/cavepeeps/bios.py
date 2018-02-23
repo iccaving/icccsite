@@ -6,6 +6,7 @@ import time
 
 from olm.source import Source
 from olm.logger import get_logger
+from olm.helper import merge_dictionaries
 
 logger = get_logger('olm.plugins.cavepeep')
 
@@ -125,6 +126,8 @@ def generate_cave_pages(context, Writer):
     # Work out if we need to update this file
     changes = context['cache_change_types']
     meta_changes = context['cache_changed_meta']
+    refresh_triggers       = ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"]
+    refresh_meta_triggers  = ['title', 'location', 'date', 'status']
     changed_caves = []
     if "ARTICLE.NEW_FILE" in changes or "ARTICLE.META_CHANGE" in changes:
         for meta_change in meta_changes:
@@ -144,7 +147,14 @@ def generate_cave_pages(context, Writer):
     number_written = 0
     for page_name, page_data in initialised_pages.items():
         cave_articles = [ (a, a.date, was_author_in_cave(a, page_name)) for a in page_data.articles ]
-        if page_data.same_as_cache and page_name not in changed_caves:
+        cached = True
+        if not page_data.same_as_cache or page_name in changed_caves:
+            cached = False
+        if any(i in changes for i in refresh_triggers):
+            cached = False
+        if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
+            cached = False
+        if cached:
             continue
         number_written = number_written + 1
         writer = Writer(
@@ -158,7 +168,16 @@ def generate_cave_pages(context, Writer):
         writer.write_file()
     logger.info("Wrote %s changed cave pages out of %s total cave pages", number_written, len(initialised_pages))
     # ==========Write the index of caves================
-    logger.debug("writing %s cave pages", len(initialised_pages))
+    cached = True
+    if len(changed_caves) > 0:
+        cached = False
+    if any(i in changes for i in refresh_triggers):
+        cached = False
+    if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
+        cached = False
+    if cached:
+        return
+    logger.info("writing cave page index")
     pages = initialised_pages
     row=namedtuple('row', 'name number recentdate meta')
     rows = []
@@ -215,7 +234,10 @@ def generate_person_pages(context, Writer):
     # Work out if we need to update this file
     changes = context['cache_change_types']
     meta_changes = context['cache_changed_meta']
+    refresh_triggers       = ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"]
+    refresh_meta_triggers  = ['title', 'location', 'date', 'status']
     changed_people = []
+
     if "ARTICLE.NEW_FILE" in changes or "ARTICLE.META_CHANGE" in changes:
         for meta_change in meta_changes:
             added, removed, modified = meta_change
@@ -234,7 +256,14 @@ def generate_person_pages(context, Writer):
     logger.debug("writing %s caver pages", len(initialised_pages))
     number_written = 0
     for page_name, page_data in initialised_pages.items():
-        if page_data.same_as_cache and page_name not in changed_people:
+        cached = True
+        if not page_data.same_as_cache or page_name in changed_people:
+            cached = False
+        if any(i in changes for i in refresh_triggers):
+            cached = False
+        if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
+            cached = False
+        if cached:
             continue
         number_written = number_written + 1
         writer = Writer(
@@ -250,6 +279,15 @@ def generate_person_pages(context, Writer):
     pages = initialised_pages
     logger.info("Wrote %s changed caver pages out of %s total caver pages", number_written, len(initialised_pages))
     # ==========Write the index of cavers================
+    cached = True
+    if len(changed_people) > 0:
+        cached = False
+    if any(i in changes for i in refresh_triggers):
+        cached = False
+    if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
+        cached = False
+    if cached:
+        return
     row=namedtuple('row', 'name number recentdate meta')
     rows = []
     for page_name in pages.keys():
