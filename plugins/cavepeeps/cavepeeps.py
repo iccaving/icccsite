@@ -6,6 +6,7 @@ import string
 import sys
 import re
 import copy
+from urllib.parse import quote 
 
 from olm.logger import get_logger
 from olm.constants import ArticleStatus
@@ -73,7 +74,7 @@ def article_link(cavepeep_partial, trips_for_insert, article, context):
         # Create unique id for trip (essentially a copy/paste of the metadata)
         # An use this to identify a list of people on that trip
         tripid='DATE={0}; CAVE={1};'.format(item.date.strftime('%Y-%m-%d'), item.cave)
-        html = """<a href='{0}/cavers/{1}.html'>{2}</a>""".format(context.SITEURL, name.replace(" ", "%20"), name)
+        html = """<a href='{0}/cavers/{1}.html'>{2}</a>""".format(context.SITEURL, quote(name), name)
         if tripid in trips.keys():
             trips[tripid] += ", {}".format(html)
         else:
@@ -94,9 +95,9 @@ def article_link(cavepeep_partial, trips_for_insert, article, context):
         html = ""
         for index, name in enumerate(trips_for_insert[key]):
             if index == 0:
-                html = "<a href='{0}/cavers/{1}.html'>{2}</a>""".format(context.SITEURL, name.replace(" ", "%20"), name)
+                html = "<a href='{0}/cavers/{1}.html'>{2}</a>""".format(context.SITEURL, quote(name), name)
             else:
-                html += ", {}".format("""<a href='{0}/cavers/{1}.html'>{2}</a>""".format(context.SITEURL, name.replace(" ", "%20"), name))
+                html += ", {}".format("""<a href='{0}/cavers/{1}.html'>{2}</a>""".format(context.SITEURL, quote(name), name))
         article.data[key] = html
 
 #======================MAIN==========================
