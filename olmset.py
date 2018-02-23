@@ -22,12 +22,12 @@ SETTINGS = {
             'alt': 'In the bivi'
         }
     },
-    "ARTICLE_REFRESH": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
-    "ARTICLE_REFRESH_META": ['title', 'location', 'date', 'status'],
-    "PAGE_REFRESH": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
-    "PAGE_REFRESH_META": ['title', 'location', 'date', 'status'],
-    "INDEX_REFRESH": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
-    "INDEX_REFRESH_META": ["title", "date", "location", "thumbr", "thumbl", "summary", "status"],
+    "ARTICLE_WRITE_TRIGGERS": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
+    "ARTICLE_META_WRITE_TRIGGERS": ['title', 'location', 'date', 'status'],
+    "PAGE_WRITE_TRIGGERS": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
+    "PAGE_META_WRITE_TRIGGERS": ['title', 'location', 'date', 'status'],
+    "INDEX_WRITE_TRIGGERS": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
+    "INDEX_META_WRITE_TRIGGERS": ["title", "date", "location", "thumbr", "thumbl", "summary", "status"],
     "SUBSITES": {
         "newzealand": {
             'PLUGINS': ['inlinephotos', 'photoarchive', 'metainserter'],
