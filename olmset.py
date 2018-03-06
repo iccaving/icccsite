@@ -23,7 +23,7 @@ SETTINGS = {
         }
     },
     "ARTICLE_WRITE_TRIGGERS": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
-    "ARTICLE_META_WRITE_TRIGGERS": ['title', 'location', 'date', 'status'],
+    "ARTICLE_META_WRITE_TRIGGERS": ['title', 'location', 'date', 'status', 'summary'],
     "PAGE_WRITE_TRIGGERS": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
     "PAGE_META_WRITE_TRIGGERS": ['title', 'location', 'date', 'status'],
     "INDEX_WRITE_TRIGGERS": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
