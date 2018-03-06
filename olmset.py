@@ -8,7 +8,7 @@ SETTINGS = {
     'OUTPUT_JS_FOLDER': os.path.join('{{ OUTPUT_FOLDER }}', 'theme', 'js'),
     'ARTICLE_TYPES': ['trip', 'tour'],
     'INDEX_TYPES': ['index', 'stickyindex'],
-    'PLUGINS': ['inlinephotos', 'acyear', 'cavepeeps', 'photoarchive', 'metainserter', 'oldurl', 'wiki'],
+    'PLUGINS': ['inlinephotos', 'acyear', 'cavepeeps', 'photoarchive', 'metainserter', 'oldurl', 'wiki', 'strikethrough'],
     'NO_SCAN': ['wiki','caves','cavers'],
     'PHOTO_LOCATION': 'https://union.ic.ac.uk/rcc/caving/photo_archive/',
     'ASSET_LOCATION': 'https://union.ic.ac.uk/rcc/caving/assets/',
