@@ -1,30 +1,32 @@
 Title: Yorkshire IV
 Date: 2018-02-02
 Location: yorkshire
-Summary: A summary of this trip.
+Summary: The Dales was rammed so we ended up in deepest darkest Horton, at the Craven hut. This enabled a trip to Little Hull and was not a detriment to a trip to Gaping Ghyll on Saturday. On Sunday a team probed Sell Gill whilst a clandestine group of D.O.G.G.E.R.S checked out a secret dig.
 Type: trip
 Photoarchive:
 Mainimg: RhysTyers-DSC07743.jpg
 Thumbl: RhysTyers-DSC07726-alt--thumb.jpg
 Thumbr: RhysTyers-DSC07766--thumb.jpg
-Authors:David Kirkpatrick
+Authors:David Kirkpatrick, Rhys Tyers, Alex Seaton
 Cavepeeps: DATE=2018-02-03; CAVE=Little Hull Pot; PEOPLE=Dave Kirkpatrick, Rhys Tyers, Ben Honan, Jack Halliday; 
-    DATE=2018-02-03; CAVE=Stream Passage Pot > Stream Passage Pot; PEOPLE=Dan Greenwald; 
-    DATE=2018-02-03; CAVE=Flood Entrance Pot > Flood Entrance Pot; PEOPLE=James Wilson; 
-    DATE=2018-02-03; CAVE=Marilyn > Marilyn; PEOPLE=James Perry; 
-    DATE=2018-02-04; CAVE=Sell Gill; PEOPLE=Ho Yan Jin;
+    DATE=2018-02-03; CAVE=Stream Passage Pot; PEOPLE=Dan Greenwald, Ho Yan Jin, Andy Jurd, Chris Bradley; 
+    DATE=2018-02-03; CAVE=Flood Entrance Pot; PEOPLE=James Wilson, Peter Ganson, Rebecca Diss, Jennifer Ryder; 
+    DATE=2018-02-03; CAVE=Marilyn; PEOPLE=James Perry, Nick Koukoulekidis, Alex Seaton, Devansh Agarwal; 
+    DATE=2018-02-04; CAVE=Sell Gill; PEOPLE=Ho Yan Jin, James Wilson, Nick Koukoulekidis, Ben Honan;
     DATE=2018-02-04; CAVE=Cliff Force Cave; PEOPLE=Alex Seaton, Rhys Tyers, David Kirkpatrick, Rebecca Diss
-Status: draft
+Status:
 
 {{ mainimg }}
 {{ photolink }}
 ##### {{ allpeople }}
 
+Note: Dave's reminders are left in to shame him for promising to write a trip report and failing to deliver.
+
 ##Friday
 
 Dave Heroically Rescues Jack from Stafford
 
-####DKP
+#### DKP
 
 ### Craven Pothole Club Hut Review:  
 
