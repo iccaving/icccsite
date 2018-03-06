@@ -7,4 +7,4 @@ Type: stickyindex
 |Date              | Destination                          | Hut                                                                                  | Caves  |
 | ---              |  ---                                 | ---                                                                                  |  ---  |
 | 9th - 11th Mar | [SCHECC](https://www.facebook.com/events/1486653641426017/) | [SWCC](http://www.swcc.org.uk/cottage/cottage.php) | [OFD](https://union.ic.ac.uk/rcc/caving/caves/?search=ddu) |
-| 25th Mar - 1st Apr | Sardina | Easter Tour | Warm ones |
+| 24th - 31st Mar | Sardina | Easter Tour | Warm ones |
