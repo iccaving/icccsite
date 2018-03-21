@@ -20,6 +20,37 @@ South Kensington <br>
 London SW7 2BB
 </address>
 
+##Committee 2018-2019
+<div style="text-align: center;"><span>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Rebecca%20Diss.html"><img src="/rcc/caving/photo_archive/mugshots/Rebecca%20Diss--thumb.jpg"></a>
+<figcaption><strong>President:</strong><br>Rebecca Diss</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Jennifer%20Ryder.html"><img src="/rcc/caving/photo_archive/mugshots/Jennifer%20Ryder--thumb.jpg"></a>
+<figcaption><strong>Treasurer:</strong><br>Jennifer Ryder</figcaption>
+</figure>
+</figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Jack%20Halliday.html"><img src="/rcc/caving/photo_archive/mugshots/Jack%20Halliday--thumb.jpg"></a>
+<figcaption><strong>Secretary:</strong><br>Jack Halliday</figcaption>
+</figure>
+</figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/James%%20Wilson.html"><img src="/rcc/caving/photo_archive/mugshots/James%20Wilson--thumb.jpg"></a>
+<figcaption><strong>Tackle Master:</strong><br>James Wilson</figcaption>
+</figure>
+</figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Arun%20Paul.html"><img src="/rcc/caving/photo_archive/mugshots/Arun%20Paul--thumb.jpg"></a>
+<figcaption><strong>Health and Safety Officer:</strong><br>Arun Paul</figcaption>
+</figure>
+<figure style="display: inline-block; margin: 0;">
+<a href="/rcc/caving/photo_archive/mugshots/Úna%20Barker.html"><img src="/rcc/caving/photo_archive/mugshots/Úna%20Barker--thumb.jpg"></a>
+<figcaption><strong>Social Secretary:</strong><br> Úna Barker</figcaption>
+</figure>
+</span></div>
+
 ##Committee 2017-2018
 <div style="text-align: center;"><span>
 <figure style="display: inline-block; margin: 0;">
@@ -182,31 +213,6 @@ London SW7 2BB
 <b>Health + Safety Officer:</b> David Kirkpatrick<br>
 </p>
 
-<h2>Committee 2012-2013</h2>
-<div style="text-align: center;"><span>
-<a href="/caving/photo_archive/mugshots/Rhys%20Tyers.html">
-<img  src="/caving/photo_archive/mugshots/Rhys%20Tyers--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Oliver%20Myerscough.html">
-<img  src="/caving/photo_archive/mugshots/Oliver%20Myerscough--thumb.jpg">
-</a>
-<a href="/caving/photo_archive/mugshots/Sam%20Page.html">
-<img  src="/caving/photo_archive/mugshots/Sam%20Page--thumb.jpg">
-</a>
-</span></div>
-
-<dl>
-<dt><strong>President:</strong> </dt><dd><i>Rhys Tyers</i><br>
-<dt><strong>Treasurer:</strong></dt> <dd><i>Oliver Myerscough</i><br>
-<dt><strong>Club Secretary:</strong></dt> <dd><i>Sam Page</i><br>
-<dt>
-<strong>Internal Positions:</strong>
-Foreign Secretary - Jana '5 languages' Carga,<br>
-Medical Officer - Saber King,<br>
-Health &amp; Safety Officer - Konrad Domanski,<br>
-Tackle Master - Clare Tan, <br>
-</dt></dl>
-
 <h2>Hall of Fame:</h2>
 <div class="table-container">
 
@@ -221,6 +227,13 @@ Tackle Master - Clare Tan, <br>
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>2012-2013</td>
+<td>Rhys Tyers</td>
+<td>Oliver Myerscough</td>
+<td>Sam Page</td>
+<td>Jana Carga (Foreign Secretary)<br/>Saber King (Medical Officer)<br/>Konrad Domanski (Health &amp; Safety Officer)<br/>Clare Tan (Tackle Meister)<br/></td>
+</tr>
 <tr>
 <td>2011-2012</td>
 <td>Clare Tan</td>
