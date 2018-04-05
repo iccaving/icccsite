@@ -15,7 +15,7 @@ def meta_inserter_one(sender, context, afile):
 
 def meta_inserter(context, afile):
     if hasattr(afile, 'same_as_cache'):
-        if afile.same_as_cache:
+        if afile.same_as_cache and context.caching_enabled:
             return
     content = afile.content
     metadata = afile.metadata
