@@ -26,7 +26,7 @@ SETTINGS = {
     "ARTICLE_META_WRITE_TRIGGERS": ['title', 'location', 'date', 'status', 'summary'],
     "PAGE_WRITE_TRIGGERS": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
     "PAGE_META_WRITE_TRIGGERS": ['title', 'location', 'date', 'status'],
-    "INDEX_WRITE_TRIGGERS": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
+    "INDEX_WRITE_TRIGGERS": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE", "STICKYINDEX.CONTENT_CHANGE", "STICKYINDEX.NEW_FILE", "STICKYINDEX.REMOVED_FILE"],
     "INDEX_META_WRITE_TRIGGERS": ["title", "date", "location", "thumbr", "thumbl", "summary", "status"],
     "SUBSITES": {
         "newzealand": {

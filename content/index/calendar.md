@@ -3,6 +3,7 @@ Date: 2017-09-19
 Authors:
 Location:
 Type: stickyindex
+Cache_type: STICKYINDEX
 Summary: None
 
 |Date              | Destination                          | Hut                                                                                  | Caves  |
