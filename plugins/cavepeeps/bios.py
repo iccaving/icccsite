@@ -32,11 +32,12 @@ class Caver(Source):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.caver_articles = []
-        self.authored = []
+        self.authored = None
 
     def write_file(self, context=None):
         if self.context.caching_enabled and self.same_as_cache:
             return
+        print(len(self.caver_articles))
         super().write_file(
             context,
             content=context.MD(self.content),
@@ -244,23 +245,24 @@ def generate_person_pages(context):
 
     row = namedtuple('row', 'path content metadata articles authored same_as_cache')
     initialised_pages = {}
-    
+
     for key in dictionary.keys():
         if key not in initialised_pages.keys():
             logger.debug("Adding {} to list of pages to write".format(key))
-            authored=[]
             if key in content_dictionary:
                 source = content_dictionary[key]
                 logger.debug("Content added to " + key)
             else:
-                source = Cave(context, content='', metadata={},basename=key)
+                source = Caver(context, content='', metadata={},basename=key)
                 source.same_as_cache = context.is_cached
+
+            print("'" + key + "'")
             if key in context.authors:
-                authored = sorted(context.authors[key], key=lambda k: (k.date), reverse=True)
+                print(len(context.authors[key]))
+                source.authored = sorted(context.authors[key], key=lambda k: (k.date), reverse=True)
 
             source.output_filepath = os.path.join(output_path, str(key) + '.html')
             source.articles = dictionary[key]
-            source.authored = authored
             source.template = template + '.html'
             initialised_pages[key] = source
         else:
@@ -288,9 +290,10 @@ def generate_person_pages(context):
                 people, caves = parse_metadata(modified['cavepeeps'][1])
                 changed_people.extend(people)
 
-    logger.debug("writing %s caver pages", len(initialised_pages))
+    logger.debug("Writing %s caver pages", len(initialised_pages))
     number_written = 0
     for page_name, page_data in initialised_pages.items():
+        page_data.caver_articles = page_data.articles
         if context.caching_enabled:
             if page_name in changed_people:
                 page_data.same_as_cache = False
