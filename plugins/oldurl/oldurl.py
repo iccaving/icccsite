@@ -1,4 +1,5 @@
 import os
+from olm.writer import Writer
 
 def getoldurl(sender, context, articles):
     oldurls = []
@@ -12,7 +13,7 @@ def getoldurl(sender, context, articles):
     context['oldurls'] = oldurls
 
 
-def generatehtaccess(sender, context, Writer):
+def generatehtaccess(sender, context):
     filename=os.path.join(context.OUTPUT_FOLDER, '.htaccess')
     writer = Writer(
         context, 

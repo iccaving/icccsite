@@ -7,6 +7,7 @@ from olm.helper import Map
 from olm.reader import Reader
 from olm.source import Source
 from olm.logger import get_logger
+from olm.writer import Writer
 
 logger = get_logger('olm.plugins.wiki')
 
@@ -85,7 +86,7 @@ def parse_dict(structure, level, nice_list):
         nice_list.append((item, "article", level))
     return nice_list
 
-def generate_wiki_pages(sender, context, Writer):
+def generate_wiki_pages(sender, context):
     time_start = time.time()
     wiki_list = context['wikilist']
     structure = context['wiki']

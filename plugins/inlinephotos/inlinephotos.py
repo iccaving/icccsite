@@ -66,7 +66,7 @@ def handleMatch(m, metadata):
         figure.set('class', 'article-img-right')
     return etree.tostring(figure, encoding="unicode", method='xml')
 
-def transform(sender, context, Writer):
+def transform(sender, context):
     for afile in context['all_files']:
         afile.content = image.sub(partial(handleMatch,metadata=afile.metadata), afile.content)
 
