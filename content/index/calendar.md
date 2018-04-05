@@ -1,4 +1,4 @@
-Title: Calendar Spring 2018
+Title: Calendar Summer 2018
 Date: 2017-09-19
 Authors:
 Location:
