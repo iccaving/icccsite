@@ -37,7 +37,6 @@ class Caver(Source):
     def write_file(self, context=None):
         if self.context.caching_enabled and self.same_as_cache:
             return
-        print(len(self.caver_articles))
         super().write_file(
             context,
             content=context.MD(self.content),
@@ -256,9 +255,7 @@ def generate_person_pages(context):
                 source = Caver(context, content='', metadata={},basename=key)
                 source.same_as_cache = context.is_cached
 
-            print("'" + key + "'")
             if key in context.authors:
-                print(len(context.authors[key]))
                 source.authored = sorted(context.authors[key], key=lambda k: (k.date), reverse=True)
 
             source.output_filepath = os.path.join(output_path, str(key) + '.html')
