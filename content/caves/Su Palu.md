@@ -1,1 +1,4 @@
-Country: Italy Region: Sardinia Subregion: Supramonte System: Su Palu
+Country: Italy 
+Region: Sardinia 
+Subregion: Supramonte 
+System: Su Palu
