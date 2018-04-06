@@ -35,7 +35,7 @@ table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sor
 /*This is so that tables that overflow the article container don't*/
 /*cause the whole article to horizontally scroll, just the table*/
 .table-container {
-	overflow-x: auto;
+	overflow-x: scroll;
 	overflow-y: hidden;
 	@media screen and (max-width: $mobile-breakpoint) {
 		margin: 0 -10px;
