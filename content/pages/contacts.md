@@ -5,11 +5,9 @@ Type: page
 
 <h1 class="article-title">Contacts</h1>
 
-## Addresses
+## Addresses
 
-Preferably get in contact by email, accessible [here](http://www.google.com/recaptcha/mailhide/d?k=01pKgPf4L76j23E4ymTAu8fw==&c=CoX_UvK7tWMqLjrzhcaEXTCP8fRKKSw-Cl1eAzdIcj4=).
-
-You can find us on facebook [here](https://www.facebook.com/groups/imperialcaving/).
+Preferably get in contact by email, accessible [here](http://www.google.com/recaptcha/mailhide/d?k=01pKgPf4L76j23E4ymTAu8fw==&c=CoX_UvK7tWMqLjrzhcaEXTCP8fRKKSw-Cl1eAzdIcj4=). Or you can find us on facebook [here](https://www.facebook.com/groups/imperialcaving/).
 
 Our physical address is:
 <address>
@@ -20,7 +18,11 @@ South Kensington <br>
 London SW7 2BB
 </address>
 
-##Committee 2018-2019
+## Recent Committees
+
+Names and faces of the current and  recent committees. 
+
+### Committee 2018-2019
 <div style="text-align: center;"><span>
 <figure style="display: inline-block; margin: 0;">
 <a href="/rcc/caving/photo_archive/mugshots/Rebecca%20Diss.html"><img src="/rcc/caving/photo_archive/mugshots/Rebecca%20Diss--thumb.jpg"></a>
@@ -51,7 +53,7 @@ London SW7 2BB
 </figure>
 </span></div>
 
-##Committee 2017-2018
+### Committee 2017-2018
 <div style="text-align: center;"><span>
 <figure style="display: inline-block; margin: 0;">
 <a href="/rcc/caving/photo_archive/mugshots/James%20Perry.html"><img src="/rcc/caving/photo_archive/mugshots/James%20Perry--thumb.jpg"></a>
@@ -83,7 +85,7 @@ London SW7 2BB
 </figure>
 </span></div>
 
-##Committee 2016-2017
+### Committee 2016-2017
 <div style="text-align: center;"><span>
 <figure style="display: inline-block; margin: 0;">
 <a href="/rcc/caving/photo_archive/mugshots/Ben%20Honan.html"><img src="/rcc/caving/photo_archive/mugshots/Ben%20Honan--thumb.jpg"></a>
@@ -116,7 +118,7 @@ London SW7 2BB
 </span></div>
 
 
-##Committee 2015-2016
+### Committee 2015-2016
 <div style="text-align: center;"><span>
 <figure style="display: inline-block; margin: 0;">
 <a href="/rcc/caving/photo_archive/mugshots/Jack%20Hare.html">
@@ -168,7 +170,7 @@ London SW7 2BB
 </figure>
 </span></div>
 
-##Committee 2014-2015
+### Committee 2014-2015
 <div style="text-align: center;"><span>
 <a href="/rcc/caving/photo_archive/mugshots/Tanguy%20Racine.html">
 <img src="/rcc/caving/photo_archive/mugshots/Tanguy%20Racine--thumb.jpg">
@@ -213,9 +215,11 @@ London SW7 2BB
 <b>Health + Safety Officer:</b> David Kirkpatrick<br>
 </p>
 
-<h2>Hall of Fame:</h2>
-<div class="table-container">
+<h2>Hall of Fame</h2>
 
+The leaders of the club from times long past. They may still be hanging around.
+
+<div class="table-container">
 <table class="widetable">
 <thead>
 <tr>
@@ -352,70 +356,98 @@ London SW7 2BB
 <td>Tony Hayden (Tonx)</td>
 <td>Paul Wilcox (Bond)</td>
 <td>Kathryn Atherton</td>
-<td>Mark Evans,<br/>Jim Evans ,<br/>Chris Roberts,<br/>Sarah Wingrove</td>
+<td>Mark Evans<br/>Jim Evans<br/>Chris Roberts<br/>Sarah Wingrove</td>
+</tr>
+<tr>
+<td>1993-1994</td>
+<td>James Evans (Fascist Dictator)</td>
+<td>Mark Evans (Man with the Wads)</td>
+<td>Jill Dove (Lady Of Letters)</td>
+<td>Rich Andersion (President of Vice)<br/>Richard Moon (Training Officer)</br>John Moore (Pub. Officer)</br>Tim Rogers (Brian Blessed Clone)</br>Shi Chi Ho, Edward Norton, Andrew Lee (Officers with Tackle)</td>
 </tr>
 </tbody>
 </table>
 </div>
-<h2>1993-4 Club Exec: (ICCC Journal 18)</h2>
+
+<h2>Union Bar Tankards</h2>
+
+The Imperial College Union maintains tankards for each club. The tankards traditionally list the names of the presidents of the club. We do not have full records of every committee but thanks to this we have the name of every president of the club since its founding. 
+
+There are two tankards currently. One which covers 1962 to 2006, and one that covers 2006 to the present.
+
+<h3>Tankard 1 (1962 - 2006)</h3>
 <table>
-<tr><th>Fascist Dictator:<th>James Evans
-<tr><th>President of Vice:<th>Rich Anderson
-<tr><th>Man with the Wads:<th>Mark Evans
-<tr><th>Training Officer:<th>Richard Moon
-<tr><th>Lady of Letters:<th>Jill Dove
-<tr><th>Pub. Officer(?):<th>John Moore
-<tr><th>Brain Blessed Clone:<th>Tim Rogers
-<tr><th>Officers with Tackle:<th>Shi Chi Ho
-<tr><th><th>Edward Norton
-<tr><th><th>Andrew Lee
+<thead>
+<tr>
+<th>Year</th><th>President</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>1962&mdash;1963<t/d><td>J. Lennon<t/d></tr>
+<tr><td>1963&mdash;1964<t/d><td>P. Gregory<t/d></tr>
+<tr><td>1964&mdash;1965<t/d><td>A. Waltham<t/d></tr>
+<tr><td>1965&mdash;1966<t/d><td>A. Waltham<t/d></tr>
+<tr><td>1966&mdash;1967<t/d><td>J. F. Hardenburg<t/d></tr>
+<tr><td>1967&mdash;1968<t/d><td>J. Winterhalder <t/d></tr>
+<tr><td>1968&mdash;1969<t/d><td>J. Winterhalder <t/d></tr>
+<tr><td>1969&mdash;1970<t/d><td>A. J. Parker<t/d></tr>
+<tr><td>1970&mdash;1971<t/d><td>D. Prime<t/d></tr>
+<tr><td>1971&mdash;1972<t/d><td>L. W. Tunbridge<t/d></tr>
+<tr><td>1972&mdash;1973<t/d><td>J. P. Mc Mahon<t/d></tr>
+<tr><td>1973&mdash;1974<t/d><td>J. A. Cox<t/d></tr>
+<tr><td>1974&mdash;1975<t/d><td>C. J. Miller<t/d></tr>
+<tr><td>1975&mdash;1976<t/d><td>R. Trimble<t/d></tr>
+<tr><td>1976&mdash;1977<t/d><td>S. Leach<t/d></tr>
+<tr><td>1977&mdash;1978<t/d><td>M. Doyle<t/d></tr>
+<tr><td>1978&mdash;1979<t/d><td>J. P. Harrison<t/d></tr>
+<tr><td>1979&mdash;1980<t/d><td>K. Davidson<t/d></tr>
+<tr><td>1980&mdash;1981<t/d><td>C. E. Cawthrone<t/d></tr>
+<tr><td>1981&mdash;1982<t/d><td>J. M. Briggs<t/d></tr>
+<tr><td>1982&mdash;1983<t/d><td>M. I. Barr<t/d></tr>
+<tr><td>1983&mdash;1984<t/d><td>C. M. Orrock<t/d></tr>
+<tr><td>1984&mdash;1985<t/d><td>S. Lane<t/d></tr>
+<tr><td>1985&mdash;1986<t/d><td>H. E. Lock<t/d></tr>
+<tr><td>1986&mdash;1987<t/d><td>S. M. Seward<t/d></tr>
+<tr><td>1987&mdash;1988<t/d><td>R. Collcott<t/d></tr>
+<tr><td>1988&mdash;1989<t/d><td>D. Wilson<t/d></tr>
+<tr><td>1989&mdash;1990<t/d><td>R. Chaddock<t/d></tr>
+<tr><td>1990&mdash;1991<t/d><td>R. J. Knell<t/d></tr>
+<tr><td>1991&mdash;1992<t/d><td>Bronwenley<t/d></tr>
+<tr><td>1992&mdash;1993<t/d><td>T. D. S. Rogers<t/d></tr>
+<tr><td>1993&mdash;1994<t/d><td>J. J. Evans<t/d></tr>
+<tr><td>1994&mdash;1995<t/d><td>M. J. Evans<t/d></tr>
+<tr><td>1995&mdash;1996<t/d><td>A. Hayden<t/d></tr>
+<tr><td>1996&mdash;1997<t/d><td>P. Wilcox<t/d></tr>
+<tr><td>1997&mdash;1998<t/d><td>T. Wright<t/d></tr>
+<tr><td>1998&mdash;1999<t/d><td>C. Carroll<t/d></tr>
+<tr><td>1999&mdash;2000<t/d><td>Jan Evetts<t/d></tr>
+<tr><td>2000&mdash;2001<t/d><td>B. Ogborne<t/d></tr>
+<tr><td>2001&mdash;2002<t/d><td>T. Ayles<t/d></tr>
+<tr><td>2002&mdash;2003<t/d><td>A. Jurd<t/d></tr>
+<tr><td>2003&mdash;2004<t/d><td>L. Leggate<t/d></tr>
+<tr><td>2004&mdash;2005<t/d><td>J. Frost<t/d></tr>
+<tr><td>2005&mdash;2006<t/d><td>J. M. Frost<t/d></tr>
+</tbody>
 </table>
 
-<h2>List of Presidents from Union Bar Tankard:</h2>
-
-<dl>
-<dt>1962&mdash;1963</dt><dd>"J. Lennon"<br>
-<dt>1963&mdash;1964</dt><dd>"P. Gregory"<br>
-<dt>1964&mdash;1965</dt><dd>"A. Waltham"<br>
-<dt>1965&mdash;1966</dt><dd>"A. Waltham"<br>
-<dt>1966&mdash;1967</dt><dd>"J. F. Hardenburg"<br>
-<dt>1967&mdash;1968</dt><dd>"J. Winterhalder "<br>
-<dt>1968&mdash;1969</dt><dd>"J. Winterhalder "<br>
-<dt>1969&mdash;1970</dt><dd>"A. J. Parker"<br>
-<dt>1970&mdash;1971</dt><dd>"D. Prime"<br>
-<dt>1971&mdash;1972</dt><dd>"L. W. Tunbridge"<br>
-<dt>1972&mdash;1973</dt><dd>"J. P. Mc Mahon"<br>
-<dt>1973&mdash;1974</dt><dd>"J. A. Cox"<br>
-<dt>1974&mdash;1975</dt><dd>"C. J. Miller"<br>
-<dt>1975&mdash;1976</dt><dd>"R. Trimble"<br>
-<dt>1976&mdash;1977</dt><dd>"S. Leach"<br>
-<dt>1977&mdash;1978</dt><dd>"M. Doyle"<br>
-<dt>1978&mdash;1979</dt><dd>"J. P. Harrison"<br>
-<dt>1979&mdash;1980</dt><dd>"K. Davidson"<br>
-<dt>1980&mdash;1981</dt><dd>"C. E. Cawthrone"<br>
-<dt>1981&mdash;1982</dt><dd>"J. M. Briggs"<br>
-<dt>1982&mdash;1983</dt><dd>"M. I. Barr"<br>
-<dt>1983&mdash;1984</dt><dd>"C. M. Orrock"<br>
-<dt>1984&mdash;1985</dt><dd>"S. Lane"<br>
-<dt>1985&mdash;1986</dt><dd>"H. E. Lock"<br>
-<dt>1986&mdash;1987</dt><dd>"S. M. Seward"<br>
-<dt>1987&mdash;1988</dt><dd>"R. Collcott"<br>
-<dt>1988&mdash;1989</dt><dd>"D. Wilson"<br>
-<dt>1989&mdash;1990</dt><dd>"R. Chaddock"<br>
-<dt>1990&mdash;1991</dt><dd>"R. J. Knell"<br>
-<dt>1991&mdash;1992</dt><dd>"Bronwenley"<br>
-<dt>1992&mdash;1993</dt><dd>"T. D. S. Rogers"<br>
-<dt>1993&mdash;1994</dt><dd>"J. J. Evans"<br>
-<dt>1994&mdash;1995</dt><dd>"M. J. Evans"<br>
-<dt>1995&mdash;1996</dt><dd>"A. Hayden"<br>
-<dt>1996&mdash;1997</dt><dd>"P. Wilcox"<br>
-<dt>1997&mdash;1998</dt><dd>"T. Wright"<br>
-<dt>1998&mdash;1999</dt><dd>"C. Carroll"<br>
-<dt>1999&mdash;2000</dt><dd>"Jan Evetts"<br>
-<dt>2000&mdash;2001</dt><dd>"B. Ogborne"<br>
-<dt>2001&mdash;2002</dt><dd>"T. Ayles"<br>
-<dt>2002&mdash;2003</dt><dd>"A. Jurd"<br>
-<dt>2003&mdash;2004</dt><dd>"L. Leggate"<br>
-<dt>2004&mdash;2005</dt><dd>"J. Frost"<br>
-<dt>2005&mdash;2006</dt><dd>"J. M. Frost"<br>
-</dl>
+<h3>Tankard 2 (2006 - )</h3>
+<table>
+<thead>
+<tr>
+<th>Year</th><th>President</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>2006&mdash;2007<t/d><td>S. Mavadia<t/d></tr>
+<tr><td>2007&mdash;2008<t/d><td>J. Frost<t/d></tr>
+<tr><td>2008&mdash;2009<t/d><td>P. Hutton<t/d></tr>
+<tr><td>2009&mdash;2010<t/d><td>A. Herriot<t/d></tr>
+<tr><td>2010&mdash;2011<t/d><td>C. Tan<t/d></tr>
+<tr><td>2011&mdash;2012<t/d><td>C. Tan<t/d></tr>
+<tr><td>2012&mdash;2013<t/d><td>R. Tyers<t/d></tr>
+<tr><td>2013&mdash;2014<t/d><td>R. Tyers<t/d></tr>
+<tr><td>2014&mdash;2015<t/d><td>T. Racine<t/d></tr>
+<tr><td>2015&mdash;2016<t/d><td>J. Hare<t/d></tr>
+<tr><td>2016&mdash;2017<t/d><td>B. Honan<t/d></tr>
+</tbody>
+</table>
