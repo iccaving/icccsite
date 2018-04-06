@@ -217,7 +217,7 @@ Names and faces of the current and  recent committees.
 
 <h2>Hall of Fame</h2>
 
-The leaders of the club from times long past. They may still be hanging around.
+<p>The leaders of the club from times long past. They may still be hanging around.</p>
 
 <div class="table-container">
 <table class="widetable">
