@@ -193,7 +193,7 @@ Names and faces of the current and  recent committees.
 <b>Honorary Morale Officer:</b> David Kirkpatrick<br>
 </p>
 
-<h2>Committee 2013-2014</h2>
+### Committee 2013-2014
 <div style="text-align: center;"><span>
 <a href="/caving/photo_archive/mugshots/Rhys%20Tyers.html">
 <img src="/caving/photo_archive/mugshots/Rhys%20Tyers--thumb.jpg">
