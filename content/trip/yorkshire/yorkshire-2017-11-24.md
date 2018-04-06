@@ -25,11 +25,18 @@ This weekend was a trip like no other. Instead of 15 ICCC cavers heading to the 
 First thing’s first – cake baking! After I had a very rushed morning finishing a lab report to an appalling standard, Jennifer (aka best fresher) made the trek from Woodward to Fulham and we made a cake for the baking competition. Ambitiously, we had decided to make it look like a caving helmet and so had some red food dye to add to the icing. Our first problem hit when the cake was about half the height we had hoped – the tin was too wide. No matter, a slightly pancake-esque helmet would do just fine. I quickly looked like a scene from a bloody horror movie when I started adding food dye to the icing. Half a bottle of dye, a lot of icing sugar inhalation and a couple of hours later and it was done. You’ll have to check out the photos to see how amazing it looked. There were comments like “It’s like a piece of chewing gum” and “is that mud on the top?” so you can tell it was of high calibre. A slightly awkward bus journey with an oversized cake tub to South Kensington and we were in the back of the van in good time.
 
 The journey was long, but the tunes were good, and we made it to our home for the weekend (a poo-filled field occasionally scattered with snow) by ~12:30. We got the tents up in the cold and quickly added several layers of clothing before grabbing our alcohol and making our way to the vague warmth of the rave room and non-rave room that I don’t have a name for. A drinking game I assume is called Simmy Simmy was introduced to us by Arun and this lead to much table banging, shouting and alcohol consumption. Another game that I can only describe as “voop voop” was started by yellow T-Shirt guy (later to be called Patrick from an unknown caving club) and we were left with a very drunk Arun. Water was consumed, and he seemed ok. I can’t say I remember many specifics about the night, but we drank and chatted and there was some wrestling and attempts at table traverse. In bed by about 5 without feeling too ill.
+
 ####Diss
 
 The logistics of the CHECC weekend demanded that we find a cave to explore before dropping off the CHECC contigent at Dalesbridge in the small hours of Saturday morning: the plan was to agree on a suitable cave or caves in the minibus. Given the dire weather reports, and the extensive amount of rainfall in the week leading up to the weekend, as well as the expectations of the ACHECCers to do a reasonable trip ( I was certainly keen to push for a harder trip), we ended up formulating these plans. King Pot for Alex, Jack and I, and Vesper Pot for the rest of the cavers not tied up in a training session of some sort.
 
 ####Tanguy
+
+I was lucky enough to get the only bed allocated to ICCC! I tried to not be too obviously keen on not being outside in the probable rain or snow in my terrible festival tent… but I was deeply grateful for a warm, dry place to sleep. We even had a shower!
+
+Once we arrived we unpacked and went to the main bit of CHECC, where there was a full on disco/rave and a lot of very drunk cavers in fancy dress. We’d arrived quite sober so we stood around awkwardly in a corner until someone intelligent came up with the idea of drinking games… We quickly made friends, learnt new games (Dave lost all of them) and I don’t really remember a whole lot of the night apart from being the last one to go to bed at like 5am after telling some poor SUSS member all about Linguistics for hours!
+
+####Rita
 
 
 ## Saturday
@@ -93,6 +100,20 @@ We had a chat back at the NPC, until the early hours of Sunday, trying to get to
 
 ####Tanguy
 
+I awoke to an amazing, desperately needed hot breakfast – scrambled eggs, posh veggie sausages, hash browns, baked beans… incredible. Strangely enough not a lot of people were up yet so I got a good bit of breakfast in before Cave Rescue Training.
+
+Pretty much everyone from ICCC went caving instead (at a caving conference?! Absurd) so it was just Dave and me who headed to the training location, where we were joined by some people from other clubs. Both of us were, er, “under the weather” so I was a bit worried– but thankfully it turned out it took place in the Cave Rescue Organisation’s HQ, which was warm, dry, and even had coffee and biscuits going! My day was already going great.
+
+We got some brief information about the CRO and its other branches, including information about the only transnational cave rescue organisation in the world! Then we got a bit of a closer look – we were split into teams and they showed us their rescue vehicles, the equipment they use, and walked us through step-by-step what happens and how long it takes when they get called out. Short version: it takes ages, don’t call them unless you really need to.
+
+A lot of the things they taught us were about “self-rescue” – so for example we did a simulation of various situations that might happen to us or our teams in caving, such as what to do and what not to do when accidents happen, and how to help someone who has more minor injuries.  They also walked us through what rigging they use for getting immobile people out of caves using a dummy – although unfortunately they didn’t let us have a go at the actual rigging, we just got to pull a lot 😉
+
+We also got to play on their comms systems as well, and they showed us the various systems they use for communication in caves. It was a really interesting day and everyone there was super friendly and knowledgeable!
+
+Then back to CHECC where everyone says I abandoned them, which is totally unfair – what actually happened was that I utilised my evening to improve inter-collegiate caving club relations! To that end, I tasted various delicious caving cakes and debated their merits, shared sparkling wine during a talk about bats (perhaps a bit too much, sorry everyone else in the bat talk…), played caving games from which I still have bruises, over two weeks later, and sang ridiculous caving songs in glorious solidarity!
+
+####Rita
+
 ## Sunday
 
 ### Alum Pot: {{ DATE=2017-11-26; CAVE=Alum Pot; }}
@@ -126,3 +147,7 @@ After a quick scan up and down the cave, it appeared everyone had left so I went
 We went first at Ingleton to refuel, then dropped the caving kits at the NPC, emptying the van completely. Rhys drove back to Dalesbridge to pick up Arun and Ben. In the meantime, Alex, Jack and I enjoyed the remains of a chicken curry and sorted out the hut. Quickly afterwards, the group came back, loaded the van and had a cup of tea. We left at 6pm, but still had to drop off extra rubbish at Ingleton on the way, which made for a 0.30am arrival in London. Not too bad, but I won’t be doing one of those trips in a hurry!
 
 ####Tanguy
+
+The next day we went caving – well, we went into a cave at least- Alum Pot – which looked beautiful and really cool through my sleep-deprived and hungover blur. Awesome weekend!!!
+
+####Rita

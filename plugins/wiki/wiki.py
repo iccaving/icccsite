@@ -7,6 +7,7 @@ from olm.helper import Map
 from olm.reader import Reader
 from olm.source import Source
 from olm.logger import get_logger
+from olm.writer import Writer
 
 logger = get_logger('olm.plugins.wiki')
 
@@ -85,7 +86,7 @@ def parse_dict(structure, level, nice_list):
         nice_list.append((item, "article", level))
     return nice_list
 
-def generate_wiki_pages(sender, context, Writer):
+def generate_wiki_pages(sender, context):
     time_start = time.time()
     wiki_list = context['wikilist']
     structure = context['wiki']
@@ -94,7 +95,7 @@ def generate_wiki_pages(sender, context, Writer):
     number_written = 0
     for page in wiki_list:  
         same_as_cache = page[2].same_as_cache
-        if same_as_cache:
+        if same_as_cache and context.caching_enabled:
             continue
         number_written = number_written + 1
         filename = os.path.join('wiki', page[1].replace('.md', '.html'))
@@ -120,7 +121,7 @@ def generate_wiki_pages(sender, context, Writer):
             links=nice_list, 
             breadcrumbs=breadcrumbs)
         writer.write_file()
-    logger.info("Wrote %d changed wiki pages out of %d wiki pages in %.3f seconds", number_written, len(wiki_list), time.time() - time_start)
+    logger.info("Wrote %d out of %d wiki pages in %.3f seconds", number_written, len(wiki_list), time.time() - time_start)
 
 def register():
     return [

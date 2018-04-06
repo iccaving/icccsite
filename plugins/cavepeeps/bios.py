@@ -5,10 +5,46 @@ import copy
 import time
 
 from olm.source import Source
+from olm.writer import Writer
 from olm.logger import get_logger
 from olm.helper import merge_dictionaries
+from olm.signals import Signal, signals
 
 logger = get_logger('olm.plugins.cavepeep')
+
+class Cave(Source):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.cave_articles = []
+
+    def write_file(self, context=None):
+        if self.context.caching_enabled and self.same_as_cache:
+            return
+        super().write_file(
+            context,
+            content=context.MD(self.content),
+            metadata=self.metadata,
+            cave_articles=sorted(self.cave_articles, key=lambda x: x[0].date, reverse=True),
+            pagename=self.basename)
+        return not self.same_as_cache
+
+class Caver(Source):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.caver_articles = []
+        self.authored = None
+
+    def write_file(self, context=None):
+        if self.context.caching_enabled and self.same_as_cache:
+            return
+        super().write_file(
+            context,
+            content=context.MD(self.content),
+            metadata=self.metadata,
+            caver_articles=sorted(self.caver_articles, key=lambda x: x.date, reverse=True),
+            personname=self.basename,
+            authored=self.authored)
+        return not self.same_as_cache
 
 def parse_metadata(metadata):
     metadata = [metadata] if not isinstance(metadata, list) else metadata
@@ -48,8 +84,12 @@ def construct_bios(sender, context, **kwargs):
         for dirpath, dirnames, filenames in os.walk(path):
             for afile in filenames:
                 logger.debug("Cavebios: Reading {}/{}".format(dirpath, afile))
-                article = Source(context, os.path.join(dirpath, afile))
-                article = Source(context, os.path.join(dirpath, afile))
+                if btype == "caves":
+                    article = Cave(context, os.path.join(dirpath, afile))
+                    article.type = "cave"
+                else:
+                    article = Caver(context, os.path.join(dirpath, afile))
+                    article.type = "caver"
                 article.data = get_data_from_metadata(article.metadata)
                 article.cache_id = afile
                 article.cache_type = btype.upper()
@@ -84,7 +124,7 @@ def was_author_in_cave(article, cave_name):
                     return True
     return False
 
-def generate_cave_pages(context, Writer):
+def generate_cave_pages(context):
     cave_bios  = context['cavebios']
     caves      = context['cavepeep_cave']
     caves_dict = {}
@@ -106,20 +146,18 @@ def generate_cave_pages(context, Writer):
 
     for key in dictionary.keys():
         if key not in initialised_pages.keys():
-            #logging.debug("Cavebios: Adding {} to list of pages to write".format(key))
-            content=''
-            metadata=''
-            same_as_cache = False
+            logger.debug("Cavebios: Adding {} to list of pages to write".format(key))
             if key in content_dictionary:
-                #logging.debug("Cavebios: Content added to " + key)
-                content = content_dictionary[key].content
-                metadata = content_dictionary[key].metadata
-                same_as_cache = content_dictionary[key].same_as_cache
+                source = content_dictionary[key]
+                logger.debug("Cavebios: Content added to " + key)
             else:
-                same_as_cache = context.is_cached
+                source = Cave(context, content='', metadata={},basename=key)
+                source.same_as_cache = context.is_cached
 
-            path= os.path.join(output_path, str(key) + '.html')
-            initialised_pages[key]=(row(path, content, metadata, dictionary[key], same_as_cache))
+            source.output_filepath = os.path.join(output_path, str(key) + '.html')
+            source.articles = dictionary[key]
+            source.template = template + '.html'
+            initialised_pages[key]=source
         else:
             initialised_pages[key].articles.extend(dictionary[key])
     
@@ -146,37 +184,34 @@ def generate_cave_pages(context, Writer):
     
     number_written = 0
     for page_name, page_data in initialised_pages.items():
-        cave_articles = [ (a, a.date, was_author_in_cave(a, page_name)) for a in page_data.articles ]
-        cached = True
-        if not page_data.same_as_cache or page_name in changed_caves:
+        page_data.cave_articles = [ (a, a.date, was_author_in_cave(a, page_name)) for a in page_data.articles ]
+        if context.caching_enabled:
+            if page_name in changed_caves:
+                page_data.same_as_cache = False
+            if any(i in changes for i in refresh_triggers):
+                page_data.same_as_cache = False
+            if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
+                page_data.same_as_cache = False
+            if page_data.same_as_cache:
+                continue
+        number_written = number_written + 1
+        signal_sender = Signal("BEFORE_ARTICLE_WRITE")
+        signal_sender.send(context=context, afile=page_data)
+        page_data.write_file(context=context)
+
+    logger.info("Wrote %s out of %s total cave pages", number_written, len(initialised_pages))
+    
+    # ==========Write the index of caves================
+    cached = True
+    if context.caching_enabled:
+        if len(changed_caves) > 0:
             cached = False
         if any(i in changes for i in refresh_triggers):
             cached = False
         if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
             cached = False
         if cached:
-            continue
-        number_written = number_written + 1
-        writer = Writer(
-            context, 
-            page_data.path, 
-            template + '.html',
-            content=context.MD(page_data.content),
-            metadata=page_data.metadata,
-            cave_articles=sorted(cave_articles, key=lambda x: x[0].date, reverse=True),
-            pagename=page_name)
-        writer.write_file()
-    logger.info("Wrote %s changed cave pages out of %s total cave pages", number_written, len(initialised_pages))
-    # ==========Write the index of caves================
-    cached = True
-    if len(changed_caves) > 0:
-        cached = False
-    if any(i in changes for i in refresh_triggers):
-        cached = False
-    if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
-        cached = False
-    if cached:
-        return
+            return
     logger.info("writing cave page index")
     pages = initialised_pages
     row=namedtuple('row', 'name number recentdate meta')
@@ -188,6 +223,7 @@ def generate_cave_pages(context, Writer):
         meta = content_dictionary[page_name].metadata if page_name in content_dictionary.keys() else None
         rows.append(row(name, number, recentdate, meta))
     filename=os.path.join(output_path, 'index.html')
+    
     writer = Writer(
             context, 
             filename, 
@@ -195,10 +231,9 @@ def generate_cave_pages(context, Writer):
             rows=sorted(rows, key=lambda x: x.name))
     writer.write_file()
 
-def generate_person_pages(context, Writer):
+def generate_person_pages(context):
     # For each person generate a page listing the caves they have been in and the article that
     # describes that trip
-    author_list={}
     caver_bios=context['caverbios']
     cavers=context['cavepeep_person']
 
@@ -213,21 +248,20 @@ def generate_person_pages(context, Writer):
     for key in dictionary.keys():
         if key not in initialised_pages.keys():
             logger.debug("Adding {} to list of pages to write".format(key))
-            content=''
-            metadata=''
-            authored=[]
-            same_as_cache = False
             if key in content_dictionary:
+                source = content_dictionary[key]
                 logger.debug("Content added to " + key)
-                content = content_dictionary[key].content
-                metadata = content_dictionary[key].metadata
-                same_as_cache = content_dictionary[key].same_as_cache
             else:
-                same_as_cache = context.is_cached
+                source = Caver(context, content='', metadata={},basename=key)
+                source.same_as_cache = context.is_cached
+
             if key in context.authors:
-                authored = sorted(context.authors[key], key=lambda k: (k.date), reverse=True)
-            path= os.path.join(output_path, str(key) + '.html')
-            initialised_pages[key]=(row(path, content, metadata, dictionary[key], authored, same_as_cache))
+                source.authored = sorted(context.authors[key], key=lambda k: (k.date), reverse=True)
+
+            source.output_filepath = os.path.join(output_path, str(key) + '.html')
+            source.articles = dictionary[key]
+            source.template = template + '.html'
+            initialised_pages[key] = source
         else:
             initialised_pages[key].articles.extend(dictionary[key])
     
@@ -237,7 +271,7 @@ def generate_person_pages(context, Writer):
     refresh_triggers       = ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"]
     refresh_meta_triggers  = ['title', 'location', 'date', 'status']
     changed_people = []
-
+    
     if "ARTICLE.NEW_FILE" in changes or "ARTICLE.META_CHANGE" in changes:
         for meta_change in meta_changes:
             added, removed, modified = meta_change
@@ -253,41 +287,38 @@ def generate_person_pages(context, Writer):
                 people, caves = parse_metadata(modified['cavepeeps'][1])
                 changed_people.extend(people)
 
-    logger.debug("writing %s caver pages", len(initialised_pages))
+    logger.debug("Writing %s caver pages", len(initialised_pages))
     number_written = 0
     for page_name, page_data in initialised_pages.items():
-        cached = True
-        if not page_data.same_as_cache or page_name in changed_people:
+        page_data.caver_articles = page_data.articles
+        if context.caching_enabled:
+            if page_name in changed_people:
+                page_data.same_as_cache = False
+            if any(i in changes for i in refresh_triggers):
+                page_data.same_as_cache = False
+            if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
+                page_data.same_as_cache = False
+            if page_data.same_as_cache:
+                continue
+        number_written = number_written + 1
+        signal_sender = Signal("BEFORE_ARTICLE_WRITE")
+        signal_sender.send(context=context, afile=page_data)
+        page_data.write_file(context=context)
+
+    pages = initialised_pages
+    logger.info("Wrote %s out of %s total caver pages", number_written, len(initialised_pages))
+    
+    # ==========Write the index of cavers================
+    cached = True
+    if context.caching_enabled:
+        if len(changed_people) > 0:
             cached = False
         if any(i in changes for i in refresh_triggers):
             cached = False
         if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
             cached = False
         if cached:
-            continue
-        number_written = number_written + 1
-        writer = Writer(
-            context, 
-            page_data.path, 
-            template + '.html',
-            content=context.MD(page_data.content),
-            metadata=page_data.metadata,
-            caver_articles=sorted(page_data.articles, key=lambda x: x.date, reverse=True),
-            personname=page_name,
-            authored=page_data.authored)
-        writer.write_file()
-    pages = initialised_pages
-    logger.info("Wrote %s changed caver pages out of %s total caver pages", number_written, len(initialised_pages))
-    # ==========Write the index of cavers================
-    cached = True
-    if len(changed_people) > 0:
-        cached = False
-    if any(i in changes for i in refresh_triggers):
-        cached = False
-    if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
-        cached = False
-    if cached:
-        return
+            return
     row=namedtuple('row', 'name number recentdate meta')
     rows = []
     for page_name in pages.keys():

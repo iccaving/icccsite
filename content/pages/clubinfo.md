@@ -80,7 +80,7 @@ For the first two trips of the year, the best training we can offer can be found
 + [Do I have to be an undergraduate or a fresher?](#undergrad)
 
 ### <a class="anchor" id="stores"></a>Where is caving stores?
-[Follow the directions on this page.]({filename}/pages/stores.md)
+[Follow the directions on this page.](/rcc/caving/pages/stores.html)
 
 ### <a class="anchor" id="light"></a>How will I see where I'm going?
 The club has a lots of bright helmet mounted LED lights which provide light for a long time.

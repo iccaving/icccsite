@@ -125,7 +125,7 @@ def cavepeep_linker_for_each_article(sender, context, article):
 
 
 
-def cavepeep_linker_final(sender, context, Writer):
+def cavepeep_linker_final(sender, context, articles):
     time_start = time.time()
     cavepeep=context['cavepeep']
     cavepeep.sort(key=lambda tup: tup.date, reverse=True)
@@ -167,11 +167,11 @@ def cavepeep_linker_final(sender, context, Writer):
     logger.info("Processed cavepeeps in %.3f seconds", (time.time() - time_start))
 
     time_start = time.time()
-    generate_cave_pages(context, Writer)
+    generate_cave_pages(context)
     logger.info("Cave pages written in %.3f seconds", (time.time() - time_start))
 
     time_start = time.time()
-    generate_person_pages(context, Writer)
+    generate_person_pages(context)
     logger.info("Caver pages written in %.3f seconds", (time.time() - time_start))
 
 def register():
@@ -179,5 +179,5 @@ def register():
         ("INITIALISED", cavepeep_linker_initialise),
         ("BEFORE_CACHING", construct_bios),
         ("AFTER_ARTICLE_READ", cavepeep_linker_for_each_article),
-        ("BEFORE_WRITING", cavepeep_linker_final)
+        ("AFTER_ALL_ARTICLES_READ", cavepeep_linker_final)
     ]

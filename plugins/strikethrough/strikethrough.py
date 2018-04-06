@@ -23,7 +23,7 @@ def handleMatch(m, metadata):
     delel.text = m.group(1)
     return etree.tostring(delel, encoding="unicode", method='xml')
 
-def transform(sender, context, Writer):
+def transform(sender, context):
     for afile in context['all_files']:
         afile.content = strike.sub(partial(handleMatch,metadata=afile.metadata), afile.content)
 
