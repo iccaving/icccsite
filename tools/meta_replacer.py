@@ -2,10 +2,45 @@ from tempfile import mkstemp
 from shutil import move
 import os
 from os import remove, close
-import markdown
 from datetime import datetime
 import re
 import sys
+import codecs
+
+INDENTATION = re.compile(r'^(\s{4,}|\t{2,})(\S.*)')
+META = re.compile(r'^(\w+):\s*(.*)')
+
+def parse(orig_text):
+    """Parse the given text into metadata and strip it for a Markdown parser.
+    :param text: text to be parsed
+    """
+    text = orig_text.split('\n')
+    meta = {}
+    m = META.match(text[0])
+
+    while m:
+        key = m.group(1)
+        value = m.group(2)
+        meta[key] = value
+        text = text[1:]
+        if len(text) >= 1:
+            i = INDENTATION.match(text[0])
+            while i:
+                if not isinstance(meta[key], list):
+                    meta[key] = [meta[key]]
+                meta[key].append(i.group(2))
+                text = text[1:]
+                i = INDENTATION.match(text[0])
+            m = META.match(text[0])
+        else:
+            m = False
+
+    metadata = {}
+    for key in meta:
+        metadata[key.lower()] = meta[key].strip() if isinstance(meta[key], str) else meta[key]
+    content = '\n'.join(text)
+
+    return metadata, content 
 
 
 def replace(file_path, metaitem, pattern, subst, just_checking):
@@ -15,8 +50,8 @@ def replace(file_path, metaitem, pattern, subst, just_checking):
     pattern = re.escape(pattern)
     match = False
     match_text = "=========Match=========\nPath: " + file_path + "\n"
-    with open(abs_path, 'w') as new_file:
-        with open(file_path) as old_file:
+    with codecs.open(abs_path, 'w', encoding='utf8') as new_file:
+        with codecs.open(file_path, 'r', encoding='utf8') as old_file:
             for line in old_file:
                 # If a line starts with the metadata section of interest
                 # OR there's whitespace and the previous section was of interest
@@ -56,24 +91,23 @@ def replace(file_path, metaitem, pattern, subst, just_checking):
 
 
 def find(begin_date_object, end_date_object, metaitem, metaold, metanew, just_checking):
-    md = markdown.Markdown(extensions=['markdown.extensions.meta'])
     replacepath = os.path.abspath(sys.argv[1]).strip()
     # Walk through directoy
     for root, dirs, files in os.walk(replacepath):
         for article in files:
             if os.path.splitext(article)[1] == ".md":
                 path = os.path.join(root, article)
-                with open(path, 'r') as text:
+                with codecs.open(path, 'r', encoding='utf8') as text:
                     # Get the metadata from the file
-                    md.convert(text.read())
+                    metadata, content = parse(text.read())
                     # Check if file contains metadata section of interest and is
                     # within specified date range
-                    possibleypresent = metaitem.lower() in md.Meta.keys()
+                    possibleypresent = metaitem.lower() in metadata.keys()
                     try:
                         notbefore = datetime.strptime(
-                            md.Meta['date'][0], '%Y-%m-%d') > begin_date_object
+                            metadata['date'][0], '%Y-%m-%d') > begin_date_object
                         notafter = datetime.strptime(
-                            md.Meta['date'][0], '%Y-%m-%d') < end_date_object
+                            metadata['date'][0], '%Y-%m-%d') < end_date_object
                     except:
                         notbefore = True
                         notafter = True
@@ -126,12 +160,13 @@ print("You would like '" + metaold + "' replaced with '" +
       metanew + "' in the '" + metaitem + "' section of metadata.")
 
 valid = False
+just_checking = True
 while not valid:
     just_checking_string = input("See list of affected articles? <y/n>: ")
     if just_checking_string == 'y':
         just_checking = True
         valid = True
-    elif just_checking == 'n':
+    elif just_checking_string == 'n':
         just_checking = False
         valid = True
     else:

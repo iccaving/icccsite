@@ -1,3 +1,3 @@
 pushd output
-python -m pelican.server
+python -m http.server
 popd

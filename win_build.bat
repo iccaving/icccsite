@@ -1,3 +1,3 @@
 @ECHO OFF
-cmd /k ".env\Scripts\activate & pelican content -s publishconf.py & deactivate"
+cmd /k ".env\Scripts\activate & olm -s olmset.py -l INFO . & deactivate"
 exit 0
