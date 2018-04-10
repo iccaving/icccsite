@@ -13,7 +13,7 @@ Cavepeeps: DATE=2018-02-03; CAVE=Little Hull Pot; PEOPLE=Dave Kirkpatrick, Rhys 
     DATE=2018-02-03; CAVE=Flood Entrance Pot; PEOPLE=James Wilson, Peter Ganson, Rebecca Diss, Jennifer Ryder; 
     DATE=2018-02-03; CAVE=Marilyn; PEOPLE=James Perry, Nick Koukoulekidis, Alex Seaton, Devansh Agarwal; 
     DATE=2018-02-04; CAVE=Sell Gill; PEOPLE=Ho Yan Jin, James Wilson, Nick Koukoulekidis, Ben Honan;
-    DATE=2018-02-04; CAVE=Cliff Force Cave; PEOPLE=Alex Seaton, Rhys Tyers, David Kirkpatrick, Rebecca Diss
+    DATE=2018-02-04; CAVE=Cliff Force Cave; PEOPLE=Alex Seaton, Rhys Tyers, Dave Kirkpatrick, Rebecca Diss
 Status:
 
 {{ mainimg }}

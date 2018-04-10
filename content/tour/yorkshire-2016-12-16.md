@@ -19,14 +19,14 @@ Cavepeeps: DATE=2016-12-17; CAVE=Vesper Pot; PEOPLE=Jarvist Frost, Rebecca Diss,
 					 DATE=2016-12-18; CAVE=Lost Johns' Cave > Boxhead Pot; PEOPLE=Rhys Tyers, James Perry;
 					 DATE=2016-12-19; CAVE=Death's Head Hole; PEOPLE=Rhys Tyers, Alex Seaton, Jack Hare, Rebecca Diss;
 					 DATE=2016-12-19; CAVE=Notts Pot 1; PEOPLE=Jarvist Frost, Will Scott, James Wilson, Pete Hambly, Larry Jiang, Dave Wilson;
-					 DATE=2016-12-19; CAVE=Little Hull Pot; PEOPLE=Tanguy Racine, Zoe Young, Dave Kirkpatick;
+					 DATE=2016-12-19; CAVE=Little Hull Pot; PEOPLE=Tanguy Racine, Zoe Young, Dave Kirkpatrick;
 					 DATE=2016-12-20; CAVE=Bar Pot > Stream Passage Pot; PEOPLE=Rhys Tyers;
 					 DATE=2016-12-20; CAVE=Marilyn > Stream Passage Pot; PEOPLE= Jack Hare;
 					 DATE=2016-12-20; CAVE=Bar Pot; PEOPLE=Larry Jiang, Rebecca Diss;
 					 DATE=2016-12-20; CAVE=Marilyn; PEOPLE=Will Scott;
 					 DATE=2016-12-20; CAVE=Marilyn > Bar Pot; PEOPLE=Alex Seaton;
 					 DATE=2016-12-20; CAVE=Stream Passage Pot > Marilyn; PEOPLE=James Perry, Ben Honan, James Wilson;
-					 DATE=2016-12-20; CAVE=Rowten Pot; PEOPLE=Tanguy Racine, Celia Tinsley, Dave Kirkpatick;
+					 DATE=2016-12-20; CAVE=Rowten Pot; PEOPLE=Tanguy Racine, Celia Tinsley, Dave Kirkpatrick;
 					 DATE=2016-12-20; CAVE=Rowten Cave; PEOPLE=Tanguy Racine;
 					 DATE=2016-12-21; CAVE=County Pot > Wretched Rabbit; PEOPLE=Dave Wilson, James Wilson, Zoe Young, Stephanie Ford, Larry Jiang;
 					 DATE=2016-12-22; CAVE=Lancaster Hole; PEOPLE=Rhys Tyers, Jack Hare, James Perry, Zoe Young;

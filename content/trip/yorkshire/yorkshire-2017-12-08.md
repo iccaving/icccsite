@@ -8,8 +8,8 @@ Mainimg: JackHare-Yorkshire-2-2017-08636.jpg
 Thumbl: JackHare-Yorkshire-2-2017-08695--thumb.jpg 
 Thumbr: JackHare-Yorkshire-2-2017-08645--thumb.jpg 
 Authors: Tanguy Racine, Jack Hare 
-Cavepeeps: DATE=2017-12-09; CAVE=Lost Johns' Cave; PEOPLE=Jack Hare, Peter Ganson, Carla Huynh, David Kirkpatrick, James Wilson, Jennifer Ryder, Tanguy Racine, Rebecca Diss, Chris Bradley, Sam Yen Shuang, Alexander Seaton, Rayson Ng, May Law, Nathaniel Oshunniyi, Joshua Newington; 
-           DATE=2017-12-10; CAVE=Heron Pot; PEOPLE=Jack Hare, Carla Huynh, David Kirkpatrick, James Wilson, Jennifer Ryder; 
+Cavepeeps: DATE=2017-12-09; CAVE=Lost Johns' Cave; PEOPLE=Jack Hare, Peter Ganson, Carla Huynh, Dave Kirkpatrick, James Wilson, Jennifer Ryder, Tanguy Racine, Rebecca Diss, Chris Bradley, Sam Yen Shuang, Alexander Seaton, Rayson Ng, May Law, Nathaniel Oshunniyi, Joshua Newington; 
+           DATE=2017-12-10; CAVE=Heron Pot; PEOPLE=Jack Hare, Carla Huynh, Dave Kirkpatrick, James Wilson, Jennifer Ryder; 
            DATE=2017-12-10; CAVE=Yordas Pot; PEOPLE= Tanguy Racine, Rebecca Diss, Chris Bradley, Sam Yen Shuang; 
 Status:
 
