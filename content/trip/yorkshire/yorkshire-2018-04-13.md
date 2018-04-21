@@ -25,6 +25,40 @@ Alex had told his friend 'Julia' wanted to come caving with us, but when we arri
 
 ### King Pot: {{ DATE=2018-04-14; CAVE=King Pot; }}
 
+Seeing the fairly full Swinsoms Simpsto exhange trip I decided to siphon off a few choice people to descend King Pot. For this task I selected Alex Seaton (President of the Brown Rose Caving and Potholing Club), and the two latest models of Dubz brother. I instructed the Dubz to pack the rope in the morning and left them to it. I was briefly concerned when they mislaid a rope for about 15 minutes, both swearing it was 'just there' a few minutes ago, but we ended up with three bags and that seemed like the right order of magnitude.
+
+With just us 4 we were quickly away and tramping towards East Kingsdale. On our way past the farm we spotted the new farmers, and asked if we could continue up to King. "No bother" came the reply and continue we did. We found the entrance with no trouble and Jimmy, who was our designated rigger, spent several years meticulously donning his gloves. Once suitably sheathed he slithered down the entrance climb as I reassured him that it's much easier on the way up. 
+
+We practiced a sort of speed rigging where Jimmy would rig as fast and terribly as he could and I would correct any deadly rigging as I followed, though this did not often prove necessary. We were quick through the blasted rift and onwards to the pre-T crawl. Just past the dodgy traverse (for which we decided to use the in-situ rope, despite bringing our own) there was a brief argument between the Dubz as to which bag the next rope was in. I instructed them both to go ahead whilst I waited for Alex and to have it sorted by the time we caught up. On the other side of the crawl they had apparently decided something about the ropes we were carrying as the chat had turned more jovial. Davey took a lightish bag and wiggled in, I followed, laden only with a few kilograms of nickel metal hydride, and Alex and Jimmy shared the load of the final full bag at the rear.
+
+We passed the rescue spot and already the drill damage is becoming quite subtle, worn smooth by bums and feet. It is also lower down in the rift than I remember. I've never struggled with the T-shaped passage and this time was no different. Davey popped out, using the in-situ rope to swing around, and I followed. We regrouped and continued.
+
+Christ, it's a long streamway that follows. The Queensway. The survey would suggest its about a kilometre and it definitely feels at least that. It is neither easy nor hard, mostly it is just long. It had taken us just over an hour to get to the far side of the T-shaped and I think it took us almost another hour for this streamway. We finally reached Canutes crawl and Emma's pitch on the other side.
+
+Whilst Davey rigged, Alex disappeared into a tiny inlet. He reemerged some time later covered in white paste and clutching a small formation he had found on the floor. Apparently it's 'cave coral' formed by percolating water in a static pool. As Davey reached the bottom of the pitch he screamed "JAMES YOU PYSCHOPATH". It trned out this was because he had hit the stopper knot a metre off the floor. This, I think, is preferable to not hitting a stopper knot any meters off the floor. With the situation defused we continued.
+
+Beyond Emma's the pitches seem to fly by. King Henry hall is a bizarre place, a huge pile of rocks that you must climb up and then redescend on the other side. We had to desperately persaude Alex not to push a huge rock that was perched at the top of the rubble.  
+
+Finally we were at Elizabeth. Jimmy rigged down. I descended and was dismayed at how wet it was. In a fabric oversuit I was not looking forward to the ascent.
+
+At the bottom both Dubz bruvs immediately dissapeared in opposite directions. Jimmy inserted himself into a sump, and Dave was scaling Jane's pitch. I checked my watch and decided that we did not have time to get to the master streamway so I called the rabid brothers back. Davey opened a block of marzipan and I told him we had to eat it all or else it would just dissolve on the trip out. Alex and I had a few bites each but the majority was consumed by the Dubz. Apprently it contains 1700 calories per 100g. More than enough to get out of King.
+
+I ascended first, getting Davey to pull the rope out of the waterfall as I ascended. This was remarkabley effective. I assume Alex got them to do the same, and both Dubz were in PVC (wipe clean exteriors are an optional extra that I decided was worth it when purchasing my Dubz) and also both love grim ascents in waterfalls.
+
+At the top we agreed the general strategy of Alex and I staying a pitch ahead and the Dubz derigging. However they were quick enough that they basically kept up with us (we did do a small amount of photography as well). As we left Jimmy grumbled about marzipan poisoning and Davey reassured him that there is probably not enough cyanide in marzipan to kill.
+
+The top of Emma's pitch has a nice straw chamber to look at if you traverse over the pitch. Alex and I had a look whilst waiting for the Dubz but by the time I had set up my camera and flashes they had already derigged the pitch and were now waiting for me. A few flashes and we were off again.
+
+We arrived at the T-shaped again and discussed strategy. It was simple. Davey and Jimmy would take the bags, Alex and I would tart about at the back. Davey inserted himself and made a complete mess of the entry, I think at one point bending his knee the wrong way in a desperate attempt to brute force his way through. It was very funny to watch. Jimmy went next, slightly more elegantly than Davey but still making a lot of drama about the whole thing. I went in next, taking the time to free Jimmy's bag that he had wedged deep in the rift in order to spite me I assume. Finally Alex clambered in and he was extremely pleased when I turned around, told him to stop in a really uncomfortable position, and took photos of his pained expression.
+
+We proceeded slowly through. I don't know what happened to Davey as he quickly seemed to be singing somewhere in the distance. Thrutch by thrutch we neared the end of our toil. I defintely did not drop the spare batteries from my oversuit pocket, and Alex did not spend 10 minutes trying to retrieve them from the depths of the rift.
+
+We clawed our way up the final few pitches and obstacles and I emerged into glorious bright sunlight. The other 3 appeared one by one and we made our way down hill, concerned that we slightly late. Free from confined space I joked that I would write in my trip report about the Dubz brothers bickering about who had the nicest toes (inspired by them showing off their bizarely different feet that morning), as an example of some of the banter they had been spewing all day in the cave. They immediately proceeded to actually have an argument about who had the nicest toes.
+
+As it turned out the others had been having an interesting time anyway so weren't concerned about us.
+
+#### Rhys
+
 ### Simpsons Pot: {{ DATE=2018-04-14; CAVE=Simpsons Pot; }}
 
 Ah, the Simpson's-Swinsto exchange, a classic Kingsdale day out that never seemed to go very well. Either the [water is a bit too deep](https://union.ic.ac.uk/rcc/caving/articles/yorkshire-2014-12-30.html) or I have a [splitting headache](https://union.ic.ac.uk/rcc/caving/articles/yorkshire-2015-09-18.html) or the [slit pitch is just a bit too tight](https://union.ic.ac.uk/rcc/caving/articles/yorkshire-2016-12-16.html). Still, surely it couldn't go wrong this time?
