@@ -61,6 +61,30 @@ As it turned out the others had been having an interesting time anyway so weren'
 
 ### Simpsons Pot: {{ DATE=2018-04-14; CAVE=Simpsons Pot; }}
 
+I'm pleased to report that this weekend I banished some demons lurking from [Y0 2015](/rcc/caving/articles/yorkshire-2014-12-30.html), a trip which I can't remember anything about other than pleasant hands-and-knees crawling in water in Swinsto and the aforementioned demons living exclusively in the upper regions of Simpson Pot. The shuffle, the duck, the pit; the Five Steps, the entrance crawl—oh god, the entrance crawl...
+
+"So Fiona, are we going to repeat our trip from last time?" asked Jack.
+
+"I really hope not," I answered. And wonderfully we didn't. I at least am a better caver now. Jack did not have a splitting headache. Arun is highly competent. (Anyway, the demons live in Swinsto these days.)
+
+We made steady progress down to the wet and still-not-feathery duck. Immediately after this we met four exiting cavers, one of whom had an orange oversuit. Who wouldn't comment on this? Presumably bored of acknowledging such an astute observation for the hundredth time, the owner stoically said to me:
+
+"Lots of people fancy the oversuit, but they never fancy me."
+
+Yikes. Chuckling awkwardly, I said, "Oh, sorry about that," and swiftly left the scene.
+
+An hour later we'd reached the bottom of the Great Aven (what a pitch!) and shared hot blackcurrant squash and squidgy goodness, only soggy in one corner. Lovely. Still, my teeth were soon chattering. We went down into Kingsdale Master Cave to the foot of the Valley Entrance pitch, a 45 minute excursion which certainly staved off the cold, but it's a lot of effort to make yourself go out the harder way when you're standing at the Valley Entrance pitch. Best not to think about it.
+
+At 4pm I began to climb back up the Great Aven. It wasn't that I wasn't a little concerned for the well-being of the other group, but I admit I put it out of my mind almost immediately to make sure there were no repeat epics on the menu in Simpson. On Jack's instruction I put a deviation on the first section to prevent minor rope rub. The chamber at the pitch head is really quite pretty, reminding me of caves in the Vercors.
+
+The pitches passed by steadily, including the aptly-named Shuffle. I slipped back through the duck with a gasp – definitely best to leave enough of a gap between cavers so you can immediately prussik up the pitch to warm up. Having passed this obstacle I felt like we were nearly out.
+
+Jack took up the lead again and I took the second full bag of rope from Arun. The little pitches continued to pass steadily despite the weight of our heavy bags, and we reached the pit and the Five Steps. These too passed, not without effort, but without the mental and physical trauma of 2015. Just the crawl, then. Even that wasn't bad either, to be honest. We returned to a world of blue skies and stunning sunshine at 6pm, and headed over to Swinsto.
+
+Jack checked the first pitch: still rigged. We agreed to wait for half an hour before making our next move. Arun went to find somewhere he could see the minibus from. It's good that he did, as he returned to tell us Diss and Cecilia were at the bus and Perry and Jack were making their way out.
+
+#### Fiona
+
 Ah, the Simpson's-Swinsto exchange, a classic Kingsdale day out that never seemed to go very well. Either the [water is a bit too deep](https://union.ic.ac.uk/rcc/caving/articles/yorkshire-2014-12-30.html) or I have a [splitting headache](https://union.ic.ac.uk/rcc/caving/articles/yorkshire-2015-09-18.html) or the [slit pitch is just a bit too tight](https://union.ic.ac.uk/rcc/caving/articles/yorkshire-2016-12-16.html). Still, surely it couldn't go wrong this time?
 
 We opted not to rig Valley Entrance, and headed up the hill in vague sunshine. I lead the Swinsto group over to their entrance, and then Arun, Fiona and I plunged into Simpsons. It's as pleasant as always, with a slightly too long entrance crawl leading to the five steps. With only 20 m of rope, you must rig conservatively, and Arun had to help me take some slack out so we could reach the bottom. There's plenty of Eurospeleo rope in situ for most of the short 10 m pitches and the traverse - you need rope for the pitch down to the duck and everything after it, so we ended up leaving loads of rope in various places as encountered pre-rigged pitches.
@@ -85,6 +109,33 @@ Dinner was delicious chilli with rice paste.
 ## Sunday
 
 ### Heron Pot: {{ DATE=2018-04-15; CAVE=Heron Pot; }}
+
+Almost as soon as I got into Heron I encountered another caver coming out. He'd done the lower entrance with a cast of thousands and said it wasn't very wet. I've wanted to do the lower entrance [since 2016](/rcc/caving/articles/yorkshire-2015-12-29.html) so I stashed this information away despite suspecting I wouldn't get my chance today.
+
+The lower pitches had been rigged with ladders and there was a rope going up to the high level traverse as well as the in-situ rope. Jack started rigging but unfortunately the cast of thousands started popping out of the walls behind us wanting to de-rig their gear.
+
+
+Cecilia: Where are you guys from?
+Caver: Craven.
+Cecilia: Where?
+CPC Caver: Craven.
+Cecilia: I don't know where that is.
+Me: The Craven Pothole Club. It's in... I think you said you've been to Hunt Pot, right? Or Sell Gill? The village nearest those is Horton in Ribblesdale. That's where the Craven is based.
+CPC Caver: Some would say it's the best club.
+Me (grimacing at the rock): Some would say...
+
+
+I sent Una up to the high level traverse and was blocked from following by CPC bodies filling the passage. Eventually they'd de-rigged the lower pitches, Jack could get back to rigging, and I could ascend. The chief CPC de-rigger asked me to undo their rope and pass it down. No such luck, they'd rigged the whole traverse. Perturbed, the de-rigger asked if there was another CPC member in the roof with me de-rigging their rope. I duly checked every tiny crevice for this dossing CPC member but obviously no. An actual CPC person was going to have to de-rig the CPC rope. Given Una was ahead of me on the traverse though I washed my hands of it and went to supervise her on the final section of the traverse and at the pitch head.
+
+When I reached the bottom I promptly set off downstream with a vague "you don't have to follow me, I'm just going to have a look and fill in time while the others come down" but everyone did. In the end due to time Arun suggested myself, Jack and Una go out of the lower entrance while he and Alex de-rigged. I would get my chance to do the through-trip after all!
+
+There's no route-finding to it: just follow the stream. The passage slowly lowers to stooping and then crawling height. Glimpsing daylight I briefly looked around for a way out that didn't involve getting more wet. No chance. Embrace it! With three splashy sideways wriggles all three of us were out.
+
+It was not only great fun to cave with IC3 again, but good for my self-esteem as well. Not good for my voice though: if you have a frog in your throat all week and then go caving, you might find after two days of yelling down pitches you'll have lost your voice and be unable to answer the phone properly at work on Monday.
+
+Not having to answer the phone isn't such a terrible thing, mind.
+
+#### Fiona
 
 ### Swinsto Pull Through: {{ DATE=2018-04-15; CAVE=Swinsto Hole > Valley Entrance; }}
 
