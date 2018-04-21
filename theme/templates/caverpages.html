@@ -70,6 +70,22 @@
         </table>
       </div>
       {% endif %}
+
+      {% if cocavers is defined and cocavers is not none %}
+      <h3>Caved With</h3>
+      <div class="table-container">
+        <table class="sortable widetable">
+          <tr>
+            <th>Name</th>
+            <th>Trips</th>
+          </tr>
+      {% for caver in cocavers[:10] %}
+        <tr>
+          <td>{{ caver[0] }}</td>
+          <td>{{ caver[1] }}</td>
+        </tr>
+      {% endfor %}
+      {% endif %}
   </div>
 </div>
 

@@ -3,6 +3,7 @@ import os
 import re
 import copy
 import time
+from datetime import datetime
 
 from olm.source import Source
 from olm.writer import Writer
@@ -32,6 +33,7 @@ class Caver(Source):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
         self.caver_articles = []
+        self.cocavers = []
         self.authored = None
 
     def write_file(self, context=None):
@@ -43,12 +45,13 @@ class Caver(Source):
             metadata=self.metadata,
             caver_articles=sorted(self.caver_articles, key=lambda x: x.date, reverse=True),
             personname=self.basename,
-            authored=self.authored)
+            authored=self.authored,
+            cocavers=self.cocavers)
         return not self.same_as_cache
 
 def parse_metadata(metadata):
     metadata = [metadata] if not isinstance(metadata, list) else metadata
-    c = re.compile(r"""\s*DATE=\s*(\d\d\d\d-\d\d-\d\d)\s*;\s*CAVE=\s*([\s\w\D][^;]*)\s*;\s*PEOPLE=\s*([\s\w\D][^;]*);*[\n\t\r]*""")
+    c = re.compile(r"""\s*DATE=\s*(\d\d\d\d-\d\d-\d\d)\s*;\s*CAVE=\s*([\s\w\D][^;]*)\s*;\s*PEOPLE=\s*([\s\w\D][^;]*)""")
     people = []
     caves = []
     for entry in metadata:
@@ -264,6 +267,36 @@ def generate_person_pages(context):
             initialised_pages[key] = source
         else:
             initialised_pages[key].articles.extend(dictionary[key])
+
+    
+    def get_people(cavepeep):
+        c = re.compile(r"""DATE=\s*(\d\d\d\d-\d\d-\d\d)\s*;\s*CAVE=\s*([\s\w\D][^;]*)\s*;\s*PEOPLE=\s*([\s\w\D][^;]*);*[\n\t\r]*""")
+        # Create key/value relationship between trip identifier (Date + Cave) and list of cavers
+        item_date = None
+        item_caves = None
+        item_people = None
+        m = c.match(cavepeep)
+
+        item_people=m.group(3).split(',')
+
+        item_people=item_people if type(item_people) is list else [item_people]
+        item_people=[x.strip() for x in item_people]
+        return item_people
+    
+    for page_name, page_data in initialised_pages.items():
+        cocavers = {}
+        for article in set([a.article for a in page_data.articles]):
+            trips = article.metadata['cavepeeps'] if type(article.metadata['cavepeeps']) is list else [article.metadata['cavepeeps']]
+            for trip in trips:
+                people = get_people(trip)
+                if page_name in people:
+                    for person in people:                    
+                        if person in cocavers:
+                            cocavers[person] = cocavers[person] + 1
+                        else:
+                            cocavers[person] = 1
+        del cocavers[page_name]
+        page_data.cocavers = sorted([(person, cocavers[person]) for person in cocavers.keys()], key=lambda tup: tup[1], reverse=True)
     
     # Work out if we need to update this file
     changes = context['cache_change_types']
