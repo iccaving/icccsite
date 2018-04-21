@@ -8,7 +8,7 @@ SETTINGS = {
     'OUTPUT_JS_FOLDER': os.path.join('{{ OUTPUT_FOLDER }}', 'theme', 'js'),
     'ARTICLE_TYPES': ['trip', 'tour'],
     'INDEX_TYPES': ['index', 'stickyindex'],
-    'PLUGINS': ['inlinephotos', 'acyear', 'cavepeeps', 'photoarchive', 'metainserter', 'oldurl', 'wiki', 'strikethrough'],
+    'PLUGINS': ['inlinephotos', 'acyear', 'cavepeeps', 'indexcachetype', 'photoarchive', 'metainserter', 'oldurl', 'wiki', 'strikethrough'],
     'NO_SCAN': ['wiki','caves','cavers'],
     'PHOTO_LOCATION': 'https://union.ic.ac.uk/rcc/caving/photo_archive/',
     'ASSET_LOCATION': 'https://union.ic.ac.uk/rcc/caving/assets/',
@@ -22,12 +22,20 @@ SETTINGS = {
             'alt': 'In the bivi'
         }
     },
-    "ARTICLE_WRITE_TRIGGERS": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
-    "ARTICLE_META_WRITE_TRIGGERS": ['title', 'location', 'date', 'status', 'summary'],
-    "PAGE_WRITE_TRIGGERS": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
-    "PAGE_META_WRITE_TRIGGERS": ['title', 'location', 'date', 'status'],
-    "INDEX_WRITE_TRIGGERS": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE", "STICKYINDEX.CONTENT_CHANGE", "STICKYINDEX.NEW_FILE", "STICKYINDEX.REMOVED_FILE"],
-    "INDEX_META_WRITE_TRIGGERS": ["title", "date", "location", "thumbr", "thumbl", "summary", "status"],
+    "WRITE_TRIGGERS": {
+        "ARTICLE": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
+        "PAGE":  ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"],
+        "INDEX": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE", "INDEX_ARTICLE.CONTENT_CHANGE", "INDEX_ARTICLE.NEW_FILE", "INDEX_ARTICLE.REMOVED_FILE"],
+        "INDEX_ARTICLE": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE", "INDEX_ARTICLE.CONTENT_CHANGE", "INDEX_ARTICLE.NEW_FILE", "INDEX_ARTICLE.REMOVED_FILE"],
+        "WIKI": ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"]
+    },
+    "META_WRITE_TRIGGERS": {
+        "ARTICLE": ['title', 'location', 'date', 'status', 'summary'],
+        "PAGE": ['title', 'location', 'date', 'status'],
+        "INDEX": ["title", "date", "location", "thumbr", "thumbl", "summary", "status"],
+        "INDEX_ARTICLE": ["title", "date", "location", "thumbr", "thumbl", "summary", "status"],
+        "WIKI": ['title', 'location', 'date', 'status', 'summary']
+    },
     "SUBSITES": {
         "newzealand": {
             'PLUGINS': ['inlinephotos', 'photoarchive', 'metainserter'],

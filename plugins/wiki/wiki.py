@@ -8,6 +8,8 @@ from olm.reader import Reader
 from olm.source import Source
 from olm.logger import get_logger
 from olm.writer import Writer
+from olm.helper import merge_dictionaries
+
 
 logger = get_logger('olm.plugins.wiki')
 
@@ -94,8 +96,23 @@ def generate_wiki_pages(sender, context):
 
     number_written = 0
     for page in wiki_list:  
-        same_as_cache = page[2].same_as_cache
-        if same_as_cache and context.caching_enabled:
+        changes                = context['cache_change_types']
+        changed_meta           = context['cache_changed_meta']
+        refresh_triggers       = []
+        refresh_meta_triggers  = []
+        if 'WIKI' in context['WRITE_TRIGGERS']:
+            refresh_triggers = context['WRITE_TRIGGERS']['WIKI']
+        if 'WIKI' in context['META_WRITE_TRIGGERS']:
+            refresh_meta_triggers = context['META_WRITE_TRIGGERS']['WIKI']
+
+        cached = page[2].same_as_cache
+        if any(i in changes for i in refresh_triggers):
+            cached = False
+        if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in changed_meta):
+            cached = False
+        if not context.caching_enabled:
+            cached = False
+        if cached:
             continue
         number_written = number_written + 1
         filename = os.path.join('wiki', page[1].replace('.md', '.html'))
