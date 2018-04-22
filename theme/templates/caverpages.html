@@ -81,7 +81,7 @@
           </tr>
       {% for caver in cocavers[:10] %}
         <tr>
-          <td>{{ caver[0] }}</td>
+          <td><a href="{{ SITEURL }}/cavers/{{ caver[0] }}.html">{{ caver[0] }}</a></td>
           <td>{{ caver[1] }}</td>
         </tr>
       {% endfor %}
