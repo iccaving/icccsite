@@ -24,7 +24,7 @@
       {{ content|safe }}
 
       <h2>Trips attended</h2>
-
+      <p>{{ personname }} has attended {{ caver_articles | length }} trips.</p>
       <p>
       <a id="showButton" onClick="document.querySelector('#activityChart').classList.toggle('nodisplay'); document.querySelector('#chartContainer').classList.toggle('nodisplay'); document.querySelector('#showButton').classList.toggle('nodisplay'); document.querySelector('#hideButton').classList.toggle('nodisplay'); return false;">Show Chart</a>
       <a id="hideButton" class="nodisplay" onClick="document.querySelector('#activityChart').classList.toggle('nodisplay'); document.querySelector('#chartContainer').classList.toggle('nodisplay'); document.querySelector('#showButton').classList.toggle('nodisplay'); document.querySelector('#hideButton').classList.toggle('nodisplay'); return false;">Hide Chart</a>
@@ -52,7 +52,8 @@
       </table>
 
       {% if authored is defined and authored is not none %}
-      <h3>Articles Written</h3>
+      <h2>Articles Written</h2>
+      <p>{{ personname }} has written {{ authored | length }} trip reports.</p>
       <div class="table-container">
         <table class="sortable widetable">
           <tr>
@@ -72,7 +73,8 @@
       {% endif %}
 
       {% if cocavers is defined and cocavers is not none %}
-      <h3>Caved With</h3>
+      <h2>{{ metadata['nickname'] and metadata['nickname'] or personname }}'s Top Cavers</h2>
+      <p>{{ personname }} has caved with {{ cocavers | length }} cavers.</p>
       <div class="table-container">
         <table class="sortable widetable">
           <tr>
