@@ -1,7 +1,7 @@
 Title: Yorkshire V
 Date: 2018-04-13
 Location: yorkshire
-Summary:
+Summary: A wild Kingsdale weekend consisting of a successful King trip and a soggy and unsuccessful Swinsto/Simpsons exchange on the Saturday, followed by an exciting never-before-contemplated pull-through/derig in Swinsto on Sunday and some excellent faff/rigging practice with ten Craven members in Heron on Sunday.
 Type: trip
 Photoarchive:
 Mainimg: DSC08081.jpg
