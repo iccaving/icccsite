@@ -13,7 +13,7 @@ Cavepeeps: DATE=2018-04-14; CAVE=King Pot; PEOPLE=Rhys Tyers, Alex Seaton, James
            DATE=2018-04-14; CAVE=Simpsons Pot; PEOPLE=Jack Hare, Arun Paul, Fiona Hartley;
            DATE=2018-04-15; CAVE=Heron Pot; PEOPLE=Jack Halliday, Rebecca Diss, Cecilia Kan, Arun Paul, Fiona Hartley, Alex Seaton;
            DATE=2018-04-15; CAVE=Swinsto Hole > Valley Entrance; PEOPLE=Rhys Tyers, Jack Hare, James Wilson, David Wilson;    
-Status: draft
+Status:
 
 {{ mainimg }}
 #####{{ allpeople }}
@@ -181,7 +181,7 @@ This meant the route I’d be rigging was already rigged so I had a nice guide o
 I climbed the in-situ rope up a bit of (I think) flowstone and rigged a 9m rope down. This wasn’t long enough and so the others just came up the in-situ rope as well. I later found that we were actually supposed to have rigged the ascent with the same rope as the traverse but no matter. Rigging the traverse was awkward and scary at first but I soon got into it and managed to rig without any direct help from Arun. There was a fun bit where I spent a long time wedged in an awful position, definitely killing my knees, before realising there was a nice ledge below I could’ve been standing on. A while spent doing the almost-splits across a large hole before descending and I was at the top of the main pitch. I rigged the Y-hang with a fig-8 and alpine because who knows how to tie a bowline-on-a-bight anyway?
 
 Descending the pitch was fun and I didn’t fall to my death or hit the stopper knot so I think it was a general success. Arun later let me know I should have put more slack in the rope before the Y hang to allow for an easier time hard locking the descender – good to know for the future.
-It was ~14:15 when I got to the bottom and I spent a good while singing and getting only slightly chilly waiting for Arun, who was helping Una with SRT, and the other humans. I eventually heard what I thought was a Mr Jack but actually turned out to be DW, who had taken over rigging for the last pitch for unknown reasons. It appeared that the Craven and their dastardly ladders had made rigging practice for Mr Jack rather a lot harder than necessary. 
+It was ~14:15 when I got to the bottom and I spent a good while singing and getting only slightly chilly waiting for Arun, who was helping Una with SRT, and the other humans. I eventually heard what I thought was a Mr Jack but actually turned out to be DW, who had taken over rigging for the last pitch for unknown reasons. It appeared that the Craven and their dastardly ladders had made rigging practice for Mr Jack rather a lot harder than necessary.
 Some humans left the cave via the lower, crawly wet route. DW and I went up the High and traditional routes respectively and Arun and I’m assuming Alex derigged. All in all a good trip and weekend generally.
 
 #### Diss
