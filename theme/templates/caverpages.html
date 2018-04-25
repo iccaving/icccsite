@@ -24,7 +24,7 @@
       {{ content|safe }}
 
       <h2>Trips attended</h2>
-      <p>{{ personname }} has attended {{ caver_articles | length }} trips.</p>
+      <p>{{ personname }} has attended {{ number }} trips.</p>
       <p>
       <a id="showButton" onClick="document.querySelector('#activityChart').classList.toggle('nodisplay'); document.querySelector('#chartContainer').classList.toggle('nodisplay'); document.querySelector('#showButton').classList.toggle('nodisplay'); document.querySelector('#hideButton').classList.toggle('nodisplay'); return false;">Show Chart</a>
       <a id="hideButton" class="nodisplay" onClick="document.querySelector('#activityChart').classList.toggle('nodisplay'); document.querySelector('#chartContainer').classList.toggle('nodisplay'); document.querySelector('#showButton').classList.toggle('nodisplay'); document.querySelector('#hideButton').classList.toggle('nodisplay'); return false;">Hide Chart</a>
@@ -40,14 +40,23 @@
           <th>Date</th>
         </tr>
         {% for cave, article, date in caver_articles %}
-        {% set cavelist = cave.split('>')[1:] %}
-        {% set cave = cave.split('>')[0] %}
-        <tr>
-          <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-          </td>
-          <td><a href="{{ SITEURL }}/caves/{{ cave|e|trim }}.html">{{ cave }}</a>{% for extracave in cavelist %} > <a href="{{ SITEURL }}/caves/{{ extracave|e|trim }}.html">{{ extracave }}</a>{% endfor %}</td>
-          <td>{{ date.strftime('%d-%m-%Y') }}</td>
-        </tr>
+        {% if cave is none %}
+          <tr>
+            <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+            </td>
+            <td>No cave</td>
+            <td>{{ date.strftime('%d-%m-%Y') }}</td>
+          </tr>
+        {% else %}
+          {% set cavelist = cave.split('>')[1:] %}
+          {% set cave = cave.split('>')[0] %}
+          <tr>
+            <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+            </td>
+            <td><a href="{{ SITEURL }}/caves/{{ cave|e|trim }}.html">{{ cave }}</a>{% for extracave in cavelist %} > <a href="{{ SITEURL }}/caves/{{ extracave|e|trim }}.html">{{ extracave }}</a>{% endfor %}</td>
+            <td>{{ date.strftime('%d-%m-%Y') }}</td>
+          </tr>
+        {% endif %}
       {% endfor %}
       </table>
 

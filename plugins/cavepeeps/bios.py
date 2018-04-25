@@ -35,6 +35,7 @@ class Caver(Source):
         self.caver_articles = []
         self.cocavers = []
         self.authored = None
+        self.number = 0
 
     def write_file(self, context=None):
         if self.context.caching_enabled and self.same_as_cache:
@@ -46,7 +47,8 @@ class Caver(Source):
             caver_articles=sorted(self.caver_articles, key=lambda x: x.date, reverse=True),
             personname=self.basename,
             authored=self.authored,
-            cocavers=self.cocavers)
+            cocavers=self.cocavers,
+            number=self.number)
         return not self.same_as_cache
 
 def parse_metadata(metadata):
@@ -134,7 +136,7 @@ def generate_cave_pages(context):
 
     # Split the through trips into individual caves.
     # Make unique list (set) of cave names and
-    for trip in caves:
+    for trip in [ c for c in caves if c is not None ]:
         for cave in trip.split('>'):
             create_or_add(caves_dict, cave.strip(), caves[trip])
 
@@ -276,7 +278,8 @@ def generate_person_pages(context):
         item_caves = None
         item_people = None
         m = c.match(cavepeep)
-
+        if not m:
+            return []
         item_people=m.group(3).split(',')
 
         item_people=item_people if type(item_people) is list else [item_people]
@@ -324,6 +327,7 @@ def generate_person_pages(context):
     number_written = 0
     for page_name, page_data in initialised_pages.items():
         page_data.caver_articles = page_data.articles
+        page_data.number = len([ a for a in page_data.articles if a.cave is not None ])
         if context.caching_enabled:
             if page_name in changed_people:
                 page_data.same_as_cache = False
@@ -356,7 +360,7 @@ def generate_person_pages(context):
     rows = []
     for page_name in pages.keys():
         name = page_name
-        number = len(pages[page_name].articles)
+        number = len([ a for a in pages[page_name].articles if a.cave is not None ])
         recentdate = max([article.date for article in pages[page_name].articles])
         meta = content_dictionary[page_name].metadata if page_name in content_dictionary.keys() else None
         rows.append(row(name, number, recentdate, meta))

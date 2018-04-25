@@ -31,17 +31,23 @@ def parse_metadata(metadata, article):
     # on a date.
 
     c = re.compile(r"""\s*DATE=\s*(\d\d\d\d-\d\d-\d\d)\s*;\s*CAVE=\s*([\s\w\D][^;]*)\s*;\s*PEOPLE=\s*([\s\w\D][^;]*);*[\n\t\r]*""")
+    c2 = re.compile(r"""\s*NOCAVE=\s*([\s\w\D][^;]*);*[\n\t\r]*""")
     for entry in article_metadata:
             # Create key/value relationship between trip identifier (Date + Cave) and list of cavers
             item_date = None
             item_caves = None
             item_people = None
             m = c.match(entry)
-            try:
+            m2 = c2.match(entry)
+            if m:
                 item_date=datetime.strptime(m.group(1), '%Y-%m-%d')
                 item_caves=m.group(2)
                 item_people=m.group(3).split(',')
-            except AttributeError:
+            elif m2:
+                item_date=article.date
+                item_caves=None
+                item_people=m2.group(1).split(',')
+            else:
                 logger.error(
                             "\nCavepeep metdata error in article: " + article.title + " " + str(article.date.strftime('%Y-%m-%d')) +
                     "\nLine: " + entry +
@@ -52,11 +58,12 @@ def parse_metadata(metadata, article):
             item_people=item_people if type(item_people) is list else [item_people]
             item_people=[x.strip() for x in item_people]
 
-            n = 1
-            insert_key = "DATE=" + item_date.strftime('%Y-%m-%d') +"; CAVE=" + item_caves + ";"
-            while (insert_key + str(n)) in trips_for_insert:
-                n = n + 1
-            trips_for_insert[insert_key + str(n)] = item_people
+            if item_caves is not None:
+                n = 1
+                insert_key = "DATE=" + item_date.strftime('%Y-%m-%d') +"; CAVE=" + item_caves + ";"
+                while (insert_key + str(n)) in trips_for_insert:
+                    n = n + 1
+                trips_for_insert[insert_key + str(n)] = item_people
 
             for person in item_people:
                 cavepeep.append(row(item_date, item_caves, person, article))
@@ -139,7 +146,7 @@ def cavepeep_linker_final(sender, context, articles):
         cavepeep_person.setdefault(item.person, []).append(
             row(item.cave, item.article, item.date))
 
-    cavepeep.sort(key=lambda tup: tup.cave)  # Sort the list by cave name
+    cavepeep.sort(key=lambda tup: (tup.cave is None, tup.cave))  # Sort the list by cave name
     flag=False
     cavepeep_cave=OrderedDict()
     # Add the entries to an ordered dictionary so that for each cave (the key) there is a list

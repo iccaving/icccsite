@@ -42,6 +42,7 @@ Authors: The authors of the article, seperated by commas e.g. "Stores Gnomes, St
 Cavepeeps: A list of the trips that happened. Normal trips and through trips supported. Format as below:
 DATE=YYYY-MM-DD; CAVE=Cave 1; PEOPLE=Person 1, Person 2, Person 3, Person 4;
 DATE=YYYY-MM-DD; CAVE=Cave 2 > Cave 3; PEOPLE=Person 1, Person 2, Person 3, Person 4;
+NOCAVE=Person 5, Person 6;
 Each entry should be on a new line and lines after the first 1 should be indented by more than 4 spaces (essetially match up the start of the entries).
 
 Oldurl: If this is an old trip report being converted copy the caving url from /rcc/ e.g /rcc/caving/place/YYYY-MM-DD-place.php and write it here.
