@@ -54,6 +54,7 @@ class Caver(Source):
 def parse_metadata(metadata):
     metadata = [metadata] if not isinstance(metadata, list) else metadata
     c = re.compile(r"""\s*DATE=\s*(\d\d\d\d-\d\d-\d\d)\s*;\s*CAVE=\s*([\s\w\D][^;]*)\s*;\s*PEOPLE=\s*([\s\w\D][^;]*)""")
+    c2 = re.compile(r"""\s*NOCAVE=\s*([\s\w\D][^;]*);*[\n\t\r]*""")
     people = []
     caves = []
     for entry in metadata:
@@ -61,15 +62,20 @@ def parse_metadata(metadata):
             item_caves = None
             item_people = None
             m = c.match(entry)
-            try:
+            m2 = c2.match(entry)
+            if m:
                 item_caves=m.group(2)
                 item_people=m.group(3).split(',')
-            except AttributeError as e:
+            elif m2:
+                item_caves=None
+                item_people=m2.group(1).split(',')
+            else:
                 logger.error("Error parsing metadata for caching")
                 logger.error(e)
                 continue
             people.extend([ p.strip() for p in item_people ])
-            caves.extend([ c.strip() for c in item_caves.split('>')])
+            if item_caves is not None:
+                caves.extend([ c.strip() for c in item_caves.split('>')])
     return (people, caves)
 
 def create_or_add(dictionary, key_to_add, data_to_add):
