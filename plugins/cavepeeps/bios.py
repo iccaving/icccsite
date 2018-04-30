@@ -328,6 +328,17 @@ def generate_person_pages(context):
                 changed_people.extend(people)
                 people, caves = parse_metadata(modified['cavepeeps'][1])
                 changed_people.extend(people)
+            if 'authors' in added:
+                people = [ p.strip() for p in added['authors'].split(',') ]
+                changed_people.extend(people)
+            if 'authors' in removed:
+                people = [ p.strip() for p in removed['authors'].split(',') ]
+                changed_people.extend(people)
+            if 'authors' in modified:
+                people = [ p.strip() for p in modified['authors'][0].split(',') ]
+                changed_people.extend(people)                
+                people = [ p.strip() for p in modified['authors'][1].split(',') ]
+                changed_people.extend(people)
 
     logger.debug("Writing %s caver pages", len(initialised_pages))
     number_written = 0
