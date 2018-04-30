@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg:  kate smith-canon s95-IMG_0433.JPG
 Thumbl: 2012-02-19-JarvistFrost-OlympusXA-RolleiRetro100-Rodinal1p50-BullpotFarm06--thumb.jpg
 Thumbr: kate%20smith-canon%20s95-IMG_0466--thumb.jpg
-Authors: Clare Tan, Rhys Tyers, Oliver Myerscough
+Authors: Clare Tan, Rhys Tyers, Oliver Myerscough, Fiona Hartley
 Cavepeeps: DATE=2012-02-18; CAVE=Peterson Pot > Mistral Hole; PEOPLE=Clare Tan, Rhys Tyers, Oliver Myerscough;
            DATE=2012-02-18; CAVE=County Pot; PEOPLE=Jarvist Frost, Kate Smith, Jana Carga, Sam Page, Saber King, Fiona Hartley, Sally Dacie, Florian Steiner, Jan Evetts, Alex Herriott, Clement Stal, Mehdi Ben Slama;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2012-02-17.php
@@ -82,6 +82,20 @@ I'm glad to say I even managed to enjoy the climb down, which is quite a relief 
 Despite how unpleasant I will have made this trip sound, if I have any skill as a writer, it was not a bad one, quite the contrary. I may even be convinced to return, given time and more training, now that I know what to expect. Perhaps that makes me foolish, but then I should definitely go, for I have not learnt my lesson.
 
 ####  Oliver
+
+###  County Pot: Jana, Alex, Mehdi, Saber, Sam, Fiona
+
+A pleasant jaunt up to Yorkshire was had. Bull Pot Farm is lovely and warm, and super close to the Easegill entrances, so that was extra nice.
+
+We clambered down the entrance climb into County Pot and followed the passage, a little tight in some places, down to the first pitch where Saber took the first of many opportunities to attempt to nap. Onwards we began to hear the roar of rushing water. We reached the climb down into a large streamway and turned up to the right. A waterfall greeted us where apparently it is normally dry. Another group of cavers emerged from the depths beyond the waterfall: "Bit wet today." We scampered through the waterfall and followed the cascades down to the Spout, just before which the Manchester Bypass begins.
+
+After a bit of thought and some scrambling around the entrance to the Bypass and some examination of the roaring Spout, we agreed this was the only reasonable way on. The Bypass requires some crawling to get from one bit to the next, so we all squeezed along in file. Everything took a fair bit of time with six of us altogether. A climb with in-situ rope and an iron ladder are encountered along the way. We reached the beginning of the tight sections. It was not very long until I found myself performing an impersonation of a whale beached sideways in the rift, complete with an amusing team of helpers attaching things to my harness and shouting, "Wiggle!" a lot.
+
+Having escaped the cold embrace of the rock, popping out of the rift like a baby salmon finally breaking out of its egg, we decided to head out as it seemed likely we would never make it out of Easegill before our callout time even if everything else proceeded as normal. Back the way we came: over the top of the tight squeezy rift instead of through it, down the iron ladder, through the crawly bits, past the Spout, up the rushing stream, through the waterfall, lots of flopping over the brim of the climb out of the streamway, up the pitch, and up into a strong wind and a brisk walk back to Bull Pot Farm where Clare, Rhys and Oli already awaited.
+
+Stories were told in the interim while Jana made dinner. Hijinks with chair squeezes and beer followed her amazing stew and the cheesy-potato heart-attack food she'd made (so GOOD) (Ed: Frika). Amazingly sweet treacle-oats came along afterwards, one vessel of many with which one can shovel extra-thick double cream down the gullet. The remainder of the evening saw more fun with chair squeezes, table traversing, and a run-on sentence game that had everyone playing in hysterics. At bedtime though there was far too much snoring for my taste!
+
+####  Fiona
 
 ##  Sunday
 
