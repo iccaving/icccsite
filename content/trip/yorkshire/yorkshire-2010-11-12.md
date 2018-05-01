@@ -12,9 +12,9 @@ Oldurl: /rcc/caving/yorkshire/yorkshire-2010-11-12.php
 Cavepeeps: DATE=2010-11-13; CAVE=Stream Passage Pot > Bar Pot; PEOPLE=Tim Osborne, Thomas McCarthy-Ward, Nathan Daniels, Martin Anderson, Ari Whitby;
            DATE=2010-11-13;CAVE=Bar Pot > Marilyn;PEOPLE=Alex Herriott, William French, Kate Smith, Richard Evans;
            DATE=2010-11-13;CAVE=Marilyn > Disappointment Pot;PEOPLE=Jarvist Frost, Niko Kral, Eric Seidman, Clare Tan;
-           DATE=2010-11-13;CAVE=Bull Pot;PEOPLE=Jana Carga, Dave Wilson, Kat Lloyd, Tony Seddon, Xiao Ting, Nia John, Rong Kai;
-           DATE=2010-11-13;CAVE=Jingling Pot;PEOPLE=Jana Carga, Dave Wilson, Kat Lloyd, Tony Seddon, Xiao Ting, Nia John, Rong Kai;
-           DATE=2010-11-14;CAVE=Sell Gill;PEOPLE=Dave Wilson, Kat Lloyd, Nia John, Xiao Ting, Rong Kai;
+           DATE=2010-11-13;CAVE=Bull Pot;PEOPLE=Jana Carga, Dave Wilson, Kat Hawkins, Tony Seddon, Xiao Ting, Nia John, Rong Kai;
+           DATE=2010-11-13;CAVE=Jingling Pot;PEOPLE=Jana Carga, Dave Wilson, Kat Hawkins, Tony Seddon, Xiao Ting, Nia John, Rong Kai;
+           DATE=2010-11-14;CAVE=Sell Gill;PEOPLE=Dave Wilson, Kat Hawkins, Nia John, Xiao Ting, Rong Kai;
            DATE=2010-11-14;CAVE=Jingling Pot;PEOPLE=Jana Carga, Tim Osborne, William French, Nathan Daniels, Martin Anderson;
            DATE=2010-11-14;CAVE=Valley Entrance;PEOPLE=Thomas McCarthy-Ward, Kate Smith;
 Status:
