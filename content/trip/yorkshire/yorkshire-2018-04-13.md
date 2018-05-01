@@ -11,7 +11,7 @@ Authors: Jack Hare, Rhys Tyers, Rebecca Diss, Fiona Hartley
 Cavepeeps: DATE=2018-04-14; CAVE=King Pot; PEOPLE=Rhys Tyers, Alex Seaton, James Wilson, David Wilson;
            DATE=2018-04-14; CAVE=Swinsto Hole; PEOPLE=James Perry, Jack Halliday, Rebecca Diss, Cecilia Kan;
            DATE=2018-04-14; CAVE=Simpsons Pot; PEOPLE=Jack Hare, Arun Paul, Fiona Hartley;
-           DATE=2018-04-15; CAVE=Heron Pot; PEOPLE=Jack Halliday, Rebecca Diss, Cecilia Kan, Arun Paul, Fiona Hartley, Alex Seaton, Una Barker;
+           DATE=2018-04-15; CAVE=Heron Pot; PEOPLE=Jack Halliday, Rebecca Diss, Cecilia Kan, Arun Paul, Fiona Hartley, Alex Seaton, Una Barker, Dave Wilson;
            DATE=2018-04-15; CAVE=Swinsto Hole > Valley Entrance; PEOPLE=Rhys Tyers, Jack Hare, James Wilson, David Wilson;
            NOCAVE=Dave Kirkpatrick;
 Status:
