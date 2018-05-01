@@ -8,7 +8,7 @@ Mainimg: IMGP0497.JPG
 Thumbl: IMGP0503--thumb.jpg
 Thumbr: IMGP0502--thumb.jpg
 Authors: Sandeep Mavadia
-Cavepeeps: DATE=2006-10-13;CAVE=Giant's Hole; PEOPLE=Sandeep Mavadia, Lyndon Legate, Thara Supasit;
+Cavepeeps: DATE=2006-10-13;CAVE=Giant's Hole; PEOPLE=Sandeep Mavadia, Lyndon Leggate, Thara Supasit;
 Oldurl: /rcc/caving/derbyshire/derbyshire-2006-10-13.php
 Status:
 
