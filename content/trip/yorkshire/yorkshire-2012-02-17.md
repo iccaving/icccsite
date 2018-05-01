@@ -9,7 +9,7 @@ Thumbl: 2012-02-19-JarvistFrost-OlympusXA-RolleiRetro100-Rodinal1p50-BullpotFarm
 Thumbr: kate%20smith-canon%20s95-IMG_0466--thumb.jpg
 Authors: Clare Tan, Rhys Tyers, Oliver Myerscough, Fiona Hartley
 Cavepeeps: DATE=2012-02-18; CAVE=Peterson Pot > Mistral Hole; PEOPLE=Clare Tan, Rhys Tyers, Oliver Myerscough;
-           DATE=2012-02-18; CAVE=County Pot; PEOPLE=Jarvist Frost, Kate Smith, Jana Carga, Sam Page, Saber King, Fiona Hartley, Sally Dacie, Florian Steiner, Jan Evetts, Alex Herriott, Clement Stahl, Mehdi Ben Slama;
+           DATE=2012-02-18; CAVE=County Pot; PEOPLE=Jarvist Frost, Kate Smith, Jana Carga, Sam Page, Saber King, Fiona Hartley, Sally Dacie, Florian Strub, Jan Evetts, Alex Herriott, Clement Stahl, Mehdi Ben Slama;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2012-02-17.php
 Status:
 
