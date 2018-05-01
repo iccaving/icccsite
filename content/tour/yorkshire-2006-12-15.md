@@ -9,16 +9,16 @@ Thumbl: 2006-yorkshire_winter-jana_carga-IMG_7757--thumb.jpg
 Thumbr: jarvist_frost-team_lost_johns--thumb.jpg
 Authors: Jarvist Frost, Jana Carga, Sandeep Mavadia, Ben Banfield, Skippy, Thara Supasiti, Tetley
 Cavepeeps: DATE=2006-12-16; CAVE=County Pot; PEOPLE=Jarvist Frost, Jana Carga, Jutta Schnabel, Rahel;
-           DATE=2006-12-16; CAVE=Lancaster Hole; PEOPLE=Anne, Marc Labuhn, Thara Supasiti, Sandeep Mavadia;
+           DATE=2006-12-16; CAVE=Lancaster Hole; PEOPLE=Anne VDP, Marc Labuhn, Thara Supasiti, Sandeep Mavadia;
            DATE=2006-12-17; CAVE=Lancaster Hole; PEOPLE=Sandeep Mavadia, Ben Banfield, Jana Carga, Thara Supasiti;
            DATE=2006-12-17; CAVE=Top Sink; PEOPLE=Jarvist Frost, Marc Labuhn, Jutta Schnabel;
            DATE=2006-12-18; CAVE=Rowten Pot; PEOPLE=Jarvist Frost, Jana Carga, Thara Supasiti;
            DATE=2006-12-18; CAVE=Aquamole Pot; PEOPLE=Sandeep Mavadia, Jutta Schnabel, Rahel;
-           DATE=2006-12-18; CAVE=Rumbling Hole; PEOPLE=Anne, Ben Banfield, James Kirkpatrick;
+           DATE=2006-12-18; CAVE=Rumbling Hole; PEOPLE=Anne VDP, Ben Banfield, James Kirkpatrick;
            DATE=2006-12-19; CAVE=Yordas Pot; PEOPLE=Jarvist Frost, Jana Carga, Thara Supasiti, Ben Banfield, Rahel;
            DATE=2006-12-19; CAVE=Valley Entrance; PEOPLE=Jarvist Frost, Jana Carga, Thara Supasiti, Ben Banfield, Rahel;
-           DATE=2006-12-19; CAVE=Rowten Pot; PEOPLE=Dave Wilson, Anne, Sandeep Mavadia, Jutta Schnabel;
-           DATE=2006-12-21; CAVE=Lost Johns' Cave; PEOPLE=Jarvist Frost, Jutta Schnabel, Rahel, Ben Banfield, Sandeep Mavadia, Dave Wilson, Thara Supasiti, Anne;
+           DATE=2006-12-19; CAVE=Rowten Pot; PEOPLE=Dave Wilson, Anne VDP, Sandeep Mavadia, Jutta Schnabel;
+           DATE=2006-12-21; CAVE=Lost Johns' Cave; PEOPLE=Jarvist Frost, Jutta Schnabel, Rahel, Ben Banfield, Sandeep Mavadia, Dave Wilson, Thara Supasiti, Anne VDP;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2006-winter-tour.php
 Status:
 
