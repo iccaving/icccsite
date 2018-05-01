@@ -70,7 +70,7 @@ As it turned out the others had been having an interesting time anyway so weren'
 
 ### Simpsons Pot: {{ DATE=2018-04-14; CAVE=Simpsons Pot; }}
 
-I'm pleased to report that this weekend I banished some demons lurking from [Y0 2015](/rcc/caving/articles/yorkshire-2014-12-30.html), a trip which I can't remember anything about other than pleasant hands-and-knees crawling in water in Swinsto and the aforementioned demons living exclusively in the upper regions of Simpson Pot. The shuffle, the duck, the pit; the Five Steps, the entrance crawl—oh god, the entrance crawl...
+I'm pleased to report that this weekend I banished some demons lurking from [Y0 2015](https://union.ic.ac.uk/rcc/caving/articles/yorkshire-2015-09-18.html), a trip which I can't remember anything about other than pleasant hands-and-knees crawling in water in Swinsto and the aforementioned demons living exclusively in the upper regions of Simpson Pot. The shuffle, the duck, the pit; the Five Steps, the entrance crawl—oh god, the entrance crawl...
 
 "So Fiona, are we going to repeat our trip from last time?" asked Jack.
 
