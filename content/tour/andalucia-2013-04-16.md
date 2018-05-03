@@ -8,6 +8,9 @@ Mainimg: DSC_0809.jpg
 Thumbl: DSC_0468--thumb.jpg
 Thumbr: DSC_0806--thumb.jpg
 Authors: Rhys Tyers
+Cavepeeps: DATE=2013-04-18; CAVE=Rio Verde; PEOPLE=Rhys Tyers, Oliver Myerscough, Sam Page, Dave Kirkpatrick, Fiona Hartley;
+     DATE=2013-04-20; CAVE=Sima Cacao; PEOPLE=Rhys Tyers, Oliver Myerscough, Sam Page, Dave Kirkpatrick, Fiona Hartley;
+     DATE=2013-04-21; CAVE=Sima GESM; PEOPLE=Rhys Tyers, Oliver Myerscough, Sam Page, Dave Kirkpatrick, Fiona Hartley;
 Oldurl: /rcc/caving/andalucia/andalucia13.php
 Status:
 
