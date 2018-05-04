@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg:
 Thumbl:
 Thumbr:
-Authors: Jack Hare
+Authors: Jack Hare, Rebecca Diss, Dave Kirkpatrick
 Cavepeeps: DATE=2018-04-28; CAVE=Wretched Rabbit; PEOPLE=Jarvist Frost, Una Barker;
            DATE=2018-04-28; CAVE=Lancaster Hole; PEOPLE=Alex Seaton, Rebecca Diss, Georgia Kouti;
            DATE=2018-04-28; CAVE=Cow Pot; PEOPLE=Rhys Tyers, Arun Paul, Jack Halliday;
@@ -56,8 +56,36 @@ We got back to the hut at a reasonable time to find double J had also been to Bu
 
 ### Cow Pot: {{DATE=2018-04-28; CAVE=Cow Pot;}}
 ### Bull Pot of the Witches: A New Dave: {{DATE=2018-04-28; CAVE=Bull Pot of the Witches;}}
+
+I suppose that I ought to write a report for this or else have it forever lost to the annals of time.
+
+So, due to an unfortunate climbing incident some time ago - combined with a stubborn unwillingness to not go caving in Sardinia (strange from me, I know!) my ankle was properly buggered for this weekend. Nevertheless - I refused to go on two caving weekends in a row with no caving so on Friday I came up with a plan for a sneaky jaunt down BPotW while everyone else was out gallivanting in their 'walking passage'. Sod walking - if I don't leave the rope I don't need to use my ankle! _Dave 1 : Life 0._
+
+I was informed that it's handy to have a handline down the the Chimney entrance - particularly if you're having trouble with, oh I don't know, standing up. So I stuffed the 3 pitch ropes mostly into 1 tackle sack and strapped an arbitrary length handline rope to the outside. Then I hung around for a few hours waiting for the last stragglers to head off to Easegill before setting off on the arduous 200m trek to BPotW myself - on which I definitely did not twist my angle 3 times and shout expletives at no-one in particular.
+
+One entirely auspicious hike later I found myself at the handline bolt. I backed it up to a large nearby tree and strapped on my descender because why not? I carefully descended to the most dangerous looking section of the path at which point the rope ran out. Oh well, fat lot of good that was.
+
+The rest of the trip was fairly uneventful. I played around with getting my knots 'just so' and only left the rope at the top of a pitch once, which it was _totally_ safe to free climb back up. Didn't get wet, got a little bit muddy, down to the bottom in about 90 minutes followed by a quick snack. Solo caving is rather fantastic, you get to go at the Goldilocks pace. My ankle was no worse for wear and another hour later I was back on the surface.
+
+I had a quick pint in the sun before Jennifer & Dr. Jack appeared on the path chatting to some walkers. It seems that in their extreme competence they'd accidentally done Pippikin really fast and were hoping to catch me in BPotW. Alas I'd only left the incredibly useful handline in situ (and whatever various bits of rigging had been left in place by some divers). But hey ho, the rope is already picked out after all...
+
+###DKP
+
 ### Bull Pot of the Witches: The Witches Strike Back: {{DATE=2018-04-28; CAVE=Bull Pot of the Witches}}
 
+... so why not go back? Okay so I might be wearing my surface attire, but since when did that stop anyone? And my clothes were instructing me to Brave the Cave.
+
+We unpacked and repacked the rope into two tackle sacks this time with the plan for Dr. Jack to supervise Jennifer on her first rigging trip. I let them lead on into the top of the Chimney entrance before realising that I hadn't brought a light - so, sensibly, I just stumbled through the entrance puddle blindly towards the top of the pitch.
+
+Jennifer rigged the pitch competently whilst Jack and I discussed how I was _totally willing_ to drive the Tarts to the Ingleborough Cave trail tomorrow, but also sort of couldn't be arsed. (All of which discussion turned out to be completely irrelevant.)
+
+I poked my head down the pitch once the others had descended and wisely decided that it might be challenging without any SRT gear - but I was out of sight of daylight, so I claimed cave #2.
+
+Back at the hut I spent a few hours chopping veg and grating cheese and umming and ahhing about whether to start cooking which I ultimately decided not to do.
+
+Pretty chill night with the exception of some loud wood chopping using the farm's handy-dandy wood-chopping-thing.
+
+###DKP
 
 ## Sunday
 
@@ -73,5 +101,9 @@ Arun de-rigged and we were out in the daylight in what felt like no time. Una fo
 
 Good weekend! Bull Pot Farm is well situated but a bit odd. Nowhere quite beats the NPC. 
 ####Diss
+
+Oh good, someone already wrote today's BPotW trip - which I was of course on. I did scarper rather sooner than the others though, kindly offering to derig the Chimney route and then basking in sunshine for an hour or so.
+
+###DKP
 
 ### Aygill Caverns: {{DATE=2018-04-29; CAVE=Aygill Caverns;}}
