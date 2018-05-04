@@ -18,9 +18,6 @@ Cavepeeps: DATE=2018-04-28; CAVE=Wretched Rabbit; PEOPLE=Jarvist Frost, Una Bark
            DATE=2018-04-29; CAVE=Lancaster Hole; PEOPLE=Jack Hare, Rhys Tyers, Alex Seaton;
            DATE=2018-04-29; CAVE=Aygill Caverns; PEOPLE=Jarvist Frost, Jack Halliday, Georgia Kouti, Jennifer Ryder;
 
-
-
-
 Status: draft
 
 {{ mainimg }}
@@ -29,9 +26,20 @@ Status: draft
 ## Friday
 
 ## Saturday
+### Pippikin Pot: {{DATE=2018-04-28; CAVE=Pippikin Pot;}}
 
-### King Pot: {{ DATE=2018-04-14; CAVE=King Pot; }}
+I'd first done Pippikin [as a novice in 2014](https://union.ic.ac.uk/rcc/caving/articles/yorkshire-2014-03-21.html). I remember it being tight and challenging, especially the final rift to the stemple.
+#### Jack Hare
+
+### Wretched Rabbit: {{DATE=2018-04-28; CAVE=Wretched Rabbit;}}
+### Lancaster Hole: {{DATE=2018-04-28; CAVE=Lancaster Hole;}}
+### Cow Pot: {{DATE=2018-04-28; CAVE=Cow Pot;}}
+### Bull Pot of the Witches: A New Dave: {{DATE=2018-04-28; CAVE=Bull Pot of the Witches;}}
+### Bull Pot of the Witches: The Witches Strike Back: {{DATE=2018-04-28; CAVE=Bull Pot of the Witches}}
+
 
 ## Sunday
 
-### Heron Pot: {{ DATE=2018-04-15; CAVE=Heron Pot; }}
+### Cape Kennedy: {{DATE=2018-04-29; CAVE=Lancaster Hole;}}
+### Bull Pot of the Witches: Return of the Dave: {{DATE=2018-04-29; CAVE=Bull Pot of the Witches;}}
+### Aygill Caverns: {{DATE=2018-04-29; CAVE=Aygill Caverns;}}
