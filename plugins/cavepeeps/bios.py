@@ -34,6 +34,7 @@ class Caver(Source):
         super().__init__(*args, **kwargs)
         self.caver_articles = []
         self.cocavers = []
+        self.caves = []
         self.authored = None
         self.number = 0
 
@@ -48,6 +49,7 @@ class Caver(Source):
             personname=self.basename,
             authored=self.authored,
             cocavers=self.cocavers,
+            caves=self.caves,
             number=self.number)
         return not self.same_as_cache
 
@@ -307,6 +309,18 @@ def generate_person_pages(context):
         del cocavers[page_name]
         page_data.cocavers = sorted([(person, cocavers[person]) for person in cocavers.keys()], key=lambda tup: tup[1], reverse=True)
     
+        caves = {}
+        for trip in [a.cave for a in page_data.articles]:
+            if trip is None:
+                continue
+            for cave in [a.strip() for a in trip.split('>')]:
+                if cave in caves:
+                    caves[cave] = caves[cave] + 1
+                else:
+                    caves[cave] = 1
+        page_data.caves = sorted([(cave, caves[cave]) for cave in caves.keys()], key=lambda tup: tup[1], reverse=True)
+
+
     # Work out if we need to update this file
     changes = context['cache_change_types']
     meta_changes = context['cache_changed_meta']

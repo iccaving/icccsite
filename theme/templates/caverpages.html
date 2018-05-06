@@ -96,6 +96,24 @@
           <td>{{ caver[1] }}</td>
         </tr>
       {% endfor %}
+      </table></div>
+      {% endif %}
+
+      {% if caves is defined and caves is not none %}
+      <h2>{{ metadata['nickname'] and metadata['nickname'] or personname }}'s Top Caves</h2>
+      <div class="table-container">
+        <table class="sortable widetable">
+          <tr>
+            <th>Name</th>
+            <th>Trips</th>
+          </tr>
+      {% for cave in caves[:10] %}
+        <tr>
+          <td><a href="{{ SITEURL }}/caves/{{ cave[0] }}.html">{{ cave[0] }}</a></td>
+          <td>{{ cave[1] }}</td>
+        </tr>
+      {% endfor %}
+      </table></div>
       {% endif %}
   </div>
 </div>
