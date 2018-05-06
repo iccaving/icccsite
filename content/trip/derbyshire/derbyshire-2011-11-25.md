@@ -8,14 +8,15 @@ Mainimg: Rhys%20Tyers%20-101_4704.JPG
 Thumbl: Rhys%20Tyers%20-101_4711--thumb.jpg
 Thumbr: Nathan%20-380080_10150377186798199_568718198_8498662_937427604_n--thumb.jpg
 Authors: Fiona Hartley
-Cavepeeps: DATE=2011-11-26; CAVE=Giant's Hole; PEOPLE=Dan Greenwald, William French, Thomas McCarthy-Ward, Fiona Hartley, Kate Smith;
+Cavepeeps: DATE=2011-11-26; CAVE=Giant's Hole; PEOPLE=Dan Greenwald, William French, Thomas McCarthy-Ward, Fiona Hartley, Kate Smith, Sally Dacie, Jarvist Frost, Nathan Daniels, Saber King;
+     DATE=2011-11-27; CAVE=Peak Cavern; PEOPLE=Jarvist Frost, Sally Dacie, Jan Evetts, Rhys Tyers;
 Oldurl: /rcc/caving/derbyshire/derbyshire-2011-11-25.php
 Status:
 
 {{ mainimg }}
 {{ photolink }}
 
-#####Cavers x 20, {{ allpeople }}
+#####Cavers x 20, including Alex Herriott, Jana Carga, {{ allpeople }}
 
 ###  Friday
 
