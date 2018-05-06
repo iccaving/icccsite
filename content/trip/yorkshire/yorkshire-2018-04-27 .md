@@ -17,7 +17,6 @@ Cavepeeps: DATE=2018-04-28; CAVE=Wretched Rabbit; PEOPLE=Jarvist Frost, Una Bark
            DATE=2018-04-29; CAVE=Bull Pot of the Witches; PEOPLE=Dave Kirkpatrick, Una Barker, Rebecca Diss, Arun Paul;
            DATE=2018-04-29; CAVE=Lancaster Hole; PEOPLE=Jack Hare, Rhys Tyers, Alex Seaton;
            DATE=2018-04-29; CAVE=Aygill Caverns; PEOPLE=Jarvist Frost, Jack Halliday, Georgia Kouti, Jennifer Ryder;
-
 Status: draft
 
 {{ mainimg }}
