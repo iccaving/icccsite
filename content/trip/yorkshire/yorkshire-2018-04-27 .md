@@ -179,6 +179,7 @@ None of the rigging was scary which was nice and there was a fun swingy deviatio
 Arun de-rigged and we were out in the daylight in what felt like no time. Una found a newt, as one does, and we spent some time chilling at the bottom of the first pitch. I then ascended, deciding my short cows tail was far too short (I seemed to be struggling on ascending rebelays) so will need to adjust. Una was next and gave me a mild fright when she got to the top and just unclipped everything, sitting on the edge of the pitch. It was fine but gosh.
 
 Good weekend! Bull Pot Farm is well situated but a bit odd. Nowhere quite beats the NPC.
+
 ####Diss
 
 Oh good, someone already wrote today's BPotW trip - which I was of course on. I did scarper rather sooner than the others though, kindly offering to derig the Chimney route and then basking in sunshine for an hour or so.
