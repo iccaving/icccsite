@@ -1,5 +1,5 @@
 Country: United Kingdom
-Region: Mendips
+Region: Mendip
 Subregion: Burrington Combe
 System:
 Location: 51.32078, -2.74816
