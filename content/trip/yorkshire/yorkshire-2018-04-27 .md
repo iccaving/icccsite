@@ -113,7 +113,7 @@ We made our way down and marvelled at the 30cm high nubs of calcite scattered ac
 
 #### Rhys
 
-### Bull Pot of the Witches: A New Dave: {{DATE=2018-04-28; CAVE=Bull Pot of the Witches;}}
+### Bull Pot of the Witches: A New Dave: {{DATE=2018-04-28; CAVE=Bull Pot of the Witches;1;}}
 
 I suppose that I ought to write a report for this or else have it forever lost to the annals of time.
 
@@ -129,7 +129,7 @@ I had a quick pint in the sun before Jennifer & Dr. Jack appeared on the path ch
 
 ###DKP
 
-### Bull Pot of the Witches: The Witches Strike Back: {{DATE=2018-04-28; CAVE=Bull Pot of the Witches}}
+### Bull Pot of the Witches: The Witches Strike Back: {{DATE=2018-04-28; CAVE=Bull Pot of the Witches;2;}}
 
 ... so why not go back? Okay so I might be wearing my surface attire, but since when did that stop anyone? And my clothes were instructing me to Brave the Cave.
 
