@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg: RhysTyers-DSC07743.jpg
 Thumbl: RhysTyers-DSC07726-alt--thumb.jpg
 Thumbr: RhysTyers-DSC07766--thumb.jpg
-Authors:David Kirkpatrick, Rhys Tyers, Alex Seaton
+Authors:Dave Kirkpatrick, Rhys Tyers, Alex Seaton
 Cavepeeps: DATE=2018-02-03; CAVE=Little Hull Pot; PEOPLE=Dave Kirkpatrick, Rhys Tyers, Ben Honan, Jack Halliday; 
     DATE=2018-02-03; CAVE=Stream Passage Pot; PEOPLE=Dan Greenwald, Ho Yan Jin, Andy Jurd, Chris Bradley; 
     DATE=2018-02-03; CAVE=Flood Entrance Pot; PEOPLE=James Wilson, Peter Ganson, Rebecca Diss, Jennifer Ryder; 
