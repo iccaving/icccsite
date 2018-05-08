@@ -21,12 +21,16 @@ class Cave(Source):
     def write_file(self, context=None):
         if self.context.caching_enabled and self.same_as_cache:
             return
-        super().write_file(
-            context,
-            content=context.MD(self.content),
-            metadata=self.metadata,
-            cave_articles=sorted(self.cave_articles, key=lambda x: x[0].date, reverse=True),
-            pagename=self.basename)
+        try:
+            super().write_file(
+                context,
+                content=context.MD(self.content),
+                metadata=self.metadata,
+                cave_articles=sorted(self.cave_articles, key=lambda x: x[0].date, reverse=True),
+                pagename=self.basename)
+        except Exception as e:
+            logger.warn("Failed to write %s".format(self.output_filepath))
+            logger.warn(e)
         return not self.same_as_cache
 
 class Caver(Source):
@@ -41,16 +45,20 @@ class Caver(Source):
     def write_file(self, context=None):
         if self.context.caching_enabled and self.same_as_cache:
             return
-        super().write_file(
-            context,
-            content=context.MD(self.content),
-            metadata=self.metadata,
-            caver_articles=sorted(self.caver_articles, key=lambda x: x.date, reverse=True),
-            personname=self.basename,
-            authored=self.authored,
-            cocavers=self.cocavers,
-            caves=self.caves,
-            number=self.number)
+        try:
+            super().write_file(
+                context,
+                content=context.MD(self.content),
+                metadata=self.metadata,
+                caver_articles=sorted(self.caver_articles, key=lambda x: x.date, reverse=True),
+                personname=self.basename,
+                authored=self.authored,
+                cocavers=self.cocavers,
+                caves=self.caves,
+                number=self.number)
+        except Exception as e:
+            logger.warn("Failed to write %s".format(self.output_filepath))
+            logger.warn(e)
         return not self.same_as_cache
 
 def parse_metadata(metadata):
