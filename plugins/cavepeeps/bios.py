@@ -29,7 +29,7 @@ class Cave(Source):
                 cave_articles=sorted(self.cave_articles, key=lambda x: x[0].date, reverse=True),
                 pagename=self.basename)
         except Exception as e:
-            logger.warn("Failed to write %s".format(self.output_filepath))
+            logger.warn("Failed to write {}".format(self.output_filepath))
             logger.warn(e)
         return not self.same_as_cache
 
@@ -57,7 +57,7 @@ class Caver(Source):
                 caves=self.caves,
                 number=self.number)
         except Exception as e:
-            logger.warn("Failed to write %s".format(self.output_filepath))
+            logger.warn("Failed to write {}".format(self.output_filepath))
             logger.warn(e)
         return not self.same_as_cache
 
