@@ -20,7 +20,7 @@ Cavepeeps: DATE=2018-04-28; CAVE=Wretched Rabbit; PEOPLE=Jarvist Frost, Una Bark
 Status:
 
 {{ mainimg }}
-##### {{ allpeople }}
+#####{{ allpeople }}
 
 ## Friday
 I was in Plymouth visiting my dad this week and spent a lot of time in the great outdoors instead of finishing off my essay. I got back to London at 10pm on Thursday and had all of Friday morning to finish it off and make all the figures before the trip (quite a lot to do in hindsight). I told myself I couldn’t go if I didn’t get it all finished and printed before kit packing time – the deadline was the following Monday morning. It was a manic rush, I got up at 6:30 and managed to get it all done by 2ish, probably not to the greatest standard but I’d had enough of it at this point. Into uni at some time to print off. It took me four attempts to get it right, bloody printer. But it’s okay, I was done before the bus was ready to leave and so was rewarded with a weekend of luxury at Bull Pot farm caving hut, Lancashire. Wait, what? Not Yorkshire? What is this madness?
