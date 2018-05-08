@@ -12,7 +12,7 @@ Cavepeeps: DATE=2016-09-24; CAVE=Large Pot; PEOPLE=Rhys Tyers, Tanguy Racine, Wi
            DATE=2016-09-24; CAVE=Marble Steps; PEOPLE=Jim Evans, Christina Picken, Jarvist Frost, William French, Isha Kaur, Saber King;
            DATE=2016-09-24; CAVE=Ireby Fell Cavern; PEOPLE=Jack Hare, Ben Honan, Celia Tinsley, Bogdan Galilo;
            DATE=2016-09-25; CAVE=Link Pot > Mistral Hole; PEOPLE=Jarvist Frost, Will Scott, William French, Saber King, Celia Tinsley, Isha Kaur;
-           DATE=2016-09-25; CAVE=Small Mammal Pot; PEOPLE=Tanguy Racine; Christina Picken;
+           DATE=2016-09-25; CAVE=Small Mammal Pot; PEOPLE=Tanguy Racine, Christina Picken;
 
 {{ mainimg }}
 {{ photolink }}
