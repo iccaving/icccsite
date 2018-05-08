@@ -26,7 +26,7 @@ Status:
 I was in Plymouth visiting my dad this week and spent a lot of time in the great outdoors instead of finishing off my essay. I got back to London at 10pm on Thursday and had all of Friday morning to finish it off and make all the figures before the trip (quite a lot to do in hindsight). I told myself I couldn’t go if I didn’t get it all finished and printed before kit packing time – the deadline was the following Monday morning. It was a manic rush, I got up at 6:30 and managed to get it all done by 2ish, probably not to the greatest standard but I’d had enough of it at this point. Into uni at some time to print off. It took me four attempts to get it right, bloody printer. But it’s okay, I was done before the bus was ready to leave and so was rewarded with a weekend of luxury at Bull Pot farm caving hut, Lancashire. Wait, what? Not Yorkshire? What is this madness?
 
 The journey was awful. So much traffic. We didn’t get to the hut until 2am so no festivities this evening. Just pain and sleep.
-####Diss
+#### Diss
 
 ## Saturday
 ### Pippikin Pot: {{DATE=2018-04-28; CAVE=Pippikin Pot;}}
@@ -75,7 +75,7 @@ Some more cave occurred, and we ended up at the bottom of Cow. Did a cheeky bit 
 Nothing too terrifying occurred on the way up. Georgia took a while at one of the rebelays but she sorted herself out. I did end up descending back down to the first rebelay to see if I could see what the problem was (I couldn’t really so just hung there for moral support). I was then too lazy to change over so just did an odd free climb whilst pulling the slack through my descender. It was probably fine.
 
 We got back to the hut at a reasonable time to find double J had also been to Bull Pot of the Witches because they are speedy af. Dave apparently gets to have two caves because of his second visit with them. Hmm.
-####Diss
+#### Diss
 
 ### Cow Pot: {{DATE=2018-04-28; CAVE=Cow Pot;}}
 
@@ -127,7 +127,7 @@ The rest of the trip was fairly uneventful. I played around with getting my knot
 
 I had a quick pint in the sun before Jennifer & Dr. Jack appeared on the path chatting to some walkers. It seems that in their extreme competence they'd accidentally done Pippikin really fast and were hoping to catch me in BPotW. Alas I'd only left the incredibly useful handline in situ (and whatever various bits of rigging had been left in place by some divers). But hey ho, the rope is already picked out after all...
 
-###DKP
+#### DKP
 
 ### Bull Pot of the Witches: The Witches Strike Back: {{DATE=2018-04-28; CAVE=Bull Pot of the Witches;2}}
 
@@ -143,7 +143,7 @@ Back at the hut I spent a few hours chopping veg and grating cheese and umming a
 
 Pretty chill night with the exception of some loud wood chopping using the farm's handy-dandy wood-chopping-thing.
 
-###DKP
+#### DKP
 
 ## Sunday
 
@@ -183,6 +183,6 @@ Good weekend! Bull Pot Farm is well situated but a bit odd. Nowhere quite beats 
 
 Oh good, someone already wrote today's BPotW trip - which I was of course on. I did scarper rather sooner than the others though, kindly offering to derig the Chimney route and then basking in sunshine for an hour or so.
 
-###DKP
+#### DKP
 
 ### Aygill Caverns: {{DATE=2018-04-29; CAVE=Aygill Caverns;}}
