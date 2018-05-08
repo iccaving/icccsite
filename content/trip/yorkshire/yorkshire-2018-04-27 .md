@@ -99,13 +99,14 @@ With that he set off back to the bottom of the tight climb where the bag had bee
 
 He returned and we sent Arun down he big pitch. A fine pitch it is too, trepanning the vast fall chamber. It does seem a missed opportunity that there’s no tyrolean to pull yourself into the passage towards Lanc, instead you have to descend all the way to the bottom and reclimb the fixed ropes. Next time we’ll bring some steel wire and install it ourselves.
 
-Once we had climbed said fixed ropes we discarded our SRT gear. Astute readers may be able to spot a slight flaw with this plan. I led on through the big passage and into the pretty crawls of Montagu West. We went quickly, stopping occasionally to admire the stals and straws.
+Once we had climbed said 
+ropes we discarded our SRT gear. Astute readers may be able to spot a slight flaw with this plan. I led on through the big passage and into the pretty crawls of Montagu West. We went quickly, stopping occasionally to admire the stals and straws.
 
 Our round trip included a stop to inspect the horrific digs near the Saturday Afternoon Series where we each inserted ourselves in a different muddy crawl. Mine died first, thankfully. Mr Jack’s next. Finally we had to recall Arun as he had drawn the short straw and picked the one dig that went further than a few body lengths. We had a wander up and down Waterfall passage. Up stream quickly reaches the Bull Pot of the Witches sump and downstream we made it basically all the way back to the main stream. We were stopped by an intimidating looking climb (possibly a pitch). It’s a lovely bit of streamway though. Well worth stomping down.
 
 In Wilf Taylor’s passage we paused a couple of times to take photos I had thought about since last time. We dropped down into the main stream at the end finding 4 unhappy frogs in a line on the wall near the sump. As I photographed them, one found the energy to dive into the sump.
 
-We continued upstream and clambered up the boulders under Fall Pot. At some point we had an epiphany. We had left our SRT gear at the top of th fixed ropes. Our round trip had brought us to the bottom of those fixed ropes. Luckily two solutions were apparent. One: Arun, being competent, had with him a spare jammer and slings. Two: we heard the voices of Diss, Alex, and Georgia far above us.
+We continued upstream and clambered up the boulders under Fall Pot. At some point we had an epiphany. We had left our SRT gear at the top of the fixed ropes. Our round trip had brought us to the bottom of those fixed ropes. Luckily two solutions were apparent. One: Arun, being competent, had with him a spare jammer and slings. Two: we heard the voices of Diss, Alex, and Georgia far above us.
 
 Arun climbed and Alex retrieved our SRT gear, meeting in the middle. I suggested heading out but Arun was keen for more caving so we agreed to combine groups with Diss and Alex and make a quick trip into the Graveyard, another of the locations I had visited with Alex. Alex and Jack headed off first, agreeing to rig the small pitch. This they failed to do, instead looking at the Collonades. It didn't matter as we had forgotten that the pitch is prerigged anyway.
 
