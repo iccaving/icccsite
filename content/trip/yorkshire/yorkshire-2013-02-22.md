@@ -8,7 +8,7 @@ Mainimg: P2221891.JPG
 Thumbl: P2221788--thumb.jpg
 Thumbr: P2221887--thumb.jpg
 Authors: Sam
-Cavepeeps: DATE=2013-02-23; CAVE=King Pot; PEOPLE=Rhys Tyers, Oliver Myerscough, Izi Tmin, Sam Page, Giulio Deganutti, Dave Kirkpatrick, Alec Bluman;
+Cavepeeps: DATE=2013-02-23; CAVE=King Pot; PEOPLE=Rhys Tyers, Oliver Myerscough, Izi, Sam Page, Giulio Deganutti, Dave Kirkpatrick, Alec Bluman;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2013-02-22.php
 Status:
 
