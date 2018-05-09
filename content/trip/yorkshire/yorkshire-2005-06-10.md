@@ -3,7 +3,7 @@ Date: 2005-06-10
 Location: yorkshire
 Summary: Absolutely Brillo weekend down Bullpot. Shed was woken up at 4am by a poor CUCC lass dry retching in her sleeping bag after drinking a mite too much Absinthe. Fresher bimble from County to Wretched Rabbit in Easegill, big exchange up on the Allotment and then shopping at Bernie's and pull throughs in Swinstow/Simpsons on the Sunday. Shed had a little difficulty passing the Letterbox, allowing time for the two parties to meet up in the main chamber below and entertain themselves with camera flashes; before a storming zoom out of Valley Entrance to achieve our call-out.<br>Changing in the afternoon sun was lovely; anyone who says that caving is better in the winter should be taken outside and shot in the snow!
 Type: trip
-Photoarchive:
+Photoarchive: /rcc/caving/photo_archive/trips/2005-06-10%20-%20yorkshire/
 Mainimg: evetts22_Jan-BottomOfLongKinEast.JPG
 Thumbl: evetts36_Deep-Swinstow1stPitch--thumb.jpg
 Thumbr:jarvist-IMG_1533--thumb.jpg
@@ -195,4 +195,4 @@ check to see if the others had ended up down the blind pot...
 
 * * *
 
-](/caving/photo_archive/trips/2005-06-10%20-%20yorkshire/dirindex.html)
+
