@@ -12,12 +12,12 @@ Cavepeeps: DATE=2007-05-26; CAVE=Cow Pot > Lancaster Hole; PEOPLE=Jarvist Frost,
            DATE=2007-05-26; CAVE=Lancaster Hole > Cow Pot; PEOPLE=Sandeep Mavadia, Ben Banfield, James Huggett, Kos;
            DATE=2007-05-26; CAVE=Lancaster Hole;PEOPLE=Jana Carga;
            DATE=2007-05-26; CAVE=Stream Passage Pot > Gaping Ghyll; PEOPLE=Jan Evetts, Shed, Marc Labuhn;
-           DATE=2007-05-26; CAVE=Lancaster Hole > Wretched Rabbit; PEOPLE=Dave Wilson, Spela, Aljošha, Iztok;
+           DATE=2007-05-26; CAVE=Lancaster Hole > Wretched Rabbit; PEOPLE=Dave Wilson, Spela, Aljošha, Izi;
            DATE=2007-05-27; CAVE=Top Sink > Cow Pot; PEOPLE=Jarvist Frost, Erik, Tomasz, Kletnik;
            DATE=2007-05-27; CAVE=Top Sink > Wretched Rabbit; PEOPLE=Tetley, Marc Labuhn, Aljošha, Spela
            DATE=2007-05-27; CAVE=Wretched Rabbit; PEOPLE=Shed, Jan Evetts, James Huggett, Jana Carga, Kos;
            DATE=2007-05-28; CAVE=Link Pot > Cow Pot; PEOPLE=Dave Wilson, Sandeep Mavadia, Marc Labuhn, Tetley, Ben Banfield, Joe King;
-           DATE=2007-05-28; CAVE=Lancaster Hole; PEOPLE=Jarvist Frost, Jana Carga, Erik, Aljošha, Iztok, Kos, Kletnik, Spela;
+           DATE=2007-05-28; CAVE=Lancaster Hole; PEOPLE=Jarvist Frost, Jana Carga, Erik, Aljošha, Izi, Kos, Kletnik, Spela;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2007-05-25.php
 Status:
 
