@@ -7,10 +7,10 @@ Photoarchive: /rcc/caving/photo_archive/trips/2017-11-24%20-%20yorkshire/
 Mainimg: TanguyRacine-alex%20queensway%202.jpg
 Thumbl: LydiaLeather_ClubInterRelations--thumb.jpg
 Thumbr: RhysTyers-DSC07248--thumb.jpg
-Authors: Rita Cookson, Tanguy Racine, Rebecca Diss
+Authors: Rita Borg, Tanguy Racine, Rebecca Diss
 Cavepeeps: DATE=2017-11-25; CAVE=Vesper Pot; PEOPLE=Rhys Tyers, Ben Honan, Jennifer Ryder, Rebecca Diss, Arun Paul;
            DATE=2017-11-25; CAVE=King Pot; PEOPLE=Tanguy Racine, Alex Seaton, Jack Halliday;
-           DATE=2017-11-26; CAVE=Alum Pot; PEOPLE=Alex Seaton, Jack Halliday, Tanguy Racine, Peter Ganson, Rita Cookson, Rebecca Diss, Jennifer Ryder, Rhys Tyers;
+           DATE=2017-11-26; CAVE=Alum Pot; PEOPLE=Alex Seaton, Jack Halliday, Tanguy Racine, Peter Ganson, Rita Borg, Rebecca Diss, Jennifer Ryder, Rhys Tyers;
 
 {{ mainimg }}
 {{ photolink }}
