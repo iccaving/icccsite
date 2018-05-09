@@ -10,10 +10,10 @@ Thumbr:jarvist-IMG_1533--thumb.jpg
 Cavepeeps: DATE=2005-06-11; CAVE=County Pot > Wretched Rabbit; PEOPLE=Dave Wilson, Jarvist Frost, Arun, Gerardo, Helen;
 	   DATE=2005-06-11; CAVE=Long Kin East > Rift Pot; PEOPLE=Sandeep Mavadia, Clewin Griffiths;
 	   DATE=2005-06-11; CAVE=Rift Pot > Long Kin East; PEOPLE=Jan Evetts, Shed, Jo King;
-	   DATE=2005-06-11; CAVE=Swinsto Hole > Valley Entrance; PEOPLE=Colm, Andy Jurd;
-	   DATE=2005-06-12; CAVE=Rowten Pot; PEOPLE=Andy Jurd, Colm;
+	   DATE=2005-06-11; CAVE=Swinsto Hole > Valley Entrance; PEOPLE=Colm Carroll, Andy Jurd;
+	   DATE=2005-06-12; CAVE=Rowten Pot; PEOPLE=Andy Jurd, Colm Carroll;
 	   DATE=2005-06-12; CAVE=Simpsons Pot > Valley Entrance; PEOPLE=Clewin Griffiths, Helen, Jo King, Shed;
-	   DATE=2005-06-12; CAVE=Swinsto Hole > Valley Entrance; PEOPLE=Jarvist Frost, Dave, Jan Evetts, Sandeep Mavadia;
+	   DATE=2005-06-12; CAVE=Swinsto Hole > Valley Entrance; PEOPLE=Jarvist Frost, Dave Wilson, Jan Evetts, Sandeep Mavadia;
 Authors: Andy Jurd, Jarvist Frost
 Oldurl:/caving/yorkshire/yorkshire-2005-06-10.php
 
