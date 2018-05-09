@@ -17,21 +17,15 @@ Cavepeeps: DATE=2005-06-11; CAVE=County Pot > Wretched Rabbit; PEOPLE=Dave Wilso
 Authors: Andy Jurd, Jarvist Frost
 Oldurl:/caving/yorkshire/yorkshire-2005-06-10.php
 
-### Simpson Pot -&gt; Valley Entrance: Clewin, Helen, Jo, Shed
-
-### Swinstow -&gt; Valley Entrance: Jarv, Dave, Jan, Sandeep, Jan
-
 {{ mainimg }}
 
-### Minibus: Joanna King, Clewin Griffith, Sandeep Mavadia, Arun, Helen Jones,
-Gerardo Ocana-Fuentes, Jan Evetts, Shed [Tim Wright] &amp; Jarvist Frost
+### Minibus: Joanna King, Clewin Griffith, Sandeep Mavadia, Arun, Helen Jones, Gerardo Ocana-Fuentes, Jan Evetts, Shed [Tim Wright] &amp; Jarvist Frost
 
 ### Car Owners: Colm Carrol, Andy Jurd, Dave Wilson
 
 ## Saturday
 
-### Easegill Country -&gt; Wretched Rabbit via Holbeck Junction: Dave W.,
-Helen, Jarv, Gerardo, Arun
+### Easegill Country -&gt; Wretched Rabbit via Holbeck Junction: {{ DATE=2005-06-11; CAVE=County Pot > Wretched Rabbit; }}
 
 A beautiful bimble down Easegill; took some of our sexy new blue rope and
 pulled through all the various climbs. Initial descent was smooth, a few
@@ -61,13 +55,13 @@ the time, and slithered our way out of WR.
 A great bimble; nice mix of SRT, bolder hopping, hand-line climbing &amp;
 riftway work - pity I didn't take the camera!
 
-Jarvist Frost
+#### Jarvist Frost
 
-### Lonkin East -&gt; Rift: Sandeep, Clewin
+### Long Kin East -&gt; Rift: {{ DATE=2005-06-11; CAVE=Long Kin East > Rift Pot; }}
 
-### Rift --&gt; Lonkin East: Jan, Shed, Jo
+### Rift -&gt; Long Kin East: {{ DATE=2005-06-11; CAVE=Rift Pot > Long Kin East; }}
 
-### Swinstow Pull-Through and Ingleton Waterfalls Canyon: Colm and Andy
+### Swinstow Pull-Through and Ingleton Waterfalls Canyon: {{ DATE=2005-06-11; CAVE=Swinsto Hole > Valley Entrance; }}
 
 Saturday was the perfect opportunity to try out ICCC's new take on SRT, with
 has recently become the use of literally one rope (often less...). Colm also
@@ -95,15 +89,15 @@ with the usual shenanigans at Bull Pot Farm, but luckily I'd already had the
 foresight of hanging my furry up in the drying room at the NPC, and washing
 the sheep-dip off at the excellent facilities (blatant plug).
 
-Andy Jurd
+#### Andy Jurd
 
 * * *
 
 ## Sunday
 
-### Simpson Pot -&gt; Valley Entrance: Clewin, Helen, Jo, Shed
+### Simpson Pot -&gt; Valley Entrance: {{ DATE=2005-06-12; CAVE=Simpsons Pot > Valley Entrance; }}
 
-### Swinstow -&gt; Valley Entrance: Jarv, Dave, Jan, Sandeep, Jan
+### Swinstow -&gt; Valley Entrance: {{ DATE=2005-06-12; CAVE=Swinsto Hole > Valley Entrance; }}
 
 [ ![A photo](/caving/photo_archive/trips/2005-06-10%20-%20yorkshire/jarvist-IMG_1475
 --thumb.jpg) ](/caving/photo_archive/trips/2005-06-10%20-%20yorkshire/jarvist-
@@ -180,9 +174,9 @@ journey back from yorkshire - not one traffic jam, and a tiny mile-long
 section of 50mph limit; but at least we got a 67litres fill of petrol (tank is
 65 supposedly), at a non-motorway price!
 
-Jarvist Frost
+#### Jarvist Frost
 
-### Rowten Pot: Colm and Andy
+### Rowten Pot: {{ DATE=2005-06-12; CAVE=Rowten Pot; }}
 
 Deciding that we'd better run a really easy trip to not intimidate any current
 ICCC members, Colm and I offered an easy trip down Rowter (sic) in preparation
@@ -197,7 +191,7 @@ we'd have had enough time to return to the car via Simpson Pot. We beat as
 hasty retreat back to Nottingham; we didn't want to have to go down Simpson to
 check to see if the others had ended up down the blind pot...
 
-Andy Jurd
+#### Andy Jurd
 
 * * *
 
