@@ -11,10 +11,10 @@ Authors: Rhys Tyers, Ho Yan Jin, James Perry
 Cavepeeps: DATE=2017-11-11; CAVE=Lancaster Hole > Wretched Rabbit; PEOPLE=Rhys Tyers, Peter Ganson, Ho Yan Jin, Jack Halliday;
            DATE=2017-11-11; CAVE=Wretched Rabbit > Top Sink; PEOPLE=Jarvist Frost, Rebecca Diss;
            DATE=2017-11-11; CAVE=Top Sink > Wretched Rabbit; PEOPLE=Jack Hare, James Perry,  Thomas Porter, Chris Bradley;
-           DATE=2017-11-11; CAVE=Wretched Rabbit; PEOPLE=Rita Cookson, Augustinas Prusokas;
+           DATE=2017-11-11; CAVE=Wretched Rabbit; PEOPLE=Rita Borg, Augustinas Prusokas;
            DATE=2017-11-11; CAVE=Lancaster Hole; PEOPLE=David Wilson, Alex Seaton, Tunvez Boulic;
            DATE=2017-11-11; CAVE=Jingling Pot; PEOPLE= Dave Wilson,Dave Kirkpatrick, Shaun Kong, Nick Koukoulekidis ;
-           DATE=2017-11-12; CAVE=Lost Johns' Cave; PEOPLE=Rhys Tyers, Rebecca Diss,Peter Ganson, Alex Seaton, Jarvist Frost, Jack Halliday, Shaun Kong, David Wilson, Chris Bradley, Nick Koukoulekidis, Thomas Porter, Augustinas Prusokas, Ho Yan Jin, Rita Cookson, Dave Wilson;
+           DATE=2017-11-12; CAVE=Lost Johns' Cave; PEOPLE=Rhys Tyers, Rebecca Diss,Peter Ganson, Alex Seaton, Jarvist Frost, Jack Halliday, Shaun Kong, David Wilson, Chris Bradley, Nick Koukoulekidis, Thomas Porter, Augustinas Prusokas, Ho Yan Jin, Rita Borg, Dave Wilson;
 Status: 
 
 {{ mainimg }}
