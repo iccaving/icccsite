@@ -150,15 +150,14 @@ Almost as soon as I got into Heron I encountered another caver coming out. He'd 
 The lower pitches had been rigged with ladders and there was a rope going up to the high level traverse as well as the in-situ rope. Jack started rigging but unfortunately the cast of thousands started popping out of the walls behind us wanting to de-rig their gear.
 
 
-Cecilia: Where are you guys from?
-Caver: Craven.
-Cecilia: Where?
-CPC Caver: Craven.
-Cecilia: I don't know where that is.
-Me: The Craven Pothole Club. It's in... I think you said you've been to Hunt Pot, right? Or Sell Gill? The village nearest those is Horton in Ribblesdale. That's where the Craven is based.
-CPC Caver: Some would say it's the best club.
-Me (grimacing at the rock): Some would say...
-
+Cecilia: Where are you guys from?  
+Caver: Craven.  
+Cecilia: Where?  
+CPC Caver: Craven.  
+Cecilia: I don't know where that is.  
+Me: The Craven Pothole Club. It's in... I think you said you've been to Hunt Pot, right? Or Sell Gill? The village nearest those is Horton in Ribblesdale. That's where the Craven is based.  
+CPC Caver: Some would say it's the best club.  
+Me (grimacing at the rock): Some would say...  
 
 I sent Una up to the high level traverse and was blocked from following by CPC bodies filling the passage. Eventually they'd de-rigged the lower pitches, Jack could get back to rigging, and I could ascend. The chief CPC de-rigger asked me to undo their rope and pass it down. No such luck, they'd rigged the whole traverse. Perturbed, the de-rigger asked if there was another CPC member in the roof with me de-rigging their rope. I duly checked every tiny crevice for this dossing CPC member but obviously no. An actual CPC person was going to have to de-rig the CPC rope. Given Una was ahead of me on the traverse though I washed my hands of it and went to supervise her on the final section of the traverse and at the pitch head.
 
@@ -186,6 +185,10 @@ It was ~14:15 when I got to the bottom and I spent a good while singing and gett
 Some humans left the cave via the lower, crawly wet route. DW and I went up the High and traditional routes respectively and Arun and I’m assuming Alex derigged. All in all a good trip and weekend generally.
 
 #### Diss
+
+In conclusion, balls to Craven.
+
+#### Everyone, 2018
 
 ### Swinsto Pull Through: {{ DATE=2018-04-15; CAVE=Swinsto Hole > Valley Entrance; }}
 
