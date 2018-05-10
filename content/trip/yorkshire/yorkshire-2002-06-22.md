@@ -5,8 +5,8 @@ Summary: Caving in Yorkshire
 Type: trip
 Authors: Jan Evetts, Andy Jurd, Colm Carroll
 Cavepeeps: DATE=2002-06-22; CAVE=Juniper Gulf; PEOPLE=Jan Evetts, Andy Jurd, Colm Carroll;
-     DATE=2002-06-23; CAVE=Diccan Pot > Alum Pot=Colm Carroll, Andy Jurd;
-     DATE=2002-06-23; CAVE=Alum Pot > Diccan Pot=Jan Evetts, Hugh Penney;
+     DATE=2002-06-23; CAVE=Diccan Pot > Alum Pot; PEOPLE=Colm Carroll, Andy Jurd;
+     DATE=2002-06-23; CAVE=Alum Pot > Diccan Pot; PEOPLE=Jan Evetts, Hugh Penney;
 Oldurl:/caving/yorkshire/yorkshire0602.php
 
 #  Yorkshire 
