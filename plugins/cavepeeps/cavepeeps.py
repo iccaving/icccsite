@@ -12,11 +12,16 @@ from olm.logger import get_logger
 from olm.constants import ArticleStatus
 from bios import generate_cave_pages, generate_person_pages, construct_bios
 
+from tinydb import TinyDB, Query
+from tinydb.storages import MemoryStorage
+
+
 logger = get_logger('olm.plugins.cavepeep')
+ 
 
 # =====================Functions============================
 
-def parse_metadata(metadata, article):
+def parse_metadata(context, metadata, article):
     # Create list of people, caves they have been to and the articles that the
     # trip is recorded in. Also create array of caves and the articles that
     # refer to the cave (could have a 'people who have been in this cave' thing
@@ -55,116 +60,94 @@ def parse_metadata(metadata, article):
                     "\nIf there's no cavepeep data please delete the row from the metadata.")
                 continue
 
-            item_people=item_people if type(item_people) is list else [item_people]
-            item_people=[x.strip() for x in item_people]
+            item_caves = [] if item_caves is None else item_caves.split('>')
+            item_caves = item_caves if type(item_caves) is list else [item_caves]
+            item_caves = [x.strip() for x in item_caves ]
 
-            if item_caves is not None:
-                n = 1
-                insert_key = "DATE=" + item_date.strftime('%Y-%m-%d') +"; CAVE=" + item_caves + ";"
-                while (insert_key + str(n)) in trips_for_insert:
-                    n = n + 1
-                trips_for_insert[insert_key + str(n)] = item_people
+            item_people = item_people if type(item_people) is list else [item_people]
+            item_people = [x.strip() for x in item_people]
 
-            for person in item_people:
-                cavepeep.append(row(item_date, item_caves, person, article))
-    return (cavepeep, trips_for_insert)
+            context['trip_db'].insert({"article": article, "date": item_date, "caves": item_caves, "people": item_people})
 
 
-def article_link(cavepeep_partial, trips_for_insert, article, context):
+def article_link(context, article):
     # Function to create lists of people on individual trips
     # and making those lists available to the article as a nice html string
-
-    trips = {}
-    all_people = set()
-    for index, item in enumerate(cavepeep_partial):
-        name = item.person
-        # Create unique id for trip (essentially a copy/paste of the metadata)
-        # An use this to identify a list of people on that trip
-        tripid='DATE={0}; CAVE={1};'.format(item.date.strftime('%Y-%m-%d'), item.cave)
-        html = """<a href='{0}/cavers/{1}.html'>{2}</a>""".format(context.SITEURL, quote(name), name)
-        if tripid in trips.keys():
-            trips[tripid] += ", {}".format(html)
-        else:
-            trips[tripid] = html
-        # Also create a list of everyone on any trip
-        all_people.add(html)
-
-    # The metadata might need to be used to replace a tag in the article
-    # so add it to the metadata item that will be available to metainserter
     if "data" not in dir(article):
         article.data = {}
 
-    article.data["allpeople"] = ', '.join(sorted(list(all_people)))
-    for key in trips:
-        article.data[key] = trips[key]
+    def linkify_name(name):
+        return """<a href='{0}/cavers/{1}.html'>{2}</a>""".format(context.SITEURL, quote(name), name)
 
-    for key in trips_for_insert:
-        html = ""
-        for index, name in enumerate(trips_for_insert[key]):
-            if index == 0:
-                html = "<a href='{0}/cavers/{1}.html'>{2}</a>""".format(context.SITEURL, quote(name), name)
-            else:
-                html += ", {}".format("""<a href='{0}/cavers/{1}.html'>{2}</a>""".format(context.SITEURL, quote(name), name))
-        article.data[key] = html
+    trips = context['trip_db'].search(Query().article == article)
+
+    # Flatten the lists of people from this article
+    all_people = list(set([ person for trip in trips for person in trip['people']]))
+    article.data["allpeople"] = ', '.join(sorted(map(linkify_name, all_people)))
+
+    trip_data = {}
+    for trip in trips:
+        trip_id='DATE={:%Y-%m-%d}; CAVE={};'.format(trip['date'], ' > '.join(trip['caves']))
+        trip_people = ', '.join(sorted(map(linkify_name, trip['people'])))
+        if trip_id not in article.data:
+            article.data[trip_id] = trip_people
+        else:
+            article.data[trip_id + '1'] = article.data[trip_id]
+            n = 2
+            while (trip_id + str(n)) in article.data:
+                n = n + 1
+            article.data[trip_id + str(n)] = article.data[trip_id]
+
 
 #======================MAIN==========================
 
 
 def cavepeep_linker_initialise(sender, context):
     context['cavepeep'] = []
+    context['trip_db'] = TinyDB(storage=MemoryStorage)
 
 
 def cavepeep_linker_for_each_article(sender, context, article):
     cavepeep_partial = None
     if 'status' in article.metadata.keys() and article.metadata['status'] == ArticleStatus.DRAFT:
         return
+
     # If the article has the cavepeeps metadata
     if 'cavepeeps' in article.metadata.keys():
         # Parse metadata and return a list where each item contains a date,
         # cave, caver, and article reference
-        cavepeep_partial, trips_for_insert =parse_metadata(article.metadata['cavepeeps'], article)
-        article_link(cavepeep_partial, trips_for_insert, article, context)
+        parse_metadata(context, article.metadata['cavepeeps'], article)
+        article_link(context, article)
 
     # If unlisted DO NOT ADD TO MAIN CAVEPEEPS dictionary.
     if 'cavepeeps' in article.metadata.keys() and article.status != ArticleStatus.UNLISTED:
-        context['cavepeep'] += cavepeep_partial
-
-
-
+        #context['cavepeep'] += cavepeep_partial
+        pass
 
 def cavepeep_linker_final(sender, context, articles):
     time_start = time.time()
     cavepeep=context['cavepeep']
-    cavepeep.sort(key=lambda tup: tup.date, reverse=True)
-    cavepeep.sort(key=lambda tup: tup.person)  # Sort the list by person name
     cavepeep_person=OrderedDict()
-    # Add the entries to an ordered dictionary so that for each person
-    # (the key) there is a list of tuples containing the cavename, the article
-    # its mentioned in, and the specific date of the cave visit
     row=namedtuple('row', 'cave article date')
-    for item in cavepeep:
-        cavepeep_person.setdefault(item.person, []).append(
-            row(item.cave, item.article, item.date))
 
-    cavepeep.sort(key=lambda tup: (tup.cave is None, tup.cave))  # Sort the list by cave name
-    flag=False
+    # Flatten the list of people
+    people = sorted(list(set([ person for trip in context['trip_db'].all() for person in trip['people']])))
+    for person in people:
+        for trip in context['trip_db'].search(Query().people.any([person])):
+            cave = ' > '.join(trip['caves']) if trip['caves'] != [] else None
+            cavepeep_person.setdefault(person, []).append(row(cave, trip['article'], trip['date']))
+
+
     cavepeep_cave=OrderedDict()
     # Add the entries to an ordered dictionary so that for each cave (the key) there is a list
     # containing articles its mentioned in. As two people can mention the same cave in the same
     # article there is also duplicate checking so that the same article is not linked twice for
     # cave
     row=namedtuple('row', 'article date')
-    for item in cavepeep:
-        if item.cave in cavepeep_cave:
-            for art, date in cavepeep_cave[item.cave]:
-                if item.article == art and item.date == date:
-                    flag=True
-        if flag is False:
-            #logging.debug("Cavepeeps: Adding {} to cavepeep_cave dictionary".format(item.cave))
-            cavepeep_cave.setdefault(item.cave, []).append(
-                row(item.article, item.date))
-        else:
-            flag=False
+    caves = sorted(list(set([ cave for trip in context['trip_db'].all() for cave in trip['caves'] if cave is not None ])))
+    for cave in caves:
+        for trip in context['trip_db'].search(Query().caves.any([cave])):
+            cavepeep_cave.setdefault(cave, []).append(row(trip['article'], trip['date']))
 
     # Add the dictionaries to the global context (makes them accessible to
     # other plugins and the templates)
