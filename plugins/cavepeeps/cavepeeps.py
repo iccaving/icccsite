@@ -59,7 +59,8 @@ def parse_metadata(context, metadata, article):
                     "\nAre DATE, PEOPLE, CAVE present and spelt correctly? Are there semicolons (not colons) seperating each section?" +
                     "\nIf there's no cavepeep data please delete the row from the metadata.")
                 continue
-
+            
+            item_caves_raw = "" if item_caves is None else item_caves
             item_caves = [] if item_caves is None else item_caves.split('>')
             item_caves = item_caves if type(item_caves) is list else [item_caves]
             item_caves = [x.strip() for x in item_caves ]
@@ -67,7 +68,13 @@ def parse_metadata(context, metadata, article):
             item_people = item_people if type(item_people) is list else [item_people]
             item_people = [x.strip() for x in item_people]
 
-            context['trip_db'].insert({"article": article, "date": item_date, "caves": item_caves, "people": item_people})
+            context['trip_db'].insert({
+                "article":   article, 
+                "date":      item_date, 
+                "caves":     item_caves,
+                "caves_raw": item_caves_raw,
+                "people":    item_people
+                })
 
 
 def article_link(context, article):
@@ -85,7 +92,6 @@ def article_link(context, article):
     all_people = list(set([ person for trip in trips for person in trip['people']]))
     article.data["allpeople"] = ', '.join(sorted(map(linkify_name, all_people)))
 
-    trip_data = {}
     for trip in trips:
         trip_id='DATE={:%Y-%m-%d}; CAVE={};'.format(trip['date'], ' > '.join(trip['caves']))
         trip_people = ', '.join(sorted(map(linkify_name, trip['people'])))
@@ -137,21 +143,8 @@ def cavepeep_linker_final(sender, context, articles):
             cave = ' > '.join(trip['caves']) if trip['caves'] != [] else None
             cavepeep_person.setdefault(person, []).append(row(cave, trip['article'], trip['date']))
 
-
-    cavepeep_cave=OrderedDict()
-    # Add the entries to an ordered dictionary so that for each cave (the key) there is a list
-    # containing articles its mentioned in. As two people can mention the same cave in the same
-    # article there is also duplicate checking so that the same article is not linked twice for
-    # cave
-    row=namedtuple('row', 'article date')
-    caves = sorted(list(set([ cave for trip in context['trip_db'].all() for cave in trip['caves'] if cave is not None ])))
-    for cave in caves:
-        for trip in context['trip_db'].search(Query().caves.any([cave])):
-            cavepeep_cave.setdefault(cave, []).append(row(trip['article'], trip['date']))
-
     # Add the dictionaries to the global context (makes them accessible to
     # other plugins and the templates)
-    context['cavepeep_cave']=cavepeep_cave
     context['cavepeep_person']=cavepeep_person
 
     logger.info("Processed cavepeeps in %.3f seconds", (time.time() - time_start))

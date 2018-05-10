@@ -4,6 +4,8 @@ import re
 import copy
 import time
 from datetime import datetime
+from tinydb import TinyDB, Query
+from tinydb.storages import MemoryStorage
 
 from olm.source import Source
 from olm.writer import Writer
@@ -81,18 +83,11 @@ def parse_metadata(metadata):
                 item_people=m2.group(1).split(',')
             else:
                 logger.error("Error parsing metadata for caching")
-                logger.error(e)
                 continue
             people.extend([ p.strip() for p in item_people ])
             if item_caves is not None:
                 caves.extend([ c.strip() for c in item_caves.split('>')])
     return (people, caves)
-
-def create_or_add(dictionary, key_to_add, data_to_add):
-    if key_to_add in dictionary:
-        dictionary[key_to_add] = dictionary[key_to_add] + data_to_add
-    else:
-        dictionary[key_to_add] = data_to_add
 
 def construct_bios(sender, context, **kwargs):
     time_start = time.time()
@@ -116,7 +111,16 @@ def construct_bios(sender, context, **kwargs):
                 article.cache_type = btype.upper()
                 context['all_files'].append(article)
                 dictionary[os.path.splitext(afile)[0]]=article
+                if btype == "caves":
+                    context['caves_db'].insert({"cave": os.path.splitext(afile)[0],  "article": article})
+                else:
+                    context['cavers_db'].insert({"caver": os.path.splitext(afile)[0],  "article": article})
+
+
         return dictionary
+
+    context['caves_db'] = TinyDB(storage=MemoryStorage)
+    context['cavers_db'] = TinyDB(storage=MemoryStorage)
 
     context['caverbios']= get_bios("cavers")
     context['cavebios'] = get_bios("caves")
@@ -130,14 +134,14 @@ def get_data_from_metadata(metadata):
     return data
 
 def was_author_in_cave(article, cave_name):
-    if 'cavepeeps' not in article.article.metadata.keys():
+    if 'cavepeeps' not in article.metadata.keys():
         return False
-    trips = article.article.metadata['cavepeeps']
+    trips = article.metadata['cavepeeps']
     authors = []
-    if 'author' in article.article.metadata.keys():
-        authors = article.article.metadata['author']
-    elif 'authors' in article.article.metadata.keys():
-        authors = article.article.metadata['authors']
+    if 'author' in article.metadata.keys():
+        authors = article.metadata['author']
+    elif 'authors' in article.metadata.keys():
+        authors = article.metadata['authors']
     for trip in trips:
         if cave_name in trip:
             for author in authors:
@@ -145,210 +149,29 @@ def was_author_in_cave(article, cave_name):
                     return True
     return False
 
-def generate_cave_pages(context):
-    cave_bios  = context['cavebios']
-    caves      = context['cavepeep_cave']
-    caves_dict = {}
-
-    # Split the through trips into individual caves.
-    # Make unique list (set) of cave names and
-    for trip in [ c for c in caves if c is not None ]:
-        for cave in trip.split('>'):
-            create_or_add(caves_dict, cave.strip(), caves[trip])
-
-    dictionary = caves_dict
-    content_dictionary = cave_bios
-    output_path = "caves"
-    template = "cavepages"
-
-
-    row = namedtuple('row', 'path content metadata articles same_as_cache')
-    initialised_pages = {}
-
-    for key in dictionary.keys():
-        if key not in initialised_pages.keys():
-            logger.debug("Cavebios: Adding {} to list of pages to write".format(key))
-            if key in content_dictionary:
-                source = content_dictionary[key]
-                logger.debug("Cavebios: Content added to " + key)
-            else:
-                source = Cave(context, content='', metadata={},basename=key)
-                source.same_as_cache = context.is_cached
-
-            source.output_filepath = os.path.join(output_path, str(key) + '.html')
-            source.articles = dictionary[key]
-            source.template = template + '.html'
-            initialised_pages[key]=source
-        else:
-            initialised_pages[key].articles.extend(dictionary[key])
-    
+def get_changes(context):
     # Work out if we need to update this file
     changes = context['cache_change_types']
     meta_changes = context['cache_changed_meta']
-    refresh_triggers       = ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"]
-    refresh_meta_triggers  = ['title', 'location', 'date', 'status']
     changed_caves = []
-    if "ARTICLE.NEW_FILE" in changes or "ARTICLE.META_CHANGE" in changes:
-        for meta_change in meta_changes:
-            added, removed, modified = meta_change
-            if 'cavepeeps' in added:
-                people, caves = parse_metadata(added['cavepeeps'])
-                changed_caves.extend(caves)
-            if 'cavepeeps' in removed:
-                people, caves = parse_metadata(removed['cavepeeps'])
-                changed_caves.extend(caves)
-            if 'cavepeeps' in modified:
-                people, caves = parse_metadata(modified['cavepeeps'][0])
-                changed_caves.extend(caves)
-                people, caves = parse_metadata(modified['cavepeeps'][1])
-                changed_caves.extend(caves)
-    
-    number_written = 0
-    for page_name, page_data in initialised_pages.items():
-        page_data.cave_articles = [ (a, a.date, was_author_in_cave(a, page_name)) for a in page_data.articles ]
-        if context.caching_enabled:
-            if page_name in changed_caves:
-                page_data.same_as_cache = False
-            if any(i in changes for i in refresh_triggers):
-                page_data.same_as_cache = False
-            if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
-                page_data.same_as_cache = False
-            if page_data.same_as_cache:
-                continue
-        number_written = number_written + 1
-        signal_sender = Signal("BEFORE_ARTICLE_WRITE")
-        signal_sender.send(context=context, afile=page_data)
-        page_data.write_file(context=context)
-
-    logger.info("Wrote %s out of %s total cave pages", number_written, len(initialised_pages))
-    
-    # ==========Write the index of caves================
-    cached = True
-    if context.caching_enabled:
-        if len(changed_caves) > 0:
-            cached = False
-        if any(i in changes for i in refresh_triggers):
-            cached = False
-        if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
-            cached = False
-        if cached:
-            return
-    logger.info("writing cave page index")
-    pages = initialised_pages
-    row=namedtuple('row', 'name number recentdate meta')
-    rows = []
-    for page_name in pages.keys():
-        name = page_name
-        number = len(pages[page_name].articles)
-        recentdate = max([article.date for article in pages[page_name].articles])
-        meta = content_dictionary[page_name].metadata if page_name in content_dictionary.keys() else None
-        rows.append(row(name, number, recentdate, meta))
-    filename=os.path.join(output_path, 'index.html')
-    
-    writer = Writer(
-            context, 
-            filename, 
-            template + "_index.html",
-            rows=sorted(rows, key=lambda x: x.name))
-    writer.write_file()
-
-def generate_person_pages(context):
-    # For each person generate a page listing the caves they have been in and the article that
-    # describes that trip
-    caver_bios=context['caverbios']
-    cavers=context['cavepeep_person']
-
-    dictionary = cavers
-    content_dictionary = caver_bios
-    output_path = "cavers"
-    template = "caverpages"
-
-    row = namedtuple('row', 'path content metadata articles authored same_as_cache')
-    initialised_pages = {}
-
-    for key in dictionary.keys():
-        if key not in initialised_pages.keys():
-            logger.debug("Adding {} to list of pages to write".format(key))
-            if key in content_dictionary:
-                source = content_dictionary[key]
-                logger.debug("Content added to " + key)
-            else:
-                source = Caver(context, content='', metadata={},basename=key)
-                source.same_as_cache = context.is_cached
-
-            if key in context.authors:
-                source.authored = sorted(context.authors[key], key=lambda k: (k.date), reverse=True)
-
-            source.output_filepath = os.path.join(output_path, str(key) + '.html')
-            source.articles = dictionary[key]
-            source.template = template + '.html'
-            initialised_pages[key] = source
-        else:
-            initialised_pages[key].articles.extend(dictionary[key])
-
-    
-    def get_people(cavepeep):
-        c = re.compile(r"""DATE=\s*(\d\d\d\d-\d\d-\d\d)\s*;\s*CAVE=\s*([\s\w\D][^;]*)\s*;\s*PEOPLE=\s*([\s\w\D][^;]*);*[\n\t\r]*""")
-        # Create key/value relationship between trip identifier (Date + Cave) and list of cavers
-        item_date = None
-        item_caves = None
-        item_people = None
-        m = c.match(cavepeep)
-        if not m:
-            return []
-        item_people=m.group(3).split(',')
-
-        item_people=item_people if type(item_people) is list else [item_people]
-        item_people=[x.strip() for x in item_people]
-        return item_people
-    
-    for page_name, page_data in initialised_pages.items():
-        cocavers = {}
-        for article in set([a.article for a in page_data.articles]):
-            trips = article.metadata['cavepeeps'] if type(article.metadata['cavepeeps']) is list else [article.metadata['cavepeeps']]
-            for trip in trips:
-                people = get_people(trip)
-                if page_name in people:
-                    for person in people:                    
-                        if person in cocavers:
-                            cocavers[person] = cocavers[person] + 1
-                        else:
-                            cocavers[person] = 1
-        del cocavers[page_name]
-        page_data.cocavers = sorted([(person, cocavers[person]) for person in cocavers.keys()], key=lambda tup: tup[1], reverse=True)
-    
-        caves = {}
-        for trip in [a.cave for a in page_data.articles]:
-            if trip is None:
-                continue
-            for cave in [a.strip() for a in trip.split('>')]:
-                if cave in caves:
-                    caves[cave] = caves[cave] + 1
-                else:
-                    caves[cave] = 1
-        page_data.caves = sorted([(cave, caves[cave]) for cave in caves.keys()], key=lambda tup: tup[1], reverse=True)
-
-
-    # Work out if we need to update this file
-    changes = context['cache_change_types']
-    meta_changes = context['cache_changed_meta']
-    refresh_triggers       = ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"]
-    refresh_meta_triggers  = ['title', 'location', 'date', 'status']
     changed_people = []
-    
     if "ARTICLE.NEW_FILE" in changes or "ARTICLE.META_CHANGE" in changes:
         for meta_change in meta_changes:
             added, removed, modified = meta_change
             if 'cavepeeps' in added:
                 people, caves = parse_metadata(added['cavepeeps'])
                 changed_people.extend(people)
+                changed_caves.extend(caves)
             if 'cavepeeps' in removed:
                 people, caves = parse_metadata(removed['cavepeeps'])
+                changed_caves.extend(caves)
                 changed_people.extend(people)
             if 'cavepeeps' in modified:
                 people, caves = parse_metadata(modified['cavepeeps'][0])
+                changed_caves.extend(caves)
                 changed_people.extend(people)
                 people, caves = parse_metadata(modified['cavepeeps'][1])
+                changed_caves.extend(caves)
                 changed_people.extend(people)
             if 'authors' in added:
                 people = [ p.strip() for p in added['authors'].split(',') ]
@@ -361,29 +184,131 @@ def generate_person_pages(context):
                 changed_people.extend(people)                
                 people = [ p.strip() for p in modified['authors'][1].split(',') ]
                 changed_people.extend(people)
+    return changed_caves, changed_people
+    
+def generate_cave_pages(context):
+    changes = context['cache_change_types']
+    meta_changes = context['cache_changed_meta']
+    refresh_triggers       = ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"]
+    refresh_meta_triggers  = ['title', 'location', 'date', 'status']
+    changed_caves, changed_people = get_changes(context)
+    # Flatten list of all caves
+    caves = sorted(list(set([ cave for trip in context['trip_db'].all() for cave in trip['caves'] if cave is not None ])))
+    # Ensure each has an article object in the db
+    for cave_name in caves:
+        if context['caves_db'].get(Query().cave == cave_name) is None:
+            article = Cave(context, content='', metadata={},basename=cave_name)
+            article.same_as_cache = context.is_cached
+            context['caves_db'].insert({"cave": cave_name,  "article": article})
 
-    logger.debug("Writing %s caver pages", len(initialised_pages))
+    logger.debug("Writing %s caver pages", len(context['caves_db'].all()))
     number_written = 0
-    for page_name, page_data in initialised_pages.items():
-        page_data.caver_articles = page_data.articles
-        page_data.number = len([ a for a in page_data.articles if a.cave is not None ])
+    output_path = "caves"
+    template = "cavepages"
+    for cave in context['caves_db']:
+        cave_name = cave['cave']
+        cave['article'].output_filepath = os.path.join(output_path, str(cave_name) + '.html')
+        cave['article'].template = template + '.html'
+        trips = context['trip_db'].search(Query().caves.any([cave_name]))
+        cave['article'].cave_articles = [ (t['article'], t['date'], was_author_in_cave(t['article'], cave_name)) for t in trips ]
+
         if context.caching_enabled:
-            if page_name in changed_people:
-                page_data.same_as_cache = False
+            if cave_name in changed_caves:
+                cave['article'].same_as_cache = False
             if any(i in changes for i in refresh_triggers):
-                page_data.same_as_cache = False
+                cave['article'].same_as_cache = False
             if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
-                page_data.same_as_cache = False
-            if page_data.same_as_cache:
+                cave['article'].same_as_cache = False
+            if cave['article'].same_as_cache:
                 continue
         number_written = number_written + 1
         signal_sender = Signal("BEFORE_ARTICLE_WRITE")
-        signal_sender.send(context=context, afile=page_data)
-        page_data.write_file(context=context)
+        signal_sender.send(context=context, afile=cave['article'])
+        cave['article'].write_file(context=context)
+    logger.info("Wrote %s out of %s total cave pages", number_written, len(context['caves_db'].all()))
 
-    pages = initialised_pages
-    logger.info("Wrote %s out of %s total caver pages", number_written, len(initialised_pages))
+    # ==========Write the index of caves================
+    cached = True
+    if context.caching_enabled:
+        if len(changed_caves) > 0:
+            cached = False
+        if any(i in changes for i in refresh_triggers):
+            cached = False
+        if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
+            cached = False
+        if cached:
+            return
+    logger.info("writing cave page index")
+    row=namedtuple('row', 'name number recentdate meta')
+    rows = []
+    for cave in context['caves_db']:
+        name = cave['cave']
+        number = len(cave['article'].cave_articles)
+        recentdate = max([trip[1] for trip in cave['article'].cave_articles])
+        meta = cave['article'].metadata
+        rows.append(row(name, number, recentdate, meta))
+    filename=os.path.join(output_path, 'index.html')
     
+    writer = Writer(
+            context, 
+            filename, 
+            template + "_index.html",
+            rows=sorted(rows, key=lambda x: x.name))
+    writer.write_file()
+
+def generate_person_pages(context):
+    changes = context['cache_change_types']
+    meta_changes = context['cache_changed_meta']
+    refresh_triggers       = ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"]
+    refresh_meta_triggers  = ['title', 'location', 'date', 'status']
+    changed_caves, changed_people = get_changes(context)
+    
+    # Flatten list of all cavers
+    cavers = sorted(list(set([ person for trip in context['trip_db'].all() for person in trip['people']])))
+    # Ensure each caver has an article object in the db
+    for caver_name in cavers:
+        if context['cavers_db'].get(Query().cave == caver_name) is None:
+            article = Caver(context, content='', metadata={},basename=caver_name)
+            article.same_as_cache = context.is_cached
+            context['cavers_db'].insert({"caver": caver_name,  "article": article})
+
+    output_path = "cavers"
+    template = "caverpages"
+    row=namedtuple('row', 'cave article date')
+    for caver in context['cavers_db']:
+        caver_name = caver['caver']
+        caver['article'].output_filepath = os.path.join(output_path, str(caver_name) + '.html')
+        caver['article'].template = template + '.html'
+        trips = context['trip_db'].search(Query().people.any([caver_name]))
+        caver['article'].caver_articles = [row(' > '.join(t['caves']), t['article'], t['date']) for t in trips ]
+        cocavers = dict.fromkeys(set([ person for trip in trips for person in trip['people']]),0)
+        del cocavers[caver_name]
+        for key in cocavers:
+            for trip in trips:
+                if key in trip['people']:
+                    cocavers[key] = cocavers[key] + 1
+        caver['article'].cocavers = sorted([(person, cocavers[person]) for person in cocavers.keys()], key=lambda tup: tup[1], reverse=True)
+        caves = dict.fromkeys(set([ cave for trip in trips for cave in trip['caves']]),0)
+        for key in caves:
+            for trip in trips:
+                if key in trip['caves']:
+                    caves[key] = caves[key] + 1
+        caver['article'].caves = sorted([(cave, caves[cave]) for cave in caves.keys()], key=lambda tup: tup[1], reverse=True)
+
+        if context.caching_enabled:
+            if caver_name in changed_people:
+                caver['article'].same_as_cache = False
+            if any(i in changes for i in refresh_triggers):
+                caver['article'].same_as_cache = False
+            if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
+                caver['article'].same_as_cache = False
+            if caver['article'].same_as_cache:
+                continue
+        # number_written = number_written + 1
+        signal_sender = Signal("BEFORE_ARTICLE_WRITE")
+        signal_sender.send(context=context, afile=caver['article'])
+        caver['article'].write_file(context=context)
+
     # ==========Write the index of cavers================
     cached = True
     if context.caching_enabled:
@@ -397,11 +322,11 @@ def generate_person_pages(context):
             return
     row=namedtuple('row', 'name number recentdate meta')
     rows = []
-    for page_name in pages.keys():
-        name = page_name
-        number = len([ a for a in pages[page_name].articles if a.cave is not None ])
-        recentdate = max([article.date for article in pages[page_name].articles])
-        meta = content_dictionary[page_name].metadata if page_name in content_dictionary.keys() else None
+    for caver in context['cavers_db']:
+        name = caver['caver']
+        number = len([ a for a in caver['article'].caver_articles if a.cave is not None ])
+        recentdate = max([article.date for article in caver['article'].caver_articles])
+        meta = caver['article'].metadata
         rows.append(row(name, number, recentdate, meta))
     filename=os.path.join(output_path, 'index.html')
     writer = Writer(

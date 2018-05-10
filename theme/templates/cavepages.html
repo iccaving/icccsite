@@ -32,7 +32,7 @@
           </tr>
           {% for subarticle, date, verified in cave_articles %}
           <tr>
-            <td><a href="{{ SITEURL }}/{{ subarticle.article.url }}">{{ subarticle.article.title }}</a>
+            <td><a href="{{ SITEURL }}/{{ subarticle.url }}">{{ subarticle.title }}</a>
             </td>
             <td>{{ date.strftime('%d-%m-%Y') }}</td>
             <td>{{ '✓' if verified else '✕' }}</td>
