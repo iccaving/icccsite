@@ -1,7 +1,6 @@
 from collections import namedtuple
 import os
 import re
-import copy
 import time
 from datetime import datetime
 from tinydb import TinyDB, Query
@@ -12,6 +11,8 @@ from olm.writer import Writer
 from olm.logger import get_logger
 from olm.helper import merge_dictionaries
 from olm.signals import Signal, signals
+
+from util import parse_metadata
 
 logger = get_logger('olm.plugins.cavepeep')
 
@@ -63,30 +64,10 @@ class Caver(Source):
             logger.warn(e)
         return not self.same_as_cache
 
-def parse_metadata(metadata):
-    metadata = [metadata] if not isinstance(metadata, list) else metadata
-    c = re.compile(r"""\s*DATE=\s*(\d\d\d\d-\d\d-\d\d)\s*;\s*CAVE=\s*([\s\w\D][^;]*)\s*;\s*PEOPLE=\s*([\s\w\D][^;]*)""")
-    c2 = re.compile(r"""\s*NOCAVE=\s*([\s\w\D][^;]*);*[\n\t\r]*""")
-    people = []
-    caves = []
-    for entry in metadata:
-            # Create key/value relationship between trip identifier (Date + Cave) and list of cavers
-            item_caves = None
-            item_people = None
-            m = c.match(entry)
-            m2 = c2.match(entry)
-            if m:
-                item_caves=m.group(2)
-                item_people=m.group(3).split(',')
-            elif m2:
-                item_caves=None
-                item_people=m2.group(1).split(',')
-            else:
-                logger.error("Error parsing metadata for caching")
-                continue
-            people.extend([ p.strip() for p in item_people ])
-            if item_caves is not None:
-                caves.extend([ c.strip() for c in item_caves.split('>')])
+def parse_changes(metadata):
+    trips = parse_metadata(metadata)
+    people = set([ person for trip in trips for person in trip['people'] ])
+    caves = set([ cave for trip in trips for cave in trip['caves'] ])
     return (people, caves)
 
 def construct_bios(sender, context, **kwargs):
@@ -159,18 +140,18 @@ def get_changes(context):
         for meta_change in meta_changes:
             added, removed, modified = meta_change
             if 'cavepeeps' in added:
-                people, caves = parse_metadata(added['cavepeeps'])
+                people, caves = parse_changes(added['cavepeeps'])
                 changed_people.extend(people)
                 changed_caves.extend(caves)
             if 'cavepeeps' in removed:
-                people, caves = parse_metadata(removed['cavepeeps'])
+                people, caves = parse_changes(removed['cavepeeps'])
                 changed_caves.extend(caves)
                 changed_people.extend(people)
             if 'cavepeeps' in modified:
-                people, caves = parse_metadata(modified['cavepeeps'][0])
+                people, caves = parse_changes(modified['cavepeeps'][0])
                 changed_caves.extend(caves)
                 changed_people.extend(people)
-                people, caves = parse_metadata(modified['cavepeeps'][1])
+                people, caves = parse_changes(modified['cavepeeps'][1])
                 changed_caves.extend(caves)
                 changed_people.extend(people)
             if 'authors' in added:
@@ -203,15 +184,10 @@ def generate_cave_pages(context):
 
     logger.debug("Writing %s caver pages", len(context['caves_db'].all()))
     number_written = 0
-    output_path = "caves"
-    template = "cavepages"
     for cave in context['caves_db']:
         cave_name = cave['cave']
-        cave['article'].output_filepath = os.path.join(output_path, str(cave_name) + '.html')
-        cave['article'].template = template + '.html'
-        trips = context['trip_db'].search(Query().caves.any([cave_name]))
-        cave['article'].cave_articles = [ (t['article'], t['date'], was_author_in_cave(t['article'], cave_name)) for t in trips ]
 
+        # Work out if it needs writing
         if context.caching_enabled:
             if cave_name in changed_caves:
                 cave['article'].same_as_cache = False
@@ -221,6 +197,15 @@ def generate_cave_pages(context):
                 cave['article'].same_as_cache = False
             if cave['article'].same_as_cache:
                 continue
+        
+        # Set filepath and jinja template
+        cave['article'].output_filepath = os.path.join("caves", str(cave_name) + '.html')
+        cave['article'].template = 'cavepages.html'
+
+        # Construct articles list with useful stuff (date, article, author_in_cave) surfaced
+        trips = context['trip_db'].search(Query().caves.any([cave_name]))
+        cave['article'].cave_articles = [ (t['article'], t['date'], was_author_in_cave(t['article'], cave_name)) for t in trips ]
+
         number_written = number_written + 1
         signal_sender = Signal("BEFORE_ARTICLE_WRITE")
         signal_sender.send(context=context, afile=cave['article'])
@@ -238,7 +223,7 @@ def generate_cave_pages(context):
             cached = False
         if cached:
             return
-    logger.info("writing cave page index")
+
     row=namedtuple('row', 'name number recentdate meta')
     rows = []
     for cave in context['caves_db']:
@@ -247,12 +232,12 @@ def generate_cave_pages(context):
         recentdate = max([trip[1] for trip in cave['article'].cave_articles])
         meta = cave['article'].metadata
         rows.append(row(name, number, recentdate, meta))
-    filename=os.path.join(output_path, 'index.html')
+    filename=os.path.join('caves', 'index.html')
     
     writer = Writer(
             context, 
             filename, 
-            template + "_index.html",
+            "cavepages_index.html",
             rows=sorted(rows, key=lambda x: x.name))
     writer.write_file()
 
@@ -272,29 +257,13 @@ def generate_person_pages(context):
             article.same_as_cache = context.is_cached
             context['cavers_db'].insert({"caver": caver_name,  "article": article})
 
-    output_path = "cavers"
-    template = "caverpages"
+    logger.debug("Writing %s caver pages", len(context['cavers_db'].all()))
+    number_written = 0
     row=namedtuple('row', 'cave article date')
     for caver in context['cavers_db']:
         caver_name = caver['caver']
-        caver['article'].output_filepath = os.path.join(output_path, str(caver_name) + '.html')
-        caver['article'].template = template + '.html'
-        trips = context['trip_db'].search(Query().people.any([caver_name]))
-        caver['article'].caver_articles = [row(' > '.join(t['caves']), t['article'], t['date']) for t in trips ]
-        cocavers = dict.fromkeys(set([ person for trip in trips for person in trip['people']]),0)
-        del cocavers[caver_name]
-        for key in cocavers:
-            for trip in trips:
-                if key in trip['people']:
-                    cocavers[key] = cocavers[key] + 1
-        caver['article'].cocavers = sorted([(person, cocavers[person]) for person in cocavers.keys()], key=lambda tup: tup[1], reverse=True)
-        caves = dict.fromkeys(set([ cave for trip in trips for cave in trip['caves']]),0)
-        for key in caves:
-            for trip in trips:
-                if key in trip['caves']:
-                    caves[key] = caves[key] + 1
-        caver['article'].caves = sorted([(cave, caves[cave]) for cave in caves.keys()], key=lambda tup: tup[1], reverse=True)
 
+        # Work out it needs to be written
         if context.caching_enabled:
             if caver_name in changed_people:
                 caver['article'].same_as_cache = False
@@ -304,10 +273,35 @@ def generate_person_pages(context):
                 caver['article'].same_as_cache = False
             if caver['article'].same_as_cache:
                 continue
-        # number_written = number_written + 1
+
+        # Set filepath and jinja template
+        caver['article'].output_filepath = os.path.join("cavers", str(caver_name) + '.html')
+        caver['article'].template = 'caverpages.html'
+
+        # Compute cocavers
+        trips = context['trip_db'].search(Query().people.any([caver_name]))
+        caver['article'].caver_articles = [row(' > '.join(t['caves']), t['article'], t['date']) for t in trips ]
+        cocavers = dict.fromkeys(set([ person for trip in trips for person in trip['people']]),0)
+        del cocavers[caver_name]
+        for key in cocavers:
+            for trip in trips:
+                if key in trip['people']:
+                    cocavers[key] = cocavers[key] + 1
+
+        # Compute caves
+        caver['article'].cocavers = sorted([(person, cocavers[person]) for person in cocavers.keys()], key=lambda tup: tup[1], reverse=True)
+        caves = dict.fromkeys(set([ cave for trip in trips for cave in trip['caves']]),0)
+        for key in caves:
+            for trip in trips:
+                if key in trip['caves']:
+                    caves[key] = caves[key] + 1
+        caver['article'].caves = sorted([(cave, caves[cave]) for cave in caves.keys()], key=lambda tup: tup[1], reverse=True)
+
+        number_written = number_written + 1
         signal_sender = Signal("BEFORE_ARTICLE_WRITE")
         signal_sender.send(context=context, afile=caver['article'])
         caver['article'].write_file(context=context)
+    logger.info("Wrote %s out of %s total cave pages", number_written, len(context['cavers_db'].all()))
 
     # ==========Write the index of cavers================
     cached = True
@@ -328,11 +322,11 @@ def generate_person_pages(context):
         recentdate = max([article.date for article in caver['article'].caver_articles])
         meta = caver['article'].metadata
         rows.append(row(name, number, recentdate, meta))
-    filename=os.path.join(output_path, 'index.html')
+    filename=os.path.join('cavers','index.html')
     writer = Writer(
         context, 
         filename, 
-        template + "_index.html",
+        "caverpages_index.html",
         rows=sorted(sorted(rows, key=lambda x: x.name), key=lambda x: x.recentdate, reverse=True))
     writer.write_file()
 
