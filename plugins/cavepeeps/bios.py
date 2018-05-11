@@ -92,11 +92,7 @@ def construct_bios(sender, context, **kwargs):
                 article.cache_type = btype.upper()
                 context['all_files'].append(article)
                 dictionary[os.path.splitext(afile)[0]]=article
-                if btype == "caves":
-                    context['caves_db'].insert({"cave": os.path.splitext(afile)[0],  "article": article})
-                else:
-                    context['cavers_db'].insert({"caver": os.path.splitext(afile)[0],  "article": article})
-
+                context[btype + '_db'].insert({"name": os.path.splitext(afile)[0],  "article": article})
 
         return dictionary
 
@@ -180,12 +176,12 @@ def generate_cave_pages(context):
         if context['caves_db'].get(Query().cave == cave_name) is None:
             article = Cave(context, content='', metadata={},basename=cave_name)
             article.same_as_cache = context.is_cached
-            context['caves_db'].insert({"cave": cave_name,  "article": article})
+            context['caves_db'].insert({"name": cave_name,  "article": article})
 
     logger.debug("Writing %s caver pages", len(context['caves_db'].all()))
     number_written = 0
     for cave in context['caves_db']:
-        cave_name = cave['cave']
+        cave_name = cave['name']
 
         # Work out if it needs writing
         if context.caching_enabled:
@@ -227,7 +223,7 @@ def generate_cave_pages(context):
     row=namedtuple('row', 'name number recentdate meta')
     rows = []
     for cave in context['caves_db']:
-        name = cave['cave']
+        name = cave['name']
         number = len(cave['article'].cave_articles)
         recentdate = max([trip[1] for trip in cave['article'].cave_articles])
         meta = cave['article'].metadata
@@ -255,13 +251,13 @@ def generate_person_pages(context):
         if context['cavers_db'].get(Query().cave == caver_name) is None:
             article = Caver(context, content='', metadata={},basename=caver_name)
             article.same_as_cache = context.is_cached
-            context['cavers_db'].insert({"caver": caver_name,  "article": article})
+            context['cavers_db'].insert({"name": caver_name,  "article": article})
 
     logger.debug("Writing %s caver pages", len(context['cavers_db'].all()))
     number_written = 0
     row=namedtuple('row', 'cave article date')
     for caver in context['cavers_db']:
-        caver_name = caver['caver']
+        caver_name = caver['name']
 
         # Work out it needs to be written
         if context.caching_enabled:
@@ -317,7 +313,7 @@ def generate_person_pages(context):
     row=namedtuple('row', 'name number recentdate meta')
     rows = []
     for caver in context['cavers_db']:
-        name = caver['caver']
+        name = caver['name']
         number = len([ a for a in caver['article'].caver_articles if a.cave is not None ])
         recentdate = max([article.date for article in caver['article'].caver_articles])
         meta = caver['article'].metadata
