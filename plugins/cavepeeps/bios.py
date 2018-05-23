@@ -25,16 +25,16 @@ class Cave(Source):
     def write_file(self, context=None):
         if self.context.caching_enabled and self.same_as_cache:
             return
-        #try:
-        super().write_file(
+        try:
+            super().write_file(
                 context,
                 content=context.MD(self.content),
                 metadata=self.metadata,
                 cave_articles=sorted(self.cave_articles, key=lambda x: x[0].date, reverse=True),
                 pagename=self.basename)
-        #except Exception as e:
-        #    logger.warn("Failed to write {}".format(self.output_filepath))
-        #    logger.warn(e)
+        except Exception as e:
+            logger.warn("Failed to write {}".format(self.output_filepath))
+            logger.warn(e)
         return not self.same_as_cache
 
 class Caver(Source):
