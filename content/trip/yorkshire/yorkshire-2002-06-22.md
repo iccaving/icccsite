@@ -3,11 +3,17 @@ Date: 2002-06-22
 Location: yorkshire
 Summary: Caving in Yorkshire
 Type: trip
+Authors: Jan Evetts, Andy Jurd, Colm Carroll
+Cavepeeps: DATE=2002-06-22; CAVE=Juniper Gulf; PEOPLE=Jan Evetts, Andy Jurd, Colm Carroll;
+     DATE=2002-06-23; CAVE=Diccan Pot > Alum Pot; PEOPLE=Colm Carroll, Andy Jurd;
+     DATE=2002-06-23; CAVE=Alum Pot > Diccan Pot; PEOPLE=Jan Evetts, Hugh Penney;
 Oldurl:/caving/yorkshire/yorkshire0602.php
 
 #  Yorkshire 
 
 ##  Weekend Trip 22/23 June 2002 
+
+#####{{ allpeople }}
 
 ###  Saturday - Not Juniper Gulf 
 
@@ -25,8 +31,6 @@ _ Colm writes: _
 I'd imagine this cave is a very satisfactory rigging trip - though I wouldn't know, as we didn't do it. Many P bolts, but you only need to use half of them. Bottom pitch is a fine 45m free hang, though with the p-hangers it might be a bit longer. Sump was absolutely disgusting - I pity the poor guy who dived it. Despite forecast, weather was good, so, on exit I re-rigged the pitches to the 'wet-route' to make them easier. 
 
 ###  Sunday - Diccan Alum exchange 
-
-| 
 
   * Diccan - Colm, Andy 
   * Alum SE - Jan, Hugh 

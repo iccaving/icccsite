@@ -6,7 +6,7 @@ Type: trip
 Authors: Jan Evetts
 Cavepeeps: DATE=2002-01-26; CAVE=Cow Pot; PEOPLE=Jan Evetts, Clewin Griffiths;
      DATE=2002-01-26; CAVE=Pippikin Pot; PEOPLE=Andy Jurd, Ben Ogborne;
-     DATE=2002-01-27; CAVE=Aygill Caverns; PEOPLE=Jan Evetts, Clewin Grifffiths, Ben Ogborne;
+     DATE=2002-01-27; CAVE=Aygill Caverns; PEOPLE=Jan Evetts, Clewin Griffiths, Ben Ogborne;
      DATE=2002-01-27; CAVE=Pippikin Pot; PEOPLE=Andy Jurd;
 Oldurl:/caving/yorkshire/yorkshire0102.php
 
