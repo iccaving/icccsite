@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg:DSC08324.-RhysTyers.jpg
 Thumbl:DSC08127.-RhysTyers--thumb.jpg
 Thumbr:DSC08183.-RhysTyers--thumb.jpg
-Authors: Jack Hare, Rebecca Diss, Dave Kirkpatrick
+Authors: Jack Hare, Rebecca Diss, Dave Kirkpatrick, Rhys Tyers
 Cavepeeps: DATE=2018-04-28; CAVE=Wretched Rabbit; PEOPLE=Jarvist Frost, Una Barker;
            DATE=2018-04-28; CAVE=Lancaster Hole; PEOPLE=Alex Seaton, Rebecca Diss, Georgia Kouti;
            DATE=2018-04-28; CAVE=Cow Pot; PEOPLE=Rhys Tyers, Arun Paul, Jack Halliday;

@@ -11,6 +11,7 @@ from olm.writer import Writer
 from olm.logger import get_logger
 from olm.helper import merge_dictionaries
 from olm.signals import Signal, signals
+from olm.constants import ArticleStatus
 
 from util import parse_metadata
 
@@ -282,7 +283,9 @@ def generate_person_pages(context):
                 continue
 
         # Compute authored
-        caver['article'].authored = sorted(context.authors[caver_name], key=lambda k: (k.date), reverse=True) if caver_name in context.authors else None
+        if caver_name in context.authors:
+            authored = [ a for a in context.authors[caver_name] if a.status is not ArticleStatus.DRAFT and a.status is not ArticleStatus.UNLISTED ]
+            caver['article'].authored = sorted(authored, key=lambda k: (k.date), reverse=True)
 
         # Compute cocavers
         cocavers = dict.fromkeys(set([ person for trip in trips for person in trip['people']]),0)
