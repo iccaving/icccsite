@@ -8,7 +8,7 @@ Mainimg: IMGP0591.jpg
 Thumbl: IMGP0596--thumb.jpg
 Thumbr: IMGP0595--thumb.jpg
 Authors: Jutta Schnabel
-Cavepeeps: DATE=2006-11-11;CAVE=Bull Pot;PEOPLE=Jutta Schnabel, Sandeep Mavadia, Mark, Dan, Sarah, James Huggett;
+Cavepeeps: DATE=2006-11-11;CAVE=Bull Pot;PEOPLE=Jutta Schnabel, Sandeep Mavadia, Mark, Dan Greenwald, Sarah, James Huggett;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2006-11-10.php
 Status:
 

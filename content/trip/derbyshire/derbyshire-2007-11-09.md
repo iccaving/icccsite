@@ -12,7 +12,7 @@ Cavepeeps: DATE=2007-11-10; CAVE=Giant's Hole; PEOPLE=Goaty, Dan Greenwald, Tom 
            DATE=2007-11-10; CAVE=Oxlow Cavern; PEOPLE=Jarvist Frost, Jana Carga, James Huggett;
            DATE=2007-11-11; CAVE=Oxlow Cavern; PEOPLE=James Kirkpatrick, Jana Carga, Jarvist Frost, Veronique Mahue;
            DATE=2007-11-11; CAVE=Maskhill Mine; PEOPLE=James Huggett, Jan Evetts, Dan Cooke;
-           DATE=2007-11-11; CAVE=Eldon Hole; PEOPLE=Andy Jurd, Joe King, Annie, Dan Greenwald;
+           DATE=2007-11-11; CAVE=Eldon Hole; PEOPLE=Andy Jurd, Joe King, Annie Yiu, Dan Greenwald;
 Oldurl: /rcc/caving/derbyshire/derbyshire-2007-11-09.php
 Status:
 
