@@ -173,7 +173,7 @@ def generate_cave_pages(context):
     caves = sorted(list(set([ cave for trip in context['trip_db'].all() for cave in trip['caves'] if cave is not None ])))
     # Ensure each has an article object in the db
     for cave_name in caves:
-        if context['caves_db'].get(Query().cave == cave_name) is None:
+        if context['caves_db'].get(Query().name == cave_name) is None:
             article = Cave(context, content='', metadata={},basename=cave_name)
             article.same_as_cache = context.is_cached
             context['caves_db'].insert({"name": cave_name,  "article": article})
@@ -182,6 +182,14 @@ def generate_cave_pages(context):
     number_written = 0
     for cave in context['caves_db']:
         cave_name = cave['name']
+                
+        # Set filepath and jinja template
+        cave['article'].output_filepath = os.path.join("caves", str(cave_name) + '.html')
+        cave['article'].template = 'cavepages.html'
+
+        # Construct articles list with useful stuff (date, article, author_in_cave) surfaced
+        trips = context['trip_db'].search(Query().caves.any([cave_name]))
+        cave['article'].cave_articles = [ (t['article'], t['date'], was_author_in_cave(t['article'], cave_name)) for t in trips ]
 
         # Work out if it needs writing
         if context.caching_enabled:
@@ -193,14 +201,6 @@ def generate_cave_pages(context):
                 cave['article'].same_as_cache = False
             if cave['article'].same_as_cache:
                 continue
-        
-        # Set filepath and jinja template
-        cave['article'].output_filepath = os.path.join("caves", str(cave_name) + '.html')
-        cave['article'].template = 'cavepages.html'
-
-        # Construct articles list with useful stuff (date, article, author_in_cave) surfaced
-        trips = context['trip_db'].search(Query().caves.any([cave_name]))
-        cave['article'].cave_articles = [ (t['article'], t['date'], was_author_in_cave(t['article'], cave_name)) for t in trips ]
 
         number_written = number_written + 1
         signal_sender = Signal("BEFORE_ARTICLE_WRITE")
@@ -247,8 +247,9 @@ def generate_person_pages(context):
     # Flatten list of all cavers
     cavers = sorted(list(set([ person for trip in context['trip_db'].all() for person in trip['people']])))
     # Ensure each caver has an article object in the db
+
     for caver_name in cavers:
-        if context['cavers_db'].get(Query().cave == caver_name) is None:
+        if context['cavers_db'].get(Query().name == caver_name) is None:
             article = Caver(context, content='', metadata={},basename=caver_name)
             article.same_as_cache = context.is_cached
             context['cavers_db'].insert({"name": caver_name,  "article": article})
@@ -258,6 +259,16 @@ def generate_person_pages(context):
     row=namedtuple('row', 'cave article date')
     for caver in context['cavers_db']:
         caver_name = caver['name']
+
+        # Set filepath and jinja template
+        caver['article'].output_filepath = os.path.join("cavers", str(caver_name) + '.html')
+        caver['article'].template = 'caverpages.html'
+
+        trips = context['trip_db'].search(Query().people.any([caver_name]))
+        caver['article'].caver_articles = [row(' > '.join(t['caves']), t['article'], t['date']) for t in trips ]
+
+        # Set number of trips
+        caver['article'].number = len([ t for t in trips if len(t['caves']) > 0 ])
 
         # Work out it needs to be written
         if context.caching_enabled:
@@ -270,22 +281,19 @@ def generate_person_pages(context):
             if caver['article'].same_as_cache:
                 continue
 
-        # Set filepath and jinja template
-        caver['article'].output_filepath = os.path.join("cavers", str(caver_name) + '.html')
-        caver['article'].template = 'caverpages.html'
+        # Compute authored
+        caver['article'].authored = sorted(context.authors[caver_name], key=lambda k: (k.date), reverse=True) if caver_name in context.authors else None
 
         # Compute cocavers
-        trips = context['trip_db'].search(Query().people.any([caver_name]))
-        caver['article'].caver_articles = [row(' > '.join(t['caves']), t['article'], t['date']) for t in trips ]
         cocavers = dict.fromkeys(set([ person for trip in trips for person in trip['people']]),0)
         del cocavers[caver_name]
         for key in cocavers:
             for trip in trips:
                 if key in trip['people']:
                     cocavers[key] = cocavers[key] + 1
+        caver['article'].cocavers = sorted([(person, cocavers[person]) for person in cocavers.keys()], key=lambda tup: tup[1], reverse=True)
 
         # Compute caves
-        caver['article'].cocavers = sorted([(person, cocavers[person]) for person in cocavers.keys()], key=lambda tup: tup[1], reverse=True)
         caves = dict.fromkeys(set([ cave for trip in trips for cave in trip['caves']]),0)
         for key in caves:
             for trip in trips:
@@ -297,7 +305,7 @@ def generate_person_pages(context):
         signal_sender = Signal("BEFORE_ARTICLE_WRITE")
         signal_sender.send(context=context, afile=caver['article'])
         caver['article'].write_file(context=context)
-    logger.info("Wrote %s out of %s total cave pages", number_written, len(context['cavers_db'].all()))
+    logger.info("Wrote %s out of %s total caver pages", number_written, len(context['cavers_db'].all()))
 
     # ==========Write the index of cavers================
     cached = True
@@ -314,7 +322,7 @@ def generate_person_pages(context):
     rows = []
     for caver in context['cavers_db']:
         name = caver['name']
-        number = len([ a for a in caver['article'].caver_articles if a.cave is not None ])
+        number = caver['article'].number
         recentdate = max([article.date for article in caver['article'].caver_articles])
         meta = caver['article'].metadata
         rows.append(row(name, number, recentdate, meta))

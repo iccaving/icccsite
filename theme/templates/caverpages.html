@@ -40,7 +40,7 @@
           <th>Date</th>
         </tr>
         {% for cave, article, date in caver_articles %}
-        {% if cave is none %}
+        {% if cave == '' %}
           <tr>
             <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
             </td>

@@ -4,7 +4,7 @@ from olm.logger import get_logger
 
 logger = get_logger('olm.plugins.cavepeep')
 
-def parse_metadata(metadata, article):
+def parse_metadata(metadata, article=None):
     trips = []
 
     # Ensure the metadata is a list. It will be a string if there is
