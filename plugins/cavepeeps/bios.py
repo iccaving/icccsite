@@ -224,6 +224,7 @@ def generate_cave_pages(context):
     row=namedtuple('row', 'name number recentdate meta')
     rows = []
     for cave in context['caves_db']:
+        print(cave)
         name = cave['name']
         number = len(cave['article'].cave_articles)
         recentdate = max([trip[1] for trip in cave['article'].cave_articles])
