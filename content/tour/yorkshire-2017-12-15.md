@@ -18,7 +18,7 @@ Cavepeeps: DATE=2017-12-16; CAVE=Yordas Pot > Yordas Cave; PEOPLE=Rhys Tyers, Ar
            DATE=2017-12-19; CAVE=Lancaster Hole; PEOPLE=Rhys Tyers, Jack Hare, Ben Richards, Dave Wilson, Alex Betts;
            DATE=2017-12-20; CAVE=Stream Passage Pot > Bar Pot; PEOPLE=Rhys Tyers, Arun Paul, Jim Evans;
            DATE=2017-12-20; CAVE=Bar Pot > Stream Passage Pot; PEOPLE=Jack Hare, David Wilson, James Wilson;
-           DATE=2017-12-20; CAVE=Bar Pot > Bar Pot; PEOPLE=Rebecca Diss, Alex Betts, Ben Richards, Jay Chen;
+           DATE=2017-12-20; CAVE=Bar Pot; PEOPLE=Rebecca Diss, Alex Betts, Ben Richards, Jay Chen;
            DATE=2017-12-21; CAVE=Notts Pot 2; PEOPLE=Jack Hare, Rhys Tyers, James Wilson, David Wilson, Rebecca Diss, Arun Paul, Ben Richards, Jay Chen;	   
 
 {{ mainimg }}
