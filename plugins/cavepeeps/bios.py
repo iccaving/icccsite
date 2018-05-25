@@ -227,8 +227,8 @@ def generate_cave_pages(context):
             meta = cave['article'].metadata
             rows.append(row(name, number, recentdate, meta))
         except Exception as e:
-            print(cave)
-            print(e)
+            logger.warn("Could not include %s in cave index", name)
+            logger.warn(e)
     filename=os.path.join('caves', 'index.html')
     
     writer = Writer(
