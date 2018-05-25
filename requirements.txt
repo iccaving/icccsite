@@ -11,7 +11,7 @@ libsass==0.13.7
 MarkupSafe==1.0
 mccabe==0.6.1
 mistune==0.8.3
-olm==0.0.34
+olm==0.0.35
 pylint==1.8.2
 six==1.11.0
 tinydb==3.9.0
