@@ -9,9 +9,9 @@
   <div class="article-content">
 
       <h1 class="article-title">{{ personname }}</h1>
-      {% if metadata.badges %}
+      {% if page.metadata.badges %}
       <div class="badges">
-      {% for badge in metadata.badges.split(',') %}
+      {% for badge in page.metadata.badges.split(',') %}
         <div class="badge"><img src='{{ ASSET_LOCATION }}/badges/{{ BADGES[badge].src }}' alt='{{ BADGES[badge].alt }} badge' title='{{ BADGES[badge].alt }}'></div>
       {% endfor %}
       </div>
@@ -21,7 +21,7 @@
       <a href="{{ PHOTO_LOCATION }}/mugshots/{{ personname }}.html"><img onerror='this.style.display = "none"' src="{{ SITEURL }}/photo_archive/mugshots/{{ personname }}.jpg" type="image/jpg"></a>
       </div>
 
-      {{ content|safe }}
+      {{ page.content|safe }}
 
       <h2>Trips attended</h2>
       <p>{{ personname }} has attended {{ number }} trips.</p>
@@ -82,7 +82,7 @@
       {% endif %}
 
       {% if cocavers is defined and cocavers is not none %}
-      <h2>{{ metadata['nickname'] and metadata['nickname'] or personname }}'s Top Cavers</h2>
+      <h2>{{ page.metadata['nickname'] and page.metadata['nickname'] or personname }}'s Top Cavers</h2>
       <p>{{ personname }} has caved with {{ cocavers | length }} cavers.</p>
       <div class="table-container">
         <table class="sortable widetable">
@@ -100,7 +100,7 @@
       {% endif %}
 
       {% if caves is defined and caves is not none %}
-      <h2>{{ metadata['nickname'] and metadata['nickname'] or personname }}'s Top Caves</h2>
+      <h2>{{ page.metadata['nickname'] and page.metadata['nickname'] or personname }}'s Top Caves</h2>
       <div class="table-container">
         <table class="sortable widetable">
           <tr>

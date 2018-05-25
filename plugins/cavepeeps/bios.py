@@ -28,8 +28,7 @@ class Cave(Source):
         try:
             super().write_file(
                 context,
-                content=context.MD(self.content),
-                metadata=self.metadata,
+                page=self,
                 cave_articles=sorted(self.cave_articles, key=lambda x: x[0].date, reverse=True),
                 pagename=self.basename)
         except Exception as e:
@@ -52,8 +51,7 @@ class Caver(Source):
         try:
             super().write_file(
                 context,
-                content=context.MD(self.content),
-                metadata=self.metadata,
+                page=self,
                 caver_articles=sorted(self.caver_articles, key=lambda x: x.date, reverse=True),
                 personname=self.basename,
                 authored=self.authored,
@@ -204,8 +202,6 @@ def generate_cave_pages(context):
                 continue
 
         number_written = number_written + 1
-        signal_sender = Signal("BEFORE_ARTICLE_WRITE")
-        signal_sender.send(context=context, afile=cave['article'])
         cave['article'].write_file(context=context)
     logger.info("Wrote %s out of %s total cave pages", number_written, len(context['caves_db'].all()))
 
@@ -309,8 +305,6 @@ def generate_person_pages(context):
         caver['article'].caves = sorted([(cave, caves[cave]) for cave in caves.keys()], key=lambda tup: tup[1], reverse=True)
 
         number_written = number_written + 1
-        signal_sender = Signal("BEFORE_ARTICLE_WRITE")
-        signal_sender.send(context=context, afile=caver['article'])
         caver['article'].write_file(context=context)
     logger.info("Wrote %s out of %s total caver pages", number_written, len(context['cavers_db'].all()))
 

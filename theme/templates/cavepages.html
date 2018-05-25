@@ -6,21 +6,21 @@
       <h1 class="article-title">{{ pagename }}</h1>
       <h2>Information</h2>
       <p>
-      {% if metadata.country is defined %}
-      <span class="highlight">Country:</span> <a href=".?search={{ metadata.country }}">{{ metadata.country }}</a><br>
+      {% if page.metadata.country is defined %}
+      <span class="highlight">Country:</span> <a href=".?search={{ page.metadata.country }}">{{ page.metadata.country }}</a><br>
       {% endif %}
-      {% if metadata.region is defined %}
-      <span class="highlight">Region:</span> <a href=".?search={{ metadata.region }}">{{ metadata.region }}</a><br>
+      {% if page.metadata.region is defined %}
+      <span class="highlight">Region:</span> <a href=".?search={{ page.metadata.region }}">{{ page.metadata.region }}</a><br>
       {% endif %}
-      {% if metadata.subregion is defined %}
-      <span class="highlight">Subregion:</span> <a href=".?search={{ metadata.subregion }}">{{ metadata.subregion }}</a><br>
+      {% if page.metadata.subregion is defined %}
+      <span class="highlight">Subregion:</span> <a href=".?search={{ page.metadata.subregion }}">{{ page.metadata.subregion }}</a><br>
       {% endif %}
-      {% if metadata.system is defined %}
-      <span class="highlight">System:</span> <a href=".?search={{ metadata.system }}">{{ metadata.system }}</a><br>
+      {% if page.metadata.system is defined %}
+      <span class="highlight">System:</span> <a href=".?search={{ page.metadata.system }}">{{ page.metadata.system }}</a><br>
       {% endif %}
       </p>
 
-      {{ content }}
+      {{ page.content }}
 
       <h2>Reports</h2>
       <div class="table-container">
