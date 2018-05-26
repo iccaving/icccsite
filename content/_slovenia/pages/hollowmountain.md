@@ -7,7 +7,7 @@ Type: page
 
 Our exploration in the Migovec System are written up into an surprisingly entertaining and sometimes informative publication called the Hollow Mountain. It is so far split into three volumes covering 1994 to 2006, 2007 to 2012, and 2013 to 2017.
 
-It is available in physical form at the lowest cost possible, and digitally for free.
+It is available in physical form at the lowest cost possible and digitally for free.
 
 ##The Hollow Mountain I
 
