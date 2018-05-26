@@ -16,6 +16,7 @@ SETTINGS = {
     'SITEURL': "",
     'PHOTOREEL': True,
     'PHOTOREEL_NUM_ARTICLES': 6,
+    'LOCALE': 'en_GB.utf8',
     "BADGES": {
         'lightning': {
             'src': 'lightning.png',
