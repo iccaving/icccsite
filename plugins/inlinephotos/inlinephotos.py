@@ -64,7 +64,7 @@ def handleMatch(m, metadata):
         figure.set('class', 'article-img-left')
     elif  m.group(3) == 'right':
         figure.set('class', 'article-img-right')
-    return etree.tostring(figure, encoding="unicode", method='xml')
+    return "\n\n" + etree.tostring(figure, encoding="unicode", method='xml') + "\n\n"
 
 def transform(sender, context):
     for afile in context['all_files']:
