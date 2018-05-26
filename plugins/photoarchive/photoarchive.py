@@ -9,7 +9,6 @@ def isarchive(sender, context, article):
         archive_loc = os.path.join(context['PHOTO_LOCATION'], '')
     else:
         archive_loc = ''
-    #logger.debug("Photoarchive: checking article " + article.title)
 
     if 'photoarchive' in article.metadata:
         if article.metadata['photoarchive'] == '':
@@ -18,24 +17,22 @@ def isarchive(sender, context, article):
             if 'location' in article.metadata and 'date' in article.metadata:
                 archive_loc = os.path.join(archive_loc, article.date.strftime('%Y-%m-%d') + '%20-%20' + article.location + '/')
             article.metadata['archiveloc'] = archive_loc.lower()
-            #article.archiveloc = archive_loc.lower()
         else:
             article.metadata['archiveloc'] = os.path.join(article.metadata['photoarchive'], '')
-            #article.archiveloc = os.path.join(article.photoarchive, '')
 
         link = article.metadata['archiveloc']
         try:
-            article.data["photolink"] = """<div class="photo-button-wrapper"><a class="photo-button" href='""" + link + """'>Photos</a></div>"""
+            article.data["photolink"] = """\n\n<div class="photo-button-wrapper"><a class="photo-button" href='""" + link + """'>Photos</a></div>\n\n"""
         except:
             article.data = {}
-            article.data["photolink"] = """<div class="photo-button-wrapper"><a class="photo-button" href='""" + link + """'>Photos</a></div>"""
+            article.data["photolink"] = """\n\n<div class="photo-button-wrapper"><a class="photo-button" href='""" + link + """'>Photos</a></div>\n\n"""
         if 'mainimg' in article.metadata:
             image = article.metadata['archiveloc'] + article.metadata['mainimg']
             try:
-                article.data["mainimg"] = """<div class='mainimg'><a href='""" + link + """'><img src='""" + image + """'></a></div>"""
+                article.data["mainimg"] = """\n\n<div class='mainimg'><a href='""" + link + """'><img src='""" + image + """'></a></div>\n\n"""
             except:
                 article.data = {}
-                article.data["mainimg"] = """<div class='mainimg'><a href='""" + link + """'><img src='""" + image + """'></a></div>"""
+                article.data["mainimg"] = """\n\n<div class='mainimg'><a href='""" + link + """'><img src='""" + image + """'></a></div>\n\n"""
 
 def register():
     return [
