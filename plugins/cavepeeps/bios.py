@@ -168,6 +168,17 @@ def generate_cave_pages(context):
     refresh_triggers       = ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"]
     refresh_meta_triggers  = ['title', 'location', 'date', 'status']
     changed_caves, changed_people = get_changes(context)
+
+    cached = True
+    if context.caching_enabled:
+        if len(changed_caves) > 0:
+            cached = False
+        if any(i in changes for i in refresh_triggers):
+            cached = False
+        if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
+            cached = False
+        if cached:
+            return
     # Flatten list of all caves
     caves = sorted(list(set([ cave for trip in context['trip_db'].all() for cave in trip['caves'] if cave is not None ])))
     # Ensure each has an article object in the db
@@ -206,17 +217,6 @@ def generate_cave_pages(context):
     logger.info("Wrote %s out of %s total cave pages", number_written, len(context['caves_db'].all()))
 
     # ==========Write the index of caves================
-    cached = True
-    if context.caching_enabled:
-        if len(changed_caves) > 0:
-            cached = False
-        if any(i in changes for i in refresh_triggers):
-            cached = False
-        if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
-            cached = False
-        if cached:
-            return
-
     row=namedtuple('row', 'name number recentdate meta')
     rows = []
     for cave in context['caves_db']:
@@ -244,6 +244,17 @@ def generate_person_pages(context):
     refresh_triggers       = ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"]
     refresh_meta_triggers  = ['title', 'location', 'date', 'status']
     changed_caves, changed_people = get_changes(context)
+
+    cached = True
+    if context.caching_enabled:
+        if len(changed_people) > 0:
+            cached = False
+        if any(i in changes for i in refresh_triggers):
+            cached = False
+        if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
+            cached = False
+        if cached:
+            return
     
     # Flatten list of all cavers
     cavers = sorted(list(set([ person for trip in context['trip_db'].all() for person in trip['people']])))
@@ -309,16 +320,6 @@ def generate_person_pages(context):
     logger.info("Wrote %s out of %s total caver pages", number_written, len(context['cavers_db'].all()))
 
     # ==========Write the index of cavers================
-    cached = True
-    if context.caching_enabled:
-        if len(changed_people) > 0:
-            cached = False
-        if any(i in changes for i in refresh_triggers):
-            cached = False
-        if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
-            cached = False
-        if cached:
-            return
     row=namedtuple('row', 'name number recentdate meta')
     rows = []
     for caver in context['cavers_db']:
