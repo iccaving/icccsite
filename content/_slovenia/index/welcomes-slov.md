@@ -16,11 +16,11 @@ Expedition base camp is located at 1880m above sea level on the western edge of 
 
 ##Reports, Surveys and Data
 
-Every year we take hundreds of photos, survey our new findings, produce a extensive written report and full drawn surveys of the entire cave system. You'll find those all on this site. Each year has a page dedicated to it, check the menu, and the page for 2017 is [here](/rcc/caving/slovenia/articles/2017-07-07-slovenia.html) though its still a WIP. Complete, if slightly out of date, data can be found on the 2016 page [here](/rcc/caving/slovenia/articles/2016-07-08-slovenia.html) . 
+Every year we take hundreds of photos, survey our new findings, produce a extensive written report and full drawn surveys of the entire cave system. You'll find those all on this site. Each year has a page dedicated to it, check the menu, and the page for 2017 is [here](/rcc/caving/slovenia/articles/2017-07-07-slovenia.html) with the information on the latest expedition.
 
 All of our cave data, updated and worked on throughout the year, is freely accessible in our [Github repo.](https://github.com/jarvist/migovecsurveydata). 
 
-We have also produced a book full of entertaining stories, anecdotes, maps, surveys and cartoons from the expedition from it's beginning up to 2006. This is [The Hollow Mountain](/rcc/caving/slovenia/pages/hollowmountain.html) and is available for free as a PDF or for printing on demand via [lulu.com](http://www.lulu.com/content/909368). Work on The Hollow Mountain II (2006-2012) and The Hollow Mountain III (2012-) is well underway!
+We have also produced a book full of entertaining stories, anecdotes, maps, surveys and cartoons from the expedition from it's beginning up to 2006. This is [The Hollow Mountain](/rcc/caving/slovenia/pages/hollowmountain.html) and is available for free as a PDF or for printing on demand via [lulu.com](http://www.lulu.com/content/909368). Work on The Hollow Mountain II (2006-2012) and The Hollow Mountain III (2012-2017) is well underway!
 
 
 ##Latest News
