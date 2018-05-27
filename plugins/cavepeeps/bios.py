@@ -180,8 +180,6 @@ def generate_cave_pages(context):
     logger.debug("Writing %s caver pages", len(context['caves_list']))
     number_written = 0
     for cave in context['caves_list']:
-        if cave not in changed_caves:
-            return
         cave_name = cave['name']
                 
         # Set filepath and jinja template
