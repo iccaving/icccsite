@@ -4,9 +4,6 @@ import time
 import re
 from urllib.parse import quote 
 
-from tinydb import TinyDB, Query
-from tinydb.storages import MemoryStorage
-
 from olm.logger import get_logger
 from olm.constants import ArticleStatus
 from bios import generate_cave_pages, generate_person_pages, construct_bios
@@ -45,8 +42,8 @@ def article_link(context, article, trips):
 
 
 def cavepeep_linker_initialise(sender, context):
-    context['cavepeep'] = []
-    context['trip_db'] = TinyDB(storage=MemoryStorage)
+    context['trip_list'] = []
+
 
 
 def cavepeep_linker_for_each_article(sender, context, article):
@@ -62,7 +59,7 @@ def cavepeep_linker_for_each_article(sender, context, article):
 
         if article.status != ArticleStatus.UNLISTED:
             for trip in trips:
-                context['trip_db'].insert(trip)
+                context['trip_list'].append(trip)
 
     # If unlisted DO NOT ADD TO MAIN CAVEPEEPS dictionary.
 

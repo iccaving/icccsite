@@ -14,6 +14,5 @@ mistune==0.8.3
 olm==0.0.35
 pylint==1.8.2
 six==1.11.0
-tinydb==3.9.0
 verboselogs==1.7
 wrapt==1.10.11

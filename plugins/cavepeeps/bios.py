@@ -3,8 +3,6 @@ import os
 import re
 import time
 from datetime import datetime
-from tinydb import TinyDB, Query
-from tinydb.storages import MemoryStorage
 
 from olm.source import Source
 from olm.writer import Writer
@@ -91,12 +89,12 @@ def construct_bios(sender, context, **kwargs):
                 article.cache_type = btype.upper()
                 context['all_files'].append(article)
                 dictionary[os.path.splitext(afile)[0]]=article
-                context[btype + '_db'].insert({"name": os.path.splitext(afile)[0],  "article": article})
+                context[btype + '_list'].append({"name": os.path.splitext(afile)[0],  "article": article})
 
         return dictionary
 
-    context['caves_db'] = TinyDB(storage=MemoryStorage)
-    context['cavers_db'] = TinyDB(storage=MemoryStorage)
+    context['caves_list'] = []
+    context['cavers_list'] = []
 
     context['caverbios']= get_bios("cavers")
     context['cavebios'] = get_bios("caves")
@@ -169,28 +167,21 @@ def generate_cave_pages(context):
     refresh_meta_triggers  = ['title', 'location', 'date', 'status']
     changed_caves, changed_people = get_changes(context)
 
-    cached = True
-    if context.caching_enabled:
-        if len(changed_caves) > 0:
-            cached = False
-        if any(i in changes for i in refresh_triggers):
-            cached = False
-        if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
-            cached = False
-        if cached:
-            return
     # Flatten list of all caves
-    caves = sorted(list(set([ cave for trip in context['trip_db'].all() for cave in trip['caves'] if cave is not None ])))
+    caves = sorted(list(set([ cave for trip in context['trip_list'] for cave in trip['caves'] if cave is not None ])))
+    
     # Ensure each has an article object in the db
     for cave_name in caves:
-        if context['caves_db'].get(Query().name == cave_name) is None:
+        if not [ c for c in context['caves_list'] if c['name'] == cave_name ]:
             article = Cave(context, content='', metadata={},basename=cave_name)
             article.same_as_cache = context.is_cached
-            context['caves_db'].insert({"name": cave_name,  "article": article})
+            context['caves_list'].append({"name": cave_name,  "article": article})
 
-    logger.debug("Writing %s caver pages", len(context['caves_db'].all()))
+    logger.debug("Writing %s caver pages", len(context['caves_list']))
     number_written = 0
-    for cave in context['caves_db']:
+    for cave in context['caves_list']:
+        if cave not in changed_caves:
+            return
         cave_name = cave['name']
                 
         # Set filepath and jinja template
@@ -198,7 +189,7 @@ def generate_cave_pages(context):
         cave['article'].template = 'cavepages.html'
 
         # Construct articles list with useful stuff (date, article, author_in_cave) surfaced
-        trips = context['trip_db'].search(Query().caves.any([cave_name]))
+        trips = [t for t in context['trip_list'] if cave_name in t['caves'] ] 
         cave['article'].cave_articles = [ (t['article'], t['date'], was_author_in_cave(t['article'], cave_name)) for t in trips ]
 
         # Work out if it needs writing
@@ -214,12 +205,23 @@ def generate_cave_pages(context):
 
         number_written = number_written + 1
         cave['article'].write_file(context=context)
-    logger.info("Wrote %s out of %s total cave pages", number_written, len(context['caves_db'].all()))
+    logger.info("Wrote %s out of %s total cave pages", number_written, len(context['caves_list']))
 
     # ==========Write the index of caves================
+    cached = True
+    if context.caching_enabled:
+        if len(changed_caves) > 0:
+            cached = False
+        if any(i in changes for i in refresh_triggers):
+            cached = False
+        if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
+            cached = False
+        if cached:
+            return
+
     row=namedtuple('row', 'name number recentdate meta')
     rows = []
-    for cave in context['caves_db']:
+    for cave in context['caves_list']:
         try:
             name = cave['name']
             number = len(cave['article'].cave_articles)
@@ -244,39 +246,28 @@ def generate_person_pages(context):
     refresh_triggers       = ["ARTICLE.NEW_FILE", "ARTICLE.REMOVED_FILE"]
     refresh_meta_triggers  = ['title', 'location', 'date', 'status']
     changed_caves, changed_people = get_changes(context)
-
-    cached = True
-    if context.caching_enabled:
-        if len(changed_people) > 0:
-            cached = False
-        if any(i in changes for i in refresh_triggers):
-            cached = False
-        if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
-            cached = False
-        if cached:
-            return
-    
+ 
     # Flatten list of all cavers
-    cavers = sorted(list(set([ person for trip in context['trip_db'].all() for person in trip['people']])))
+    cavers = sorted(list(set([ person for trip in context['trip_list'] for person in trip['people']])))
+    
     # Ensure each caver has an article object in the db
-
     for caver_name in cavers:
-        if context['cavers_db'].get(Query().name == caver_name) is None:
+        if not [ c for c in context['cavers_list'] if c['name'] == caver_name ]:
             article = Caver(context, content='', metadata={},basename=caver_name)
             article.same_as_cache = context.is_cached
-            context['cavers_db'].insert({"name": caver_name,  "article": article})
+            context['cavers_list'].append({"name": caver_name,  "article": article})
 
-    logger.debug("Writing %s caver pages", len(context['cavers_db'].all()))
+    logger.debug("Writing %s caver pages", len(context['cavers_list']))
     number_written = 0
     row=namedtuple('row', 'cave article date')
-    for caver in context['cavers_db']:
+    for caver in context['cavers_list']:
         caver_name = caver['name']
 
         # Set filepath and jinja template
         caver['article'].output_filepath = os.path.join("cavers", str(caver_name) + '.html')
         caver['article'].template = 'caverpages.html'
 
-        trips = context['trip_db'].search(Query().people.any([caver_name]))
+        trips = [t for t in context['trip_list'] if caver_name in t['people']]
         caver['article'].caver_articles = [row(' > '.join(t['caves']), t['article'], t['date']) for t in trips ]
 
         # Set number of trips
@@ -317,12 +308,23 @@ def generate_person_pages(context):
 
         number_written = number_written + 1
         caver['article'].write_file(context=context)
-    logger.info("Wrote %s out of %s total caver pages", number_written, len(context['cavers_db'].all()))
+    logger.info("Wrote %s out of %s total caver pages", number_written, len(context['cavers_list']))
 
     # ==========Write the index of cavers================
+    cached = True
+    if context.caching_enabled:
+        if len(changed_people) > 0:
+            cached = False
+        if any(i in changes for i in refresh_triggers):
+            cached = False
+        if any(any(m in merge_dictionaries(*c) for m in refresh_meta_triggers) for c in meta_changes):
+            cached = False
+        if cached:
+            return
+    
     row=namedtuple('row', 'name number recentdate meta')
     rows = []
-    for caver in context['cavers_db']:
+    for caver in context['cavers_list']:
         name = caver['name']
         number = caver['article'].number
         recentdate = max([article.date for article in caver['article'].caver_articles])
