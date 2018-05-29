@@ -3,9 +3,11 @@ Date: 2002-12-14
 Location: yorkshire
 Summary: Caving in Yorkshire
 Type: trip
+Authors: Colm Carroll, Moritz Guenther
+Cavepeeps: DATE=2002-12-14; CAVE=Marble Steps; PEOPLE=Colm Carroll, Andy Jurd, Lyndon Leggate, Moritz Guenther, Joachim;
+     DATE=2002-12-15; CAVE=Rowten Pot; PEOPLE=Colm Carroll, Joachim;
+     DATE=2002-12-15; CAVE=Bull Pot; PEOPLE=Andy Jurd, Moritx Guenther, Lyndon Leggate;
 Oldurl:/caving/yorkshire/yorkshire1202.php
-
-#  Yorkshire 
 
 ##  Weekend Trip 14/15 December 2002 
 
