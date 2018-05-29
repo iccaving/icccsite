@@ -3,6 +3,10 @@ Date: 2003-05-10
 Location: yorkshire
 Summary: Caving in Yorkshire
 Type: trip
+Authors: Moritz Guenther, Andy Jurd, Joachim
+Cavepeeps: DATE=2003-05-10; CAVE=Flood Entrance Pot; PEOPLE=Moritz Guenther, Colm Carroll;
+     DATE=2003-05-10; CAVE=Stream Passage Pot; PEOPLE=Andy Jurd, Joachim, Stefan Bennewitz;
+     DATE=2003-05-11; CAVE=Ireby Fell Cavern; PEOPLE=Andy Jurd, Joachim, Stefan Bennewitz, Colm Carroll, Moritz Guenther;
 Oldurl:/caving/yorkshire/yorkshire0503.php
 
 #  Yorkshire 
@@ -21,7 +25,7 @@ Depsite an efficiency ratio  1  of 3:2, we still managed to faff until 8:10 in S
 Moritz, Colm 
 
 Despite its name, the flood entrance is the driest possibility to get to the main chamber ( _ It's the entrance to use when rest of the cave is in flood _ ). It starts straightforward with simple SRT-pitches. They are that simple I did my first rigging under Colm's supervision there. Next to the only re-belay is a very nice edge to stand on. Other pitches contain no difficulties at all. So we descended quickly. The route contains some of the best shaped streamways I have ever seen. They end in a large hole. We had some short ropes with us, because the guidebook advised us to do so, but obviously we did not recognise one of the "pitches" we were supposed to rig and freeclimbed it instead. Colm ended up dangling down this massive hole at the end of the rope in the middle of a huge pitch. He had to ascend again and rig this pitch with a longer rope (and in a better styleee!).   
-But that's easy and we got only one slight rub-point ( _ I take offence to the suggestion that there was a rub-point - Colm _ ). We arrived at the bottom long before the other group. There was even time enough for me to get lost. I tried to follow Colm into the main chamber (see photo), but instead I found myself crawling for an hour alone and forgotten somewhere behind the main chamberâŚ 
+But that's easy and we got only one slight rub-point ( _ I take offence to the suggestion that there was a rub-point - Colm _ ). We arrived at the bottom long before the other group. There was even time enough for me to get lost. I tried to follow Colm into the main chamber (see photo), but instead I found myself crawling for an hour alone and forgotten somewhere behind the main chamber. 
 
 ** Stream Passage Pot ** \- _ Report by Andy _   
 Andy, Joachim, Stefan 
