@@ -1,6 +1,6 @@
 Title: Yorkshire 
 Date: 2002-11-10
-Location: ireland
+Location: yorkshire
 Summary: Caving in Yorkshire
 Type: trip
 Oldurl:/caving/yorkshire/fireworks02.php
