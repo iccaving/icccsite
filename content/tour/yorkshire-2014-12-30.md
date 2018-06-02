@@ -10,9 +10,9 @@ Thumbr: AlexSeaton_IMGP2402--thumb.jpg
 Authors: Jack Hare, Rosanna Nichols, Tanguy Racine, Chris McDonnell, Rhys Tyers
 Cavepeeps: DATE=2014-12-31; CAVE=Wretched Rabbit; PEOPLE=Rhys Tyers, Jack Hare, Alex Seaton, Fiona Hartley, Chris McDonnell, Tanguy Racine, Rosanna Nichols;
            DATE=2015-01-01; CAVE=Simpsons Pot; PEOPLE=Rhys Tyers, Jack Hare, Alex Seaton, Chris McDonnell, Tanguy Racine, Rosanna Nichols;
-           DATE=2015-01-02; CAVE=Jingling Pot; PEOPLE=Fiona Hartley, Dave Kirkpatrick, Rosanna Nichols, Tetley;
+           DATE=2015-01-02; CAVE=Jingling Pot; PEOPLE=Fiona Hartley, Dave Kirkpatrick, Rosanna Nichols, Tetley, Dave Wilson;
            DATE=2015-01-02; CAVE=Flood Entrance Pot; PEOPLE=Rhys Tyers, Jack Hare, Alex Seaton, Chris McDonnell, Tanguy Racine, William French;
-           DATE=2015-01-03; CAVE=Lost Johns' Cave; PEOPLE=Rhys Tyers, Jack Hare, Alex Seaton, Fiona Hartley, Chris McDonnell, Tanguy Racine, William French, Dave Kirkpatrick, Rosanna Nichols, Katy Morgan, Tetley, Dave Wilson;
+           DATE=2015-01-03; CAVE=Lost Johns' Cave; PEOPLE=Rhys Tyers, Jack Hare, Alex Seaton, Chris McDonnell, Tanguy Racine, William French, Dave Kirkpatrick, Rosanna Nichols, Katy Morgan, Tetley, Dave Wilson;
            DATE=2015-01-04; CAVE=Bull Pot; PEOPLE=Alex Seaton, Chris McDonnell, Tanguy Racine, Rosanna Nichols, Katy Morgan;
            DATE=2015-01-04; CAVE=Brown Hill; PEOPLE=Rhys Tyers, Jack Hare;
            DATE=2015-01-05; CAVE=Notts Pot 2; PEOPLE=Rosanna Nichols, Katy Morgan, Dave Wilson;
