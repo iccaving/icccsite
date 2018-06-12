@@ -3,6 +3,10 @@ Date: 2003-11-14
 Location: yorkshire
 Summary: Caving in Yorkshire
 Type: trip
+Authors: Andy Jurd
+Cavepeeps: DATE=2003-11-15; CAVE=Stream Passage Pot > Flood Entrance Pot; PEOPLE=Andy Jurd, Lyndon Leggate;
+     DATE=2003-11-15; CAVE=Flood Entrance Pot > Stream Passage Pot; PEOPLE=Colm Carroll, Darryl Anderson, Dan Greenwald, Rik Venn, Stephanie Klecha;
+     DATE=2003-11-15; CAVE=Alum Pot; PEOPLE=Andy Jurd, Colm Carroll, Jarvist Frost, Lyndon Leggate, Stephanie Klecha;
 Oldurl:/caving/yorkshire/yorkshire1103.php
 
 #  Yorkshire 
