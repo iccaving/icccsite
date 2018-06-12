@@ -3,6 +3,8 @@ Date: 2004-02-21
 Location: yorkshire
 Summary: Caving in Yorkshire
 Type: trip
+Authors: Colm Carroll
+Cavepeeps: DATE=2004-02-21; CAVE=Meregill Hole; PEOPLE=Andy Jurd, Colm Carroll;
 Oldurl:/caving/yorkshire/yorkshire0204.php
 
 #  Yorkshire 
