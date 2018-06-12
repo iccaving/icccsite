@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg: RhysTyers-DSC_0092.jpg
 Thumbl: JackHare-P1030150--thumb.jpg
 Thumbr: JackHare-P1030150--thumb.jpg
-Authors:  Rhys Tyers, Jack Hare, Daniella McManamon, Jarvist Frost
+Authors:  Rhys Tyers, Jack Hare, Daniella McManamon, Jarvist Frost, Fiona Hartley
 Cavepeeps: DATE=2014-03-22; CAVE=Wretched Rabbit; PEOPLE=Jarvist Frost, Daniella McManamon;
            DATE=2014-03-22; CAVE=Pippikin Pot > Mistral Hole; PEOPLE= Rhys Tyers, Sam Page, Sarah Gian, Jack Hare, Dave Kirkpatrick;
            DATE=2014-03-22; CAVE=Mistral Hole; PEOPLE=Fiona Hartley, Andy Jurd;
@@ -23,13 +23,17 @@ Status:
 
 What began as a small trip became a tiny trip as many an uncommitted caver succumbed to apathy, exams and other unreasonable excuses. The crack team was composed of myself, Sam, Fiona, Sarah, Jack and Dave. Thanks to this lightweight load out we were trundling away from South Ken by 7pm and continued to make record time all the way to the NPC, arriving to find DW (and sleeping Jarv and Dani) waiting for us at the civilised hour of 12.30am.
 
+####Rhys
+
+Somehow DKP ended up in Yorkshire rather than Sandeep. I assume Sandeep was abducted outside Tesco. Nobody mentioned him again. A party atmosphere thumped through the van from Manchester onwards. The bass would have been turned up to 11 but unfortunately it only goes up to 7 in the minibuses, for shame.
+
+####Fiona
+
 ##  Saturday
 
 ###  Easegill
 
 ###  Pip -&gt; Mistral: Rhys, Sam, Sarah, Jack and Dave KP
-
-###  Mistral -&gt; Mistral: Fiona, Andy
 
 Jack and I woke up first on Saturday, both agreeing that due to the early arrival we'd managed to get a full 8 hours. A mushroom biased breakfast soon roused the rest of the team and we spent the usually 3 hours faffing and deciding what cave to do. I initially wanted to shove Jack into Peterson's (and subsequent Roly Poly passage) to see what would happen to his knees (bend or break?) but was advised that a Pip trip would probably be introduction enough to the delights of full contact sideways squeezing. If I had been in Pip before I couldn't remember and had little idea of what to expect.
 
@@ -99,6 +103,12 @@ We burst outside to a beautiful day, pretty structured clouds and incredible vis
 
 ####Jarv
 
+### Mistral: Fiona, Andy
+
+We went for a bimble around the Mistral end of the system, myself having been to Easegill only once before and never to that part. We had an idea to look for the bottom of Pippikin because Andy's last attempt at a full Easegill traverse had been thwarted when he failed to find Pip, but neither of us actually wanted to get wet so we wallowed in the gelatinous mud of the Hall of the Mountain King and investigated a couple of continuations. On the way back we crawled a little way into the Wallows towards Link, since we’d rigged it, but hearing that it would get grim I couldn't be fucked with that and we left via Mistral. 
+
+####Fiona
+
 ##  Sunday
 
 ###  Alum Pot: Rhys, Jack, DW
@@ -115,6 +125,10 @@ On the surface we bimbled over to another couple holes further up the hill and d
 
 The next day I woke up early, and Rhys and I realised we were probably the only people who wanted to go caving. We roped in Dave W and headed to check out Alum - the only thing I knew about the cave was that a couple had recently drowned there.
 
-Alum is a huge shaft into the ground, with sunlight all the way to the bottom with waterfalls cascading in from all sides. We entered via another hole about 50 m away, and worked out way underground to opening half way down the shaft. I rigged the first two ropes, first a simple descent, and then a traverse in the sunshine, followed by a short descent down. Rhys took over and handed me back my camera, and I started taking a lot of photos. A huge boulder is lodged between two walls of the shaft, and we crossed over it on the rope to continue our descent to the bottom. It was extremely wet and quite a bit darker down there, so Dave W took off up as soon as I'd gotten off the rope, leaving me to de-rig. It was a short trip, but the light was beautiful, the SRT was easy and the cave was just gorgeous
+Alum is a huge shaft into the ground, with sunlight all the way to the bottom with waterfalls cascading in from all sides. We entered via another hole about 50 m away, and worked out way underground to opening half way down the shaft. I rigged the first two ropes, first a simple descent, and then a traverse in the sunshine, followed by a short descent down. Rhys took over and handed me back my camera, and I started taking a lot of photos. A huge boulder is lodged between two walls of the shaft, and we crossed over it on the rope to continue our descent to the bottom. It was extremely wet and quite a bit darker down there, so Dave W took off up as soon as I'd gotten off the rope, leaving me to de-rig. It was a short trip, but the light was beautiful, the SRT was easy and the cave was just gorgeous.
 
 ####Jack
+
+We left the NPC around half past 5 but I remembered somewhere near Wennington I’d forgotten some crucial medication so we had to go back for it. This was good for me because my short time in the back seats had already made me horribly travel-sick. We ultimately abandoned DKP in Stafford, shouting good riddance and jeering as we fled to London. (Not really--well, maybe there was some jeering.)
+
+####Fiona
