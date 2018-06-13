@@ -6,10 +6,10 @@ Type: trip
 Thumbl: /rcc/caving/photo_archive/trips/2004-11-05%20-%20yorkshire%20fireworks%20-%20jan/DSCF0025.jpg
 Thumbr: /rcc/caving/photo_archive/trips/2004-11-05%20-%20yorkshire%20fireworks%20-%20jan/DSCF0092.jpg
 Authors: Jarvist Frost, Jan Evetts, Lyndon Leggate
-Cavepeeps: DATE=2004-10-06; CAVE=Cow Pot > Lancaster Hole; PEOPLE=Dave Wilson, Lyndon Leggate, Dan Greenwald, Joe King, Sandeep Mavadia
+Cavepeeps: DATE=2004-10-06; CAVE=Cow Pot > Lancaster Hole; PEOPLE=Dave Wilson, Lyndon Leggate, Dan Greenwald, Jo King, Sandeep Mavadia
 	   DATE=2004-10-06; CAVE=Top Sink; PEOPLE=Chris Rogers, Pip Crosby, Jarvist Frost, Sarah Zylinski, David Ciecierski;
 	   DATE=2004-10-07; CAVE=Pippikin Pot; PEOPLE=Clewin Griffiths, Chris Rogers, Pip Crosby;
-	   DATE=2004-10-07; CAVE=Valley Entrance; PEOPLE=Jan Evetts, Tom Batho, Lyndon Leggate, Dan Greenwald, Sarah Zylinski, Joe King, Sandeep Mavadia;
+	   DATE=2004-10-07; CAVE=Valley Entrance; PEOPLE=Jan Evetts, Tom Batho, Lyndon Leggate, Dan Greenwald, Sarah Zylinski, Jo King, Sandeep Mavadia;
 	   DATE=2004-10-07; CAVE=Yordas Cave; PEOPLE=Jarvist Frost, David Ciecierski, Dave Wilson, Charles Collicutt;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2004-10-05.php
 
