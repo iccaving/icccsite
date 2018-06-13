@@ -7,10 +7,10 @@ Photoarchive: /rcc/caving/photo_archive/trips/2005-06-24%20-%20yorkshire%20-%20v
 Mainimg: Jarvist-IMG_1557.JPG
 Thumbl: Jarvist-IMG_1561--thumb.jpg
 Thumbr: Jarvist-IMG_1559--thumb.jpg
+Authors: Sandeep Mavadia, Jarvist Frost, Jo King
 Cavepeeps: DATE=2005-06-25; CAVE=Rift Pot > Large Pot; PEOPLE=Jarvist Frost, Sandeep Mavadia;
-	   DATE=2005-06-25; CAVE=Large Pot > Rift Pot; PEOPLE=Clewin Griffiths, Joe King;
-	   DATE=2005-06-26; CAVE=Jingling Pot; PEOPLE=Clewin Griffiths, Joe King;
-Authors: Sandeep Mavadia, Jarvist Frost, Joe King
+	   DATE=2005-06-25; CAVE=Large Pot > Rift Pot; PEOPLE=Clewin Griffiths, Jo King;
+	   DATE=2005-06-26; CAVE=Jingling Pot; PEOPLE=Clewin Griffiths, Jo King;
 Oldurl:/caving/yorkshire/yorkshire-2005-06-24.php
 
 {{ mainimg }}
@@ -60,7 +60,8 @@ of a Croll make great strike-paper for non-safety matches!
 [ ![A photo](/caving/photo_archive/trips/2005-06-24%20-%20yorkshire%20-%20various
 /Jarvist-IMG_1560--thumb.jpg)
 ](/caving/photo_archive/trips/2005-06-24%20-%20yorkshire%20-%20various
-/Jarvist-IMG_1560.html) Desperate not to have to go back via Large, Clew &amp;
+/Jarvist-IMG_1560.html)
+Desperate not to have to go back via Large, Clew &amp;
 Jo flew out of the slot and down to the feast. They looked particularly
 wretched; mud everywhere. Seemed that the Large exit was going to be fairly
 exciting!
@@ -68,14 +69,16 @@ exciting!
 [ ![A photo](/caving/photo_archive/trips/2005-06-24%20-%20yorkshire%20-%20various
 /Jarvist-IMG_1559--thumb.jpg)
 ](/caving/photo_archive/trips/2005-06-24%20-%20yorkshire%20-%20various
-/Jarvist-IMG_1559.html) After plenty of faff and biscuits; during which Clewin
+/Jarvist-IMG_1559.html)
+After plenty of faff and biscuits; during which Clewin
 attempted to construct a replacement Croll out of two bootlaces and Jo's
 hairclip, Deep &amp; I started along the bedding plane.
 
 [ ![A photo](/caving/photo_archive/trips/2005-06-24%20-%20yorkshire%20-%20various
 /Jarvist-IMG_1561--thumb.jpg)
 ](/caving/photo_archive/trips/2005-06-24%20-%20yorkshire%20-%20various
-/Jarvist-IMG_1561.html) Passage beyond pleasent and large, beautiful stal.
+/Jarvist-IMG_1561.html)
+Passage beyond pleasent and large, beautiful stal.
 Coming upon a 1-2m diameter static pool, way on was via bouldering through a
 small side passage on the left that continued in the general direction of the
 main chamber, which otherwise ends at a unpassable squeeze. While attempting
@@ -165,7 +168,7 @@ days later I'm already thinking of going back, though I'm not sure whether its
 because I want to have a chance to enjoy the cave properly myself, or merely
 force other people through the same depraved experience!
 
-Jarvist Frost
+####Jarvist Frost
 
 _And alternative perspective on the same trip from Sandeep..._
 
@@ -256,7 +259,7 @@ back to the farm that we discovered its extent.
 An experience NEVER to be repeated, well not by me anyway, I.ll push another
 first year down that wretched hole in 12 months though, no doubt.
 
-Deep
+####Deep
 
 * * *
 
@@ -295,7 +298,7 @@ speedier rate of knots (ha what a clever play on words). On exit we exclaimed
 joyously at the inevitable midge attack, and jetted off back to Ingleton to
 collect the Bernies Bummers.
 
-Joanna King
+####Joanna King
 
 ### Bernie's: Tall &amp; Deep
 
@@ -303,7 +306,7 @@ World Class faff.
 
   
 
-Jarvist Frost
+####Jarvist Frost
 
 * * *
 
