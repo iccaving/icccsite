@@ -7,7 +7,7 @@ Photoarchive: /rcc/caving/photo_archive/trips/2005-04-15%20-%20yorkshire%20-%20j
 Mainimg:  evetts18_Chris-BlastedCrawl.JPG
 Thumbl: evetts19_Clewin-BC--thumb.jpg
 Thumbr: evetts07_South-GreatWhernsideAndHaggGill--thumb.jpg
-Authors: Jan Evetts
+Authors: Jan Evetts, Chris Rogers, Sandeep Mavadia
 Cavepeeps: DATE=2005-04-16; CAVE=Providence Pot; PEOPLE=Jan Evetts, Clewin Griffiths, Chris Rogers;
 	   DATE=2005-04-16; CAVE=Jingling Pot; PEOPLE=Sandeep Mavadia, Dave Wilson;
 	   DATE=2005-04-17; CAVE=Hardrawkin Pot; PEOPLE=Sandeep Mavadia, Dave Wilson, Chris Rogers, Clewin Griffiths;
@@ -25,7 +25,7 @@ Oldurl:/caving/yorkshire/yorkshire-2005-04-15.php
 
 It started snowing as we neared Bradford, so much for summer or even spring. We met Dave at the NPC, he had already cooked us supper for tomorrow! Some Mexican thing; turned out to be delicious. Was this going to be a weekend of supreme efficiency I wondered?
 
-J Evetts
+####J Evetts
 
 ## Saturday
 
@@ -37,7 +37,7 @@ rattle rattle splash
 
 "uh... it's about waste deep"
 
-Chris Rogers
+####Chris Rogers
 
 Rain had stopped, but as we drove up Wharfedale there seemed to be numerous springs coming out the hills, was this normal?
 
@@ -53,7 +53,7 @@ We soon found ourselves climbing up a fair bit following some vague arrows, then
 
 Clambering out the entrance, some kind passerby had built a snowman for us and the sun was shining in all its glory - but it still felt like bloody Greenland.
 
-J Evetts
+####J Evetts
 
 ### Jingling: Sandeep, Dave
 
@@ -67,11 +67,11 @@ J Evetts
 
 splutter splutter brrr
 
-Chris Rogers
+####Chris Rogers
 
 A short trip, bit damp, couple of pitches with some tricky deviations.
 
-J Evetts
+####J Evetts
 
 You might think that because there were just 5 of us that we would be out early but you'd be wrong. The hardcore of ICCC faffers made it out at 2pm after having got up at 10am (all the other cavers apart from two had already left). During the intervening time it appeared that we'd drunk about 6 pots of tea and talked endlessly about which cave we to do as well as carbide and Miglights, again. After having dropped Jan off at Inglesport cafe to further keep up good name of ICCC procrastination, the rest of us headed off to Hardrawkin for a nice bit of SRT. This was the plan so Clewin and Chris didn't bother putting on any kneepads. We got to the entrance and while we were getting ready to go in a group of kids came over ogled Clewin's carbide, immediately after I reminded him that carbide is mad.
 
@@ -81,12 +81,12 @@ Everyone arrived at the bottom but we decided not to hang about and Chris was gi
 
 We hit the hut for an uncharacteristically speedy clear up; bags were packed, cheese sandwiches prepared, ropes sorted and Jan part-exchanged his old Miglight for the "final" prototype. We were in the car for 18:30 and in stores for 23:15\. During the drive back it took Jan an hour of fiddling to get his new Miglight set to the modes he wanted.
 
-Sandeep Mavadia
+####Sandeep Mavadia
 
 ### Inglesport cafe - Jan
 
 A hardcore 4hrs in the cafe, including a brief foray into Bernies.
 
-J Evetts
+####J Evetts
 
 * * *
