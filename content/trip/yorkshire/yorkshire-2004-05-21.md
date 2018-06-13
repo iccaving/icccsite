@@ -3,6 +3,9 @@ Date: 2004-05-21
 Location: yorkshire
 Summary: One of the best Yorkshire weekends ever. Pull-throughs, pirates and canyons.
 Type: trip
+Authors: Colm Carroll
+Cavepeeps: DATE=2004-05-22; CAVE=Simpsons Pot; PEOPLE=Andy Jurd, Colm Carroll;
+     DATE=2004-05-22; CAVE=Notts Pot 1; PEOPLE=Andy Jurd, Colm Carroll;
 Oldurl:/caving/yorkshire/yorkshire0504.php
 
 ## 21-23 May 2004
