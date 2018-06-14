@@ -7,11 +7,11 @@ Photoarchive:/rcc/caving/photo_archive/trips/2005-01-28%20-%20derbyshire%20-%20j
 Mainimg: IMG_0168.JPG
 Thumbl: IMG_0116--thumb.jpg
 Thumbr: IMG_0163--thumb.jpg
-Authors: Joe King, Darryl Anderson, Sandeep Mavadia, Sarah Arctic
+Authors: Jo King, Darryl Anderson, Sandeep Mavadia, Sarah Arctic
 Cavepeeps: DATE=2005-01-29; CAVE=Giant's Hole; PEOPLE=Darryl Anderson, Clewin Griffiths, Sarah Arctic, Nava Schwarzgold, Jarvist Frost;
-           DATE=2005-01-29; CAVE=James Hall; PEOPLE=Chris Rogers, Pip Crosby, Dan Greenwald, Joe King, Sandeep Mavadia;
+           DATE=2005-01-29; CAVE=James Hall; PEOPLE=Chris Rogers, Pip Crosby, Dan Greenwald, Jo King, Sandeep Mavadia;
            DATE=2005-01-30; CAVE=Giant's Hole; PEOPLE=Darryl Anderson, Chris Rogers, Sarah Arctic, Nava Schwarzgold;
-	   DATE=2005-01-30; CAVE=Nettle Pot; PEOPLE=Clewin Griffiths, Dan Greenwald, Joe King, Sandeep Mavadia;
+	   DATE=2005-01-30; CAVE=Nettle Pot; PEOPLE=Clewin Griffiths, Dan Greenwald, Jo King, Sandeep Mavadia;
 Oldurl:/caving/derbyshire/derbyshire-2005-01-28.php
 
 ### Clewin Griffith [O.L.D.], Joanna King [D.], Darryl Anderson [O.L.], Chris Rogers [O.L.], Pip Crosby [O.L.], Sarah Johnson (Arctic), Sandeep Mavadia, Dan Greenwald, Jarvist Frost [_Injured_], Nava Schwarzgold, Dave.
@@ -71,7 +71,7 @@ Waterfall Chamber, but wisely backed up and climbed down a rift to meet Nava,
 Dave and Jarvist. We then headed out of the cave, a trip from which I expected
 less than I got!
 
-Darryl Anderson
+####Darryl Anderson
 
 ### JH: Chris, Pip, Dan, Jo, Sandeep
 
@@ -88,7 +88,7 @@ was quite long enough and that I'd never be able to reach surface again if I
 went much further down (Hey! I'm a feeble _fresher_, I'm allowed such
 thoughts!). Sandeep and I both decided to abort + head out.
 
-Jo King
+####Jo King
 
 [Ed: _ Chris and Pip continued down the next pitch; had a look around, and
 with beautiful timing; came flying out of the entrance with their nitro-
@@ -104,7 +104,7 @@ Jo + Dan to follow them out. A pity, I should have just trusted the rope and
 dangled over - Chris and Pip said the bottom was really nice. So we all ended
 up out in record time, a good Omen for Grenoble!
 
-Sandeep 'Stan' Mavadia
+####Sandeep 'Stan' Mavadia
 
 * * *
 
@@ -158,7 +158,7 @@ style to very tasty cheese-and-a-variety-of-fillings sandwiches (thanks Jarv)
 Many thanks to all for your fresher patience, and particularly to the drivers
 for dropping Sarah Arctic in Oxford.
 
-Sarah Arctic
+####Sarah Arctic
 
 ### Nettle Pot: Clewin, Dan, Jo, Sandeep
 
@@ -181,7 +181,7 @@ We emerged from the cave to "a delightfully invigorating breeze" (A slight
 translation of Dan's words there) and with perfect timing we managed to return
 to Giants in coordination with the return of the other group.
 
-Jo King
+####Jo King
 
 * * *
 
