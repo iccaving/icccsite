@@ -4,6 +4,10 @@ Location: yorkshire
 Summary: A long weekend up at the NPC hut in the Yorkshire Dales. The two freshers were introduced to SRT on a tree on Saturday and were doing a 100m+ cave on the Sunday, now that's rapid improvement!<br><br>An Easegill exchange, a trip to West Kingsdale and a stop in the inglesport cafe, what more could you want from a weekend? A slowly accumulating pile of trip reports and a few choice photos.
 Type: trip
 Authors: Jan Evetts, Sandeep Mavadia
+Cavepeeps: DATE=2006-04-29; CAVE=Lancaster Hole > County Pot; PEOPLE=Jan Evetts, Clewin Griffiths, Jo King, James;
+      DATE=2006-04-29; CAVE=County Pot > Lancaster Hole; PEOPLE=Dave Wilson, Sandeep Mavadia, Jay;
+      DATE=2006-04-30; CAVE=Aquamole Pot; PEOPLE=Dave Wilson, Sandeep Mavadia, Jay, James;
+      DATE=2006-04-30; CAVE=Swinsto Hole; PEOPLE=Jan Evetts, Clewin Griffiths, Jo King;
 Photoarchive: /rcc/caving/photo_archive/trips/2006-04-28%20yorkshire/
 Mainimg: IMGP0136.JPG
 Thumbl: IMGP0153--thumb.jpg
