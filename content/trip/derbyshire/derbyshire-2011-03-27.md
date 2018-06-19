@@ -4,6 +4,7 @@ Location: derbyshire
 Summary: While some of us were jetting off to a Mediterranean isle, the home team completed the excellent JH-Peak through trip...
 Type: trip
 Authors: Jan Evetts
+Cavepeeps: DATE=2011-03-27; CAVE=James Hall > Peak Cavern; PEOPLE=Bruce Kawa, Dan Greenwald, Jan Evetts, James Kirkpatrick, Nathan Daniels, Tim Osborne;
 Oldurl: /rcc/caving/derbyshire/derbyshire-2011-03-27.php
 Status:
 
