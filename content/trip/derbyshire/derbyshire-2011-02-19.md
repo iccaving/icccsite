@@ -7,7 +7,10 @@ Photoarchive:
 Mainimg: Jana%20Carga%20-%20Canon%20A520%20-%20Giants%20-%20IMG_0154.jpg
 Thumbl: Simon%20Nouis%20-%20P2190012--thumb.jpg
 Thumbr: Gergely%20Ambrus%20-%20IMG_3770_2--thumb.jpg
-Authors: Jana Carga,
+Authors: Jana Carga
+Cavepeeps: DATE=2011-02-19; CAVE=James Hall; PEOPLE=Simon Nouis, Gergely Ambrus, William French;
+     DATE=2011-02-19; CAVE=Giant's Hole; PEOPLE=Jana Carga, Mehdi Ben Slama, Jonny Hardman, Jan Evetts;
+     DATE=2011-02-20; CAVE=Hillocks Mine; PEOPLE=Kate Smith, Simon Nouis, Gergely Ambrus, Jan Evetts, William French, Mehdi Ben Slama, Thomas McCarthy-Ward;
 Oldurl: /rcc/caving/derbyshire/derbyshire-2011-02-19.php
 Status:
 
