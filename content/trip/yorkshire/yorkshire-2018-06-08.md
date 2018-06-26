@@ -1,19 +1,19 @@
 Title: Yorkshire VII
 Date: 2018-06-08
 Location: yorkshire
-Summary: A mass attack on the Penyghent saw a pleasing variety of novel caves explored with cavers in Penyghen (plus Friday the 13th), Dale Head, and FOUL Pot. On Sunday, aided by excellent weather, we did an Alum/Diccan exchange. 
+Summary: A mass attack on the Penyghent saw a pleasing variety of novel caves explored with cavers in Penyghen (plus Friday the 13th), Dale Head, and FOUL Pot. On Sunday, aided by excellent weather, we did an Alum/Diccan exchange.
 Type: trip
 Photoarchive:
-Mainimg: 
-Thumbl: 
-Thumbr: 
+Mainimg:
+Thumbl:
+Thumbr:
 Authors: Rhys Tyers
 Cavepeeps: DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Jack Halliday, Andy Jurd, Jan Evett;
            DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Rhys Tyers, Clare Tan;
-           DATE=2018-06-09; CAVE=Foul Pot; PEOPLE=Jack Hare, Celia Tinsely, Ho Yan Jin;
+           DATE=2018-06-09; CAVE=FOUL Pot; PEOPLE=Jack Hare, Celia Tinsely, Ho Yan Jin;
            DATE=2018-06-09; CAVE=Dale Head Pot; PEOPLE=Arun Paul, David Wilson, Sandeep Mavadia;
            DATE=2018-06-10; CAVE=Alum Pot > Diccan Pot; PEOPLE=Rhys Tyers, Jack Halliday, Ho Yan Jin;
-           DATE=2018-06-10; CAVE=Diccan Pot > Alum Pot; PEOPLE=Jack Hare, Chris Bradley, David Wilson; 
+           DATE=2018-06-10; CAVE=Diccan Pot > Alum Pot; PEOPLE=Jack Hare, Chris Bradley, David Wilson;
 Status: draft
 
 {{ mainimg }}
@@ -27,7 +27,7 @@ Status: draft
 Pen-y-ghent to Friday the 13th
 
 
-‘Are you...intrigued?’ 
+‘Are you...intrigued?’
 
 The modest proposal by Clare was to have a look down the Friday the 13th series in Penyghent. I agreed at the time knowing very little about it and without ever having been into Penyghent at all.
 
@@ -35,21 +35,21 @@ A month passed and I read the description in NFTFH several times. I was fascinat
 
 The weekend arrived along with Clare and I was fairly relieved to hear that she was not interesting in diving the four metre sump through to the final section of Friday the 13th.  It is only another 50 metres of passage and I am not such a Book Of Death purist as to insist that we do it.
 
-The logistics were unclear until Saturday morning where after tea, breakfast, and faff I wandered into the common room to find that Andy had arranged everything. I should have been far more alarmed than I was. Oh sweet summer child. 
+The logistics were unclear until Saturday morning where after tea, breakfast, and faff I wandered into the common room to find that Andy had arranged everything. I should have been far more alarmed than I was. Oh sweet summer child.
 
-Andy would take a team to Brackenbottom and rig to the traditional bottom of Penyghent whilst Clare and I would head up with the Dale Head team and approach Penyghent from the other direction. A classic pincer move. The aim was to give the riggers enough time to get down so that Clare and I could zip all the way down and into the extensions. The price of this proposal? Why, the derig of course. 
+Andy would take a team to Brackenbottom and rig to the traditional bottom of Penyghent whilst Clare and I would head up with the Dale Head team and approach Penyghent from the other direction. A classic pincer move. The aim was to give the riggers enough time to get down so that Clare and I could zip all the way down and into the extensions. The price of this proposal? Why, the derig of course.
 
-At the picturesque Dale Head Clare and I made our preparations for the walk over the fell. We decided against wearing our neoprene for the hour long walk, instead carrying our caving gear and minimal tackle. We waited for the Dale Head and FOUL teams to depart and set off ourselves. 
+At the picturesque Dale Head Clare and I made our preparations for the walk over the fell. We decided against wearing our neoprene for the hour long walk, instead carrying our caving gear and minimal tackle. We waited for the Dale Head and FOUL teams to depart and set off ourselves.
 
 The walk is lovely. Not much elevation to gain and I think one of the quieter ways up towards Penyghent on such a nice day. As we neared looming prominence of Penyghent some 100 meters above us we considered our options. We could skirt around the bottom and walk to the cave. Orrrrr we could hide our bags, nip up to the top, and come back down again to continue the walk. We went for option two.
 
-We hid the bags behind a dry stone wall and covered them with dry grass to disguise them and then marched up to the peak. We got a couple of comments on the way up about our footwear, wellies and neoprene socks, (‘Them’s not hiking boots’) and about the headtorch tangling around my neck (‘How long are you planning to be out here?’).  It was further than I expected with a small walk to actually get to the trig point but we were up in just over 10 minutes and back to our bags in just over 20. 
+We hid the bags behind a dry stone wall and covered them with dry grass to disguise them and then marched up to the peak. We got a couple of comments on the way up about our footwear, wellies and neoprene socks, (‘Them’s not hiking boots’) and about the headtorch tangling around my neck (‘How long are you planning to be out here?’).  It was further than I expected with a small walk to actually get to the trig point but we were up in just over 10 minutes and back to our bags in just over 20.
 
 Now we had been to the top of Penyghent, it was time to go to the bottom. We continued on the path, veering off into the fields at the appropriate dry stone wall. It didn’t take us long to find the entrance. We completed the unpleasant task of entombing ourselves in neoprene and PVC and were very glad to be in the cool air of the cave.
 
 The 250 metre crawl is not too bad on the way in. We took frequent breaks to adjust our double kneepads, and my neoprene gloves were I think unnecessary in the summer conditions. A flat out section signals the end so we stashed our extra kneepads on a shelf and pressed onto into easier passage.
 
-The first small pitch drops into a ‘stooping’ passage which is just tall enough for Clare to walk in irritatingly often. We passed a fellow troglodyte at a deep pool exchanging mumbled hellos. At the second pitch the pleasant cave begins in earnest and we dropped the pitches fairly rapidly. We pass more people from this other party, snatching a quick conversation (‘You flew all the way from Singapore for this?!’). 
+The first small pitch drops into a ‘stooping’ passage which is just tall enough for Clare to walk in irritatingly often. We passed a fellow troglodyte at a deep pool exchanging mumbled hellos. At the second pitch the pleasant cave begins in earnest and we dropped the pitches fairly rapidly. We pass more people from this other party, snatching a quick conversation (‘You flew all the way from Singapore for this?!’).
 
 The inevitable happened and we stumbled into the back of our party, queing at a pitch head. We said hello to Mr Jack, Jan and Andy. I introduced myself to a Nottingham caver that Andy snatched from the YSS. According to Mr Jack this was awkward as they had been having a nice silent trip up until them. Some faff involving Andy pulling all the ropes out of every bag and repacking them occured but we were not much delayed in our descent.
 
@@ -65,9 +65,9 @@ The deterioration into waterlogged struggle is smooth. The passage does not chan
 
 Half way along a column blocks the way and I needed to superman my way through. It felt commiting and left me unable to hold my head out of the water but there was no way to turn around. I assume Clare had an easier time of it but she was a collection of scraping and splashing noises somewhere behind me at this point and neither of us were keen to waste time talking.
 
-I have no idea how long it took us to get through but it was certainly long enough. We dragged ourselves out of the water and into a final flat our section. It thankfully quite quickly became a hands and knees crawl and joined a junction where it was possible to sit down. 
+I have no idea how long it took us to get through but it was certainly long enough. We dragged ourselves out of the water and into a final flat our section. It thankfully quite quickly became a hands and knees crawl and joined a junction where it was possible to sit down.
 
-We had a rest and examined a plastic tub of peanuts and raisins that we found there. I didn’t open them. Even in a sealed container it seems rather optimistic to hope they will last that long. 
+We had a rest and examined a plastic tub of peanuts and raisins that we found there. I didn’t open them. Even in a sealed container it seems rather optimistic to hope they will last that long.
 
 Continuing we found ourselves, once again submerged, in the Crawl of Cthulu, a wide and ominous canal. There was enough airspace at the top to keep your torso mostly dry by doing an awkward shuffle on extended fingertips. Initially it was eerily silent but as our wakes met the walls a cacophony of wet slopping noises rebounded. Water sloshing on ceilings is not a reassuring sound and I found it quite disconcerting as it got louder and louder the further in we went.
 
@@ -79,9 +79,9 @@ We backtracked to a sitting spot and ate quietly with the long trip out on our m
 
 Clare led the way back. Cthulu was not so bad on the way out, it’s disgusting noises already faded to normality. In a sign of things to come though I found my arms already tiring and settled several times for semi-floating despite the water that this let into my wetsuit in order to rest them.
 
-Clare was out of sight by the time I passed the raisins and fed myself into the Pyscho. Her distant scraping noises were reassuring though and I found her round a couple of corners, sliding into the struggle. It is surprising how much more tired I felt already. The crawl was significantly harder this time, with a lot more spluttering and splashing. We took a few rests in the water, which we had not really done on the way in. 
+Clare was out of sight by the time I passed the raisins and fed myself into the Pyscho. Her distant scraping noises were reassuring though and I found her round a couple of corners, sliding into the struggle. It is surprising how much more tired I felt already. The crawl was significantly harder this time, with a lot more spluttering and splashing. We took a few rests in the water, which we had not really done on the way in.
 
-The flat out section beyond the water was harder still. I was quite used to the water now and particularly the buoyancy. To drag against the ground with my full body weight was an insult. Clare announced that she had gotten to the end and I made the final effort. We lay for a while overlooking Eerie Pot. We both decided we would never go back, as you must after any grim bit of cave. But that was the hard bit over, right? Now just plain sailing up the pitches. 
+The flat out section beyond the water was harder still. I was quite used to the water now and particularly the buoyancy. To drag against the ground with my full body weight was an insult. Clare announced that she had gotten to the end and I made the final effort. We lay for a while overlooking Eerie Pot. We both decided we would never go back, as you must after any grim bit of cave. But that was the hard bit over, right? Now just plain sailing up the pitches.
 
 I took the bag and we ziplined back across into the comparatively pleasant crawl to 10th pitch head. We did the dodgy climb and made our way up the nice streamway. We found the 9th pitch and made the plan. I would derig till my bag was full, then Clare would take over. As Clare prepared to climb I found the sling that Andy had planned to use to signify that his group was above and that we could derig. Their ropes from the 10th pitch were gone and the sling had moved quite far so we decided that it was probably still fine to derig. Andy is a resourceful person anyway.
 
@@ -89,7 +89,7 @@ The pitches are fairly easy. However there is a surprisingly forgettable and sur
 
 The bag filled at some point and Clare took over derigging. I went ahead a pitch. I’m not sure which pitch it was but I was quite grateful that Clare was distracted below me as it took me a long time and a couple of rests to pass the rebelay. A very humbling experience. At the top I waited and sang to myself until at the very edge of my hearing I thought I heard Clare very quietly say the word ‘help’. I shouted back ‘HELP?!’. A mumbled reply sounded a bit like yes so I unclipped the bag and abseiled back down to find Clare looking up at me from the middle of one of the many tricky climbs. I offered a hand and she pulled herself up. I nipped back up the pitch, humility forgotten, finding it significantly easier without a bag.
 
-Some caving later we arrived at the bottom of the big pitch. I must’ve looked quite out of it because Clare suggested we have a break. She then produced two cereal bars that she had found in an abandoned glove somewhere in the cave. One was quite palatable, the other sodden. We ate both. 
+Some caving later we arrived at the bottom of the big pitch. I must’ve looked quite out of it because Clare suggested we have a break. She then produced two cereal bars that she had found in an abandoned glove somewhere in the cave. One was quite palatable, the other sodden. We ate both.
 
 We were now at bag number three. I offered to take two bags, if Clare was happy to continue derigging. People very rarely refuse that sort of offer and Clare was no exception. I began the slow haul upwards.
 
@@ -101,14 +101,32 @@ The first and final pitch passed we sat at the top packing rope and packing away
 
 I was extremely tired and my knees were completely fucked despite the approximately 2cm of neoprene covering them. Apart from the pain in my knees and arms I was surprised to find my core strength failing. Not that I have a strong core, just that I don’t think I have ever crawled and stooped to the point that it hurt.
 
-My world shrank to 4 points of painful pressure, hands and knees, sloshing water, and shimmering brown water in front of my hung head. I attempted to sink into a zen like state of unconscious movement though as Clare pointed out I was quite bad at this because I kept complaining about things and manically giggling. The crawl progressed slowly. We would take a break whenever one of us collapsed into the water. Rising after a few moments, motivated by the thought of being so nearly out. 
+My world shrank to 4 points of painful pressure, hands and knees, sloshing water, and shimmering brown water in front of my hung head. I attempted to sink into a zen like state of unconscious movement though as Clare pointed out I was quite bad at this because I kept complaining about things and manically giggling. The crawl progressed slowly. We would take a break whenever one of us collapsed into the water. Rising after a few moments, motivated by the thought of being so nearly out.
 
 And then after an eternity we were. Some final combined tactics saw us and all of the bags out of the final grovel and climb and into the glorious sunshine.
 
 I desperately stripped off the top half of my neoprene and basked. We walked down towards Brackenbottom as the sun set to be met by Jack and Sandeep and a vast amount of midges who were the most keen to see us.
 
-I think I would go back. I’d like to see the other side of that sump. 
+I think I would go back. I’d like to see the other side of that sump.
 
 #### Rhys
 
 
+### FOUL Pot {{DATE=2018-06-09; CAVE=FOUL Pot;}}
+After Rhys' epic trip report above, you might find this one a little humdrum. But FOUL Pot (note the all caps) is a solid little cave, with entertaining variety, some good challenges and a well defined, satisfying end.
+
+I had had my wisdom tooth removed two days before, and was dosed up on lots of paracetamol and ibuprofen for the drive up. I had my heart set on Penyghent, but as the trips began to crystalise in the morning I realised I couldn't do an epic trip and it was necessary to provide an alternative lest we have seventeen people down a single, very wet cave. FOUL Pot has been on my radar even before Winter Tour, when Davey Dubz became obsessed with it (he didn't go this time for unknown reasons). The rigging guide gives very little away, but a well written description on the CNCC website made it seem very doable. Accompanied by Yan Jin and Celia, we strode across Fountains Fell, contouring above a limestone pavement until we found a low point to climb over the wall, and followed the dry streamway down to a fenced off sink.
+
+A short free climb leads to a tight thrutch through immature streamway, and then a flat out crawl in low water to an awkward climb up into a small chamber. I push my tackle sack first, and Celia made it through behind quickly. Sadly Yan Jin's sack got stuck, and she couldn't free it - I went back into the crawl and found no way to turn around, so instead had to go all the way through, turn round and then come back again. An excellent start to the trip. Just beyond the small chamber was the Octopus, a large orange flow stone. There are bolts to abseil down, but the in situ ladder is very sturdy.
+
+Some thrutching later and we reached the second pitch, an impressively deep shaft which is a bit awkward to rig. Down at the bottom we reached the narrow rifts. The CNCC recommends removing SRT gear. I didn't need to, but Yan Jin and Celia were much faster on the way out (when they had removed them) than on the way in (when they wore them) so I do recommend doing this. The first rift is 4 m long, and has to be done horizontally, on your side, with an arm below to keep you from slipping into the lowest part. Once through, I turned round and Celia and Yan Jin passed me the other bags. Unsure of teh way on, Celia then descended too low and her tackle sack was stranded down a tight rift. I climbed down and managed to hook a strap with a foot and just barely retrieve it. The second rift is shorter and easier, but we still needed a bit of a break afterwards - those rifts are tough and could be a real problem for a tired caver on the way out.
+
+We joined the streamway in a crawl, but soon the passage cuts down and the pretties begin. Beautiful calciate flows, meter long straws - this is a really well decorated cave! All too soon it was over and we arrived at the Man O War Pitch. This was the highlight of the trip for me - formed inside a fault, the water has found many ways down, which spiral and corkscrew round each other. The bolts are well placed (though the rock is quite bad) and I abseiled into one of the shafts, looking for the rebelay. This was a beautifully set hanging affair which landed me on a flat bottomed chamber. The way on doubles back immediately, exploiting the fault.
+
+Celia and Yan Jin soon joined me, and we pressed on to the final pitch (using the in situ rope for the very short pitch). The final pitch has an interest traverse down a steep muddy slope, and then drops down a sloping rock wall. At the bottom, a climb through boulders reaches the thick, gloopy mud of the lower chambers. it's clear that in flood the water comes far up the walls, but in these dry conditions it we could make it into the half filled phreatic tube and follow the water until it became too deep and the roof too low. A good end to a Yorkshire cave - a squalid sump.
+
+We ate some Soreen, and I sat cleaning mud from my pantin as Yan Jin and Celia ascended. With three bags and three people we had to stick close together, but we were soon at the tight rifts. Celia and Yan Jin made it thrpugh easily without their SRT kits on - in fact, it was so easy that as Yan Jin emerged from the second rift, she asked when we were going to get to the tight bit! At the top of the second pitch I had a sense of humour/light failure and had to derig lying on my back, arms outstretched with my backup light. Soon we were back up the ladder and out into glorious sunshine, the fields filled with rabbits, birds of prey, lapwings and other wonders of nature.
+
+FOUL Pot is a great trip - for us three, it took about six hours. For a small, fast moving group it could take only 4 hours. For a larger group with more novices, it could be a real epic - the tight bits are comparable to Pippikin, so beware! It's a bit of a drive, but there are plenty of other caves nearby, so it's worth remembering for a group trip.
+
+#### Jack
