@@ -9,7 +9,8 @@ Thumbl:
 Thumbr:
 Authors: Rhys Tyers, Ho Yan Jin, Jack Hare, Jack Halliday
 Cavepeeps: DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Jack Halliday, Andy Jurd, Jan Evett;
-           DATE=2018-06-09; CAVE=Valley Entrance > Rowten Pot; PEOPLE=David Kirkpatrick, Rita Borg;
+           DATE=2018-06-09; CAVE=Rowten Pot; PEOPLE= Cecilia Kan, Alex Seaton, Chris Bradley;
+           DATE=2018-06-09; CAVE=Valley Entrance > Rowten Pot; PEOPLE=Dave Kirkpatrick, Rita Borg;
            DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Rhys Tyers, Clare Tan;
            DATE=2018-06-09; CAVE=FOUL Pot; PEOPLE=Jack Hare, Celia Tinsely, Ho Yan Jin;
            DATE=2018-06-09; CAVE=Dale Head Pot; PEOPLE=Arun Paul, David Wilson, Sandeep Mavadia;
