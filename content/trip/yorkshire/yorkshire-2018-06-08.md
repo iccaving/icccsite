@@ -1,14 +1,14 @@
 Title: Yorkshire VII
 Date: 2018-06-08
 Location: yorkshire
-Summary: A mass attack on the Penyghent saw a pleasing variety of novel caves explored with cavers in Penyghen (plus Friday the 13th), Dale Head, and FOUL Pot. On Sunday, aided by excellent weather, we did an Alum/Diccan exchange.
+Summary: A mass attack on the Penyghent saw a pleasing variety of novel caves explored with cavers in Penyghent (plus Friday the 13th), Dale Head, and FOUL Pot. On Sunday, aided by excellent weather, we did an Alum/Diccan exchange.
 Type: trip
 Photoarchive:
 Mainimg:
 Thumbl:
 Thumbr:
 Authors: Rhys Tyers, Ho Yan Jin, Jack Hare, Jack Halliday
-Cavepeeps: DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Jack Halliday, Andy Jurd, Jan Evett;
+Cavepeeps: DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Jack Halliday, Andy Jurd, Jan Evetts;
            DATE=2018-06-09; CAVE=Rowten Pot; PEOPLE= Cecilia Kan, Alex Seaton, Chris Bradley;
            DATE=2018-06-09; CAVE=Valley Entrance > Rowten Pot; PEOPLE=Dave Kirkpatrick, Rita Borg;
            DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Rhys Tyers, Clare Tan;
@@ -196,4 +196,4 @@ The rigging was as good as it can be, but the last pitch was long and endless an
 
 I would rate this trip 80% Type 1 fun (actually enjoyed it in the cave) and 20% Type 2 fun (didn’t enjoy it in the cave but convinced myself that I did on hindsight). After a long day, we reached stores at 1am and headed back. I left contented, knowing that I had a good weekend of caving and company.
 
-####
+#### Yan Jin
