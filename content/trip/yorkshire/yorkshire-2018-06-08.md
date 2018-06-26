@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg:
 Thumbl:
 Thumbr:
-Authors: Rhys Tyers, Ho Yan Jin, Jack Hare
+Authors: Rhys Tyers, Ho Yan Jin, Jack Hare, Jack Halliday
 Cavepeeps: DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Jack Halliday, Andy Jurd, Jan Evett;
            DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Rhys Tyers, Clare Tan;
            DATE=2018-06-09; CAVE=FOUL Pot; PEOPLE=Jack Hare, Celia Tinsely, Ho Yan Jin;
@@ -28,11 +28,37 @@ I figured the best way to celebrate the end of exams is to spend a weekend hidin
 
 ## Saturday
 
+### Penyghent Pot {{DATE=2018-06-09; CAVE=Penyghent Pot;}}
+
+Saturday morning was stressful: As I gulped down my last mouthful of Morrison’s finest baked beans, Dr Jack grinned smugly and wordlessly shoved ICCC’s little red book into my hands. The message was obvious. It was my job to work out how to divide cavers into groups for the day’s activities. Thankfully Arun sprang to the rescue and between the two of us we were eventually able to negotiate a division of cavers which nobody found too awful. The trip I ended up on was a visit to the sump in Penyghent Pot with Andy and Jan. Rhys and Clare were planning to start later, catch us up underground, then split off to explore some terrifying extension at the bottom of the cave (Friday 13th Series). To be honest, I was pretty happy with this turn of events; not least because we were travelling to the foot of Penyghent  in Andy’s car, thereby avoiding the usual minibus related faff.
+
+We set off as the others were loading up the minibus. As we left Andy and Jan started discussing having kids and real jobs and stuff. For once on a caving trip I was feeling positively youthful. As we hurtled along the lanes towards the cave, I slipped off into my own little world, enjoying the Yorkshire countryside zipping past the car window. At some point along the way we entered a village. Without warning Andy slammed on the breaks; stalled the car; and leapt out of the driver’s door. He then proceeded to rush towards a nearby building, turning round to yell “back in a minute”, before disappearing inside. Me and Jan exchanged confused glances and then turned to examine the building Andy had gone into. It was a gray, largely square construction, accessed via a gate adorned with the letters “YSS”. Obviously a caving hut.  
+
+After about five minutes Andy returned and asked if we minded another person joining the trip. Me and Jan both shrugged. Andy disappeared inside to return a few minutes later with another guy who introduced himself as Rich. Andy explained that they knew each other from Nottingham then we hurtled onwards towards our destination.  
+
+The walk up to the cave was fairly long and very warm in a PVC. To get to the cave from the Bradford Hut in Brackenbottom, we backtracked along the road we came to a path labeled Penyghent; followed this up the hill until we arrived at a stile (which we crossed);  then we immediately turned off the path to the left. We walked on dry marshland for around 200 m before coming to a wide, shallow, dry river valley on the right. We walked along the valley for a moment, then stumbled upon the cave entrance.    
+
+Once underground, the first real obstacle was a fairly long entrance crawl in running water. This started quite pleasantly, with plenty of space overhead and a nice sandy floor. Over time the floor devolved from sand to gravel and the clearance overhead became smaller and smaller (eventually necessitating flatout crawling). Overall, this part of the trip was not as bad as I had been lead to believe, but I was glad of the second pair of kneepads I had brought. That said, if the weather had been less settled, the experience would have been rather nerve wracking.
+
+After what felt like an age, we found ourselves in a passage where stooping was possible, then sections of walking passage and a couple of short and unremarkable pitches. By this point the group had adopted a state of comfortable silence which was to persist for most of the rest of the trip.
+
+The third pitch was notable in as much as it was quite long (around 50 m), with a relatively constricted pitch head, and a single rebelay around half way down. As Andy started to this, he noticed a group of the cavers prusiking up the pitch but was able to rig things in such a way that we could rig pass on the pitch (which was entertaining). It turned out they were from the Bradford and had turned around before bottoming the cave - intimidated by the rigging.
+
+My experience of this pitch was rendered even more farcical by the fact Jan dropped the lid of his battery case from the top. I was able to orchestrate a valiant rescue by swinging out mid decent to retrieve this from the ledge it had fallen onto, all the while making sure I didn’t collide with a distinctly unimpressed Bradford member who was prussiking past me.
+
+After this the cave presented us with a series of relatively short pitches, separated by sections of smooth rifty passage. The rigging became more and more unorthodox, with a good selection of naturals, various resin anchors, and a few spits (with in situ hangers) all used.
+
+At some point in the journey, but much later than we were expecting, Clare and Rhys caught up with us. Rhys made his presence known by interrupting our zen-like silence with a shout of “HELLO I’M RHYS”. Rich, who was bringing up the rear, just looked at Rhys. I attempted to diffuse the situation by making a joke which was unfortunately not very funny. Jan laughed out of pity. Everyone else stayed silent.
+
+The rest of the journey down is a bit of a blur. I remember Clare and Rhys branching off at some stage, via a rather intimidating free climb, to explore the Friday the 13th Series. After they left the route we were following got more and more slimy, until every surface was covered in sludge for a fairly long stooping section. We eventually arrived at an archetypical Yorkshire sump: Brown, Foamy, and depressing. Everyone was quite disappointed that this was it, so we had a look at the description for Friday the 13th, half contemplating rejoining Rhys and Clare . It sounded spectacularly awful so we abandoned the idea and turned around to head for the surface.
+
+The return journey was uneventful. There were a few smooth, rifty free climbs which were easy on the way down but quite tiring on the way up. The entrance crawl felt about three times longer on the return leg and I was again glad of my 2nd pair of knee pads. All in all, a grand day out!
+
+#### Jack Halliday
+
 ### Penyghent - Friday the 13th Series: {{ DATE=2018-06-09; CAVE=Penyghent Pot;2 }}
 
 Pen-y-ghent to Friday the 13th
-
-
 ‘Are you...intrigued?’
 
 The modest proposal by Clare was to have a look down the Friday the 13th series in Penyghent. I agreed at the time knowing very little about it and without ever having been into Penyghent at all.
