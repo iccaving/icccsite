@@ -7,7 +7,7 @@ Photoarchive:
 Mainimg:
 Thumbl:
 Thumbr:
-Authors: Rhys Tyers
+Authors: Rhys Tyers, Ho Yan Jin, Jack Hare
 Cavepeeps: DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Jack Halliday, Andy Jurd, Jan Evett;
            DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Rhys Tyers, Clare Tan;
            DATE=2018-06-09; CAVE=FOUL Pot; PEOPLE=Jack Hare, Celia Tinsely, Ho Yan Jin;
@@ -19,6 +19,12 @@ Status: draft
 {{ mainimg }}
 {{ photolink }}
 ##### {{ allpeople }}
+
+## Friday
+
+I figured the best way to celebrate the end of exams is to spend a weekend hiding in caves. We picked up Jan along the motorway and dropped off Peter who was hitching a ride. His cracked and hilarious family gave us a good and possibly overly enthusiastic wave at the petrol station.
+
+#### Yan Jin
 
 ## Saturday
 
@@ -113,6 +119,19 @@ I think I would go back. I’d like to see the other side of that sump.
 
 
 ### FOUL Pot {{DATE=2018-06-09; CAVE=FOUL Pot;}}
+
+Jack Hare, Celia and I headed to FOUL Pot, and I was told that its name was not what it seems. The dolphins, DKP and Rita, went down the sumps at Rowten Pot; Cecelia, Alex and Chris went down Rowten; David, Arun, Nick and Sandeep headed to Dale Head Pot; Andy, Jack Halliday, Jan, Rhys and Clare headed to Penyghent, and the latter two followed on the Friday the 13th Extension. The walk up to FOUL Pot was quite scenic with many birds, sheep and even rabbits. The cave starts with a free climb down that wasn't high enough to require SRT but was a good enough drop to instil the fear of falling. The crawl that followed was unpleasant and especially annoying with the tackle sack. Thankfully, a pitch came soon after and the path opened out. The description said not to trust the ladder that was there, but it seemed all right to me. We then saw a huge orange flowstone at the Octopus Hall, along with cool formations and a helictite growing out of a flowstone.
+
+The tight squeezes along the passage was awful. We couldn’t get through by shuffling sideways, but had to put one hand on the ground, the other hand up while dangling our legs sideways and pulling/kicking/shuffling over. My SRT kit kept getting in the way and it took me awhile to get through. It was worth it though, for the Man O War pitch that followed after was pretty magnificent (although care should be taken because rocks just fall off the wall), and the stalactites were really long and in pristine condition. After the last pitch, the passage progressively got muddier and when it didn’t seem like there was anything left to see, we turned around.
+
+On the way back, Celia and I took off our SRT kit and I went through those squeezes without much difficulty. When Jack said that we were done with the tight bits I was confused because I didn’t think we reached it yet. Removal of SRT kit is definitely recommended, since there is a long stretch of tight squeezes between the second and third pitch and makes the journey infinitely more pleasant. We worked together to get the tackle sacks across, which made it much easier to get through. There was a challenging climb that had no good foot holes or grips to get up, and Jack helped to support my foot. I do apologise for accidentally kicking mud in his face though.
+
+As we walked back, we concurred that it is a cave we’re glad to have gone into, but see no reason to visit it again anytime soon. I’m glad to have gone into the cave while it’s still in pristine condition, and help smooth out the passage for future cavers, in hope that the squeezes will gradually get less unpleasant.
+
+Back at the hut, it was the first time I saw Rhys tired, and he got people to touch his knees because they were significantly warmer than the rest of his legs (and that was true). David and Arun also seemed to have had fun at a dodgy traverse at Dale Head Pot.
+
+#### Yan Jin
+
 After Rhys' epic trip report above, you might find this one a little humdrum. But FOUL Pot (note the all caps) is a solid little cave, with entertaining variety, some good challenges and a well defined, satisfying end.
 
 I had had my wisdom tooth removed two days before, and was dosed up on lots of paracetamol and ibuprofen for the drive up. I had my heart set on Penyghent, but as the trips began to crystalise in the morning I realised I couldn't do an epic trip and it was necessary to provide an alternative lest we have seventeen people down a single, very wet cave. FOUL Pot has been on my radar even before Winter Tour, when Davey Dubz became obsessed with it (he didn't go this time for unknown reasons). The rigging guide gives very little away, but a well written description on the CNCC website made it seem very doable. Accompanied by Yan Jin and Celia, we strode across Fountains Fell, contouring above a limestone pavement until we found a low point to climb over the wall, and followed the dry streamway down to a fenced off sink.
@@ -129,4 +148,24 @@ We ate some Soreen, and I sat cleaning mud from my pantin as Yan Jin and Celia a
 
 FOUL Pot is a great trip - for us three, it took about six hours. For a small, fast moving group it could take only 4 hours. For a larger group with more novices, it could be a real epic - the tight bits are comparable to Pippikin, so beware! It's a bit of a drive, but there are plenty of other caves nearby, so it's worth remembering for a group trip.
 
-#### Jack
+#### Jack Hare
+
+## Sunday
+
+### Alum to Diccan: {{DATE=2018-06-10; CAVE=Alum Pot > Diccan Pot;}}
+
+The next morning, I had the pleasure of making breakfast and getting people up, and especially enjoyed whispering “get up” into DPK’s face. We decided on the trips and packed ropes quite quickly, and almost even caved before mid day.
+
+Rhys, Jack Halliday and I went in through Alum Pot and out Diccan Pot, while Jack Hare, David, Sandeep and Chris did the reverse. The short walk up was warm for my standards, and I accidentally but pretty happily went into a waist deep pool in the passage leading to the first pitch (It helped to wash my muddy PVC anyway). The view of the light entering the cave was absolutely spectacular and I felt like I was stepping into another world. Jack had a go at rigging the traverse, and as he was about to descend, he felt like something wasn’t right and wanted to check the length of the rope. Thankfully he did, because that was the 50m rope instead of the 25m one needed and we worked as a team to undo the mess.
+
+The pitch was magnificent and seemed endlessly deep. One part involved descending down a huge boulder that gracefully wedged itself in the crack, and I slipped off that. I was expecting to drop lower which wasn’t a big problem because I was very near the rebelay, but surprised myself and the rest by somehow slipping off to the side of the boulder. After some wringing to put my chest jammer on, I ascended up the traverse and descended again, very carefully this time. The rest of the descend was quite pleasant and beautiful.
+
+At the bottom, we met David and gradually the rest as they descended from Diccan Pot. It was quite cold and I was thankful that I wore thermals and PVC. Thankfully, the way up was drier than I expected and the waterfalls were not that big. I enjoyed the rebelays because there were nice foot holds to stand on. The traverses were awkward as I sat on one side, extended my legs out to the other and slowly shuffled across. It only dawned on me later that I could have just stood up and put one leg on each side.
+
+We reached a point where the pitch was doubly rigged and Rhys devised a cunning de-rigging plan which had something to do with crossing over Jack as they both simultaneously de-rigged (I didn’t really understand the plan but just smile and nodded my head). On the way down Diccan, Chris unclipped a deviation and we all forgot to retrieved it on our way up.
+
+The rigging was as good as it can be, but the last pitch was long and endless and tiring. At the deviation, I planned to put the rope at the bottom into the krab and remove the top rope, with the guarantee of not losing the deviation sling. However, since it was quite high up the pitch, the bottom rope was heavy and pulled the deviation krab down below my hand jammer and the krab with it. Attempts to shift the deviation krab up was difficult as the hand jammer moved up with it, the weight of the bottom rope pulled the krab down and there were knots and loops at the krab with my jammer (because the foot loop was too long). After a considerable amount of struggling, I finally got it out and tiredly ascended up.
+
+I would rate this trip 80% Type 1 fun (actually enjoyed it in the cave) and 20% Type 2 fun (didn’t enjoy it in the cave but convinced myself that I did on hindsight). After a long day, we reached stores at 1am and headed back. I left contented, knowing that I had a good weekend of caving and company.
+
+####
