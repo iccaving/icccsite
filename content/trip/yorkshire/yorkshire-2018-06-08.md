@@ -10,10 +10,8 @@ Thumbr: DSC08663-RhysTyers--thumb.jpg
 Authors: Rhys Tyers, Ho Yan Jin, Jack Hare, Jack Halliday
 Cavepeeps: DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Jack Halliday, Andy Jurd, Jan Evetts;
            DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Rhys Tyers, Clare Tan;
-           DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Example 1;
-           DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Example 2;
            DATE=2018-06-09; CAVE=Rowten Pot; PEOPLE= Cecilia Kan, Alex Seaton, Chris Bradley;
-           DATE=2018-06-09; CAVE=Valley Entrance > Rowten Pot; PEOPLE=Dave Kirkpatrick, Rita Borg;
+           DATE=2018-06-09; CAVE=Valley Entrance; PEOPLE=Dave Kirkpatrick, Rita Borg;
            DATE=2018-06-09; CAVE=FOUL Pot; PEOPLE=Jack Hare, Celia Tinsely, Ho Yan Jin;
            DATE=2018-06-09; CAVE=Dale Head Pot; PEOPLE=Arun Paul, David Wilson, Sandeep Mavadia;
            DATE=2018-06-10; CAVE=Alum Pot > Diccan Pot; PEOPLE=Rhys Tyers, Jack Halliday, Ho Yan Jin;
@@ -32,6 +30,9 @@ I figured the best way to celebrate the end of exams is to spend a weekend hidin
 
 ## Saturday
 
+### Rowten Pot: {{ DATE=2018-06-09; CAVE=Rowten Pot; }}
+### Drowning in Valley Entrance: {{ DATE=2018-06-09; CAVE=Valley Entrance; }}
+### Dale Head: {{ DATE=2018-06-09; CAVE=Dale Head Pot; }}
 ### Penyghent Pot: Some guy called Rich, {{ DATE=2018-06-09; CAVE=Penyghent Pot;1 }}
 
 Saturday morning was stressful: As I gulped down my last mouthful of Morrison’s finest baked beans, Dr Jack grinned smugly and wordlessly shoved ICCC’s little red book into my hands. The message was obvious. It was my job to work out how to divide cavers into groups for the day’s activities. Thankfully Arun sprang to the rescue and between the two of us we were eventually able to negotiate a division of cavers which nobody found too awful. The trip I ended up on was a visit to the sump in Penyghent Pot with Andy and Jan. Rhys and Clare were planning to start later, catch us up underground, then split off to explore some terrifying extension at the bottom of the cave (Friday 13th Series). To be honest, I was pretty happy with this turn of events; not least because we were travelling to the foot of Penyghent  in Andy’s car, thereby avoiding the usual minibus related faff.
@@ -185,7 +186,8 @@ FOUL Pot is a great trip - for us three, it took about six hours. For a small, f
 
 ## Sunday
 
-### Alum to Diccan: {{DATE=2018-06-10; CAVE=Alum Pot > Diccan Pot;}}
+### Alum to Diccan: {{ DATE=2018-06-10; CAVE=Alum Pot > Diccan Pot; }}
+### Diccan to Alum: {{ DATE=2018-06-10; CAVE=Diccan Pot > Alum Pot; }}
 
 {"Relaxing high up in Diccan" left}(DSC08698-RhysTyers.jpg)
 
