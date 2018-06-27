@@ -32,7 +32,7 @@ I figured the best way to celebrate the end of exams is to spend a weekend hidin
 
 ## Saturday
 
-### Penyghent Pot: {{ DATE=2018-06-09; CAVE=Penyghent Pot;1 }}
+### Penyghent Pot: {{ DATE=2018-06-09; CAVE=Penyghent Pot;1 }}, some guy called Rich
 
 Saturday morning was stressful: As I gulped down my last mouthful of Morrison’s finest baked beans, Dr Jack grinned smugly and wordlessly shoved ICCC’s little red book into my hands. The message was obvious. It was my job to work out how to divide cavers into groups for the day’s activities. Thankfully Arun sprang to the rescue and between the two of us we were eventually able to negotiate a division of cavers which nobody found too awful. The trip I ended up on was a visit to the sump in Penyghent Pot with Andy and Jan. Rhys and Clare were planning to start later, catch us up underground, then split off to explore some terrifying extension at the bottom of the cave (Friday 13th Series). To be honest, I was pretty happy with this turn of events; not least because we were travelling to the foot of Penyghent  in Andy’s car, thereby avoiding the usual minibus related faff.
 
