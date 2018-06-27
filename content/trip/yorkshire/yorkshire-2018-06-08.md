@@ -62,7 +62,6 @@ The return journey was uneventful. There were a few smooth, rifty free climbs wh
 
 ### Penyghent - Friday the 13th Series: {{ DATE=2018-06-09; CAVE=Penyghent Pot;2 }}
 
-Pen-y-ghent to Friday the 13th
 ‘Are you...intrigued?’
 
 The modest proposal by Clare was to have a look down the Friday the 13th series in Penyghent. I agreed at the time knowing very little about it and without ever having been into Penyghent at all.
