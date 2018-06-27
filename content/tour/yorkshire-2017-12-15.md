@@ -265,7 +265,7 @@ We found the others huddled in a shelter in Bar and invited them to walk back wi
 
 #### Jack
 
-### Bar to Bar: {{ DATE=2017-12-20; CAVE=Bar Pot > Bar Pot; }}
+### Bar to Bar: {{ DATE=2017-12-20; CAVE=Bar Pot; }}
 
 "The Gaping Gill Extravaganza" 
 
