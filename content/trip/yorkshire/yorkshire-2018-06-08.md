@@ -12,7 +12,7 @@ Cavepeeps: DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Jack Halliday, Andy Jurd,
            DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Rhys Tyers, Clare Tan;
            DATE=2018-06-09; CAVE=Rowten Pot; PEOPLE= Cecilia Kan, Alex Seaton, Chris Bradley;
            DATE=2018-06-09; CAVE=Valley Entrance; PEOPLE=Dave Kirkpatrick, Rita Borg;
-           DATE=2018-06-09; CAVE=FOUL Pot; PEOPLE=Jack Hare, Celia Tinsely, Ho Yan Jin;
+           DATE=2018-06-09; CAVE=FOUL Pot; PEOPLE=Jack Hare, Celia Tinsley, Ho Yan Jin;
            DATE=2018-06-09; CAVE=Dale Head Pot; PEOPLE=Arun Paul, David Wilson, Sandeep Mavadia;
            DATE=2018-06-10; CAVE=Alum Pot > Diccan Pot; PEOPLE=Rhys Tyers, Jack Halliday, Ho Yan Jin;
            DATE=2018-06-10; CAVE=Diccan Pot > Alum Pot; PEOPLE=Jack Hare, Chris Bradley, David Wilson;
