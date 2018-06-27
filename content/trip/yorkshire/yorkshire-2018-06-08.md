@@ -78,6 +78,8 @@ At the picturesque Dale Head Clare and I made our preparations for the walk over
 
 The walk is lovely. Not much elevation to gain and I think one of the quieter ways up towards Penyghent on such a nice day. As we neared looming prominence of Penyghent some 100 meters above us we considered our options. We could skirt around the bottom and walk to the cave. Orrrrr we could hide our bags, nip up to the top, and come back down again to continue the walk. We went for option two.
 
+{"In lieu of photos of the bottom, here is proof of our ascent to the top of Penyghent" right}(IMG_20180609_121230-RhysTyers.jpg)
+
 We hid the bags behind a dry stone wall and covered them with dry grass to disguise them and then marched up to the peak. We got a couple of comments on the way up about our footwear, wellies and neoprene socks, (‘Them’s not hiking boots’) and about the headtorch tangling around my neck (‘How long are you planning to be out here?’).  It was further than I expected with a small walk to actually get to the trig point but we were up in just over 10 minutes and back to our bags in just over 20.
 
 Now we had been to the top of Penyghent, it was time to go to the bottom. We continued on the path, veering off into the fields at the appropriate dry stone wall. It didn’t take us long to find the entrance. We completed the unpleasant task of entombing ourselves in neoprene and PVC and were very glad to be in the cool air of the cave.
@@ -165,6 +167,8 @@ After Rhys' epic trip report above, you might find this one a little humdrum. Bu
 
 I had had my wisdom tooth removed two days before, and was dosed up on lots of paracetamol and ibuprofen for the drive up. I had my heart set on Penyghent, but as the trips began to crystalise in the morning I realised I couldn't do an epic trip and it was necessary to provide an alternative lest we have seventeen people down a single, very wet cave. FOUL Pot has been on my radar even before Winter Tour, when Davey Dubz became obsessed with it (he didn't go this time for unknown reasons). The rigging guide gives very little away, but a well written description on the CNCC website made it seem very doable. Accompanied by Yan Jin and Celia, we strode across Fountains Fell, contouring above a limestone pavement until we found a low point to climb over the wall, and followed the dry streamway down to a fenced off sink.
 
+{"The 'Octopus'" center}(JackHare-DSC09354.jpg)
+
 A short free climb leads to a tight thrutch through immature streamway, and then a flat out crawl in low water to an awkward climb up into a small chamber. I push my tackle sack first, and Celia made it through behind quickly. Sadly Yan Jin's sack got stuck, and she couldn't free it - I went back into the crawl and found no way to turn around, so instead had to go all the way through, turn round and then come back again. An excellent start to the trip. Just beyond the small chamber was the Octopus, a large orange flow stone. There are bolts to abseil down, but the in situ ladder is very sturdy.
 
 Some thrutching later and we reached the second pitch, an impressively deep shaft which is a bit awkward to rig. Down at the bottom we reached the narrow rifts. The CNCC recommends removing SRT gear. I didn't need to, but Yan Jin and Celia were much faster on the way out (when they had removed them) than on the way in (when they wore them) so I do recommend doing this. The first rift is 4 m long, and has to be done horizontally, on your side, with an arm below to keep you from slipping into the lowest part. Once through, I turned round and Celia and Yan Jin passed me the other bags. Unsure of teh way on, Celia then descended too low and her tackle sack was stranded down a tight rift. I climbed down and managed to hook a strap with a foot and just barely retrieve it. The second rift is shorter and easier, but we still needed a bit of a break afterwards - those rifts are tough and could be a real problem for a tired caver on the way out.
@@ -183,11 +187,15 @@ FOUL Pot is a great trip - for us three, it took about six hours. For a small, f
 
 ### Alum to Diccan: {{DATE=2018-06-10; CAVE=Alum Pot > Diccan Pot;}}
 
+{"Relaxing high up in Diccan" left}(DSC08698-RhysTyers.jpg)
+
 The next morning, I had the pleasure of making breakfast and getting people up, and especially enjoyed whispering “get up” into DPK’s face. We decided on the trips and packed ropes quite quickly, and almost even caved before mid day.
 
 Rhys, Jack Halliday and I went in through Alum Pot and out Diccan Pot, while Jack Hare, David, Sandeep and Chris did the reverse. The short walk up was warm for my standards, and I accidentally but pretty happily went into a waist deep pool in the passage leading to the first pitch (It helped to wash my muddy PVC anyway). The view of the light entering the cave was absolutely spectacular and I felt like I was stepping into another world. Jack had a go at rigging the traverse, and as he was about to descend, he felt like something wasn’t right and wanted to check the length of the rope. Thankfully he did, because that was the 50m rope instead of the 25m one needed and we worked as a team to undo the mess.
 
 The pitch was magnificent and seemed endlessly deep. One part involved descending down a huge boulder that gracefully wedged itself in the crack, and I slipped off that. I was expecting to drop lower which wasn’t a big problem because I was very near the rebelay, but surprised myself and the rest by somehow slipping off to the side of the boulder. After some wringing to put my chest jammer on, I ascended up the traverse and descended again, very carefully this time. The rest of the descend was quite pleasant and beautiful.
+
+{"At the bottom of Diccan, looking up to Alum" right}(JackHare-DSC09415.jpg)
 
 At the bottom, we met David and gradually the rest as they descended from Diccan Pot. It was quite cold and I was thankful that I wore thermals and PVC. Thankfully, the way up was drier than I expected and the waterfalls were not that big. I enjoyed the rebelays because there were nice foot holds to stand on. The traverses were awkward as I sat on one side, extended my legs out to the other and slowly shuffled across. It only dawned on me later that I could have just stood up and put one leg on each side.
 
