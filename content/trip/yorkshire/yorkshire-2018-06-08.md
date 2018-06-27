@@ -4,9 +4,9 @@ Location: yorkshire
 Summary: A mass attack on the Penyghent saw a pleasing variety of novel caves explored with cavers in Penyghent (plus Friday the 13th), Dale Head, and FOUL Pot. On Sunday, aided by excellent weather, we did an Alum/Diccan exchange.
 Type: trip
 Photoarchive:
-Mainimg:
-Thumbl:
-Thumbr:
+Mainimg: DSC08666-RhysTyers.jpg 
+Thumbl: DSC08698-RhysTyers--thumb.jpg
+Thumbr: DSC08663-RhysTyers--thumb.jpg
 Authors: Rhys Tyers, Ho Yan Jin, Jack Hare, Jack Halliday
 Cavepeeps: DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Jack Halliday, Andy Jurd, Jan Evetts;
            DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Rhys Tyers, Clare Tan;
