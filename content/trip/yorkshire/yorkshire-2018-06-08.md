@@ -5,7 +5,7 @@ Summary: A mass attack on the Penyghent saw a pleasing variety of novel caves ex
 Type: trip
 Photoarchive:
 Mainimg: DSC08666-RhysTyers.jpg 
-Thumbl: DSC08698-RhysTyers--thumb.jpg
+Thumbl: JackHare-DSC09424--thumb.jpg
 Thumbr: DSC08663-RhysTyers--thumb.jpg
 Authors: Rhys Tyers, Ho Yan Jin, Jack Hare, Jack Halliday
 Cavepeeps: DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Jack Halliday, Andy Jurd, Jan Evetts;
@@ -18,7 +18,7 @@ Cavepeeps: DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Jack Halliday, Andy Jurd,
            DATE=2018-06-09; CAVE=Dale Head Pot; PEOPLE=Arun Paul, David Wilson, Sandeep Mavadia;
            DATE=2018-06-10; CAVE=Alum Pot > Diccan Pot; PEOPLE=Rhys Tyers, Jack Halliday, Ho Yan Jin;
            DATE=2018-06-10; CAVE=Diccan Pot > Alum Pot; PEOPLE=Jack Hare, Chris Bradley, David Wilson;
-Status: draft
+Status: 
 
 {{ mainimg }}
 {{ photolink }}
