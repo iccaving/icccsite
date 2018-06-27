@@ -100,7 +100,7 @@ The deterioration into waterlogged struggle is smooth. The passage does not chan
 
 Half way along a column blocks the way and I needed to superman my way through. It felt commiting and left me unable to hold my head out of the water but there was no way to turn around. I assume Clare had an easier time of it but she was a collection of scraping and splashing noises somewhere behind me at this point and neither of us were keen to waste time talking.
 
-I have no idea how long it took us to get through but it was certainly long enough. We dragged ourselves out of the water and into a final flat our section. It thankfully quite quickly became a hands and knees crawl and joined a junction where it was possible to sit down.
+I have no idea how long it took us to get through but it was certainly long enough. We dragged ourselves out of the water and into a final flat out section. It thankfully quite quickly became a hands and knees crawl and joined a junction where it was possible to sit down.
 
 We had a rest and examined a plastic tub of peanuts and raisins that we found there. I didn’t open them. Even in a sealed container it seems rather optimistic to hope they will last that long.
 
@@ -128,9 +128,9 @@ Some caving later we arrived at the bottom of the big pitch. I must’ve looked 
 
 We were now at bag number three. I offered to take two bags, if Clare was happy to continue derigging. People very rarely refuse that sort of offer and Clare was no exception. I began the slow haul upwards.
 
-The next few pitches are either connected or extremely close so it was gratifying to find ourselves at the top of the second pitch after the an exhausting struggle upwards. This was not aided by the belay placement which favour rope wrapped around razor sharp flakes 1 meter below the pitch head. Maybe there is just one pitch like that.
+The next few pitches are either connected or extremely close so it was gratifying to find ourselves at the top of the second pitch quite quickly after an exhausting struggle upwards. This was not aided by the belay placement which favour ropes wrapped around razor sharp flakes 1 meter below the pitch head. Okay, maybe there is just one pitch like that but my exhausted self was in no mood to be reasonable.
 
-The long stooping passage between the second and first pitches had just enough water that dragging two hydroplaning tackle sacks behind me was moderately comfortable. Even so we took several breaks. I think mostly because of my need to occasionally stretch my back from the stooping, though I think Clare appreciated it too.
+The long stooping passage between the second and first pitches had just enough water that dragging two hydroplaning tackle sacks behind me was moderately comfortable. Even so we took several breaks. I think mostly because of my need to occasionally stretch my back from the stooping, though I think Clare appreciated it too. It was also entertaining to watch a 'tidal bore' like layer of water shoot ahead of me in the relatively slow flowing stream, pushed on by the bulk of the tacklesacks.
 
 The first and final pitch passed we sat at the top packing rope and packing away srt gear and generally faffing. Then we rounded the corner and sat again redonning our extra kneepads, putting off the inevitable. “Let’s get the fuck out of here” one of us said. Though this would prove easier said than done.
 
@@ -142,7 +142,7 @@ And then after an eternity we were. Some final combined tactics saw us and all o
 
 I desperately stripped off the top half of my neoprene and basked. We walked down towards Brackenbottom as the sun set to be met by Jack and Sandeep and a vast amount of midges who were the most keen to see us.
 
-I think I would go back. I’d like to see the other side of that sump.
+I think I would go back, despite saying I wouldn't. I’d like to see the other side of that sump.
 
 #### Rhys
 
