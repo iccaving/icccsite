@@ -24,18 +24,18 @@ def article_link(context, article, trips):
     # Flatten the lists of people from this article
     all_people = list(set([ person for trip in trips for person in trip['people']]))
     article.data["allpeople"] = ', '.join(sorted(map(linkify_name, all_people)))
-
     for trip in trips:
         trip_id='DATE={:%Y-%m-%d}; CAVE={};'.format(trip['date'], ' > '.join(trip['caves']))
         trip_people = ', '.join(sorted(map(linkify_name, trip['people'])))
         if trip_id not in article.data:
             article.data[trip_id] = trip_people
-        else:
             article.data[trip_id + '1'] = trip_people
-            n = 2
+        else:
+            article.data[trip_id] += ', ' + trip_people
+            n = 1
             while (trip_id + str(n)) in article.data:
                 n = n + 1
-            article.data[trip_id + str(n)] = article.data[trip_id]
+            article.data[trip_id + str(n)] = trip_people
 
 
 #======================MAIN==========================
