@@ -16,6 +16,7 @@ Cavepeeps: DATE=2018-06-09; CAVE=Penyghent Pot; PEOPLE=Jack Halliday, Andy Jurd,
            DATE=2018-06-09; CAVE=Dale Head Pot; PEOPLE=Arun Paul, David Wilson, Sandeep Mavadia;
            DATE=2018-06-10; CAVE=Alum Pot > Diccan Pot; PEOPLE=Rhys Tyers, Jack Halliday, Ho Yan Jin;
            DATE=2018-06-10; CAVE=Diccan Pot > Alum Pot; PEOPLE=Jack Hare, Chris Bradley, David Wilson;
+           DATE=2018-06-10; CAVE=Long Kin West; PEOPLE=Alex Seaton, Cecilia Kan, Rita Borg
 Status: 
 
 {{ mainimg }}
@@ -186,6 +187,7 @@ FOUL Pot is a great trip - for us three, it took about six hours. For a small, f
 
 ## Sunday
 
+### Long Kin West: {{DATE=2018-06-10; CAVE=Long Kin West;}}
 ### Alum to Diccan: {{ DATE=2018-06-10; CAVE=Alum Pot > Diccan Pot; }}
 ### Diccan to Alum: {{ DATE=2018-06-10; CAVE=Diccan Pot > Alum Pot; }}
 
