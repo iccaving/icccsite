@@ -12,7 +12,7 @@ Cavepeeps: DATE=2007-01-20; CAVE=Valley Entrance; PEOPLE=Jarvist Frost, Anne VDP
            DATE=2007-01-20; CAVE=Swinsto Hole; PEOPLE=Dave Loeffler, Jutta Schnabel, Thara Supasiti, Sandeep Mavadia, Marc Labuhn;
            DATE=2007-01-20; CAVE=Jingling Pot; PEOPLE=Dave Wilson, Joe King, Ben Banfield, GOF, James Huggett;
            DATE=2007-01-21; CAVE=Notts Pot 2; PEOPLE=Dave Loeffler, James Huggett, Joe King, Sandeep Mavadia, GOF, Ben Banfield;
-           DATE=2007-01-21; CAVE=XXX Pot; PEOPLE=Jarvist Frost, Andy Jurd, Jutta Schnabel, Thara Supasiti;
+           DATE=2007-01-21; CAVE=Rumbling Hole; PEOPLE=Jarvist Frost, Andy Jurd, Jutta Schnabel, Thara Supasiti;
            DATE=2007-01-21; CAVE=Lancaster Hole; PEOPLE=Marc Labuhn, Anne VDP, Dave Wilson;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2007-01-19.php
 Status:
