@@ -1,5 +1,5 @@
 Country: United Kingdom
-Region: Derbyshire
+Region: Peak District (Derbyshire)
 Subregion: Castleton
 System:
 Location: 53.334727,-1.8133620
