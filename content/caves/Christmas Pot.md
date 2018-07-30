@@ -1,4 +1,4 @@
 Country: United Kingdom
 Region: Yorkshire
-Subregion: Casterton Fell
-System: Easegill
+Subregion: Ingleborough
+System: Christmas Pot/Grange Rigg Pot
