@@ -1,5 +1,5 @@
-Title: Calendar Summer 2018
-Date: 2017-09-19
+Title: Calendar Autumn 2018
+Date: 2018-09-19
 Authors:
 Location:
 Type: stickyindex
