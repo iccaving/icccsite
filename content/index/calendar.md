@@ -7,7 +7,8 @@ Summary: None
 
 |Date              | Destination                          | Hut                                                                                  | Caves  |
 | ---              |  ---                                 | ---                                                                                  |  ---  |
-| 27th - 29th April | Yorkshire | [BPF](http://www.rrcpc.org.uk/wordpress/accommodation-booking) | [Easegill](https://union.ic.ac.uk/rcc/caving/caves/?search=Easegill) |
-| 8th - 10th June| Yorkshire | [NPC](http://northernpennineclub.org.uk/) | [Penyghent](https://union.ic.ac.uk/rcc/caving/caves/Penyghent%20Pot.html) |
-| 22nd - 24th June| Derbyshire | [TSG](http://www.tsgcaving.co.uk/) | [JH to Peak](https://union.ic.ac.uk/rcc/caving/caves/James%20Hall.html) |
-| 6th Jul - 11th Aug | Slovenia | Bivi | [Migovec System](https://union.ic.ac.uk/rcc/caving/slovenia) |
+| 5th-7th Oct | Wales | TBA | [OFD](https://union.ic.ac.uk/rcc/caving/caves/?search=Ddu) |
+| 19th-21st Oct | Wales | TBA |  [OFD](https://union.ic.ac.uk/rcc/caving/caves/?search=Ddu) |
+| 2nd-4th Nov  | Yorkshire | TBA | [Kingsdale](https://union.ic.ac.uk/rcc/caving/caves/?search=Kingsdale) |
+| 16th-18th Nov | Yorkshire | TBA| [Notts 1 + 2](https://union.ic.ac.uk/rcc/caving/caves/?search=Notts) |
+| 30th-2nd Dec  | Yorkshire | TBA | TBA |
