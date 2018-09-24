@@ -7,7 +7,7 @@ Type: page
 
 ## Addresses
 
-Preferably get in contact by email, <a href="mailto:ic.caving@gmail.com">ic.caving@gmail.com</a>, or you can find us on facebook [here](https://www.facebook.com/groups/imperialcaving/).
+Preferably get in contact by email, <a href="mailto:ic.caving@gmail.com">ic.caving@gmail.com</a>, or you can find us on facebook [here](https://www.facebook.com/groups/imperialcaving/) and Instagram [here](https://www.instagram.com/iccaving/).
 
 Our physical address is:
 <address>
