@@ -16,6 +16,11 @@
 #sidebar-fill {
 	flex: 1 0 auto;
 }
+.sidebar-socialmedia{
+	display: none;
+    justify-content: center;
+    padding-bottom: 10px;
+}
 .sidebar-item a,
 .sidebar-sub-item a,
 .sidebar-sub-sub-item a {
