@@ -3,17 +3,16 @@ Date: 2018-09-22
 Location: switzerland
 Summary: A return to Ticino, the Italian-speaking southern part of Switzerland and a self-proclaimed 'Eldorado' of canyoning! Four years ago a novice team of inexperienced canyoners first got their feet (and the rest of their bodies) wet in these gorgeous gorges, and this year we returned: battle hardened, grizzled and with much, much thicker wetsuits.
 Type: tour
-Photoarchive: /rcc/caving/photo_archive/tours/2018%20-%20switzerland/
-Mainimg: 
-Thumbl: 
-Thumbr: 
+Photoarchive: /rcc/caving/photo_archive/tours/2018%20-%20ticino/
+Mainimg: P1090687.jpg
+Thumbl: P1090728--thumb.jpg
+Thumbr: P1090480--thumb.jpg
 Authors: Jack Hare
 Oldurl: 
-Status: draft
 
 {{ mainimg }}
 {{ photolink }}
-<div class="photo-button-wrapper"><a class="photo-button"  href="/caving/videos/tours/2018%20-%20switzerland">Gifs</a></div>
+<div class="photo-button-wrapper"><a class="photo-button"  href="/caving/videos/tours/2018%20-%20ticino">Gifs</a></div>
 
 ###  Rhys, Jack, Chris and Alex
 
