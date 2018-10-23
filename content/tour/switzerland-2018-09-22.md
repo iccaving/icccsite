@@ -204,7 +204,7 @@ The first abseil is an impressively exposed 40 m, rigged from the far left clear
 
 Some short but fun toboggans lead to another big pitch where again we chose the dry descent, reached along a broad ledge on the left. The toboggan after this was too shallow to do, which leaves an unsatisfying C4, reached by an exposed scramble up on the right which makes you wonder if you would have been better down climbing. We were thoroughly enjoying the canyon at this point, and were still ahead of the five Swiss canyoners behind us. We passed under the bridge that marked the half-way point and got to the really awesome jumps and toboggans section.
 
-{"5 m jump - it's long enough to have regrets as you fall." right}(P1090728.jpg)
+{"5 m jump - it's long enough to have regrets as you fall." left}(P1090728.jpg)
 
 Immediately there is a 5 m jump. 5 m may not sound like much, but it's approaching the height of a two storey building. Looking down you have a clear sense of how far it is to fall. Alex went down on a rope to check it out for us, and at that moment the Swiss arrived. Not wishing to slow them down, we left them go first and two immediately did the jump. It looked awesome, and no longer so intimidating. The other three Swiss opted to use our rope rather than jump, and they filed through leaving the pool for us.
 
@@ -215,9 +215,6 @@ Chris went first, with much less hesitation than usual, taking the camera to Ale
 Rhys was down first, and commanded us to wind in a lot of rope. Really quite a lot of rope. I couldn't see what was happening, so I was informed purely by the splashes and screams from below until it was my turn. The water starts off in a broad chute which rapidly narrows, and begins to curve, the walls banking to keep you inside, until finally you are dumped out a few metres above a deep pool. It was incredibly good fun, and a big step up from our previous toboggans.
 
 Next followed a 6 m jump, though I found it less intimidating than the previous 5 m. Chris took a while at it, but to his credit he did do it and we swum around in the deep pool as the final pitch was rigged. From there it was two short slides into the broad pool at the base of the canyon. A very quick trip (1.5 hrs) but very, very fun and it easily banished the demons of the last trip from my mind.
-
-{"Chris and I do the final toboggan in tandem." left}(P1090859.jpg)
-
 
 We returned in the sun, dried all of our kit and had a relaxing evening of drinking shandy in the sun. The shandy was half lemonade, half 8% steampunk beer Rhys had got from Lidl so the net result is that we got quite drunk.
 
