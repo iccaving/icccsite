@@ -8,7 +8,7 @@ Mainimg: P1090687.jpg
 Thumbl: P1090728--thumb.jpg
 Thumbr: P1090480--thumb.jpg
 Authors: Jack Hare
-Oldurl: 
+Oldurl:
 
 {{ mainimg }}
 {{ photolink }}
@@ -18,7 +18,7 @@ Oldurl:
 
 ##  Saturday 22nd
 
-I had a strange feeling of deja vu. Here we were, getting up at 4 am, taking a bus and a train to Stansted, frantically repacking hold bags at the airport, grabbing a quick pint at a very crowded Spoons, shoving our way onto a little tram, making our way to the utter arse-end of the airport and sitting for another hour whilst Ryanair located a plane to whisk us off to Bergamo Airport near Milan. It must be time for a week of canyoning! Rhys and I have been going canyoning every two years pretty much since we met, with a rotating cast of naive, impressionable companions who we cajoled, begged and bribed into indulging out neoprene and Italian food fetish. 
+I had a strange feeling of deja vu. Here we were, getting up at 4 am, taking a bus and a train to Stansted, frantically repacking hold bags at the airport, grabbing a quick pint at a very crowded Spoons, shoving our way onto a little tram, making our way to the utter arse-end of the airport and sitting for another hour whilst Ryanair located a plane to whisk us off to Bergamo Airport near Milan. It must be time for a week of canyoning! Rhys and I have been going canyoning every two years pretty much since we met, with a rotating cast of naive, impressionable companions who we cajoled, begged and bribed into indulging out neoprene and Italian food fetish.
 
 In 2014 we stayed right next to the Swiss border, and commuted every day into Switzerland for canyoning in Ticino, the southernmost and Italian speaking canton of Switzerland. It was a trip in which a lot was learned, we spent most of our time stuck in traffic at the border and we also got very cold.
 
@@ -38,19 +38,28 @@ Our host, Andreas, was excited that we were going canyoning, and took the train 
 
 ##  Sunday 23rd
 
-###  Val Progero Superiore - V3A3 II*
+###  Val Progero Superiore - V3A3 II
 
-*[Canyoning grades](https://canyonmag.net/technical/essentials/grading/)
+[Canyoning grades](https://canyonmag.net/technical/essentials/grading/)
 
 Waking up the next day, I padded outside to consult the guidebook. Whatever we had decided was clearly not the best canyon to start in - Chris, Alex and Andreas had never used a fig-8 or pirana to descend before, and this canyon was all abseils. Instead, I flicked through the book and spotted Val Progero Superiore [NB: Superiore and Inferiore merely mean upper and lower, rather than better and worse!] which looked ideal - ten minutes drive into the neighbouring village of Gudo, a short walk up and an easy descent.
 
+{"Our changing spot at the top of Val Progero Superiore." right}(P1080842.jpg)
+
 We all packed into the car and drove off, with a minor detour to buy chocolate bars. Andreas opted to walk up barefoot to avoid damaging his diving shoes, which proved an exciting choice given it was chestnut season and the ground was littered with spikey caltrops. We stopped to admire Val Progero Inferiore from the bridge (V4A4 II, a bit of a step up) and then continued to our start point, where we changed in dappled sunlight.
+
+{"The second abseil (the first was blocked by fallen trees!)." left}(P1080930.jpg)
 
 Descente Canyon had warned us that there were lots of trees washed down by a storm, and indeed the first abseil was completely blocked. We picked our way around, down through the trees and soon we rejoined the river. Rhys rigged the first abseil (C17 RS: a 17 m cascade on the Riva Sinistra, or orthographic left, compared to riva destra, on the right) which plunged down to a waist deep pool. It was a nice, easy abseil, perfect practice for our novices and I went down first to provide a fireman's belay in case any of them fumbled. We were down without incident and pulled the rope - now we were committed!
 
+{"Time to practice some toboggans - Chris demonstrates the posture, arms tucked in and legs bouncy." right}(P1080940.jpg)
+
+
 The canyon developed into a series of short pitches, jumps and toboggans. We moved relatively fast given we were five people, and three inexperienced ones, and we hadn't yet set up our leapfrog system in which a pair stays with their rope and alternates rigging pitches. There was one interesting abseil from a tree with some rather old rope as the anchor - we backed this up with a loose sling and derigged it for the last person down. Rhys rigged a nice C12 with a canyoning style drop off a good three metres above the water - falling into a deep pool is much better than trying to derig your descender whilst treading water.
 
-The most interesting pitch was one jammed with fallen trees. I spotted the bolts and edged out to rig, but fortunately it was up to Rhys to find the right way down, weaving the rope through the mass of trees to the water below. The others followed quickly and there were surprisingly few problems, though pulling the rope down took my entire body weight when it briefly got stuck somewhere. As this canyon isn't much used by guided groups, there's very little incentive to clear te dead trees out, and instead it probably needs a good few winter storms to shift them downstream.
+The most interesting pitch was one jammed with fallen trees. I spotted the bolts and edged out to rig, but fortunately it was up to Rhys to find the right way down, weaving the rope through the mass of trees to the water below. The others followed quickly and there were surprisingly few problems, though pulling the rope down took my entire body weight when it briefly got stuck somewhere. As this canyon isn't much used by guided groups, there's very little incentive to clear the dead trees out, and instead it probably needs a good few winter storms to shift them downstream.
+
+{"The final abseil was a mess of fallen trees." left}(P1080995.jpg)
 
 The canyon was over relatively quickly, within about three hours. We changed and dried ourself by the bridge that marks the beginning of the deeper, tougher Progero Inferiore section, and then wandered back to the car. Andreas bought us some beers and we sat on our patio, eating copious amounts of olive oil, balsamic vinegar and bread until we were full enough to make dinner.
 
@@ -124,7 +133,7 @@ My camera had fogged up the previous day (not a good sign for a waterproof camer
 
 There were several long pitches which required us to team up so we had enough rope, which slowed things down. I derigged the first of these, which had some quite intense rob rub, rigged from a set of wedge boulders with a ten metre drop below. At the bottom here was a short pitch down to a pool where Rhys spotted a drowned rat, slowly circling around, its legs splayed out comically. We avoided getting in the water here, and instead abseiled down the quite impressive 40 m pitch into a series of pools which lead to a local bathing spot.
 
-The canyon hadn't taken long, and by the end I was getting into it, but I think it'd be best to do with more water, and a more experienced team. Long abseils can take a long time with canyoners who aren't used to using their legs to keep themselves away from the wall, and it often felt painfully slow to do a single pitch. This was a useful experience though - we clarified what we liked about canyons, lots of short pitches, jumps and toboggans, as opposed to a few difficult or long abseils. 
+The canyon hadn't taken long, and by the end I was getting into it, but I think it'd be best to do with more water, and a more experienced team. Long abseils can take a long time with canyoners who aren't used to using their legs to keep themselves away from the wall, and it often felt painfully slow to do a single pitch. This was a useful experience though - we clarified what we liked about canyons, lots of short pitches, jumps and toboggans, as opposed to a few difficult or long abseils.
 
 * * *
 
@@ -148,7 +157,7 @@ At one point a large chaotic boulder choke seemed to block the way, but Rhys cun
 
 The only remaining challenge was an enigmatic C7. This was marked in the guide as needing 20 m of rope, so that the first person down could rig a zipline for a guided abseil, allowing the others to avoid the turbulent pool below. I went down first, and saw the current dragging foam back underneath the waterfall, but with a small jump I was clear, and even Chris who plunge straight into the waterfall was fine. Clearly in higher water this was a serious obstacle!
 
-A few easy toboggans later and we climbed out of the canyon, walked around the dam which separates the upper and lower canyon, and then back to the car. Some curious Bernese campervanners stopped to ask us questions and then we left them to their sunlit dogging spot. 
+A few easy toboggans later and we climbed out of the canyon, walked around the dam which separates the upper and lower canyon, and then back to the car. Some curious Bernese campervanners stopped to ask us questions and then we left them to their sunlit dogging spot.
 
 The canyon had taken us only 4.5 hours - we had budgeted on 6. Despite the slow start, we really got going and it was an incredible experience I won't easily forget.
 
@@ -193,4 +202,3 @@ We packed up and drove into Bellinzona, where we hiked around two of the three c
 * Take a picnic for the start of the canyon - bread, tomatoes and cheese are a great way to start the day full, and after an hour's drive and an hour's walk in it's a long time since breakfast!
 
 ##### Jack Hare
-
