@@ -59,12 +59,9 @@ Descente Canyon had warned us that there were lots of trees washed down by a sto
 
 {"Time to practice some toboggans - Chris demonstrates the posture, arms tucked in and legs bouncy." right}(P1080940.jpg)
 
-
 The canyon developed into a series of short pitches, jumps and toboggans. We moved relatively fast given we were five people, and three inexperienced ones, and we hadn't yet set up our leapfrog system in which a pair stays with their rope and alternates rigging pitches. There was one interesting abseil from a tree with some rather old rope as the anchor - we backed this up with a loose sling and derigged it for the last person down. Rhys rigged a nice C12 with a canyoning style drop off a good three metres above the water - falling into a deep pool is much better than trying to derig your descender whilst treading water.
 
 The most interesting pitch was one jammed with fallen trees. I spotted the bolts and edged out to rig, but fortunately it was up to Rhys to find the right way down, weaving the rope through the mass of trees to the water below. The others followed quickly and there were surprisingly few problems, though pulling the rope down took my entire body weight when it briefly got stuck somewhere. As this canyon isn't much used by guided groups, there's very little incentive to clear the dead trees out, and instead it probably needs a good few winter storms to shift them downstream.
-
-{"The final abseil was a mess of fallen trees." left}(P1080995.jpg)
 
 The canyon was over relatively quickly, within about three hours. We changed and dried ourself by the bridge that marks the beginning of the deeper, tougher Progero Inferiore section, and then wandered back to the car. Andreas bought us some beers and we sat on our patio, eating copious amounts of olive oil, balsamic vinegar and bread until we were full enough to make dinner.
 
@@ -94,8 +91,6 @@ After this were a series of short pitches where we encouraged Alex and Chris to 
 {"It takes two...to pull the rope whilst treading water in a pool." left}(P1090272.jpg)
 
 The pitches were generally rigged to avoid the water, which suggests that much of the time the flow is far larger, as we rarely had any problems at all getting down easily. One later pitch was cut more deeply, and the water flowed faster, with the rope passing right through it, an exhilarating glimpse of what a more aquatic canyon would be like. The jumps were generally low and the pools not too deep, and we all had a chance to practice jumping. Our technique was terrible, mostly landing butt first and making a huge splash, but it was fun and we avoided some of the huge 10 jumps by abseiling instead.
-
-{"Jumping practice - the key point is to have good style." right}(P1090411.jpg)
 
 All too soon the canyon was over, in only 3.5 hrs. We grabbed our dry clothes from the car and retreated back into the canyon to avoid changing in full view of the primary school. Already we were thinking of tougher, deeper canyons.
 
