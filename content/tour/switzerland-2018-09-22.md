@@ -53,7 +53,7 @@ Waking up the next day, I padded outside to consult the guidebook. Whatever we h
 
 We all packed into the car and drove off, with a minor detour to buy chocolate bars. Andreas opted to walk up barefoot to avoid damaging his diving shoes, which proved an exciting choice given it was chestnut season and the ground was littered with spikey caltrops. We stopped to admire Val Progero Inferiore from the bridge (V4A4 II, a bit of a step up) and then continued to our start point, where we changed in dappled sunlight.
 
-{"The second abseil (the first was blocked by fallen trees!)." left}(P1080930.jpg)
+{!"The second abseil (the first was blocked by fallen trees!)." left}(https://union.ic.ac.uk/rcc/caving/videos/tours/2018%20-%20ticino/P1080926-ANIMATION.gif)
 
 Descente Canyon had warned us that there were lots of trees washed down by a storm, and indeed the first abseil was completely blocked. We picked our way around, down through the trees and soon we rejoined the river. Rhys rigged the first abseil (C17 RS: a 17 m cascade on the Riva Sinistra, or orthographic left, compared to riva destra, on the right) which plunged down to a waist deep pool. It was a nice, easy abseil, perfect practice for our novices and I went down first to provide a fireman's belay in case any of them fumbled. We were down without incident and pulled the rope - now we were committed!
 
@@ -77,18 +77,18 @@ The previous day's canyon had left everyone wanting more, but there was no enthu
 
 On the way back up we were passed by the post bus, which suggests that an organised canyoner could get an easy shuttle to the top of this canyon. A short walk into the canyon landed us amongst the boulders, where we quickly changed and bathed in the water to acclimatise. The flow was not particularly high, which suited us fine, and the short pitches which followed allowed you to get a slight shower without fully pummelling you.
 
-{"The flow wasn't particularly high." left}(P1090104.jpg)
+{!"The flow wasn't particularly high." left}(https://union.ic.ac.uk/rcc/caving/videos/tours/2018%20-%20ticino/P1090107-ANIMATION.gif)
 
 We switched into two teams to leapfrog. Each pair had a 50 m rope in a bag. They would go and rig a pitch, getting the rope length roughly right and putting a block with a clove hitch around the spine of an oval krab. The next pair would arrive, and the one of them would descend. Using hand gestures, they signalled whether the rope could be shorter (for a drop off) or whether it was just right (conservative rigging meant the rope was rarely too short!). The block was reset to get the rope length as requested, and the second person from the pair would descend, and that pair would head off to rig the next pitch. Now the pair who had rigged and were waiting patiently descend, the final person carrying the rope bag on their back, carefully feeding out the pull rope as they went. At the bottom, the pull rope is pulled, the descending rope goes up, through the bolts and the whole rope falls down to be packed away. This pair then moves on, finds the pair in front and descends their rope. For short pitches (<25 m) this works well, resulting in rapid and fluid motion through the canyon. For longer pitches, the two ropes must be tied together so that one can serve as the pull cord, which slows things down a bit as both team must wait for the derig.
 
-{"Rainbows lurked at the bottom of every pitch. What do they want from us?!." right}(P1090192.jpg)
+{!"Rainbows lurked at the bottom of every pitch. What do they want from us?!." right}(https://union.ic.ac.uk/rcc/caving/videos/tours/2018%20-%20ticino/P1090194-ANIMATION.gif)
 
 
 After three pitches in rapid succession, the canyon broadened into boulder hopping or short wades through the water. We avoided a 7 m jump and climbed around to the left, before reaching our first big pitch, a C30. There were plentiful bolts, but we stuck with the suggested RD with an in situ traverse line. The descent was broken by ledges, and the pool at the bottom was relatively shallow so it didn't feel as intimidating as a C30 could have done. At the bottom the spray raised a beautiful rainbow which you could walk through.
 
 After this were a series of short pitches where we encouraged Alex and Chris to have a go at rigging. They soon got into the spirit of it, carelessly chucking some length of rope down and leaving it for the first descender to determine if it was enough. A couple of interesting new challenges followed, with a deep, spray-lashed pool where the deriggers had to tread water and pack rope at the same time. The canyon was beautiful, with luxurious green vegetation and clean water flowing over smooth, textured rock.
 
-{"It takes two...to pull the rope whilst treading water in a pool." left}(P1090272.jpg)
+{!"It takes two...to pull the rope whilst treading water in a pool." left}(https://union.ic.ac.uk/rcc/caving/videos/tours/2018%20-%20ticino/P1090269-ANIMATION.gif)
 
 The pitches were generally rigged to avoid the water, which suggests that much of the time the flow is far larger, as we rarely had any problems at all getting down easily. One later pitch was cut more deeply, and the water flowed faster, with the rope passing right through it, an exhilarating glimpse of what a more aquatic canyon would be like. The jumps were generally low and the pools not too deep, and we all had a chance to practice jumping. Our technique was terrible, mostly landing butt first and making a huge splash, but it was fun and we avoided some of the huge 10 jumps by abseiling instead.
 
@@ -124,7 +124,7 @@ The next section was mostly picking our way through boulders and finding small p
 
 Towards the end we could see all the extra bolts placed by the guides to enhane their trips. My favourite was a beautiful tobggan that terminated 4 m up. I went down first, and fumbled under the waterfall to release my descender. I signalled for Alex to raise the rope a few metres off the water, but when he came down the stretch was so much that he still struggled with his descender. Making direct eye contact with Chris, I signalled for the rope to go even higher. He wasn't sure whether to believe me, and certainly when he saw the end appear over the lip of the waterfall he must have suspected something was up. Still, it was a beautiful descent, slipping down under control for a few metres before letting going, being swept over the edge and dumped into an incredibly deep pool where it took several seconds (almost a lifetime underwater) to surface.
 
-{"Abseiling through the waterfall." right}(P1090497.jpg)
+{!"Abseiling through the waterfall." right}(https://union.ic.ac.uk/rcc/caving/videos/tours/2018%20-%20ticino/P1090495-ANIMATION.gif)
 
 After the final pitch we noticed some more bolts heading down into a big lake below. We could tell the water levels were very low and we decided not to abseil into the lake in case we couldn't escape on the other side, which turned out to be wise. Instead, we climbed up on the left to find a way out. As we did so, a helicopter slewed into sight, and strafed over the top of us. It was very low and very loud, and when it reappeared it was carrying a large bag on a long line. Back and forth it went, ferrying construction supplies to a small, isolated hill village from truck parked on the main road. Helicopters pervade this part of Switzerland to the point that even getting a ride to the top of the canyon by helicopter is economically viable.
 
@@ -204,13 +204,13 @@ The first abseil is an impressively exposed 40 m, rigged from the far left clear
 
 Some short but fun toboggans lead to another big pitch where again we chose the dry descent, reached along a broad ledge on the left. The toboggan after this was too shallow to do, which leaves an unsatisfying C4, reached by an exposed scramble up on the right which makes you wonder if you would have been better down climbing. We were thoroughly enjoying the canyon at this point, and were still ahead of the five Swiss canyoners behind us. We passed under the bridge that marked the half-way point and got to the really awesome jumps and toboggans section.
 
-{"5 m jump - it's long enough to have regrets as you fall." left}(P1090728.jpg)
+{!"5 m jump - it's long enough to have regrets as you fall." left}(https://union.ic.ac.uk/rcc/caving/videos/tours/2018%20-%20ticino/P1090725-ANIMATION.gif)
 
 Immediately there is a 5 m jump. 5 m may not sound like much, but it's approaching the height of a two storey building. Looking down you have a clear sense of how far it is to fall. Alex went down on a rope to check it out for us, and at that moment the Swiss arrived. Not wishing to slow them down, we left them go first and two immediately did the jump. It looked awesome, and no longer so intimidating. The other three Swiss opted to use our rope rather than jump, and they filed through leaving the pool for us.
 
 Chris went first, with much less hesitation than usual, taking the camera to Alex who then photographed me and Rhys. The jump was certainly high enough for you to have a really good think about it on the way down as the air ripped past you. I was underwater for a long time, and surfaced grinning broadly. Rhys followed behind, with similarly mediocre technique and then Alex went to rig the next pitch, a smooth toboggan with an exposed traverse to the pitch head.
 
-{"The 28 m toboggan, rigged nice and short." right}(P1090744.jpg)
+{!"The 28 m toboggan, rigged nice and short." right}(https://union.ic.ac.uk/rcc/caving/videos/tours/2018%20-%20ticino/P1090748-ANIMATION.gif)
 
 Rhys was down first, and commanded us to wind in a lot of rope. Really quite a lot of rope. I couldn't see what was happening, so I was informed purely by the splashes and screams from below until it was my turn. The water starts off in a broad chute which rapidly narrows, and begins to curve, the walls banking to keep you inside, until finally you are dumped out a few metres above a deep pool. It was incredibly good fun, and a big step up from our previous toboggans.
 
