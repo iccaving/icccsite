@@ -8,6 +8,8 @@ Mainimg: yorkshire-2012-09-28-50th-anniversary.jpg
 Thumbl:
 Thumbr:
 Authors: Fiona Hartley
+Cavepeeps: DATE=2012-09-29; CAVE=Flood Entrance Pot > Bar Pot; PEOPLE=Oliver Myerscough, Rhys Tyers, Fiona Hartley, Saber King;
+           DATE=2012-09-29; CAVE=Gaping Ghyll; PEOPLE=Tim Palmer, Goaty, Malcolm Barr, Jim Briggs, Chris Backhouse, Simon Seward, Sam Page, Jarvist Frost, Phil Hay, Mark Evans, Jim Evans, Rob Chaddock, Ian Mckenna, Dave Mountain, Chris Birkhead, Harry Locke, James Kirkpatrick, Jan Evetts, Clare Tan;
 Oldurl: /rcc/caving/yorkshire/yorkshire-2012-09-28-50th-anniversary.php
 Status:
 
@@ -21,6 +23,8 @@ Which happens to include presidents for: 81, 82, 85, 86, 89, 93, 94, 99, 04, 05,
 ###Incomplete List of Atendees: Alex, Alva, Andy Jurd, Bronwyn, Ben, Chris Keeley, Christopher Backhouse, Clare Tan, Colm Carroll, Daniel Greenwald, Dave Mountain, Dave Wilson, Dewi Lloyd, Fiona Hartley, Goaty (Mike Rogerson), Harry Lock, J.Briggs, James KP, Jan Evetts, Janet Cotter, Jarvist Frost, Jim Evans, Kath, Malcolm MIB, Mark Evans, Mark Wilkins, Oliver Myerscough, Pam Murphy, Paul Huggins, Pete Hambley, Phil Hay, Rhys Tyers, Richard Anderson, Richard Colcott, Richard Venn, Rob Chaddock, Rob Knell, Saber King, Sam Page, Simon Seward, Tim Flack, Tim Palmer, many others left undocumented!
 
 How better to celebrate our 50th Birthday than by going caving? Coming from a technical university, and London, formal dinners have never really been our thing. So we setup a [ Facebook Event ](https://www.facebook.com/events/375725655797980/) , contacted as many people mentioned in old newsletters and on our presidential tankard as possible, booked our spiritual home (also known as the Northern Pennine Club), applied for a permit to Gaping Gill and got packing the tackle sacks.
+
+#### Jarv
 
 We blazed up the motorways towards Yorkshire with a van full of stuff, including six ladders, the perverse idea being to rig Bar Pot with them. We got to the NPC at about 01:15 where ICCC's 50 th birthday party was in full swing with alcohol flowing freely. Saber made pasta-goodness for us to eat, as per.
 
@@ -51,3 +55,5 @@ We got changed on the road, Saber realising he had left his t-shirt outside the 
 Where would we be without Genevieve Tudor and her Sunday Folk to guide us back down the M6? Rik smartphoned in a shoutout a request. We heard the shoutout but are unsure whether we got the rambling ballad, as the FM signal faded into the rumbling noise of the M40...
 
 [ Sunday_Folk_ICCC_Shout_Out_2012-09-30.mp3 (460K) ](Sunday_Folk_ICCC_Shout_Out_2012-09-30.mp3)
+
+#### Jarv
