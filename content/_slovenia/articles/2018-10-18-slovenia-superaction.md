@@ -1,4 +1,10 @@
-Title: October Super Action 2018 Date: 2018-10-18 Location: Slovenia Summary: Photoarchive: photo_archive/slovenia/2018/superaction Type: expedition Authors: Tanguy Racine
+Title: October Super Action 2018 
+Date: 2018-10-18
+Location: Slovenia 
+Summary: 
+Photoarchive: photo_archive/slovenia/2018/superaction 
+Type: expedition 
+Authors: Tanguy Racine
 
 {!center}(main image)
 
