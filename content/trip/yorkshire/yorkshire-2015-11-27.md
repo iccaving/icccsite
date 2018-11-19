@@ -44,10 +44,10 @@ Alex was first to enter followed by Arianna. Then my go, and my first use of SRT
 
 At this point one had to do a mini traverse and rebelay on a rather small ledge. The drop into the darkness below was over 100ft and I was worried of this traverse and rebelay on my own, but Arianna boss moded it ahead of me. With Shia in my head screaming JUST DO IT I reattached myself kicked off the  tiny ledge and luckily I had done the descender right and didn't fall to my death (unlike Max who at the same point forgot the braking crab...which Fiona pointed out at the last second... phew ) . The free hanging descent down all the way was satisfying and I met up with the others at the bottom.
 
-{"Cave Section X" right}(1f.jpg)          
+{"Cave Section X (the Colannades)" right}(1f.jpg)          
 
 
-Following this ropey ordeal we finally had some horizontal exploring and quickly navigated to the beautiful section of cave called X (Ed: Not sure) where we observed large stalactites and took some photos. We then proceeded to X (Ed: Stake pot?) where we met up with Tanguys group who were stopping for lunch. Our aim for the day was to exit out Wretched Rabbit and we continued towards there, spurred on by the echoes of tanguys recorder. There were some short descents involving a hanging rebelay, which went well and we passed directly under a group from another university descending from Something Pot.
+Following this ropey ordeal we finally had some horizontal exploring and quickly navigated to the beautiful section of cave called X (Ed: the Colonnades) where we observed large stalactites and took some photos. We then proceeded to X (Ed: Fall Pot) where we met up with Tanguys group who were stopping for lunch. Our aim for the day was to exit out Wretched Rabbit and we continued towards there, spurred on by the echoes of tanguys recorder. There were some short descents involving a hanging rebelay, which went well and we passed directly under a group from another university descending from Something Pot.
 
 A little after this we ate lunch and then came to a small valley which involved some very fun traversing and clipped in freeclimbing, but it took quite a while for the whole group to cross this section. At this point following  a discussion with our leaders and another university group we decided to return back the way we came instead of going to wretched rabbit (of which we didn't really know the way) else we might miss our call out.
 
