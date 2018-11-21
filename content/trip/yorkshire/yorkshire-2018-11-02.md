@@ -9,13 +9,13 @@ Thumbl:
 Thumbr: 
 Authors: Rebecca Diss, Fiona Hartley
 Cavepeeps: DATE=2018-11-03; CAVE=Aquamole Pot; PEOPLE=Dave Kirkpatrick, Rebecca Diss, Max Stunt, Solomon Roach;
-           DATE=2018-11-03; CAVE=Jingling; PEOPLE=Dave Wilson, Ben Richards, Caver C;
-           DATE=2018-11-03; CAVE=Bull Pot; PEOPLE=Ben Honan, Clare Tan;
+           DATE=2018-11-03; CAVE=Jingling; PEOPLE=Dave Wilson, Ben Richards, Alex Lipp, Carl Hentes;
+           DATE=2018-11-03; CAVE=Bull Pot; PEOPLE=Ben Honan, Clare Tan, Nic Gruse;
            DATE=2018-11-03; CAVE=Yordas Pot > Yordas Cave; PEOPLE=Jennifer Ryder, Rhys Tyers, Ana Teck, Ignacy Bartnik, Fiona Hartley;
-           DATE=2018-11-04; CAVE=Yordas Pot; PEOPLE=Ben Honan;
+           DATE=2018-11-04; CAVE=Yordas Pot; PEOPLE=Ben Honan, Solomon Roach, Nic Gruse;
            DATE=2018-11-04; CAVE=Valley Entrance; PEOPLE=Rebecca Diss, Dave Kirkpatrick;
-           DATE=2018-11-04; CAVE=Heron Pot; PEOPLE=Rebecca Diss, Jennifer Ryder, Dave Kirkpatrick, Ana Teck;
-           DATE=2018-11-04; CAVE=Swinsto > Valley Entrance; PEOPLE=Rhys Tyers;
+           DATE=2018-11-04; CAVE=Heron Pot; PEOPLE=Rebecca Diss, Jennifer Ryder, Dave Kirkpatrick, Ana Teck, Alex Lipp, Ignacy Bartnik;
+           DATE=2018-11-04; CAVE=Swinsto > Valley Entrance; PEOPLE=Rhys Tyers, Ben Richards, Max Stunt, Carl Hentes;
            NOCAVE=James Perry;
 Status: draft
 
