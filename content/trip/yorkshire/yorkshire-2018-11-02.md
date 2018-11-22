@@ -69,7 +69,7 @@ When Jennifer reached the final drop after a tension traverse around the right-h
 
 Thankfully I was now at the back and so the novices, who were both extremely competent, weren't watching me and didn't see me flailing and faffing to my heart's content along the tension traverse. I used my hand-jammer and footloop repeatedly because bridging across large exposed gaps is still awful and scary.
 
-At the bottom I stepped through the window into the comparative silence of Yordas Cave proper and was promptly told to get out of Dewi's photograph. Fair enough. I wandered to the entrance. It was raining gently and the light was fading. I sat down in the dry and had a very pleasant chat with Jennifer about biology at Imperial: Steve Cook, R programming language, David Attenborough. Ah, memories. (Yes, I'm very old, thanks.)
+At the bottom I stepped through the window into the comparative silence of Yordas Cave proper and was promptly told to get out of [Dewi's photograph](https://www.flickr.com/photos/dewilloyd/45197078804/). Fair enough. I wandered to the entrance. It was raining gently and the light was fading. I sat down in the dry and had a very pleasant chat with Jennifer about biology at Imperial: Steve Cook, R programming language, David Attenborough. Ah, memories. (Yes, I'm very old, thanks.)
 
 To complete my afternoon of being lazy / a tart (pick one), I chose not to climb out of Yordas. I'm an old lag now, for sure.
 
