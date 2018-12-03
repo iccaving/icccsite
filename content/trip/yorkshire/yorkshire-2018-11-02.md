@@ -1,13 +1,13 @@
 Title: Yorkshire I
 Date: 2018-11-02
 Location: yorkshire
-Summary: The first pilgrimage to Greenclose of the year. We rigged all of West Kingsdale on Saturday (or near enough) with trips top Aquamole, Jingling, Bull, and Yordas. On Sunday we picked off the stragglers of Saturday's assualt with a trip into Heron and a Swinsto pull-through.
+Summary: The first pilgrimage to Greenclose of the year. We rigged all of West Kingsdale on Saturday (or near enough) with trips top Aquamole, Jingling, Bull, and Yordas. On Sunday we picked off the stragglers of Saturday's assault with a trip into Heron and a Swinsto pull-through.
 Type: trip
 Photoarchive:
-Mainimg: 
-Thumbl: 
-Thumbr: 
-Authors: Rebecca Diss, Fiona Hartley
+Mainimg: RebeccaDiss-PB030346.jpg
+Thumbl: RhysTyers-DSC01526--thumb.jpg
+Thumbr: RhysTyers-DSC01541--thumb.jpg
+Authors: Rebecca Diss, Fiona Hartley, Rhys Tyers
 Cavepeeps: DATE=2018-11-03; CAVE=Aquamole Pot; PEOPLE=Dave Kirkpatrick, Rebecca Diss, Max Stunt, Solomon Roach;
            DATE=2018-11-03; CAVE=Jingling; PEOPLE=Dave Wilson, Ben Richards, Alex Lipp, Carl Hentes;
            DATE=2018-11-03; CAVE=Bull Pot; PEOPLE=Ben Honan, Clare Tan, Nic Gruse;
@@ -17,7 +17,6 @@ Cavepeeps: DATE=2018-11-03; CAVE=Aquamole Pot; PEOPLE=Dave Kirkpatrick, Rebecca 
            DATE=2018-11-04; CAVE=Heron Pot; PEOPLE=Rebecca Diss, Jennifer Ryder, Dave Kirkpatrick, Ana Teck, Alex Lipp, Ignacy Bartnik;
            DATE=2018-11-04; CAVE=Swinsto > Valley Entrance; PEOPLE=Rhys Tyers, Ben Richards, Max Stunt, Carl Hentes;
            NOCAVE=James Perry;
-Status: draft
 
 {{ mainimg }}
 {{ photolink }}
@@ -87,3 +86,21 @@ Back in London by 11.30, a drawer of maillons lighter than when we set off.
 
 #### Diss
 
+
+### Swinsto Pull-Through: {{ DATE=2018-11-04; CAVE=Swinsto > Valley Entrance; }}
+
+I wanted to do something interesting, so I chose a Swinsto pull through as my trip du jour. I had done it once before with Jack and the Dubz (and we did a pull through derig) and I started out quite confident that it would be easy and straight forward. As the morning wore on my confidence waned as I considered the inexperience of my novices, the necessity of prerigging and the middling water levels. I carried on however, motivated partly by showing Ben R (my nominated second) a good time and partly by a very kind offer from Diss and Dave to do the VE prerig for us, which saves a good 40 minutes which we could very well need.
+
+I borrowed Honan's GPS and when we were changed on the Kingsdale road I set off in an unerringly straight line. I have found Swinsto without a GPS before and it is not too hard but it always involves a few minutes poking in the dry streambed and I was keen to allow as much time for the actual caving as possible. We found the cave and there was a decent stream flowing in. 
+
+In the cave I heard questions from Max and Carl about how long the crawls were etc. I deflected and giggled in response. Down the first pitch they seemed disappointed that the entrance crawl was not the 'Swinsto Long Crawl' and that they still had that to do. The crawl was as long as I remember it being, it being quite long. We reached the next pitch in good spirits though and we began the vertical adventure.
+
+Carl and Max performed admirably, given the unusual and often awkward nature of pull-throughs. I was glad of the in-situ traverse lines though. I got Ben rigging and derigging some of the pitches and we were sailing down fairly efficiently. Not quite as quick as my previous trip but that is a high bar. We got to the big split pitch. I went down first to sort out the complicated rigging on the ledge, setting up a traverse line with ends of the first rope and rigging the second. 
+
+Max Stunt, true to his name, decided it wasn't exciting enough and dangled himself from the in-situ deviation. HE was still attached to the rope so I wasn't too worried but he was far away from the walls and didn't have a good idea of how to extricate himself. The water was loud and communication hard. After ten minutes I was worried that the cold would soon be the major problem for all of us and shouted up to Ben to zip his knife to Max. Max then cut his cowstails. He did rather slam into the wall, but gathered himself remarkably quickly and joined me at the ledge.
+
+With our one incident out of the way we carried on reaching the bottom. I had forgotten how much crawling there is to get through to the main stream (not helped by me missing a few of the stream crawl bypasses) but I was relieved once we arrived in the large tunnel. We climbed the short pitch by the sump and stooped through the agonisingly long entrance. 
+
+Outside we found the minibus had been moved right nearby, which were very pleased by (thanks DKP!). A good trip, I would do it with novices again. Though I probably would not rig that deviation.
+
+#### Rhys
