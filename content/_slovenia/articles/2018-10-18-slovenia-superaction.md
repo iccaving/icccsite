@@ -1,4 +1,4 @@
-Title: October Super Action 2018 
+Title: Super Action
 Date: 2018-10-18
 Location: Slovenia 
 Summary: 
