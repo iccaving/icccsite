@@ -30,7 +30,7 @@ Jennifer and I arrived in stores at 5 ish which felt super late seeing as i’m 
 
 ## Saturday
 
-### Aquamole: {{ DATE=2018-11-03; CAVE=Aquamole; }}
+### Aquamole: {{ DATE=2018-11-03; CAVE=Aquamole Pot; }}
 
 We planned to Kingsdale it up and I wanted to rig. We settled for trips down Bull Pot, Yordas(/Heron), jingling and Aquamole. I was doomed to rig aquamole and took with me the crackest of teams - Solomon, Max and DKP. I was also gifted Jennifer’s camera as she was on a trip with a Rhys who has a flashier (literally) camera kit. 
 
