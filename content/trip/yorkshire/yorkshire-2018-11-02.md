@@ -87,7 +87,7 @@ Back in London by 11.30, a drawer of maillons lighter than when we set off.
 #### Diss
 
 
-### Swinsto Pull-Through: {{ DATE=2018-11-04; CAVE=Swinsto > Valley Entrance; }}
+### Swinsto Pull-Through: {{ DATE=2018-11-04; CAVE=Swinsto Hole > Valley Entrance; }}
 
 I wanted to do something interesting, so I chose a Swinsto pull through as my trip du jour. I had done it once before with Jack and the Dubz (and we did a pull through derig) and I started out quite confident that it would be easy and straight forward. As the morning wore on my confidence waned as I considered the inexperience of my novices, the necessity of prerigging and the middling water levels. I carried on however, motivated partly by showing Ben R (my nominated second) a good time and partly by a very kind offer from Diss and Dave to do the VE prerig for us, which saves a good 40 minutes which we could very well need.
 
