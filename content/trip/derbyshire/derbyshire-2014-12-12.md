@@ -8,8 +8,8 @@ Mainimg: JackHare_P1060575.jpg
 Thumbl: CeciliaKan_PC130523--thumb.jpg
 Thumbr: RhysTyers_DSC_0555--thumb.jpg
 Authors: Jack Hare, Cecilia Kan, Fiona Hartley
-Cavepeeps: DATE=2014-12-13; CAVE=Oxlow Cavern > Maskhill Mine; PEOPLE=Jack Hare, Fiona Hartley, Dave Kirkpatrick, Peter Ganson, Barbora Pinlova;
-           DATE=2014-12-13; CAVE=Maskhill Mine > Oxlow Cavern; PEOPLE=Rhys Tyers, James O'Hanlon, Alex Seaton, Ben Honan, Cecilia Kan;
+Cavepeeps: DATE=2014-12-13; CAVE=Oxlow Cavern; PEOPLE=Jack Hare, Fiona Hartley, Dave Kirkpatrick, Peter Ganson, Barbora Pinlova;
+           DATE=2014-12-13; CAVE=Maskhill Mine; PEOPLE=Rhys Tyers, James O'Hanlon, Alex Seaton, Ben Honan, Cecilia Kan;
            DATE=2014-12-14; CAVE=Peak Cavern; PEOPLE=Rhys Tyers, James O'Hanlon, Alex Seaton, Ben Honan, Cecilia Kan, Jack Hare, Peter Ganson, Barbora Pinlova;
 Oldurl: /rcc/caving/derbyshire/derbyshire-2014-12-12.php
 Status:
@@ -32,11 +32,11 @@ I had my research group’s Christmas lunch on the Friday, so by the time I turn
 
 ##  Saturday
 
-###  Maskhill &lt;&gt; Oxlow
+###  Maskhill &lt;&gt; Oxlow (not)
 
-###  Maskhill --&gt; Oxlow: Rhys, James, Alex, Ben, Cecilia
+###  Maskhill --&gt; Oxlow (not): Rhys, James, Alex, Ben, Cecilia
 
-###  Oxlow --&gt; Maskhill: Jack, Fiona, Dave KP, Peter, Barbora
+###  Oxlow --&gt; Maskhill (not): Jack, Fiona, Dave KP, Peter, Barbora
 
 Although a sign said “Road closed, access only”, the slopes along Winnats Pass had cloaked themselves with snow to welcome us. A game of ice frisbee commenced above the cave entrance Rhys was rigging wearing a green helmet, before we followed down the mine one by one. The first half of the route was tight and muddy, with a lot of rebelays to test our SRT skills. With a camera dangling in a tackle sack beneath me, I often managed to tangle all the ropes I was attached to. The water bottle alarmingly tumbled out once as well down a tiny cascade, at which point I took my responsibility a lot more seriously. I successfully delivered the tackle sack, its content, and myself to above the waterfall chamber, where due to a shortage of rope we failed to exchange route with the other team. Sometimes things simply do not follow plans. Ascending the cave turned out to be fun and not tiring at all as I discovered a lot of footholds along the route. I was sent back up first and Rhys’ music and James’ singing were reassuring to hear from a safe distance. I headed off with Ben to the minibus and watched the derigging group’s failed attempt to ride tackle sacks down the slopes.
 
