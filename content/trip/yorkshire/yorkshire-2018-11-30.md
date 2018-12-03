@@ -8,10 +8,10 @@ Mainimg:
 Thumbl: 
 Thumbr: 
 Authors: Tanguy Racine
-Cavepeeps: DATE=2018-12-01; CAVE=Hurnel Moss Pot; PEOPLE=David Wilson, Maximilian, William French, Tanguy Racine;
+Cavepeeps: DATE=2018-12-01; CAVE=Hurnel Moss Pot; PEOPLE=David Wilson, Max Stunt, William French, Tanguy Racine;
            DATE=2018-12-01; CAVE=Bar Pot; PEOPLE=James Perry, Jack Halliday, Chris Bradley, Alex Lipp, Steven;
            DATE=2018-12-02; CAVE= Sell Gill Holes; PEOPLE: Chris Bradley, Jack Halliday, Alex Lipp, David Wilson, Tanguy Racine;
-           DATE=2018-12-02; NOCAVE=James Perry, Maximilian,Steven,William French;
+           DATE=2018-12-02; NOCAVE=James Perry, Max Stunt,Steven,William French;
 Status: draft
 
 {{ mainimg }}
