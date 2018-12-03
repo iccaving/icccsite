@@ -15,7 +15,7 @@ Cavepeeps: DATE=2018-11-03; CAVE=Aquamole Pot; PEOPLE=Dave Kirkpatrick, Rebecca 
            DATE=2018-11-04; CAVE=Yordas Pot; PEOPLE=Ben Honan, Solomon Roach, Nic Gruse;
            DATE=2018-11-04; CAVE=Valley Entrance; PEOPLE=Rebecca Diss, Dave Kirkpatrick;
            DATE=2018-11-04; CAVE=Heron Pot; PEOPLE=Rebecca Diss, Jennifer Ryder, Dave Kirkpatrick, Ana Teck, Alex Lipp, Ignacy Bartnik;
-           DATE=2018-11-04; CAVE=Swinsto > Valley Entrance; PEOPLE=Rhys Tyers, Ben Richards, Max Stunt, Carl Hentes;
+           DATE=2018-11-04; CAVE=Swinsto Hole > Valley Entrance; PEOPLE=Rhys Tyers, Ben Richards, Max Stunt, Carl Hentes;
            NOCAVE=James Perry;
 
 {{ mainimg }}
