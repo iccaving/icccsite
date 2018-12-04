@@ -89,5 +89,23 @@ I go back to the kitchen to fill the mug from the kettle. I'd never been to the 
 
 ### Sell Gill Holes: {{ DATE=2018-12-02; CAVE=Sell Gill Holes; }}
 
+Paprika. Mother of all spice. We decide to have paprika eggy bread, paprika mushrooms and paprika beans for breakfast. I manage a double sailor's trick to put all the bacon on the grill. The upshot is, Jack and I have cooked breakfast early, and most people are only beginning to get out of their snug sleeping bags. 
 
+We vacillate and caving plans come and go with the rain lashing out at the windows outside the hut. 'Who's going caving today?'. Jack, Chris, David, Alex and I it turns out. We settle on packing the Sell Gill Holes ropes, get changed and walk up. 
+
+Chris and I lead the way with a five minute headstart on the team to start rigging the fossil route. The wind picks up, funneled within the small and normally dry valley which leads to the first pitch. Just before we go there, we check out the raging river sinking in the wet route. The ground is so wet a small stream even goes into the fossil route pitch, which Chris rigs. We practise rigging knots in the process and drop down. 
+
+By this point, David, Jack and Alex, who have caught up with us, are keen to get underground also; they have decided not to rig the wet route but to follow us instead. After a twenty minute wait, they yearn to get out of the wind. There's also another caver group pressing behind. Chris lets me continue the rigging. 
+
+The second pitch is just as wet as the first, but there's a handy deviation on the far side; I only get mildly wet swinging for the reach. The last pitch is unavoidably wet, despite a very short, natural deviation on a flake we put in, but it is short anyway, so it is not much of a concern. Chris joins me at the bottom and we amble down towards the main stream in the high, main chamber.
+
+The water from the Goblin route drives a phenomenal draught, but the main chamber is large enough for us to scramble over boulders on the far side, quite away from the spray and wind. We share a Soreen, as Jack, Alex and David join us. We follow the underground river to a fairly low crawl and a decorated little chamber before turning round and starting the way out. 
+
+Rather suspiciously, the other group of cavers haven't caught up yet, but we're not concerned. We find them at the top of the second pitch, as they emerge from a side crawl we had not spotted: the Calcite way. Alex, David and I have a quick explore while Jack and Chris derig. The crawl enlarges at a stream junction, there's a neat little squeeze under a calcite boulder and little climbs down where the water goes to a boulder floored pitch. We look around from the top and decide to turn around. 
+
+By the time we come back to the first pitch, Jack and Chris are pretty much done derigging the traverse, so David and Alex head out. I follow them and we rejoin outside, where other groups of cavers are waiting. Not too long after, Jack and Chris emerge, so we head down the hill back to the warmth of the cottage.
+
+Fortunately, Perry and the other group have got a headstart on cleaning the hut, so there's minimal amounts of faff. By 4.30 pm, we're ready to head back to London. The rain has picked up again.
+
+#### Tanguy
 
