@@ -1,5 +1,5 @@
-Title: Calendar Autumn 2018
-Date: 2018-09-19
+Title: Calendar Spring 2019
+Date: 2018-12-29
 Authors:
 Location:
 Type: stickyindex
@@ -7,8 +7,8 @@ Summary: None
 
 |Date              | Destination                          | Hut                                                                                  | Caves  |
 | ---              |  ---                                 | ---                                                                                  |  ---  |
-| 5th-7th Oct | Wales | Croydon | [OFD](https://union.ic.ac.uk/rcc/caving/caves/?search=Ddu) |
-| 19th-21st Oct | Wales | SWCC |  [OFD](https://union.ic.ac.uk/rcc/caving/caves/?search=Ddu) |
-| 2nd-4th Nov  | Yorkshire | NPC | [Kingsdale](https://union.ic.ac.uk/rcc/caving/caves/?search=Kingsdale) |
-| 16th-18th Nov | Yorkshire | NPC| [Notts 1 + 2](https://union.ic.ac.uk/rcc/caving/caves/?search=Notts) |
-| 30th-2nd Dec  | Yorkshire | Craven | [Penyghent](https://union.ic.ac.uk/rcc/caving/caves/?search=Penyghent) |
+| 11th-13th Jan | Yorkshire | NPC | [Masongill](https://union.ic.ac.uk/rcc/caving/caves/?search=Marble%20Steps) |
+| 25th-27th Jan | Mendip | SMCC | [Swildons](https://union.ic.ac.uk/rcc/caving/caves/?search=Central%20Mendip) |
+| 8th-10th Feb  | Yorkshire | NPC | [Lost Johns'](https://union.ic.ac.uk/rcc/caving/caves/?search=lost%20johns) |
+| 22nd-24th Feb | Derbyshire | TSG | [Peak Cavern]https://union.ic.ac.uk/rcc/caving/caves/?search=peak%20cavern) |
+| 15th-17th Mar | Yorkshire | NPC | [Alum Pot](https://union.ic.ac.uk/rcc/caving/caves/?search=alum) |
