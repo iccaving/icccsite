@@ -4,15 +4,14 @@ Location: yorkshire
 Summary: A wet weekend in the Dales. On Saturday, we stayed near Ingleborough with a trip to Gaping Gill Main Chamber to see the waterfall in full force, and another outing to probe the depths of Hurnel Moss Pot. On Sunday, a smaller team walked to Sell Gill holes; the normally dry fossil route provided an enjoyable, wet trip to the impressive and well watered main chamber.
 Type: trip
 Photoarchive:
-Mainimg: 
-Thumbl: 
-Thumbr: 
+Mainimg: TanguyRacine-yorkshireIII- 6.jpg
+Thumbl: TanguyRacine-yorkshireIII- 10--thumb.jpg
+Thumbr:  TanguyRacine-yorkshireIII- 7--thumb.jpg
 Authors: Tanguy Racine
 Cavepeeps: DATE=2018-12-01; CAVE=Hurnel Moss Pot; PEOPLE=David Wilson, Max Stunt, William French, Tanguy Racine;
            DATE=2018-12-01; CAVE=Bar Pot; PEOPLE=James Perry, Jack Halliday, Chris Bradley, Alex Lipp, Steven;
            DATE=2018-12-02; CAVE= Sell Gill Holes; PEOPLE: Chris Bradley, Jack Halliday, Alex Lipp, David Wilson, Tanguy Racine;
            DATE=2018-12-02; NOCAVE=James Perry, Max Stunt,Steven,William French;
-Status: draft
 
 {{ mainimg }}
 {{ photolink }}
@@ -21,7 +20,6 @@ Status: draft
 ## Saturday
 
 ### Bar Pot: {{ DATE=2018-12-01; CAVE=Bar Pot; }}
-
 
 ### Hurnel Moss Pot: {{ DATE=2018-12-01; CAVE=Hurnel Moss Pot; }}
 
