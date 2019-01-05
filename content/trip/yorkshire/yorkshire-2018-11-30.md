@@ -1,4 +1,4 @@
-Title: Yorkshire I
+Title: Yorkshire III
 Date: 2018-11-30
 Location: yorkshire
 Summary: A wet weekend in the Dales. On Saturday, we stayed near Ingleborough with a trip to Gaping Gill Main Chamber to see the waterfall in full force, and another outing to probe the depths of Hurnel Moss Pot. On Sunday, a smaller team walked to Sell Gill holes; the normally dry fossil route provided an enjoyable, wet trip to the impressive and well watered main chamber.

@@ -11,7 +11,7 @@ Authors: Rhys Tyers
 Cavepeeps: DATE=2018-11-17; CAVE=Notts Pot; PEOPLE=Rebecca Diss, Rhys Tyers, Christopher Bradley, James Perry, Jack Halliday, James Wilson, Armand Cadet, Lucie, Zaeem Najeeb, Sam Holden, Isobel, Rishil, Andreas, Hugo, Dave Kirkpatrick;
            DATE=2018-11-18; CAVE=Notts Pot 2; PEOPLE=Rhys Tyers, Christopher Bradley, James Wilson, Armand Cadet, Lucie, Zaeem Najeeb, Sam Holden, Isobel, Rishil, Andreas, Hugo;
            DATE=2018-11-18; CAVE=Yordas Pot; PEOPLE=Rebecca Diss, David Kirkpatrick, Jack Halliday;
-Status: draft
+Status:
 
 {{ mainimg }}
 {{ photolink }}
