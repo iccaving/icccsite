@@ -15,7 +15,7 @@ Status:
 
 {{ mainimg }}
 {{ photolink }}
-##### {{ allpeople }}e
+##### {{ allpeople }}
 
 ## Saturday
 
