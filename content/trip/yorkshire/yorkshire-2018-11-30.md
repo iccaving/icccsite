@@ -10,7 +10,7 @@ Thumbr:  TanguyRacine-yorkshireIII- 7--thumb.jpg
 Authors: Tanguy Racine
 Cavepeeps: DATE=2018-12-01; CAVE=Hurnel Moss Pot; PEOPLE=David Wilson, Max Stunt, William French, Tanguy Racine;
            DATE=2018-12-01; CAVE=Bar Pot; PEOPLE=James Perry, Jack Halliday, Chris Bradley, Alex Lipp, Steven;
-           DATE=2018-12-02; CAVE= Sell Gill Holes; PEOPLE: Chris Bradley, Jack Halliday, Alex Lipp, David Wilson, Tanguy Racine;
+           DATE=2018-12-02; CAVE=Sell Gill Holes; PEOPLE: Chris Bradley, Jack Halliday, Alex Lipp, David Wilson, Tanguy Racine;
            DATE=2018-12-02; NOCAVE=James Perry, Max Stunt,Steven,William French;
 
 {{ mainimg }}
@@ -85,7 +85,7 @@ I go back to the kitchen to fill the mug from the kettle. I'd never been to the 
 
 ## Sunday
 
-### Sell Gill Holes: {{ DATE=2018-12-02; CAVE=Sell Gill Holes; }}
+### Sell Gill Holes: {{ DATE=2018-12-02; CAVE= Sell Gill Holes; }}
 
 Paprika. Mother of all spice. We decide to have paprika eggy bread, paprika mushrooms and paprika beans for breakfast. I manage a double sailor's trick to put all the bacon on the grill. The upshot is, Jack and I have cooked breakfast early, and most people are only beginning to get out of their snug sleeping bags. 
 
