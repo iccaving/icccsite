@@ -85,7 +85,7 @@ I go back to the kitchen to fill the mug from the kettle. I'd never been to the 
 
 ## Sunday
 
-### Sell Gill Holes: {{ DATE=2018-12-02; CAVE= Sell Gill Holes; }}
+### Sell Gill Holes: {{ DATE=2018-12-02; CAVE=Sell Gill Holes; }}
 
 Paprika. Mother of all spice. We decide to have paprika eggy bread, paprika mushrooms and paprika beans for breakfast. I manage a double sailor's trick to put all the bacon on the grill. The upshot is, Jack and I have cooked breakfast early, and most people are only beginning to get out of their snug sleeping bags. 
 
