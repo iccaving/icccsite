@@ -6,11 +6,11 @@ Photoarchive: photo_archive/slovenia/2018/superaction
 Type: expedition 
 Authors: Tanguy Racine
 
-{!center}(main image)
+<!--{!center}(main image)-->
 
 [TOC]
 
-[Photos](link_to_superaction_photos)
+<!--[Photos](link_to_superaction_photos)-->
 
 ### Summary
 
