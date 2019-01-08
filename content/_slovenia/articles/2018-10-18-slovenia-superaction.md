@@ -2,15 +2,15 @@ Title: Super Action
 Date: 2018-10-18
 Location: Slovenia 
 Summary: 
-Photoarchive: photo_archive/slovenia/2018/superaction 
+Photoarchive: photo_archive/slovenia/2018-superaction 
 Type: expedition 
 Authors: Tanguy Racine
 
-<!--{!center}(main image)-->
+{!center}(/rcc/caving/photo_archive/slovenia/2018-superaction/TanguyRacine-moonraker_big_passage_2.jpg)
 
 [TOC]
 
-<!--[Photos](link_to_superaction_photos)-->
+[Photos](/rcc/caving/photo_archive/slovenia/2018-superaction)
 
 ### Summary
 
