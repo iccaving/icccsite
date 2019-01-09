@@ -9,7 +9,7 @@ Thumbl: RhysTyers-DSC01526--thumb.jpg
 Thumbr: RhysTyers-DSC01541--thumb.jpg
 Authors: Rebecca Diss, Fiona Hartley, Rhys Tyers
 Cavepeeps: DATE=2018-11-03; CAVE=Aquamole Pot; PEOPLE=Dave Kirkpatrick, Rebecca Diss, Max Stunt, Solomon Roach;
-           DATE=2018-11-03; CAVE=Jingling; PEOPLE=Dave Wilson, Ben Richards, Alex Lipp, Carl Hentes;
+           DATE=2018-11-03; CAVE=Jingling Pot; PEOPLE=Dave Wilson, Ben Richards, Alex Lipp, Carl Hentes;
            DATE=2018-11-03; CAVE=Bull Pot; PEOPLE=Ben Honan, Clare Tan, Nic Gruse;
            DATE=2018-11-03; CAVE=Yordas Pot > Yordas Cave; PEOPLE=Jennifer Ryder, Rhys Tyers, Ana Teck, Ignacy Bartnik, Fiona Hartley;
            DATE=2018-11-04; CAVE=Yordas Pot; PEOPLE=Ben Honan, Solomon Roach, Nic Gruse;
