@@ -8,7 +8,7 @@ Mainimg: RhysTyers-DSC01569.jpg
 Thumbl: RhysTyers-DSC01605--thumb.jpg
 Thumbr: RhysTyers-DSC01621--thumb.jpg
 Authors: Rhys Tyers
-Cavepeeps: DATE=2018-11-17; CAVE=Notts Pot; PEOPLE=Rebecca Diss, Rhys Tyers, Christopher Bradley, James Perry, Jack Halliday, James Wilson, Armand Cadet, Lucie, Zaeem Najeeb, Sam Holden, Isobel, Rishil, Andreas, Hugo, Dave Kirkpatrick;
+Cavepeeps: DATE=2018-11-17; CAVE=Notts Pot 1; PEOPLE=Rebecca Diss, Rhys Tyers, Christopher Bradley, James Perry, Jack Halliday, James Wilson, Armand Cadet, Lucie, Zaeem Najeeb, Sam Holden, Isobel, Rishil, Andreas, Hugo, Dave Kirkpatrick;
            DATE=2018-11-18; CAVE=Notts Pot 2; PEOPLE=Rhys Tyers, Christopher Bradley, James Wilson, Armand Cadet, Lucie, Zaeem Najeeb, Sam Holden, Isobel, Rishil, Andreas, Hugo;
            DATE=2018-11-18; CAVE=Yordas Pot; PEOPLE=Rebecca Diss, David Kirkpatrick, Jack Halliday;
 Status:
@@ -19,7 +19,7 @@ Status:
 
 ## Saturday
 
-### Notts Pot: {{ DATE=2018-11-17; CAVE=Notts Pot; }}
+### Notts Pot: {{ DATE=2018-11-17; CAVE=Notts Pot 1; }}
 
 A disgustingly smooth trip into Notts. Jackhal and I were rigging down left. He kindly volunteered me to do the rigging so I was determined to set a good pace. I think I managed to stay ahead of our novices most of the time. I heartily recommend left as a route to rig. Its very fun. Airy traverses, big swings, nipping down into windows. 
 
